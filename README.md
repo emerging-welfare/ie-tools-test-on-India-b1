@@ -55,7 +55,7 @@ Mostly benefitted from a [blog post](https://blog.sicara.com/train-ner-model-wit
 
 ## Notes
 
-spacy.py code is yet incomplete. (Tool 2 to be)
+spacy.py code is yet incomplete. (planned as Tool 2)
 
 ## References
 [1] [Stanford NER website](https://nlp.stanford.edu/software/CRF-NER.html)
