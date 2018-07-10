@@ -1,1 +1,5 @@
 .idea
+venv
+spacy1.py
+xx_ent_wiki_sm
+en_core_web_sm
