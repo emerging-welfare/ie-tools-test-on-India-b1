@@ -15,10 +15,6 @@ The script simply takes a **pretrained model** and an **input text** as input, g
 - [Stanford's pretrained classifiers 3.9.1](https://nlp.stanford.edu/software/CRF-NER.html) [1], 
 - [NLTK's Stanford NER library 3.2.4](https://www.nltk.org/_modules/nltk/tag/stanford.html) [2].
 
-### Notes 
-
-- You will need to reach The Times of India annotated files by contacting to the team.
-
 ### Usage
 The script allows two types of configurations: **default** and **custom** mode.
 
@@ -69,7 +65,11 @@ Mostly benefitted from a [blog post](https://blog.sicara.com/train-ner-model-wit
 
 spacy.py code is yet incomplete. (planned as Tool 2)
 
+The test data and stanford pretrained models used as defaut are available in the project.
+You will need to reach The Times of India annotated files by contacting to the team.
+
 ## References
+
 [1] [Stanford NER website](https://nlp.stanford.edu/software/CRF-NER.html)
 
 [2] [NLTK’s Stanford NER Library](https://www.nltk.org/_modules/nltk/tag/stanford.html)
