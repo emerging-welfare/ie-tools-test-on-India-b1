@@ -37,7 +37,6 @@ if len(args) <= 1:
 else:
     if args[1] == "-h":
         print("Usage \n python3 stanfordNERTagger.py "
-              "-t <tagger-file> "
               "-nt <ner-tool>"
               "-e <eval-metrics> "
               "-f <annotation-format>"

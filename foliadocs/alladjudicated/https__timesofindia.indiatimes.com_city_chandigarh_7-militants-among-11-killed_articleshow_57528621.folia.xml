@@ -1,0 +1,1568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality">Urban,Rural</meta>
+    <meta id="Ideology">Islamism</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Religion">Islam</meta>
+    <meta id="Violent">Yes</meta>
+    <meta id="EventCount">1</meta>
+    <meta id="RelevantCountry">Yes</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1">
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.1">
+          <t>7</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.2">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.3">
+          <t>among</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.4">
+          <t>11</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.5">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.6">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.7">
+          <t>28</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.8">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.9">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.11">
+          <t>01.03</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.12">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.13">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.14">
+          <t>srinagar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.15">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.16">
+          <t>seven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.17">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.18">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.19">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.20">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.21">
+          <t>jawan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.22">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.23">
+          <t>among</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.24">
+          <t>eleven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.25">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.26">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.27">
+          <t>and</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.28">
+          <t>17</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.29">
+          <t>others</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.30">
+          <t>injured</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.31">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.32">
+          <t>jammu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.33">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.34">
+          <t>kashmir</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.35">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.36">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.37">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.38">
+          <t>ultras</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.39">
+          <t>set</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.40">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.41">
+          <t>fire</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.42">
+          <t>houses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.43">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.44">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.45">
+          <t>special</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.46">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.47">
+          <t>officers</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.48">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.49">
+          <t>spos</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.50">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.51">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.52">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.53">
+          <t>past</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.54">
+          <t>24</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.55">
+          <t>hours</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.56">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Know-it-all" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.1">
+            <wref t="srinagar" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.14"/>
+          </entity>
+          <entity annotator="Know-it-all" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.3">
+            <wref t="jammu" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="Know-it-all" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.4">
+            <wref t="kashmir" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.34"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T14:53:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.29">
+            <wref t="set" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.39"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.40"/>
+            <wref t="fire" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.41"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-13T14:54:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.30">
+            <wref t="houses" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.42"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.43"/>
+            <wref t="three" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.44"/>
+            <wref t="special" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.45"/>
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.46"/>
+            <wref t="officers" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.47"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T14:55:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.32">
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.51"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.52"/>
+            <wref t="past" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.53"/>
+            <wref t="24" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.54"/>
+            <wref t="hours" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.55"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-13T15:10:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.33">
+            <wref t="7" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.1"/>
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.2"/>
+            <wref t="among" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.3"/>
+            <wref t="11" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.4"/>
+            <wref t="killed" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-13T15:10:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.34">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.6"/>
+            <wref t="28" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.7"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.8"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.10"/>
+            <wref t="01.03" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.11"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.12"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.13"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T14:53:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.28">
+            <wref t="ultras" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.38"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T14:54:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.31">
+            <wref t="spos" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.1.w.49"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-13T14:54:42">SPOs are Special Police Officers </comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.1">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.2">
+          <t>official</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.3">
+          <t>spokesman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.5">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.6">
+          <t>hurled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.7">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.8">
+          <t>hand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.9">
+          <t>grenade</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.10">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.12">
+          <t>border</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.13">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.14">
+          <t>force</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.15">
+          <t>bunker</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.16">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.17">
+          <t>rainawari</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.19">
+          <t>tuesday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.20">
+          <t>evening</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.21">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Know-it-all" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.5">
+            <wref t="rainawari" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:14:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.36">
+            <wref t="hurled" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.6"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.7"/>
+            <wref t="hand" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.8"/>
+            <wref t="grenade" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-06-10T17:48:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.37">
+            <wref t="border" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.12"/>
+            <wref t="security" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.13"/>
+            <wref t="force" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.14"/>
+            <wref t="bunker" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:17:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.38">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.18"/>
+            <wref t="tuesday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.19"/>
+            <wref t="evening" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-06-06T23:15:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.2">
+            <wref t="hand" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.8"/>
+            <wref t="grenade" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.9"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:13:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.35">
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.2.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.1">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.4">
+          <t>grenade</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.5">
+          <t>missed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.7">
+          <t>target</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.9">
+          <t>exploded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.10">
+          <t>nearby</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.11">
+          <t>injuring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.12">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.13">
+          <t>jawans</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.15">
+          <t>nine</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.16">
+          <t>civilians</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.3.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.1">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.2">
+          <t>nearby</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.3">
+          <t>shops</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.4">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.5">
+          <t>also</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.6">
+          <t>damaged</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.8">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.9">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.4.w.10">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.1">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.2">
+          <t>least</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.3">
+          <t>four</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.4">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.5">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.6">
+          <t>injured</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.7">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.9">
+          <t>grenade</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.10">
+          <t>lobbed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.11">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.12">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.14">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.15">
+          <t>forces</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.16">
+          <t>missed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.18">
+          <t>target</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.20">
+          <t>exploded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.21">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.23">
+          <t>roadside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.24">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.25">
+          <t>zaldagar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.26">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.27">
+          <t>downtown</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.28">
+          <t>city</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.29">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.30">
+          <t>thursday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.31">
+          <t>afternoon</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:22:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.45">
+            <wref t="grenade" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.9"/>
+            <wref t="lobbed" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-06-06T23:16:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.48">
+            <wref t="roadside" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:24:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.49">
+            <wref t="zaldagar" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.25"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-04-13T15:24:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.50">
+            <wref t="downtown" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.27"/>
+            <wref t="city" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:25:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.51">
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.30"/>
+            <wref t="afternoon" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.31"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-06-06T23:18:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.6">
+            <wref t="grenade" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.9"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:22:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.46">
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.12"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:22:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.47">
+            <wref t="security" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.14"/>
+            <wref t="forces" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.5.w.15"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.1">
+          <t>meanwhile</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.3">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.4">
+          <t>forces</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.5">
+          <t>gunned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.6">
+          <t>down</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.7">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.8">
+          <t>militant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.9">
+          <t>each</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.10">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.11">
+          <t>thandusa</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.12">
+          <t>lolab</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.14">
+          <t>waripora</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.15">
+          <t>magam</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.17">
+          <t>gund-i-zuna</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.18">
+          <t>reshi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.19">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.20">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.21">
+          <t>overnight</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.22">
+          <t>operations</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.6.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.1">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.2">
+          <t>ak</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.3">
+          <t>rifles</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.5">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.6">
+          <t>wireless</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.7">
+          <t>set</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.9">
+          <t>ten</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.10">
+          <t>magazines</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.12">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.13">
+          <t>grenades</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.15">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.16">
+          <t>100</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.17">
+          <t>rounds</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.19">
+          <t>ammunition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.20">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.21">
+          <t>recovered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.22">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.24">
+          <t>slain</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.25">
+          <t>militants</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.7.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.1">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.2">
+          <t>girls</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.4">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.5">
+          <t>injured</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.7">
+          <t>lolab</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.8">
+          <t>encounter</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.9">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:27:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.52">
+            <wref t="lolab" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.8.w.7"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-13T15:27:12">lolab valley is a rural place </comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.1">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.2">
+          <t>shot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.3">
+          <t>dead</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.4">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.5">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.6">
+          <t>informer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.7">
+          <t>mir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.8">
+          <t>hamza</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.9">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.10">
+          <t>chatti</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.11">
+          <t>bandipora</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.12">
+          <t>late</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.13">
+          <t>wednesday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.14">
+          <t>night</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.15">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:30:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.8">
+            <wref t="chatti" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.10"/>
+            <wref t="bandipora" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:30:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.55">
+            <wref t="late" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.12"/>
+            <wref t="wednesday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.13"/>
+            <wref t="night" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.14"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:31:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.58">
+            <wref t="shot" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.2"/>
+            <wref t="dead" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.3"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:30:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.56">
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-13T15:32:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.59">
+            <wref t="an" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.4"/>
+            <wref t="alleged" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.5"/>
+            <wref t="informer" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.6"/>
+            <wref t="mir" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.7"/>
+            <wref t="hamza" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.9.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.1">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.2">
+          <t>group</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.3">
+          <t>attacked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.5">
+          <t>house</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.7">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.8">
+          <t>counter-insurgent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.10">
+          <t>north</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.11">
+          <t>kashmir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.12">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.13">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.14">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.15">
+          <t>spo</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.16">
+          <t>was</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.17">
+          <t>injured</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.18">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:32:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.10">
+            <wref t="north" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.10"/>
+            <wref t="kashmir" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:33:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.60">
+            <wref t="attacked" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-13T15:33:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.61">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.4"/>
+            <wref t="house" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.5"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.6"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.7"/>
+            <wref t="counter-insurgent" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.8"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:34:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.64">
+            <wref t="group" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.10.w.2"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.2">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.3">
+          <t>encounter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.4">
+          <t>between</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.5">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.6">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.7">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.8">
+          <t>forces</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.9">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.10">
+          <t>banderpora</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.11">
+          <t>kalanwan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.12">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.14">
+          <t>south</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.15">
+          <t>kashmir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.16">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.17">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.18">
+          <t>morning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.19">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.20">
+          <t>hizbul</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.21">
+          <t>mujahideen</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.22">
+          <t>militant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.23">
+          <t>was</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.24">
+          <t>killed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.25">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:34:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.11">
+            <wref t="south" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.14"/>
+            <wref t="kashmir" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:35:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.66">
+            <wref t="banderpora" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.10"/>
+            <wref t="kalanwan" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.11"/>
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.12"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-13T15:35:17">rural location</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:35:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.67">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.16"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.17"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-13T15:35:39">continues</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:35:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.68">
+            <wref t="morning" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-04-13T15:37:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.69">
+            <wref t="encounter" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.3"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-13T15:37:05">encounter between millitants and security forces</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:34:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.65">
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.11.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.1">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.2">
+          <t>ak</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.3">
+          <t>rifle</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.5">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.6">
+          <t>wireless</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.7">
+          <t>set</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.9">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.10">
+          <t>grenades</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.11">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.13">
+          <t>magazine</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.14">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.15">
+          <t>recovered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.16">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.18">
+          <t>site</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.12.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.1">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.2">
+          <t>militant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.3">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.4">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.5">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.7">
+          <t>line</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.9">
+          <t>actual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.10">
+          <t>control</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.12">
+          <t>kani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.13">
+          <t>behak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.14">
+          <t>kacdh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.15">
+          <t>hama</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.16">
+          <t>area</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.17">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.18">
+          <t>trying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.20">
+          <t>cross</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.21">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.23">
+          <t>pakistan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.24">
+          <t>occupied</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.25">
+          <t>kashmir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.26">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.27">
+          <t>wednesday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.28">
+          <t>night</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.29">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:39:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.12">
+            <wref t="kani" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.12"/>
+            <wref t="behak" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.13"/>
+            <wref t="kacdh" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.14"/>
+            <wref t="hama" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.15"/>
+            <wref t="area" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:39:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.74">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.26"/>
+            <wref t="wednesday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.27"/>
+            <wref t="night" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.13.w.28"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.1">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.2">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.4">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.6">
+          <t>return</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.7">
+          <t>fire</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.8">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.9">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.10">
+          <t>forces</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.11">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.12">
+          <t>gambir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.13">
+          <t>mughian</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.14">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.15">
+          <t>manjakote</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.16">
+          <t>sector</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.18">
+          <t>rajouri</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.19">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.20">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.21">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.22">
+          <t>morning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.23">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.24">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.25">
+          <t>search</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.26">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.27">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.28">
+          <t>fired</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.29">
+          <t>upon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.30">
+          <t>by</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.31">
+          <t>militants</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:40:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.15">
+            <wref t="manjakote" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.15"/>
+            <wref t="sector" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.16"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.17"/>
+            <wref t="rajouri" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.18"/>
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:40:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.77">
+            <wref t="gambir" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.12"/>
+            <wref t="mughian" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:41:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.78">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.20"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.21"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-13T15:41:05">continues</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-13T15:41:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.79">
+            <wref t="morning" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:42:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.82">
+            <wref t="fired" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.28"/>
+            <wref t="upon" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.29"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:41:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.80">
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.24"/>
+            <wref t="search" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.25"/>
+            <wref t="party" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.26"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:41:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.81">
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.14.w.31"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.1">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.2">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.3">
+          <t>force</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.4">
+          <t>jawan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.5">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.7">
+          <t>porter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.8">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.9">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.10">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.12">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.13">
+          <t>clash</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.14">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:44:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.86">
+            <wref t="clash" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.15.w.13"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.1">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.2">
+          <t>large</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.3">
+          <t>cache</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.5">
+          <t>arms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.6">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.7">
+          <t>ammunition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.8">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.9">
+          <t>recovered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.10">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.12">
+          <t>site</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.13">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.14">
+          <t>encounter</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.16.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.1">
+          <t>militants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.2">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.3">
+          <t>abducted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.4">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.5">
+          <t>later</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.6">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.7">
+          <t>mir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.8">
+          <t>mohammad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.9">
+          <t>at</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.10">
+          <t>banihal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.13">
+          <t>set</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.14">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.15">
+          <t>fire</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.16">
+          <t>houses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.18">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.19">
+          <t>spos</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.20">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.21">
+          <t>khadiwali</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.22">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.23">
+          <t>rajouri</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.24">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.25">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.27">
+          <t>wee</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.28">
+          <t>hours</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.29">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.30">
+          <t>thursday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.31">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Know-it-all" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.17">
+            <wref t="banihal" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.10"/>
+          </entity>
+          <entity annotator="Know-it-all" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.18">
+            <wref t="rajouri" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:44:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.88">
+            <wref t="abducted" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:45:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.89">
+            <wref t="killed" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-13T15:45:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.92">
+            <wref t="khadiwali" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-06-06T23:23:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.93">
+            <wref t="wee" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.27"/>
+            <wref t="hours" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.28"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.29"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.30"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T15:46:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.94">
+            <wref t="set" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.13"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.14"/>
+            <wref t="fire" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.15"/>
+            <wref t="houses" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.16"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:44:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.87">
+            <wref t="militants" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-13T15:45:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.90">
+            <wref t="mir" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.7"/>
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T15:45:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.text.entity.91">
+            <wref t="spos" id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.17.w.19"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18">
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18.w.1">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18.w.2">
+          <t>uni</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18.w.3">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18.w.4">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18.w.5">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_7-militants-among-11-killed_articleshow_57528621.p.1.s.18.w.6">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/7-militants-among-11-killed/articleshow/57528621.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

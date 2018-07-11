@@ -1,0 +1,947 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:09" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Motivation2">non-economic</meta>
+    <meta id="SocialClass">petty_bourgeoisie</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="SocialClass2">professionals</meta>
+    <meta id="Centrality2">Urban</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">No</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">No</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.1">
+          <t>Agents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.2">
+          <t>want</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.3">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.4">
+          <t>withdrawn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.5">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.6">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.7">
+          <t>Oct</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.8">
+          <t>3</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.9">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.10">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.12">
+          <t>02.08</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.13">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.14">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.15">
+          <t>mansa</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.16">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.17">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.18">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.19">
+          <t>agents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.21">
+          <t>budhlada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.22">
+          <t>grain</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.23">
+          <t>market</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.24">
+          <t>boycotted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.25">
+          <t>paddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.26">
+          <t>procurement</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.27">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.29">
+          <t>third</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.30">
+          <t>day</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.31">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.32">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.33">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.34">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.35">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.36">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.37">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.38">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.39">
+          <t>registration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.40">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.41">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.42">
+          <t>criminal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.43">
+          <t>case</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.44">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.45">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.46">
+          <t>agents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.47">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.48">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.49">
+          <t>town</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.50">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.51">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.52">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.53">
+          <t>murder</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.54">
+          <t>attempt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.55">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.56">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.57">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.58">
+          <t>agent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.59">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.60">
+          <t>ransacking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.61">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.62">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.63">
+          <t>civil</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.64">
+          <t>hospital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.65">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.66">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.67">
+          <t>agent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.68">
+          <t>was</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.69">
+          <t>admitted</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.70">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.71">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.72">
+          <t>september</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.73">
+          <t>28</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.74">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.75">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.76">
+          <t>lot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.77">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.78">
+          <t>resentment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.79">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.80">
+          <t>prevailing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.81">
+          <t>among</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.82">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.83">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.84">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.85">
+          <t>civil</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.86">
+          <t>hospital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.87">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.88">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.89">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.90">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.91">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.92">
+          <t>none</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.93">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.94">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.95">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.96">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.97">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.98">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.99">
+          <t>four</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.100">
+          <t>days</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.101">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="urban" datetime="2018-05-19T15:26:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.1">
+            <wref t="town" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.49"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-19T15:26:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.2">
+            <wref t="Agents" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.1"/>
+            <wref t="want" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.2"/>
+            <wref t="cases" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.3"/>
+            <wref t="withdrawn" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-19T15:26:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.3">
+            <wref t="mansa" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.15"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="eptime" datetime="2018-05-19T15:26:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.4">
+            <wref t="Oct" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.7"/>
+            <wref t="3" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.8"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.9"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.11"/>
+            <wref t="02.08" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.12"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.13"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.14"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-19T15:26:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.5">
+            <wref t="boycotted" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-19T15:27:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.6">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.32"/>
+            <wref t="tuesday" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.33"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-19T15:27:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.7">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.36"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-19T15:27:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.8">
+            <wref t="registration" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.39"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.40"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.41"/>
+            <wref t="criminal" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.42"/>
+            <wref t="case" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.43"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.44"/>
+            <wref t="commission" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.45"/>
+            <wref t="agents" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.46"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-19T15:30:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.16">
+            <wref t="Agents" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-19T15:30:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.17">
+            <wref t="grain" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.22"/>
+            <wref t="market" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-19T15:31:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.18">
+            <wref t="commission" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.18"/>
+            <wref t="agents" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.19"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.20"/>
+            <wref t="budhlada" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.21"/>
+            <wref t="grain" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.22"/>
+            <wref t="market" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.1.w.23"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.2">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.3">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.4">
+          <t>paramedical</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.5">
+          <t>staff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.7">
+          <t>budhlada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.8">
+          <t>subdivision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.9">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.10">
+          <t>observed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.12">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.14">
+          <t>september</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.15">
+          <t>29</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.16">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.18">
+          <t>behaviour</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.21">
+          <t>commission</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.22">
+          <t>agents</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.24">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.25">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.26">
+          <t>smashed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.27">
+          <t>furniture</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.28">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.29">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.30">
+          <t>equipment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.31">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.32">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.33">
+          <t>hospital</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.34">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-19T15:27:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.9">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.12"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:27:59">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-19T15:28:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.10">
+            <wref t="budhlada" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.7"/>
+            <wref t="subdivision" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.8"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:28:15">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-19T15:28:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.11">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.13"/>
+            <wref t="september" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.14"/>
+            <wref t="29" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.15"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:28:26">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-19T15:28:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.12">
+            <wref t="behaviour" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.18"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.19"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.20"/>
+            <wref t="commission" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.21"/>
+            <wref t="agents" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.22"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:28:41">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-19T15:31:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.19">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.2"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:32:56">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-19T15:31:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.20">
+            <wref t="paramedical" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.4"/>
+            <wref t="staff" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.5"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:33:10">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-19T15:32:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.21">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.2"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:32:56">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-19T15:32:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.22">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.2"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:32:56">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-19T15:32:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.23">
+            <wref t="paramedical" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.4"/>
+            <wref t="staff" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.5"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:33:10">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-19T15:32:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.24">
+            <wref t="paramedical" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.4"/>
+            <wref t="staff" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.2.w.5"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:33:10">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.2">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.3">
+          <t>angry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.6">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.7">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.8">
+          <t>released</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.9">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.12">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.13">
+          <t>assailants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.14">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.15">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.16">
+          <t>political</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.17">
+          <t>pressure</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.3.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.2">
+          <t>trouble</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.3">
+          <t>began</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.4">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.5">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.7">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.8">
+          <t>agent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.10">
+          <t>budhlada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.11">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.12">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.13">
+          <t>inebriated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.14">
+          <t>khuswant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.15">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.16">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.17">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.18">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.19">
+          <t>scuffle</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.20">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.21">
+          <t>an</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.22">
+          <t>agents</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.23">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.24">
+          <t>meeting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.4.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.4">
+          <t>brought</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.5">
+          <t>him</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.8">
+          <t>civil</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.9">
+          <t>hospital</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.10">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.12">
+          <t>medical</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.13">
+          <t>test</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.14">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.16">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.17">
+          <t>agents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.18">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.19">
+          <t>gone</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.20">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.21">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.22">
+          <t>rampage</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.5.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.2">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.3">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.6">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.7">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.8">
+          <t>trying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.10">
+          <t>hush</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.11">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.13">
+          <t>incident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.14">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.15">
+          <t>affecting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.16">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.17">
+          <t>compromise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.18">
+          <t>between</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.20">
+          <t>parties</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.21">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.23">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.24">
+          <t>agents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.25">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.26">
+          <t>boycotting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.28">
+          <t>purchase</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.30">
+          <t>paddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.31">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.33">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.34">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.35">
+          <t>withdrawn</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.36">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-19T15:29:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.13">
+            <wref t="boycotting" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.26"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-19T15:29:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.14">
+            <wref t="cases" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.33"/>
+            <wref t="were" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.34"/>
+            <wref t="withdrawn" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.35"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-19T15:33:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.25">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.2"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:34:08">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-19T15:33:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.26">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.2"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:34:08">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-19T15:33:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.27">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.6.w.2"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:34:08">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.2">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.3">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.4">
+          <t>suitable</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.5">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.6">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.7">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.8">
+          <t>culprits</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.9">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-19T15:29:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.text.entity.15">
+            <wref t="suitable" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.4"/>
+            <wref t="action" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.5"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.6"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.7"/>
+            <wref t="culprits" id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.7.w.8"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-19T15:29:42">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.8.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.8.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Agents-want-cases-withdrawn_articleshow_493705100.p.1.s.8.w.3">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/Agents-want-cases-withdrawn/articleshow/493705100.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

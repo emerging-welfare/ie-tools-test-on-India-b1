@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">Yes</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">Caste-based movements</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Caste">Scheduled Castes</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Motivation2">N-A</meta>
+    <meta id="SocialClass2">N-A</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Centrality2">Rural</meta>
+    <meta id="EventCount">2</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent2">Yes</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.1">
+          <t>Protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.2">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.3">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.4">
+          <t>inaction</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.5">
+          <t>TNN</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.6">
+          <t>&amp;</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.7">
+          <t>Agencies</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.9">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.10">
+          <t>21</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.14">
+          <t>12.14</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.15">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.17">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.18">
+          <t>than</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.19">
+          <t>2000</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.20">
+          <t>persons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.21">
+          <t>staged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.22">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.23">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.24">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.25">
+          <t>vijay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.26">
+          <t>theatre</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.27">
+          <t>ground</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.28">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.30">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.31">
+          <t>police</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.32">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.33">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.34">
+          <t>delay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.35">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.36">
+          <t>taking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.37">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.38">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.39">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.40">
+          <t>culprits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.41">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.42">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.43">
+          <t>segra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.44">
+          <t>murder</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.45">
+          <t>case</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.46">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-14T21:46:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.7">
+            <wref t="Protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.1"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.2"/>
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.3"/>
+            <wref t="inaction" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-14T21:47:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.8">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.9"/>
+            <wref t="21" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.13"/>
+            <wref t="12.14" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.14"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T21:47:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.9">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-05-05T13:53:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.13">
+            <wref t="vijay" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.25"/>
+            <wref t="theatre" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.26"/>
+            <wref t="ground" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-14T21:52:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.15">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.33"/>
+            <wref t="delay" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.34"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.35"/>
+            <wref t="taking" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.36"/>
+            <wref t="action" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.37"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.38"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.39"/>
+            <wref t="culprits" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.40"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.41"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.42"/>
+            <wref t="segra" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.43"/>
+            <wref t="murder" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.44"/>
+            <wref t="case" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.45"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-05T13:41:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.1">
+            <wref t="Protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-05T13:42:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.2">
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.3"/>
+            <wref t="inaction" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-05-05T14:00:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.3">
+            <wref t="vijay" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.25"/>
+            <wref t="theatre" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.26"/>
+            <wref t="ground" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.27"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T21:47:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.10">
+            <wref t="persons" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-04-14T21:48:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.11">
+            <wref t="more" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.17"/>
+            <wref t="than" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.18"/>
+            <wref t="2000" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.19"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T21:51:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.14">
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.30"/>
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.1.w.31"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.1">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.2">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.4">
+          <t>a</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.5">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.6">
+          <t>dalit</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.7">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.8">
+          <t>family</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.9">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.10">
+          <t>shot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.11">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.12">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.13">
+          <t>segra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.14">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.15">
+          <t>naggal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.16">
+          <t>constituency</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.17">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.18">
+          <t>ambala</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.19">
+          <t>district</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-14T22:01:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.16">
+            <wref t="three" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.1"/>
+            <wref t="members" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.2"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.3"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.4"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.5"/>
+            <wref t="dalit" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.6"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.7"/>
+            <wref t="family" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.8"/>
+            <wref t="were" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.9"/>
+            <wref t="shot" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.10"/>
+            <wref t="at" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.11"/>
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.12"/>
+            <wref t="segra" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-06T21:49:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.18">
+            <wref t="shot" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.10"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:49:37">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-06T21:53:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.22">
+            <wref t="segra" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="rural" datetime="2018-06-06T21:52:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.23">
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.12"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:53:11">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-06T21:53:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.24">
+            <wref t="naggal" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.15"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:54:02">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-06T21:53:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.25">
+            <wref t="ambala" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.18"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:53:32">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="caste" datetime="2018-06-06T21:50:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.20">
+            <wref t="dalit" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.6"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:54:18">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-06T21:50:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.21">
+            <wref t="members" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.2"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.3"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.4"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.5"/>
+            <wref t="dalit" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.6"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.7"/>
+            <wref t="family" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.2.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:54:18">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.2">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.3">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.5">
+          <t>headed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.6">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.8">
+          <t>former</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.9">
+          <t>mp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.10">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.11">
+          <t>expelled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.12">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.15">
+          <t>bahujan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.16">
+          <t>samaj</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.17">
+          <t>party</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.18">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.19">
+          <t>haryana</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.21">
+          <t>aman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.22">
+          <t>kumar</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.23">
+          <t>nagra</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.24">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:01:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.17">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.2"/>
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.3"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-05T14:02:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.19">
+            <wref t="aman" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.21"/>
+            <wref t="kumar" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.22"/>
+            <wref t="nagra" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-05T14:03:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.4">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.7"/>
+            <wref t="former" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.8"/>
+            <wref t="mp" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.9"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.10"/>
+            <wref t="expelled" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.11"/>
+            <wref t="president" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-05T14:03:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.5">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.14"/>
+            <wref t="bahujan" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.15"/>
+            <wref t="samaj" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.16"/>
+            <wref t="party" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="caste" datetime="2018-05-05T14:08:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.6">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.14"/>
+            <wref t="bahujan" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.15"/>
+            <wref t="samaj" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.16"/>
+            <wref t="party" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-05T14:09:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.text.entity.12">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.14"/>
+            <wref t="bahujan" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.15"/>
+            <wref t="samaj" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.16"/>
+            <wref t="party" id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.3.w.17"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.4.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.4.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Protest-against-police-inaction_articleshow_573267564.p.1.s.4.w.3">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/Protest-against-police-inaction/articleshow/573267564.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

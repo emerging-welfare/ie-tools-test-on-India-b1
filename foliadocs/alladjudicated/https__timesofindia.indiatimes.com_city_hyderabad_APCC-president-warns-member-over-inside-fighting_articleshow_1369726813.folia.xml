@@ -1,0 +1,999 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:09" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="Caste2"></meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Religion2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">Center-left</meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">N-A</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.1">
+          <t>APCC</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.2">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.3">
+          <t>warns</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.4">
+          <t>member</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.5">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.6">
+          <t>inside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.7">
+          <t>fighting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.8">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.9">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.10">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.11">
+          <t>6</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.15">
+          <t>11.06</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.16">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.18">
+          <t>hyderabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.20">
+          <t>andhra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.21">
+          <t>pradesh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.22">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.23">
+          <t>committee</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.24">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.25">
+          <t>m</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.26">
+          <t>satyanarayana</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.27">
+          <t>rao</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.28">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.29">
+          <t>clearly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.30">
+          <t>upset</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.31">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.32">
+          <t>angry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.33">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.35">
+          <t>rumblings</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.36">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.38">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.39">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.40">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.41">
+          <t>rift</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.42">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.43">
+          <t>kurnool</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.44">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.45">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.46">
+          <t>well</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.47">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.48">
+          <t>what</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.49">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.50">
+          <t>called</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.51">
+          <t>backstabbing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.52">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.53">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.54">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.55">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.56">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.57">
+          <t>recent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.58">
+          <t>panchayat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.59">
+          <t>raj</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.60">
+          <t>elections</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.61">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.62">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.63">
+          <t>:</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.64">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.65">
+          <t>wait</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.66">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.67">
+          <t>the</t>
+        </w>
+        <w class="NUMBER-ORDINAL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.68">
+          <t>20th</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.69">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.70">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.71">
+          <t>month</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.72">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.73">
+          <t>see</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.74">
+          <t>what</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.75">
+          <t>i</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.76">
+          <t>will</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.77">
+          <t>do</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.78">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.79">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.80">
+          <t>responding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.81">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.82">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.83">
+          <t>question</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.84">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.85">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.86">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.87">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.88">
+          <t>criticising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.89">
+          <t>him</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.90">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.91">
+          <t>addressing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.92">
+          <t>thousands</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.93">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.94">
+          <t>d</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.95">
+          <t>vishnuvardhan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.96">
+          <t>reddy</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.97">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.98">
+          <t>supporters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.99">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.100">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.101">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.102">
+          <t>kurnool</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.103">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.104">
+          <t>gandhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.105">
+          <t>bhavan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.106">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.107">
+          <t>friday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.108">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.109">
+          <t>rao</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.110">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.111">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.112">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.113">
+          <t>criticise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.114">
+          <t>him</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.115">
+          <t>should</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.116">
+          <t>know</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.117">
+          <t>that</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.118">
+          <t>people</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.119">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.120">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.121">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.122">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.123">
+          <t>agitated</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.124">
+          <t>mood</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.125">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.126">
+          <t>need</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.127">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.128">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.129">
+          <t>heard</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.130">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.131">
+          <t>placated</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.132">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="fname" datetime="2018-05-21T22:02:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.1">
+            <wref t="gandhi" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.104"/>
+            <wref t="bhavan" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.105"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-21T22:02:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.8">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.106"/>
+            <wref t="friday" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.107"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-21T22:03:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.9">
+            <wref t="APCC" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.1"/>
+            <wref t="president" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.2"/>
+            <wref t="warns" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.3"/>
+            <wref t="member" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.4"/>
+            <wref t="over" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.5"/>
+            <wref t="inside" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.6"/>
+            <wref t="fighting" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="eptime" datetime="2018-05-21T22:03:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.10">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.10"/>
+            <wref t="6" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.14"/>
+            <wref t="11.06" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.15"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-21T22:03:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.11">
+            <wref t="hyderabad" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.18"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="count" datetime="2018-05-21T21:54:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.5">
+            <wref t="thousands" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.92"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-21T21:59:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.6">
+            <wref t="supporters" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.98"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T21:59:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.7">
+            <wref t="d" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.94"/>
+            <wref t="vishnuvardhan" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.95"/>
+            <wref t="reddy" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.1.w.96"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2">
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.1">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.2">
+          <t>anyone</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.3">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.4">
+          <t>my</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.5">
+          <t>position</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.6">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.7">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.8">
+          <t>done</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.9">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.10">
+          <t>same</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.11">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.12">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.13">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.14">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.2.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.1">
+          <t>speaking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.3">
+          <t>reporters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.4">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.5">
+          <t>receiving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.7">
+          <t>memorandum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.8">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.9">
+          <t>kurnool</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.10">
+          <t>dcc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.11">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.12">
+          <t>kotla</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.13">
+          <t>jaya</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.14">
+          <t>suryaprakash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.15">
+          <t>reddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.17">
+          <t>others</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.18">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.19">
+          <t>vishnuvardhan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.20">
+          <t>reddy</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.22">
+          <t>rao</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.23">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.24">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.25">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.26">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.27">
+          <t>informed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.28">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.30">
+          <t>dcc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.31">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.33">
+          <t>planned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.34">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.35">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.36">
+          <t>hyderabad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.37">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.38">
+          <t>friday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.39">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.40">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.41">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.42">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.43">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.44">
+          <t>dcc</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.45">
+          <t>leadership</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.46">
+          <t>'s</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.47">
+          <t>failure</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.48">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-21T21:54:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.2">
+            <wref t="hyderabad" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.36"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-21T21:54:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.3">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.37"/>
+            <wref t="friday" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.38"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T21:54:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.text.entity.4">
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.3.w.34"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4.w.2">
+          <t>should</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4.w.3">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4.w.4">
+          <t>informed</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4.w.5">
+          <t>me</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.4.w.6">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.2">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.3">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.4">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.5">
+          <t>inform</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.6">
+          <t>me</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.7">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.9">
+          <t>dcc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.10">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.11">
+          <t>issued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.13">
+          <t>show</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.14">
+          <t>cause</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.15">
+          <t>notice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.17">
+          <t>vishnuvardhan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.18">
+          <t>reddy</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.19">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.20">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.21">
+          <t>rao</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.22">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.5.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.2">
+          <t>apcc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.3">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.4">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.5">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.6">
+          <t>clear</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.7">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.8">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.9">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.10">
+          <t>present</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.11">
+          <t>memoranda</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.12">
+          <t>submitted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.13">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.14">
+          <t>vishnuvardhan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.15">
+          <t>reddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.16">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.17">
+          <t>kotla</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.18">
+          <t>vijayabhaskara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.19">
+          <t>reddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.21">
+          <t>others</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.22">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.23">
+          <t>well</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.24">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.26">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.27">
+          <t>received</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.28">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.29">
+          <t>monday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.30">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.32">
+          <t>aicc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.33">
+          <t>observer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.34">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.35">
+          <t>august</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.36">
+          <t>20</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.6.w.37">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.1">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.3">
+          <t>demand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.4">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.5">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.6">
+          <t>mla</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.7">
+          <t>shikhamani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.9">
+          <t>suspend</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.10">
+          <t>clp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.11">
+          <t>leader</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.12">
+          <t>y</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.13">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.14">
+          <t>rajasekhara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.15">
+          <t>reddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.16">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.18">
+          <t>party</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.20">
+          <t>rao</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.21">
+          <t>dismissed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.22">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.23">
+          <t>saying</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.24">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.25">
+          <t>tomorrow</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.26">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.27">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.28">
+          <t>ask</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.29">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.30">
+          <t>my</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.31">
+          <t>sacking</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.32">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.33">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.34">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.35">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_APCC-president-warns-member-over-inside-fighting_articleshow_1369726813.p.1.s.7.w.36">
+          <t>https://timesofindia.indiatimes.com/city/hyderabad/APCC-president-warns-member-over-inside-fighting/articleshow/1369726813.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

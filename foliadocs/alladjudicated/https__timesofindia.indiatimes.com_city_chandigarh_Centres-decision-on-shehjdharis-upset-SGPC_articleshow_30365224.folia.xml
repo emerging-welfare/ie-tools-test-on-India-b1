@@ -1,0 +1,1658 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-12T14:02:37" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Formality2"></meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Religion">Sikhism</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.1">
+          <t>Centre</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.2">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.3">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.4">
+          <t>on</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.5">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.6">
+          <t>shehjdharis</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.7">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.8">
+          <t>upset</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.9">
+          <t>SGPC</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.10">
+          <t>CHANDIGARH</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.11">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.12">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.13">
+          <t>Shiromani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.14">
+          <t>Gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.15">
+          <t>Parbandhak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.16">
+          <t>Committee</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.17">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.18">
+          <t>SGPC</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.19">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.21">
+          <t>Panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.22">
+          <t>Morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.23">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.24">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.25">
+          <t>agitated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.26">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.27">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.28">
+          <t>Centre</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.29">
+          <t>’</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.30">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.31">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.32">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.33">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.34">
+          <t>disallow</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.35">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.36">
+          <t>sehajdharis</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.37">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.38">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.39">
+          <t>participating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.40">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.41">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.42">
+          <t>SGPC</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.43">
+          <t>elections</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.44">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-02-23T21:17:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.1">
+            <wref t="Centre" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.1"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.2"/>
+            <wref t="decision" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.3"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.4"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.5"/>
+            <wref t="shehjdharis" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.6"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.7"/>
+            <wref t="upset" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.8"/>
+            <wref t="SGPC" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-20T14:51:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.2">
+            <wref t="CHANDIGARH" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-03-08T13:17:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.6">
+            <wref t="agitated" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.25"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-08T12:15:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.7">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.27"/>
+            <wref t="Centre" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.28"/>
+            <wref t="’" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.29"/>
+            <wref t="s" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.30"/>
+            <wref t="decision" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.31"/>
+            <wref t="not" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.32"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.33"/>
+            <wref t="disallow" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.34"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.35"/>
+            <wref t="sehajdharis" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.36"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.37"/>
+            <wref t="from" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.38"/>
+            <wref t="participating" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.39"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.40"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.41"/>
+            <wref t="SGPC" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.42"/>
+            <wref t="elections" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.43"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:03:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.19">
+            <wref t="The" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.12"/>
+            <wref t="Shiromani" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.13"/>
+            <wref t="Gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.14"/>
+            <wref t="Parbandhak" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.15"/>
+            <wref t="Committee" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:02:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.14">
+            <wref t="The" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.12"/>
+            <wref t="Shiromani" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.13"/>
+            <wref t="Gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.14"/>
+            <wref t="Parbandhak" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.15"/>
+            <wref t="Committee" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:03:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.17">
+            <wref t="SGPC" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:03:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.23">
+            <wref t="SGPC" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:05:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.24">
+            <wref t="Panthic" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.21"/>
+            <wref t="Morcha" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:05:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.25">
+            <wref t="Panthic" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.21"/>
+            <wref t="Morcha" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.22"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:06:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.26">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.1.w.23"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.1">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.2">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.3">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.4">
+          <t>25</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.5">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.6">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.7">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.8">
+          <t>11.15</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.9">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.10">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.11">
+          <t>chandigarh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.12">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.14">
+          <t>shiromani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.15">
+          <t>gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.16">
+          <t>parbandhak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.17">
+          <t>committee</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.18">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.19">
+          <t>sgpc</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.20">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.21">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.22">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.23">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.24">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.25">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.26">
+          <t>agitated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.27">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.28">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.29">
+          <t>centre</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.30">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.31">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.32">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.33">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.34">
+          <t>disallow</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.35">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.36">
+          <t>sehajdharis</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.37">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.38">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.39">
+          <t>participating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.40">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.41">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.42">
+          <t>sgpc</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.43">
+          <t>elections</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.44">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-08T12:05:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.3">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.3"/>
+            <wref t="25" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.4"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.5"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.6"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.7"/>
+            <wref t="11.15" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.8"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.9"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-20T14:51:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.4">
+            <wref t="chandigarh" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-03-08T13:17:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.21">
+            <wref t="agitated" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.26"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-08T12:15:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.22">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.28"/>
+            <wref t="centre" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.29"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.30"/>
+            <wref t="decision" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.31"/>
+            <wref t="not" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.32"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.33"/>
+            <wref t="disallow" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.34"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.35"/>
+            <wref t="sehajdharis" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.36"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.37"/>
+            <wref t="from" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.38"/>
+            <wref t="participating" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.39"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.40"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.41"/>
+            <wref t="sgpc" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.42"/>
+            <wref t="elections" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.43"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:07:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.20">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.13"/>
+            <wref t="shiromani" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.14"/>
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.15"/>
+            <wref t="parbandhak" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.16"/>
+            <wref t="committee" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:07:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.27">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.13"/>
+            <wref t="shiromani" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.14"/>
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.15"/>
+            <wref t="parbandhak" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.16"/>
+            <wref t="committee" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:07:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.28">
+            <wref t="sgpc" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:07:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.29">
+            <wref t="sgpc" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:14:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.30">
+            <wref t="panthic" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:14:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.31">
+            <wref t="panthic" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:14:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.38">
+            <wref t="morcha" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.23"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:08:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.32">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.2.w.24"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.1">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.2">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.3">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.4">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.5">
+          <t>resolved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.7">
+          <t>go</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.8">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.9">
+          <t>warpath</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.10">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.11">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.13">
+          <t>threatened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.15">
+          <t>disrupt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.17">
+          <t>election</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.18">
+          <t>process</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.21">
+          <t>sgpc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.22">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.23">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.24">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.25">
+          <t>build</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.26">
+          <t>public</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.27">
+          <t>opinion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.28">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.29">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.30">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.31">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.33">
+          <t>non-sikhs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.34">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.35">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.36">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.37">
+          <t>advantage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.38">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.39">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.40">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.41">
+          <t>enrol</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.42">
+          <t>themselves</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.43">
+          <t>as</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.44">
+          <t>voters</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.3.w.45">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.1">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.3">
+          <t>sgpc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.4">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.5">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.6">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.7">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.8">
+          <t>submitted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.10">
+          <t>joint</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.11">
+          <t>memorandum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.14">
+          <t>gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.15">
+          <t>election</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.16">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.17">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.18">
+          <t>week</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.19">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.20">
+          <t>amendment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.21">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.23">
+          <t>all-india</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.24">
+          <t>sikh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.25">
+          <t>gurdwara</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.26">
+          <t>act</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.27">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.28">
+          <t>1925</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.29">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.30">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.31">
+          <t>debar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.32">
+          <t>sehajdharis</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.33">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.34">
+          <t>becoming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.35">
+          <t>sgpc</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.36">
+          <t>voters</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.37">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-02-23T21:19:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.5">
+            <wref t="submitted" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.8"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.9"/>
+            <wref t="joint" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.10"/>
+            <wref t="memorandum" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-02-23T21:28:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.10">
+            <wref t="last" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.17"/>
+            <wref t="week" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-08T12:17:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.11">
+            <wref t="amendment" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.20"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.21"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.22"/>
+            <wref t="all-india" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.23"/>
+            <wref t="sikh" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.24"/>
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.25"/>
+            <wref t="act" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.26"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.27"/>
+            <wref t="1925" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.28"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.29"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.30"/>
+            <wref t="debar" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.31"/>
+            <wref t="sehajdharis" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.32"/>
+            <wref t="from" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.33"/>
+            <wref t="becoming" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.34"/>
+            <wref t="sgpc" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.35"/>
+            <wref t="voters" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.36"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-20T15:09:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.8">
+            <wref t="sgpc" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-20T15:09:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.33">
+            <wref t="sgpc" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:09:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.34">
+            <wref t="morcha" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:13:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.36">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.13"/>
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.14"/>
+            <wref t="election" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.15"/>
+            <wref t="commission" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-06-20T15:13:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.37">
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.14"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:10:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.35">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.4.w.6"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.1">
+          <t>according</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.2">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.3">
+          <t>sources</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.5">
+          <t>justice</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.6">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.7">
+          <t>retd</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.8">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.9">
+          <t>harbans</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.10">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.12">
+          <t>chief</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.13">
+          <t>commissioner</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.15">
+          <t>later</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.16">
+          <t>apprised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.18">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.19">
+          <t>home</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.20">
+          <t>ministry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.23">
+          <t>memorandum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.24">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.25">
+          <t>sought</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.26">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.27">
+          <t>opinion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.28">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.29">
+          <t>it</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.5.w.30">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.3">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.5">
+          <t>centre</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.6">
+          <t>overruled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.8">
+          <t>suggestion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.9">
+          <t>mooted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.12">
+          <t>memorandum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.13">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.15">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.16">
+          <t>announced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.18">
+          <t>go</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.19">
+          <t>ahead</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.20">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.22">
+          <t>election</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.23">
+          <t>process</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.6.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.1">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.2">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.3">
+          <t>workers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.4">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.5">
+          <t>meeting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.7">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.8">
+          <t>ludhiana</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.10">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.11">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.13">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.14">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.15">
+          <t>took</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.16">
+          <t>exception</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.18">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.19">
+          <t>centre</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.20">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.21">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.23">
+          <t>ignore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.24">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.25">
+          <t>plea</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.7.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.1">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.2">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.3">
+          <t>leader</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.4">
+          <t>manjit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.5">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.6">
+          <t>calcutta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.7">
+          <t>said</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.8">
+          <t>state-wide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.9">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.10">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.11">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.12">
+          <t>launched</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.13">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.15">
+          <t>centre</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.16">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.17">
+          <t>staging</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.18">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.19">
+          <t>dharnas</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.8.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.1">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.2">
+          <t>suggesting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.5">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.6">
+          <t>might</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.7">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.8">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.9">
+          <t>court</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.10">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.11">
+          <t>suggested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.12">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.13">
+          <t>former</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.14">
+          <t>sgpc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.15">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.16">
+          <t>gurcharan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.17">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.18">
+          <t>tohra</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.19">
+          <t>earlier</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.21">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.22">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.23">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.24">
+          <t>might</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.25">
+          <t>lead</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.26">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.27">
+          <t>law</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.28">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.29">
+          <t>order</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.30">
+          <t>problem</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.31">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.33">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.34">
+          <t>still</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.35">
+          <t>carried</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.36">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.37">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.38">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.39">
+          <t>election</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.40">
+          <t>process</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.41">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.42">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.43">
+          <t>how</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.44">
+          <t>could</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.45">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.46">
+          <t>allow</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.47">
+          <t>non-sikhs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.48">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.49">
+          <t>register</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.50">
+          <t>themselves</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.51">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.52">
+          <t>voters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.53">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.54">
+          <t>subvert</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.55">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.56">
+          <t>election</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.57">
+          <t>process</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.58">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.59">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.60">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.61">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.9.w.62">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.1">
+          <t>sgpc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.2">
+          <t>general</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.3">
+          <t>secretary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.4">
+          <t>kiranjot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.5">
+          <t>kaur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.6">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.8">
+          <t>matter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.9">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.10">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.11">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.12">
+          <t>up</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.13">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.14">
+          <t>discussion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.16">
+          <t>decide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.18">
+          <t>subsequent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.19">
+          <t>course</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.20">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.21">
+          <t>action</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.10.w.22">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.1">
+          <t>she</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.4">
+          <t>sgpc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.5">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.6">
+          <t>ensure</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.8">
+          <t>bring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.9">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.10">
+          <t>awakening</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.11">
+          <t>among</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.12">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.13">
+          <t>sikhs</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.15">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.16">
+          <t>must</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.17">
+          <t>watch</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.18">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.20">
+          <t>provision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.22">
+          <t>sehajdharis</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.23">
+          <t>becoming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.24">
+          <t>voters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.25">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.26">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.27">
+          <t>exploited</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.28">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.29">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.30">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.31">
+          <t>vested</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.32">
+          <t>interests</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.11.w.33">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.1">
+          <t>morcha</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.2">
+          <t>leaders</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.4">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.5">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.6">
+          <t>conference</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.8">
+          <t>blamed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.9">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.10">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.11">
+          <t>parkash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.12">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.13">
+          <t>badal</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.14">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.15">
+          <t>compromising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.17">
+          <t>interests</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.19">
+          <t>punjab</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.20">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.22">
+          <t>river</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.23">
+          <t>water</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.24">
+          <t>issue</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.25">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-02-23T21:36:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.12">
+            <wref t="conference" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.6"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:17:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.13">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:17:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.39">
+            <wref t="morcha" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.12.w.1"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.1">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.2">
+          <t>than</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.3">
+          <t>1,000</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.4">
+          <t>workers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.5">
+          <t>coming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.6">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.7">
+          <t>various</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.8">
+          <t>factions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.11">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.12">
+          <t>participated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.14">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.15">
+          <t>conference</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.16">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-06-20T15:44:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.15">
+            <wref t="1,000" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-03-08T12:22:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.18">
+            <wref t="conference" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.15"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:47:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.16">
+            <wref t="workers" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.4"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-20T15:47:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.text.entity.40">
+            <wref t="morcha" id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.13.w.11"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.2">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.4">
+          <t>first</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.5">
+          <t>state-level</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.6">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.9">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.10">
+          <t>ever</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.11">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.12">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.13">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.14">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.15">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.16">
+          <t>early</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.17">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.18">
+          <t>month</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.14.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.15.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.15.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Centres-decision-on-shehjdharis-upset-SGPC_articleshow_30365224.p.1.s.15.w.3">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/Centres-decision-on-shehjdharis-upset-SGPC/articleshow/30365224.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

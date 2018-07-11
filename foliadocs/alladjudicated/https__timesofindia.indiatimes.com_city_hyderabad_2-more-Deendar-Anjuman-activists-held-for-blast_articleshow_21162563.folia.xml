@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-05T11:35:20" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Ethnicity">N-A,Urdu</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Ideology">Islamism</meta>
+    <meta id="Religion">Islam</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Violent">Yes</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Formality2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1">
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.1">
+          <t>2</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.2">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.3">
+          <t>Deendar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.4">
+          <t>Anjuman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.5">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.6">
+          <t>held</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.7">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.8">
+          <t>blast</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.9">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.10">
+          <t>2</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.14">
+          <t>11.52</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.15">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.17">
+          <t>hyderabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.19">
+          <t>2</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.20">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.21">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.22">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.24">
+          <t>banned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.25">
+          <t>religious</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.26">
+          <t>outfit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.27">
+          <t>deendar</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.28">
+          <t>anjuman</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.29">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.30">
+          <t>involved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.31">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.33">
+          <t>bomb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.34">
+          <t>explosions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.35">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.36">
+          <t>places</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.37">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.38">
+          <t>worship</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.39">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.40">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.41">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.42">
+          <t>remanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.43">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.44">
+          <t>judicial</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.45">
+          <t>custody</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.46">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-01T12:48:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.1">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.9"/>
+            <wref t="2" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.13"/>
+            <wref t="11.52" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.14"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T19:29:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.9">
+            <wref t="bomb" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.33"/>
+            <wref t="explosions" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.34"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-02-06T19:32:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.12">
+            <wref t="2" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.1"/>
+            <wref t="more" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.2"/>
+            <wref t="Deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.3"/>
+            <wref t="Anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.4"/>
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.5"/>
+            <wref t="held" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.6"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.7"/>
+            <wref t="blast" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-23T13:19:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.17">
+            <wref t="hyderabad" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-06-23T13:22:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.18">
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.35"/>
+            <wref t="places" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.36"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.37"/>
+            <wref t="worship" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.38"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-23T14:51:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.22">
+            <wref t="blast" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.8"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T19:19:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.3">
+            <wref t="deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.27"/>
+            <wref t="anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-01T12:52:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.5">
+            <wref t="banned" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.24"/>
+            <wref t="religious" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.25"/>
+            <wref t="outfit" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.26"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-23T13:22:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.2">
+            <wref t="deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.27"/>
+            <wref t="anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T13:22:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.6">
+            <wref t="deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.27"/>
+            <wref t="anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T14:50:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.13">
+            <wref t="Deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.3"/>
+            <wref t="Anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-23T14:50:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.19">
+            <wref t="Deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.3"/>
+            <wref t="Anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T14:50:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.21">
+            <wref t="Deendar" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.3"/>
+            <wref t="Anjuman" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.4"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-01T12:52:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.4">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T14:49:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.7">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.1.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.1">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.2">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.3">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.5">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.6">
+          <t>duo</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.8">
+          <t>identified</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.9">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.10">
+          <t>syed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.11">
+          <t>mohammed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.12">
+          <t>noor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.13">
+          <t>ahmed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.14">
+          <t>alias</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.15">
+          <t>noor</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.16">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.17">
+          <t>27</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.18">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.20">
+          <t>syed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.21">
+          <t>mohammed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.22">
+          <t>abdul</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.23">
+          <t>wahab</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.24">
+          <t>alias</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.25">
+          <t>wahab</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.26">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.27">
+          <t>34</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.28">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.29">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.30">
+          <t>natives</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.31">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.32">
+          <t>vijayawada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.33">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.34">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.35">
+          <t>been</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.36">
+          <t>absconding</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.37">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.38">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.39">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.40">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.41">
+          <t>jahanuman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.42">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.43">
+          <t>old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.44">
+          <t>city</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.45">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.46">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.47">
+          <t>july</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.48">
+          <t>31</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.49">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T15:15:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.23">
+            <wref t="syed" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.10"/>
+            <wref t="mohammed" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.11"/>
+            <wref t="noor" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.12"/>
+            <wref t="ahmed" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.13"/>
+            <wref t="alias" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.14"/>
+            <wref t="noor" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T15:16:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.24">
+            <wref t="syed" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.20"/>
+            <wref t="mohammed" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.21"/>
+            <wref t="abdul" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.22"/>
+            <wref t="wahab" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.23"/>
+            <wref t="alias" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.24"/>
+            <wref t="wahab" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.2.w.25"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.2">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.4">
+          <t>produced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.5">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.6">
+          <t>wednesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.7">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.8">
+          <t>ninth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.9">
+          <t>metropolitan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.10">
+          <t>magistrate</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.12">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.13">
+          <t>remanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.14">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.16">
+          <t>judicial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.17">
+          <t>custody</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.18">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.19">
+          <t>august</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.20">
+          <t>14</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.22">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.23">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.3.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.1">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.3">
+          <t>total</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.4">
+          <t>50</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.5">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.8">
+          <t>bomb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.9">
+          <t>explosions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.11">
+          <t>places</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.12">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.13">
+          <t>worship</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.15">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.16">
+          <t>far</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.17">
+          <t>40</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.18">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.19">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.20">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.21">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.22">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.23">
+          <t>person</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.24">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.25">
+          <t>still</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.26">
+          <t>absconding</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.27">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T19:30:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.10">
+            <wref t="bomb" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.8"/>
+            <wref t="explosions" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" confidence="0.5" datetime="2018-02-06T19:36:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.14">
+            <wref t="50" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-02-06T19:50:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.20">
+            <wref t="places" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.11"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.12"/>
+            <wref t="worship" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.4.w.13"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.1">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.2">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.5">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.6">
+          <t>died</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.9">
+          <t>car</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.10">
+          <t>explosion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.12">
+          <t>bangalore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.13">
+          <t>in</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.14">
+          <t>2000</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.16">
+          <t>seven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.17">
+          <t>others</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.18">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.19">
+          <t>identified</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.20">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.21">
+          <t>pakistani</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.22">
+          <t>nationals</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.23">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T19:30:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.11">
+            <wref t="car" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.9"/>
+            <wref t="explosion" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-03-01T12:55:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.8">
+            <wref t="bangalore" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-03-01T12:57:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.15">
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.13"/>
+            <wref t="2000" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.14"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="ethnicity" datetime="2018-03-01T12:58:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.text.entity.16">
+            <wref t="pakistani" id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.5.w.21"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.6">
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_2-more-Deendar-Anjuman-activists-held-for-blast_articleshow_21162563.p.1.s.6.w.1">
+          <t>https://timesofindia.indiatimes.com/city/hyderabad/2-more-Deendar-Anjuman-activists-held-for-blast/articleshow/21162563.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

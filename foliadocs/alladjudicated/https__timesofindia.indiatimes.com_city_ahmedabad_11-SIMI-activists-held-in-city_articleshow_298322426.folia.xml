@@ -1,0 +1,2170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:34" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ideology">Islamism</meta>
+    <meta id="Ethnicity">Urdu</meta>
+    <meta id="Religion">Islam</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Violent">No</meta>
+    <meta id="EventCount">1</meta>
+    <meta id="RelevantCountry">Yes</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1">
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.1">
+          <t>11</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.2">
+          <t>SIMI</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.3">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.4">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.6">
+          <t>city</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.7">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.9">
+          <t>Oct</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.10">
+          <t>1</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.14">
+          <t>11.03</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.15">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.17">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.19">
+          <t>eleven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.20">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.22">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.23">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.24">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.25">
+          <t>islamic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.26">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.28">
+          <t>india</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.29">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.30">
+          <t>simi</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.31">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.33">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.34">
+          <t>asif</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.35">
+          <t>mustafa</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.36">
+          <t>husain</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.37">
+          <t>shaikh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.38">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.39">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.40">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.41">
+          <t>reportedly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.42">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.43">
+          <t>city</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.44">
+          <t>unit</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.45">
+          <t>president</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.46">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.47">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.48">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.49">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.50">
+          <t>sunday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.51">
+          <t>morning</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.52">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.53">
+          <t>staging</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.54">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.55">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.56">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.57">
+          <t>ahmad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.58">
+          <t>shah</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.59">
+          <t>mosque</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.60">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.61">
+          <t>victoria</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.62">
+          <t>garden</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.63">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-05T17:35:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.1">
+            <wref t="11" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.1"/>
+            <wref t="SIMI" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.2"/>
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.3"/>
+            <wref t="held" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.4"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.5"/>
+            <wref t="city" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-05T17:35:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.2">
+            <wref t="Oct" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.9"/>
+            <wref t="1" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.13"/>
+            <wref t="11.03" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.14"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-22T10:03:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.3">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-05T17:36:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.4">
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.55"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-04-05T17:36:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.5">
+            <wref t="ahmad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.57"/>
+            <wref t="shah" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.58"/>
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.59"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-04-29T15:53:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.6">
+            <wref t="victoria" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.61"/>
+            <wref t="garden" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.62"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-22T10:12:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.58">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.59"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T10:03:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.7">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-04-05T18:36:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.9">
+            <wref t="eleven" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:37:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.10">
+            <wref t="asif" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.34"/>
+            <wref t="mustafa" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.35"/>
+            <wref t="husain" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.36"/>
+            <wref t="shaikh" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.37"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-05T18:37:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.11">
+            <wref t="city" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.43"/>
+            <wref t="unit" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.44"/>
+            <wref t="president" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.45"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-04-24T09:36:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.35">
+            <wref t="11" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T10:02:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.44">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.3"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-05T18:35:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.8">
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.30"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:02:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.40">
+            <wref t="SIMI" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:03:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.45">
+            <wref t="students" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.23"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.24"/>
+            <wref t="islamic" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.25"/>
+            <wref t="movement" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.26"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.27"/>
+            <wref t="india" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-04-24T10:07:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.46">
+            <wref t="islamic" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.25"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-04-24T10:07:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.47">
+            <wref t="islamic" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.25"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-05-22T10:06:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.54">
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.30"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-22T10:06:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.55">
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.30"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-05-22T10:11:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.56">
+            <wref t="SIMI" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-22T10:11:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.57">
+            <wref t="SIMI" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.1.w.2"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.1">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.2">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.3">
+          <t>include</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.4">
+          <t>four</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.5">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.6">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.7">
+          <t>surat</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.9">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.10">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.11">
+          <t>anand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.14">
+          <t>rest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.15">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.16">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.18">
+          <t>deputy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.19">
+          <t>commissioner</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.21">
+          <t>police</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.22">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.23">
+          <t>zone</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.24">
+          <t>ii</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.25">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.26">
+          <t>sp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.27">
+          <t>rajkumar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.28">
+          <t>told</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.29">
+          <t>tnn</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.2.w.30">
+          <t>.</t>
+        </w>
+        <entities/>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.2">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.4">
+          <t>protesting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.5">
+          <t>against</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.6">
+          <t>us</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.7">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.8">
+          <t>campaign</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.9">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.10">
+          <t>osama</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.11">
+          <t>bin</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.12">
+          <t>laden</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.16">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.17">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.18">
+          <t>simi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.19">
+          <t>around</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.20">
+          <t>noon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.21">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.23">
+          <t>old</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.24">
+          <t>mosque</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.25">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-05T18:39:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.13">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-05T18:39:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.14">
+            <wref t="protesting" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-05T18:39:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.15">
+            <wref t="us" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.6"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.7"/>
+            <wref t="campaign" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.8"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.9"/>
+            <wref t="osama" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.10"/>
+            <wref t="bin" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.11"/>
+            <wref t="laden" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-06-07T19:19:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.16">
+            <wref t="ban" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.16"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.17"/>
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-05T18:40:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.17">
+            <wref t="around" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.19"/>
+            <wref t="noon" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-29T15:57:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.18">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.24"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:15:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.48">
+            <wref t="us" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.6"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-24T10:15:30">United States</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:16:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.49">
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.3.w.18"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.2">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.3">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.4">
+          <t>raising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.5">
+          <t>slogans</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.6">
+          <t>celebrating</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.7">
+          <t>simi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.9">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.10">
+          <t>sources</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.11">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.12">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-22T10:32:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.19">
+            <wref t="raising" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.4"/>
+            <wref t="slogans" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:18:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.50">
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.4.w.7"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.1">
+          <t>meanwhile</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.3">
+          <t>shahpur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.4">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.5">
+          <t>seized</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.6">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.7">
+          <t>documents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.10">
+          <t>hard</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.11">
+          <t>disc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.12">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.13">
+          <t>classic</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.14">
+          <t>offset</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.17">
+          <t>noor</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.18">
+          <t>complex</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.20">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.21">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.5.w.22">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.3">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.4">
+          <t>simi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.5">
+          <t>published</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.6">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.7">
+          <t>material</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.6.w.8">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.3">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.4">
+          <t>now</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.5">
+          <t>getting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.7">
+          <t>material</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.8">
+          <t>translated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.9">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.10">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.11">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.12">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.13">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.14">
+          <t>urdu</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.15">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="ethnicity" datetime="2018-04-05T18:43:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.20">
+            <wref t="urdu" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.7.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.1">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.3">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.4">
+          <t>raided</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.5">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.6">
+          <t>press</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.8">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.9">
+          <t>owner</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.11">
+          <t>yasin</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.12">
+          <t>patel</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.14">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.15">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.16">
+          <t>slip</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.17">
+          <t>away</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.8.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.1">
+          <t>incidentally</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.3">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.4">
+          <t>materials</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.5">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.6">
+          <t>references</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.9">
+          <t>taliban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.10">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.12">
+          <t>destruction</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.15">
+          <t>amiyan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.16">
+          <t>buddha</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.17">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.18">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.19">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.20">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.21">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.22">
+          <t>yet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.24">
+          <t>confirm</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.25">
+          <t>whether</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.26">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.27">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.28">
+          <t>provocative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.29">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.30">
+          <t>inflammatory</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.31">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.33">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.34">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.35">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.36">
+          <t>official</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.37">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.9.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.1">
+          <t>asif</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.2">
+          <t>shaikh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.4">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.5">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.6">
+          <t>based</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.7">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.8">
+          <t>dariapur</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.10">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.11">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.12">
+          <t>booked</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.13">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.14">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.15">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.16">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.17">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.18">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.19">
+          <t>jamalpur</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.21">
+          <t>karanj</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.22">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.23">
+          <t>shahpur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.24">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.25">
+          <t>stations</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.10.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.1">
+          <t>besides</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.2">
+          <t>shaikh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.5">
+          <t>demonstrators</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.6">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.7">
+          <t>include</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.8">
+          <t>javed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.9">
+          <t>akhtar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.10">
+          <t>shaikh</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.11">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.12">
+          <t>surat</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.13">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.15">
+          <t>mohammad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.16">
+          <t>iqbal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.17">
+          <t>jamalbhai</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.19">
+          <t>mohammad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.20">
+          <t>salim</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.21">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.22">
+          <t>surat</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.23">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.25">
+          <t>mohammad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.26">
+          <t>ali</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.27">
+          <t>abdul</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.28">
+          <t>chhipa</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.29">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.30">
+          <t>anand</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.31">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.33">
+          <t>ilias</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.34">
+          <t>ahmed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.35">
+          <t>gulamnabi</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.36">
+          <t>shaikh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.37">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.38">
+          <t>imtiaz</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.39">
+          <t>noormohammad</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.40">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.41">
+          <t>surat</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.42">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.43">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.44">
+          <t>mohammad</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.45">
+          <t>iftekhar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.46">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.47">
+          <t>mohammad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.48">
+          <t>irfan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.49">
+          <t>rahim</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.50">
+          <t>shaikh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.51">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.52">
+          <t>abdul</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.53">
+          <t>raiz</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.54">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.55">
+          <t>shaikh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.56">
+          <t>mohammad</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.57">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.58">
+          <t>surat</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.59">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.60">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-05T18:56:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.21">
+            <wref t="demonstrators" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-24T10:20:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.22">
+            <wref t="shaikh" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:57:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.23">
+            <wref t="javed" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.8"/>
+            <wref t="akhtar" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.9"/>
+            <wref t="shaikh" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:57:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.24">
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.15"/>
+            <wref t="iqbal" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.16"/>
+            <wref t="jamalbhai" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:57:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.25">
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.19"/>
+            <wref t="salim" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:58:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.26">
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.25"/>
+            <wref t="ali" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.26"/>
+            <wref t="abdul" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.27"/>
+            <wref t="chhipa" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:58:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.27">
+            <wref t="ilias" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.33"/>
+            <wref t="ahmed" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.34"/>
+            <wref t="gulamnabi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.35"/>
+            <wref t="shaikh" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.36"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:58:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.28">
+            <wref t="imtiaz" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.38"/>
+            <wref t="noormohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.39"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:58:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.29">
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.44"/>
+            <wref t="iftekhar" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.45"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:58:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.30">
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.47"/>
+            <wref t="irfan" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.48"/>
+            <wref t="rahim" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.49"/>
+            <wref t="shaikh" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.50"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:58:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.31">
+            <wref t="abdul" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.52"/>
+            <wref t="raiz" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.53"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-05T18:59:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.32">
+            <wref t="shaikh" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.55"/>
+            <wref t="mohammad" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.11.w.56"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.1">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.2">
+          <t>inspector</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.3">
+          <t>kv</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.4">
+          <t>patel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.6">
+          <t>karanj</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.7">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.8">
+          <t>station</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.9">
+          <t>told</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.10">
+          <t>tnn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.11">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.13">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.14">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.15">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.17">
+          <t>inciting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.18">
+          <t>communal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.19">
+          <t>passions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.21">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.22">
+          <t>then</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.23">
+          <t>booked</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.24">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.25">
+          <t>rioting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.26">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.27">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.28">
+          <t>clashed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.29">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.30">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.31">
+          <t>police</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-05T18:59:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.33">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.13"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-05T19:00:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.34">
+            <wref t="rioting" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.12.w.25"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.1">
+          <t>inflammatory</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.2">
+          <t>hand-outs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.3">
+          <t>criticising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.5">
+          <t>government</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.6">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.8">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.10">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.11">
+          <t>us</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.12">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.13">
+          <t>making</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.14">
+          <t>laden</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.16">
+          <t>target</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.17">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.18">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.19">
+          <t>distributed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.20">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.21">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.22">
+          <t>meeting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.23">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.24" datetime="2018-04-29T16:02:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.36">
+            <wref t="inflammatory" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.1"/>
+            <wref t="hand-outs" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-05T19:03:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.38">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.7"/>
+            <wref t="ban" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.8"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.9"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.10"/>
+            <wref t="us" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.11"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.12"/>
+            <wref t="making" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.13"/>
+            <wref t="laden" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.14"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.15"/>
+            <wref t="target" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.16"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-05T19:03:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.37">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:21:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.51">
+            <wref t="us" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.13.w.11"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.2">
+          <t>hand-outs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.3">
+          <t>urged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.5">
+          <t>minorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.7">
+          <t>support</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.8">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.9">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.11">
+          <t>pressure</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.13">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.15">
+          <t>lift</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.17">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.18">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.19">
+          <t>simi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-04-05T19:04:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.39">
+            <wref t="hand-outs" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-05T19:07:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.41">
+            <wref t="urged" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.3"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.4"/>
+            <wref t="minorities" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.5"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.6"/>
+            <wref t="support" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.7"/>
+            <wref t="their" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.8"/>
+            <wref t="action" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.9"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.10"/>
+            <wref t="pressure" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.11"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.12"/>
+            <wref t="authorities" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.13"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.14"/>
+            <wref t="lift" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.15"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.16"/>
+            <wref t="ban" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.17"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.18"/>
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.19"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T10:21:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.52">
+            <wref t="authorities" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.13"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T10:22:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.53">
+            <wref t="simi" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.14.w.19"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.2">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.4">
+          <t>booked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.5">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.6">
+          <t>section</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.7">
+          <t>13</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.10">
+          <t>unlawful</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.11">
+          <t>activities</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.12">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.13">
+          <t>prevention</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.14">
+          <t>)</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.15">
+          <t>act</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.16">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.17">
+          <t>1967</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.19">
+          <t>and</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.20">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.21">
+          <t>rioting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.22">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-05T19:07:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.42">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-05T19:08:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.text.entity.43">
+            <wref t="rioting" id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.15.w.21"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.1">
+          <t>earlier</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.2">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.3">
+          <t>kutch</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.5">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.6">
+          <t>persons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.7">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.8">
+          <t>picked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.9">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.10">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.12">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.14">
+          <t>similar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.15">
+          <t>grounds</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.16">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.17">
+          <t>preventive</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.18">
+          <t>action</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.20">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.21">
+          <t>takes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.23">
+          <t>total</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.24">
+          <t>persons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.25">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.26">
+          <t>custody</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.27">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.29">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.30">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.32">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.33">
+          <t>to</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.34">
+          <t>19</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.16.w.35">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.2">
+          <t>loktantrik</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.3">
+          <t>samajwadi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.4">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.5">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.6">
+          <t>criticised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.8">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.9">
+          <t>saying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.10">
+          <t>that</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.11">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.12">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.14">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.15">
+          <t>had</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.16">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.17">
+          <t>other</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.18">
+          <t>agenda</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.20">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.21">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.22">
+          <t>trying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.24">
+          <t>intimidate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.26">
+          <t>muslims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.27">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.28">
+          <t>such</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.29">
+          <t>decisions</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.30">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.17.w.31">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.1">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.2">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.3">
+          <t>similar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.4">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.5">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.6">
+          <t>bajrang</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.7">
+          <t>dal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.9">
+          <t>vishwa</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.10">
+          <t>hindu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.11">
+          <t>parishad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.12">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.13">
+          <t>rss</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.16">
+          <t>lsp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.17">
+          <t>threatened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.18">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.19">
+          <t>launch</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.20">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.21">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.22">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.23">
+          <t>october</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.24">
+          <t>2</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.25">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.27">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.28">
+          <t>failed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.29">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.30">
+          <t>meet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.31">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.32">
+          <t>demand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.33">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.34">
+          <t>sealing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.35">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.36">
+          <t>offices</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.37">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.38">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.39">
+          <t>organisations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.40">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.41">
+          <t>arresting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.42">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.43">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.44">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.45">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.46">
+          <t>security</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.47">
+          <t>act</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.48">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.49">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.50">
+          <t>regional</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.51">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.52">
+          <t>narendra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.53">
+          <t>sankhaliya</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.54">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.18.w.55">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.2">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.3">
+          <t>separate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.4">
+          <t>press</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.5">
+          <t>release</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.8">
+          <t>jamaat-e-islami</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.9">
+          <t>hind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.10">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.11">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.13">
+          <t>ban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.14">
+          <t>was</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.15">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.16">
+          <t>politically</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.17">
+          <t>motivated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.18">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.19">
+          <t>calculated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.21">
+          <t>polarise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.23">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.24">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.25">
+          <t>communal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.26">
+          <t>lines</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.27">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.29">
+          <t>eve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.32">
+          <t>coming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.33">
+          <t>assembly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.34">
+          <t>elections</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.35">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.36">
+          <t>uttar</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.37">
+          <t>pradesh</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.38">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.19.w.39">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.2">
+          <t>jih</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.3">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.4">
+          <t>called</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.5">
+          <t>upon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.6">
+          <t>simi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.8">
+          <t>defend</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.9">
+          <t>itself</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.10">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.11">
+          <t>political</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.13">
+          <t>legal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.14">
+          <t>means</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.16">
+          <t>appealed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.19">
+          <t>muslims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.21">
+          <t>exercise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.22">
+          <t>patience</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.23">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.24">
+          <t>restrain</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.20.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.21">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.21.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.21.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_11-SIMI-activists-held-in-city_articleshow_298322426.p.1.s.21.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/11-SIMI-activists-held-in-city/articleshow/298322426.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

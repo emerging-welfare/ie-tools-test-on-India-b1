@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Event">No</meta>
+    <meta id="Poor"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Centrality"></meta>
+    <meta id="SocialClass"></meta>
+    <meta id="Motivation"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.1">
+          <t>This</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.2">
+          <t>time</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.4">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.5">
+          <t>deer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.6">
+          <t>strays</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.7">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.9">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.10">
+          <t>25</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.14">
+          <t>11.20</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.15">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.17">
+          <t>bangalore</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.19">
+          <t>balagaranahalli</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.20">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.21">
+          <t>attibele</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.22">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.23">
+          <t>limits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.24">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.25">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.26">
+          <t>surprise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.27">
+          <t>guest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.28">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.29">
+          <t>monday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.1.w.30">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2">
+        <w space="no" class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.1">
+          <t>no</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.3">
+          <t>it</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.4">
+          <t>was</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.5">
+          <t>n't</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.7">
+          <t>leapord</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.8">
+          <t>like</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.10">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.11">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.12">
+          <t>strayed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.13">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.15">
+          <t>college</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.16">
+          <t>campus</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.17">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.18">
+          <t>mysore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.19">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.20">
+          <t>september</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.21">
+          <t>21</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.23">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.24">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.25">
+          <t>harmless</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.26">
+          <t>spotted</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.27">
+          <t>deer</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.2.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.1">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.2">
+          <t>alerted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.4">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.5">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.7">
+          <t>deer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.8">
+          <t>entered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.10">
+          <t>few</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.11">
+          <t>houses</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.3.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.3">
+          <t>housed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.5">
+          <t>deer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.7">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.8">
+          <t>station</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.9">
+          <t>till</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.10">
+          <t>afternoon</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.4.w.11">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.2">
+          <t>bannerghatta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.3">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.4">
+          <t>park</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.5">
+          <t>squad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.7">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.8">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.9">
+          <t>informed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.10">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.11">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.12">
+          <t>police</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.14">
+          <t>rushed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.17">
+          <t>station</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.18">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.19">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.20">
+          <t>special</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.21">
+          <t>ambulance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.23">
+          <t>rescue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.24">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.25">
+          <t>deer</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.5.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.1">
+          <t>says</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.2">
+          <t>dr</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.3">
+          <t>anand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.4">
+          <t>ramanathan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.7">
+          <t>wildlife</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.8">
+          <t>trust</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.9">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.10">
+          <t>india</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.12">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.13">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.14">
+          <t>accompanied</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.16">
+          <t>forest</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.17">
+          <t>squad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.18">
+          <t>:</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.19">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.20">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.21">
+          <t>heavy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.22">
+          <t>rain</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.25">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.26">
+          <t>couple</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.28">
+          <t>days</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.29">
+          <t>could</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.30">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.31">
+          <t>driven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.33">
+          <t>animal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.34">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.35">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.36">
+          <t>urban</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.37">
+          <t>area</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.6.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7">
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.1">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.2">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.3">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.4">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.5">
+          <t>declared</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.6">
+          <t>medically</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.7">
+          <t>fit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.8">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.9">
+          <t>forest</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.10">
+          <t>officials</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.13">
+          <t>deer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.14">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.15">
+          <t>released</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.18">
+          <t>wild</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.19">
+          <t>by</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.20">
+          <t>evening</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.7.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.8.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.8.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_This-time-a-deer-strays_articleshow_1155279629.p.1.s.8.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/This-time-a-deer-strays/articleshow/1155279629.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

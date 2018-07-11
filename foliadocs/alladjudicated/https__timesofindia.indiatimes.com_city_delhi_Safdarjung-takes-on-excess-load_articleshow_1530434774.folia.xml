@@ -1,0 +1,1276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-08T17:26:46" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Motivation2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Formality">Formal</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Poor">No</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="SocialClass">professionals</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Formality2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.1">
+          <t>Safdarjung</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.2">
+          <t>takes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.3">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.4">
+          <t>excess</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.5">
+          <t>load</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.6">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.7">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.8">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.9">
+          <t>25</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.11">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.13">
+          <t>12.07</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.14">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.15">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.16">
+          <t>new</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.17">
+          <t>delhi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.19">
+          <t>facing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.21">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.22">
+          <t>indian</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.23">
+          <t>institute</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.24">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.25">
+          <t>medical</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.26">
+          <t>sciences</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.27">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.28">
+          <t>proved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.29">
+          <t>costly</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.30">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.31">
+          <t>safdarjung</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.32">
+          <t>hospital</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.33">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-01T16:05:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.33">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.8"/>
+            <wref t="25" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.10"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.12"/>
+            <wref t="12.07" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.13"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.14"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-23T10:19:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.34">
+            <wref t="new" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.16"/>
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-01T16:04:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.2">
+            <wref t="Safdarjung" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.1"/>
+            <wref t="takes" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.2"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.3"/>
+            <wref t="excess" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.4"/>
+            <wref t="load" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.1.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.1">
+          <t>now</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.2">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.3">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.4">
+          <t>facing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.6">
+          <t>brunt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.9">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.10">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.11">
+          <t>as</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.12">
+          <t>well</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.13">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-23T10:20:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.1">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T10:20:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.14">
+            <wref t="aiims" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.2.w.9"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.1">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.2">
+          <t>resident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.3">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.4">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.5">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.6">
+          <t>struck</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.7">
+          <t>work</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.8">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.10">
+          <t>third</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.11">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.12">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.13">
+          <t>friday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.15">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.16">
+          <t>arriving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.17">
+          <t>at</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.18">
+          <t>safdarjung</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.19">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.20">
+          <t>casualty</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.21">
+          <t>ward</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.22">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.23">
+          <t>doubled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.24">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.26">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.27">
+          <t>two</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.28">
+          <t>days</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.29">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-09T10:45:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.5">
+            <wref t="struck" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.6"/>
+            <wref t="work" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-06-23T10:18:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.8">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.12"/>
+            <wref t="friday" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T10:18:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.11">
+            <wref t="aiims" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T10:16:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.6">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-06-23T10:16:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.4">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-06-23T10:16:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.7">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.3.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.1">
+          <t>safdarjung</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.2">
+          <t>hospital</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.3">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.4">
+          <t>medical</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.5">
+          <t>superintendent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.6">
+          <t>dr</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.7">
+          <t>jagdish</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.8">
+          <t>prasad</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.9">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.10">
+          <t>:</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.11">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.12">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.13">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.14">
+          <t>usually</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.15">
+          <t>receive</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.16">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.17">
+          <t>1,300</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.18">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.19">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.21">
+          <t>casualty</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.22">
+          <t>ward</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.4.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.2">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.3">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.4">
+          <t>touched</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.5">
+          <t>2,200</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.6">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.8">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.9">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.10">
+          <t>went</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.11">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.12">
+          <t>strike</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.13">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-09T10:48:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.9">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T10:21:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.17">
+            <wref t="aiims" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.8"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T10:20:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.10">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-06-23T10:21:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.15">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-06-23T10:21:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.16">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.5.w.9"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6">
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.1">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.2">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.3">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.6">
+          <t>hospital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.7">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.8">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.9">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.10">
+          <t>posted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.11">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.12">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.14">
+          <t>casualty</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.16">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.17">
+          <t>care</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.20">
+          <t>extra</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.21">
+          <t>load</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.22">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.23">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.24">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.25">
+          <t>our</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.26">
+          <t>resources</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.27">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.28">
+          <t>limited</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.29">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.30">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.31">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.32">
+          <t>trying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.33">
+          <t>our</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.34">
+          <t>best</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.35">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.36">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.37">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.38">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.39">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.6.w.40">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.1">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.2">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.3">
+          <t>casualty</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.6">
+          <t>doctor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.7">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.8">
+          <t>duty</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.9">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.10">
+          <t>all</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.11">
+          <t>20</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.12">
+          <t>beds</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.14">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.15">
+          <t>wing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.16">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.17">
+          <t>occupied</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.18">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.19">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.20">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.21">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.22">
+          <t>far</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.23">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.24">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.25">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.26">
+          <t>able</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.28">
+          <t>provide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.29">
+          <t>treatment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.30">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.31">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.33">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.34">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.35">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.36">
+          <t>come</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.37">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.38">
+          <t>us</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.7.w.39">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.1">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.3">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.4">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.5">
+          <t>does</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.6">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.7">
+          <t>end</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.8">
+          <t>soon</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.11">
+          <t>situation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.12">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.13">
+          <t>turn</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.14">
+          <t>grave</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.15">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.16">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.17">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.18">
+          <t>she</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.19">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-23T10:21:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.12">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T10:23:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.18">
+            <wref t="aiims" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.8.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.1">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.3">
+          <t>aiims</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.4">
+          <t>out-patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.5">
+          <t>department</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.6">
+          <t>also</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.7">
+          <t>shut</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.9">
+          <t>safdarjung</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.10">
+          <t>hospital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.11">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.12">
+          <t>receiving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.13">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.14">
+          <t>than</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.15">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.16">
+          <t>share</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.17">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.18">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.19">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.20">
+          <t>yesterday</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.21">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.22">
+          <t>thursday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.23">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.24">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.25">
+          <t>received</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.26">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.27">
+          <t>7,800</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.28">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.29">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.30">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.31">
+          <t>opd</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.33">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.35">
+          <t>usual</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.36">
+          <t>6,000</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.37">
+          <t>patients</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.38">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.39">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.40">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.41">
+          <t>dr</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.42">
+          <t>prasad</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.43">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.44">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-06-23T10:22:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.3">
+            <wref t="out-patients" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.4"/>
+            <wref t="department" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T10:22:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.text.entity.19">
+            <wref t="aiims" id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.9.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.3">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.4">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.5">
+          <t>requested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.6">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.7">
+          <t>staff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.9">
+          <t>try</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.10">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.11">
+          <t>accommodate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.12">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.13">
+          <t>many</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.14">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.15">
+          <t>as</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.16">
+          <t>possible</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.17">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.18">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.19">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.20">
+          <t>unlike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.21">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.22">
+          <t>hospitals</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.23">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.24">
+          <t>cannot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.25">
+          <t>turn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.26">
+          <t>away</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.27">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.28">
+          <t>patient</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.29">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.30">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.31">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.32">
+          <t>do</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.33">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.34">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.35">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.36">
+          <t>vacant</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.37">
+          <t>bed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.10.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.1">
+          <t>our</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.2">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.5">
+          <t>attend</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.7">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.8">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.9">
+          <t>registered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.10">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.11">
+          <t>our</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.12">
+          <t>opd</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.13">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.14">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.15">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.16">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.17">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.11.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.1">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.2">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.3">
+          <t>doctor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.5">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.6">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.7">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.9">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.10">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.11">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.12">
+          <t>safdarjung</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.13">
+          <t>hospital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.14">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.15">
+          <t>been</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.16">
+          <t>overloaded</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.17">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.18">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.19">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.20">
+          <t>every</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.21">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.22">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.23">
+          <t>staff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.24">
+          <t>goes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.25">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.26">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.27">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.28">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.29">
+          <t>mentally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.30">
+          <t>prepare</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.31">
+          <t>ourselves</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.32">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.33">
+          <t>more</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.34">
+          <t>work</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.12.w.35">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.1">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.2">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.3">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.4">
+          <t>is</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.5">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.6">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.7">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.8">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.9">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.10">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.11">
+          <t>used</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.13">
+          <t>receiving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.14">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.15">
+          <t>turned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.16">
+          <t>away</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.17">
+          <t>by</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.18">
+          <t>them</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.19">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.20">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.21">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.22">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.23">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.13.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.14.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.14.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Safdarjung-takes-on-excess-load_articleshow_1530434774.p.1.s.14.w.3">
+          <t>https://timesofindia.indiatimes.com/city/delhi/Safdarjung-takes-on-excess-load/articleshow/1530434774.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

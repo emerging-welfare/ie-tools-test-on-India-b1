@@ -1,0 +1,1011 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:35" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Centrality">N-A</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="SocialClass">non-manual_working_class</meta>
+    <meta id="Motivation">economic_welfare</meta>
+    <meta id="Ideology2">Hindu Nationalism_Far-right_Fascism</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Motivation2">economic_non-welfare</meta>
+    <meta id="SocialClass2">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+    <meta id="Centrality2">N-A</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Violent2">No</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="EventCount">2</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.1">
+          <t>Govt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.2">
+          <t>fights</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.3">
+          <t>shy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.5">
+          <t>using</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.6">
+          <t>ESMA</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.7">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.9">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.10">
+          <t>12</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.14">
+          <t>12.20</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.15">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.17">
+          <t>gandhinagar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.19">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.20">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.21">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.22">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.23">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.24">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.25">
+          <t>entered</t>
+        </w>
+        <w class="NUMBER-ORDINAL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.26">
+          <t>14th</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.27">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.28">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.29">
+          <t>monday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.31">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.32">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.33">
+          <t>restrained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.34">
+          <t>itself</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.35">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.36">
+          <t>putting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.37">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.38">
+          <t>effect</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.39">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.40">
+          <t>provisions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.41">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.42">
+          <t>esma</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.43">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-04-30T23:08:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.1">
+            <wref t="gandhinagar" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-31T13:02:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.3">
+            <wref t="Govt" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.1"/>
+            <wref t="fights" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.2"/>
+            <wref t="shy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.3"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.4"/>
+            <wref t="using" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.5"/>
+            <wref t="ESMA" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-31T13:03:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.4">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.9"/>
+            <wref t="12" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.13"/>
+            <wref t="12.20" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.14"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-31T13:04:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.5">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-06-06T23:51:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.7">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.28"/>
+            <wref t="monday" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.29"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-31T13:04:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.6">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-30T23:10:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.15">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-30T23:10:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.16">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.1.w.22"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.2">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.3">
+          <t>announced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.4">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.5">
+          <t>contingency</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.6">
+          <t>plan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.7">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.8">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.9">
+          <t>trained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.10">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.11">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.12">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.13">
+          <t>appointed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.14">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.16">
+          <t>daily</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.17">
+          <t>wage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.19">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.20">
+          <t>200</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.21">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.22">
+          <t>resume</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.23">
+          <t>teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.24">
+          <t>activities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.25">
+          <t>in</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.26">
+          <t>5,800</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.27">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.28">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.29">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.2.w.30">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.1">
+          <t>speaking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.3">
+          <t>reporters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.4">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.6">
+          <t>high-level</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.7">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.8">
+          <t>convened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.9">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.10">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.11">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.12">
+          <t>keshubhai</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.13">
+          <t>patel</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.15">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.17">
+          <t>state</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.18">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.19">
+          <t>information</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.21">
+          <t>higher</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.22">
+          <t>education</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.23">
+          <t>bharat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.24">
+          <t>barot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.25">
+          <t>claimed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.26">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.28">
+          <t>total</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.29">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.31">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.32">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.33">
+          <t>reopened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.34">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.35">
+          <t>monday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.36">
+          <t>stood</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.37">
+          <t>at</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.38">
+          <t>2,100</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.3.w.39">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.2">
+          <t>reiterated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.4">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.5">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.6">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.7">
+          <t>possible</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.9">
+          <t>concede</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.12">
+          <t>demand</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.13">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.14">
+          <t>vehicle</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.15">
+          <t>allowance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.16">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.17">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.18">
+          <t>stage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.19">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.21">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.22">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.23">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.24">
+          <t>burdened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.25">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.26">
+          <t>drought</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.27">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.28">
+          <t>earthquake</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.29">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.30">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.31">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.32">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.33">
+          <t>decided</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.34">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.35">
+          <t>give</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.36">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.37">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.38">
+          <t>more</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.39">
+          <t>time</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.40">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.41">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.42">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.43">
+          <t>declare</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.44">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.45">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.46">
+          <t>illegal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.47">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.48">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.49">
+          <t>some</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.50">
+          <t>time</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.51">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.52">
+          <t>"</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.53">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.54">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.55">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.56">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.57">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.58">
+          <t>spell</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.59">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.60">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.61">
+          <t>deadline</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.62">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.63">
+          <t>initiating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.64">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.65">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.66">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.67">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.68">
+          <t>under</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.69">
+          <t>esma</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.70">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-18T10:31:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.2">
+            <wref t="vehicle" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.14"/>
+            <wref t="allowance" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.4.w.15"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.1">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.2">
+          <t>education</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.3">
+          <t>officers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.4">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.5">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.6">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.8">
+          <t>appoint</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.9">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.10">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.11">
+          <t>per</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.13">
+          <t>plan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.14">
+          <t>evolved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.15">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.17">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.18">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.19">
+          <t>deal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.20">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.21">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.22">
+          <t>situation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.5.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.1">
+          <t>referring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.4">
+          <t>token</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.5">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.6">
+          <t>by</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.7">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.8">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.9">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.10">
+          <t>universities</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.13">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.14">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.15">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.16">
+          <t>was</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.17">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.18">
+          <t>question</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.21">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.22">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.23">
+          <t>sanctioning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.24">
+          <t>vehicle</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.25">
+          <t>allowance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.26">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.28">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.29">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.30">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.31">
+          <t>governed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.32">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.33">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.34">
+          <t>grants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.35">
+          <t>commission</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.36">
+          <t>rules</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.37">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-06T20:29:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.8">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-18T10:32:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.14">
+            <wref t="vehicle" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.24"/>
+            <wref t="allowance" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.25"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-30T23:14:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.9">
+            <wref t="non-teaching" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.7"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-30T23:14:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.17">
+            <wref t="universities" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-30T23:15:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.18">
+            <wref t="non-teaching" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.7"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-30T23:16:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.20">
+            <wref t="non-teaching" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.28"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-30T23:17:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.21">
+            <wref t="non-teaching" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.28"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.29"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-30T23:15:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.19">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.20"/>
+            <wref t="state" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.21"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.6.w.22"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.2">
+          <t>youth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.3">
+          <t>wing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.6">
+          <t>bjp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.7">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.8">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.9">
+          <t>voluntary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.10">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.11">
+          <t>educational</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.12">
+          <t>institutions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.13">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.14">
+          <t>started</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.15">
+          <t>mobilising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.16">
+          <t>public</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.17">
+          <t>opinion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.18">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.20">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.21">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.22">
+          <t>organising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.23">
+          <t>meetings</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.24">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.25">
+          <t>parents</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.26">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-03-31T13:12:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.10">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.1"/>
+            <wref t="youth" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.2"/>
+            <wref t="wing" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.3"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.4"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.5"/>
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.6"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-30T23:19:54">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-31T13:12:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.11">
+            <wref t="other" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.8"/>
+            <wref t="voluntary" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.9"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.10"/>
+            <wref t="educational" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.11"/>
+            <wref t="institutions" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.12"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-30T23:20:04">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-06T20:10:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.23">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.1"/>
+            <wref t="youth" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.2"/>
+            <wref t="wing" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.3"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.4"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.5"/>
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.6"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T20:10:05">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="oreligion" datetime="2018-06-06T20:10:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.24">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.1"/>
+            <wref t="youth" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.2"/>
+            <wref t="wing" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.3"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.4"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.5"/>
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.6"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T20:10:05">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-06T20:12:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.12">
+            <wref t="organising" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.22"/>
+            <wref t="meetings" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.23"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.24"/>
+            <wref t="parents" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.25"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-30T23:32:35">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-31T13:13:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.13">
+            <wref t="mobilising" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.15"/>
+            <wref t="public" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.16"/>
+            <wref t="opinion" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.17"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.18"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.19"/>
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.20"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-30T23:19:05">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-30T23:17:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.text.entity.22">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.7.w.20"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.8.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.8.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Govt-fights-shy-of-using-ESMA_articleshow_1145955296.p.1.s.8.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/Govt-fights-shy-of-using-ESMA/articleshow/1145955296.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

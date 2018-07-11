@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:34" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Event">No</meta>
+    <meta id="Poor"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Centrality"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.text">
+    <p xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.1">
+          <t>BSNL</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.2">
+          <t>Employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.3">
+          <t>Union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.4">
+          <t>protests</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.5">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.6">
+          <t>disinvestment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.7">
+          <t>PTI</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.9">
+          <t>Feb</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.10">
+          <t>14</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.12">
+          <t>2002</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.14">
+          <t>05.27</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.15">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.17">
+          <t>new</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.18">
+          <t>delhi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.20">
+          <t>bharat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.21">
+          <t>sanchar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.22">
+          <t>nigam</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.23">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.24">
+          <t>bsnl</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.25">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.26">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.27">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.28">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.29">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.30">
+          <t>warned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.32">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.33">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.34">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.35">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.36">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.37">
+          <t>disinvest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.38">
+          <t>stake</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.39">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.40">
+          <t>bsnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.41">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.42">
+          <t>mtnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.43">
+          <t>saying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.44">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.45">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.46">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.47">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.48">
+          <t>assurances</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.49">
+          <t>given</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.50">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.51">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.52">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.53">
+          <t>announcement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.54">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.55">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.56">
+          <t>communications</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.57">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.58">
+          <t>pramod</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.59">
+          <t>mahajan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.60">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.61">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.62">
+          <t>only</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.63">
+          <t>shocking</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.64">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.65">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.66">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.67">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.68">
+          <t>assurances</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.69">
+          <t>given</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.70">
+          <t>earlier</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.71">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.72">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.73">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.74">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.75">
+          <t>bsnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.76">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.77">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.78">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.79">
+          <t>privatised</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.1.w.80">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.1">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.2">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.3">
+          <t>called</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.4">
+          <t>upon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.6">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.8">
+          <t>immediately</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.9">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.10">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.11">
+          <t>holding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.12">
+          <t>demonstrations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.13">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.14">
+          <t>respective</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.15">
+          <t>offices</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.16">
+          <t>throughout</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.18">
+          <t>country</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.19">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.20">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.21">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.22">
+          <t>bsnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.23">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.24">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.25">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.26">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.27">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.28">
+          <t>statement</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.29">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.2.w.30">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.1">
+          <t>stating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.2">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.4">
+          <t>bsnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.5">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.6">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.7">
+          <t>officers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.8">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.9">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.10">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.12">
+          <t>announcement</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.13">
+          <t>lightly</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.15">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.16">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.17">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.19">
+          <t>proposal</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.20">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.21">
+          <t>disinvesting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.22">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.23">
+          <t>bsnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.24">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.25">
+          <t>mtnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.26">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.27">
+          <t>dropped</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.3.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.1">
+          <t>mahajan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.2">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.3">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.5">
+          <t>wednesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.7">
+          <t>mumbai</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.8">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.10">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.11">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.12">
+          <t>disinvest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.13">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.14">
+          <t>stake</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.15">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.16">
+          <t>mtnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.17">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.18">
+          <t>bsnl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.19">
+          <t>through</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.20">
+          <t>competitive</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.21">
+          <t>bidding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.22">
+          <t>although</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.23">
+          <t>"</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.24">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.25">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.26">
+          <t>table</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.27">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.28">
+          <t>been</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.29">
+          <t>set</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.30">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.4.w.31">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.5.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.5.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.p.1.s.5.w.3">
+          <t>https://timesofindia.indiatimes.com/business/india-business/BSNL-Employees-Union-protests-against-disinvestment/articleshow/972751.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

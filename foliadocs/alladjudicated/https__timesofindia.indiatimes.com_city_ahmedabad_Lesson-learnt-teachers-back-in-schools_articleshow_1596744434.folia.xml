@@ -1,0 +1,1971 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:08" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Motivation2">economic_non-welfare</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="SocialClass2">non-manual_working_class</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="SocialClass">non-manual_working_class</meta>
+    <meta id="Centrality2">Urban</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Centrality">Urban,Rural</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">No</meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Poor">No</meta>
+    <meta id="EventCount">2</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Formality2">Formal</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Violent2">No</meta>
+    <meta id="Formality">Formal</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.1">
+          <t>Lesson</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.2">
+          <t>learnt</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.4">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.5">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.7">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.8">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.9">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.10">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.11">
+          <t>15</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.15">
+          <t>01.27</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.16">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.18">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.20">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.21">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.22">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.23">
+          <t>lot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.24">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.25">
+          <t>catching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.26">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.28">
+          <t>do</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.29">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.30">
+          <t>higher</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.31">
+          <t>secondary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.32">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.33">
+          <t>reopened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.34">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.35">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.36">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.37">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.38">
+          <t>ending</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.39">
+          <t>their</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.40">
+          <t>fortnight-long</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.41">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.42">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.43">
+          <t>achieved</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.44">
+          <t>nothing</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.45">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-10T17:47:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.1">
+            <wref t="Lesson" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.1"/>
+            <wref t="learnt" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.2"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.3"/>
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.4"/>
+            <wref t="back" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.5"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.6"/>
+            <wref t="schools" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-10T17:47:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.2">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.10"/>
+            <wref t="15" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.14"/>
+            <wref t="01.27" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.15"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-06-12T09:09:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.3">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-10T17:48:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.4">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.41"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-13T16:01:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.10">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.37"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-13T16:02:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.14">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.37"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-13T16:03:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.17">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.37"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-06-18T12:39:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.11">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-06-18T12:39:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.12">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.4"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-06-18T12:39:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.15">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.1.w.4"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.2">
+          <t>teachers</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.3">
+          <t>did</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.4">
+          <t>n't</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.5">
+          <t>really</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.6">
+          <t>return</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.8">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.9">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.10">
+          <t>victors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.11">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.12">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.14">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.15">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.16">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.17">
+          <t>sheepish</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.18">
+          <t>grin</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.19">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.20">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.21">
+          <t>it</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.22">
+          <t>all</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.2.w.23">
+          <t>.</t>
+        </w>
+        <entities/>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.1">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.3">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.4">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.5">
+          <t>behaved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.6">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.7">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.8">
+          <t>nothing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.9">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.10">
+          <t>happened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.13">
+          <t>last</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.14">
+          <t>fortnight</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.17">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.18">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.19">
+          <t>just</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.20">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.21">
+          <t>day</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.22">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.23">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.24">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.25">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.26">
+          <t>city</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.27">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="urban" datetime="2018-05-13T15:57:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.7">
+            <wref t="city" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.3.w.26"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.1">
+          <t>but</t>
+        </w>
+        <w space="no" class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.2">
+          <t>post-stir</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.5">
+          <t>students</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.6">
+          <t>have</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.7">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.8">
+          <t>indeed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.10">
+          <t>begun</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.11">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.12">
+          <t>see</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.13">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.14">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.15">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.16">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.17">
+          <t>different</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.18">
+          <t>light</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.20">
+          <t>what</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.21">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.22">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.23">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.24">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.25">
+          <t>putting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.26">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.27">
+          <t>vulgar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.28">
+          <t>posters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.31">
+          <t>education</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.32">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.33">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.34">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.35">
+          <t>busy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.36">
+          <t>ahmedabad</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.37">
+          <t>street</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.38">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.39">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.40">
+          <t>i</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.41">
+          <t>wanted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.42">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.43">
+          <t>ask</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.44">
+          <t>my</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.45">
+          <t>teacher</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.46">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.47">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.48">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.49">
+          <t>scold</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.50">
+          <t>us</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.51">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.52">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.53">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.54">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.55">
+          <t>similar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.56">
+          <t>cartoons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.57">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.58">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.59">
+          <t>black</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.60">
+          <t>board</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.61">
+          <t>every</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.62">
+          <t>day</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.63">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.64">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.65">
+          <t>remarked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.66">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.67">
+          <t>tenth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.68">
+          <t>standard</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.69">
+          <t>student</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.70">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.71">
+          <t>st</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.72">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-13T15:58:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.8">
+            <wref t="putting" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.25"/>
+            <wref t="up" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.26"/>
+            <wref t="vulgar" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.27"/>
+            <wref t="posters" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.28"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-06-18T12:41:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.18">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.36"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-06-18T12:41:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.23">
+            <wref t="street" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.37"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-13T15:58:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.9">
+            <wref t="education" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.31"/>
+            <wref t="minister" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.32"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-13T16:01:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.13">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.14"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-13T16:03:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.16">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.14"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-13T16:04:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.19">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.4.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.5">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.5.w.1">
+          <t>xavier</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.5.w.2">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.5.w.3">
+          <t>loyola</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.5.w.4">
+          <t>hall</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.5.w.5">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.3">
+          <t>still</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.4">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.5">
+          <t>clear</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.6">
+          <t>whether</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.7">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.8">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.10">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.11">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.12">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.13">
+          <t>lost</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.14">
+          <t>precious</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.15">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.16">
+          <t>weeks</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.17">
+          <t>because</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.19">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.20">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.22">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.23">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.24">
+          <t>delivered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.25">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.26">
+          <t>blow</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.27">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.29">
+          <t>curtailment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.31">
+          <t>navratri</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.32">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.33">
+          <t>diwali</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.34">
+          <t>holidays</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.35">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-10T17:49:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.5">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.6.w.20"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.1">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.2">
+          <t>again</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.4">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.5">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.6">
+          <t>going</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.8">
+          <t>make</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.10">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.11">
+          <t>too</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.12">
+          <t>popular</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.7.w.13">
+          <t>!</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.1">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.2">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.3">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.4">
+          <t>ominous</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.5">
+          <t>silence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.6">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.7">
+          <t>you</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.8">
+          <t>enter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.9">
+          <t>diwan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.10">
+          <t>ballubhai</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.11">
+          <t>higher</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.12">
+          <t>secondary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.13">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.14">
+          <t>at</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.15">
+          <t>paldi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.8.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.1">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.4">
+          <t>buzz</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.6">
+          <t>busy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.7">
+          <t>classrooms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.8">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.10">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.11">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.12">
+          <t>indeed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.13">
+          <t>withdrawn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.14">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.15">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.17">
+          <t>you</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.18">
+          <t>wonder</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.19">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-10T17:49:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.6">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.15"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-13T16:09:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.20">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.10"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-13T16:09:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.21">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.10"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-13T16:09:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.text.entity.22">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.9.w.10"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.1">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.2">
+          <t>peep</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.3">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.5">
+          <t>classrooms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.6">
+          <t>proves</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.7">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.8">
+          <t>normal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.9">
+          <t>business</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.10">
+          <t>is</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.12">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.13">
+          <t>fact</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.15">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.16">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.17">
+          <t>track</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.10.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11">
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.1">
+          <t>stern-looking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.2">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.3">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.4">
+          <t>holding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.5">
+          <t>fort</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.6">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.7">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.8">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.11">
+          <t>uniforms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.12">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.13">
+          <t>look</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.14">
+          <t>neat</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.16">
+          <t>peer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.17">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.18">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.19">
+          <t>textbooks</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.11.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.1">
+          <t>principal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.2">
+          <t>dayalbhai</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.3">
+          <t>patel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.4">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.5">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.6">
+          <t>busy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.7">
+          <t>reading</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.8">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.9">
+          <t>book</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.11">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.12">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.13">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.14">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.16">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.17">
+          <t>booklet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.20">
+          <t>essential</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.21">
+          <t>services</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.22">
+          <t>maintenance</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.23">
+          <t>act</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.12.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.3">
+          <t>wondering</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.4">
+          <t>how</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.5">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.6">
+          <t>could</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.7">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.8">
+          <t>brought</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.9">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.10">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.11">
+          <t>purview</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.13.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.1">
+          <t>patel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.2">
+          <t>confirmed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.3">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.4">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.5">
+          <t>hardly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.6">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.7">
+          <t>absentees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.8">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.9">
+          <t>school</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.11">
+          <t>either</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.12">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.13">
+          <t>or</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.14">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.14.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.2">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.3">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.4">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.5">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.6">
+          <t>opportune</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.7">
+          <t>moment</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.8">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.9">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.10">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.11">
+          <t>ankur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.12">
+          <t>high</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.13">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.15">
+          <t>congratulate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.16">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.17">
+          <t>octogenarian</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.18">
+          <t>director</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.19">
+          <t>frenny</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.20">
+          <t>desai</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.21">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.22">
+          <t>recently</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.23">
+          <t>received</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.25">
+          <t>eklavya</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.26">
+          <t>excellent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.27">
+          <t>educator</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.28">
+          <t>award</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.29">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.30">
+          <t>lifetime</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.31">
+          <t>achievement</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.15.w.32">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.1">
+          <t>present</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.2">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.3">
+          <t>past</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.4">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.5">
+          <t>gathered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.7">
+          <t>her</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.8">
+          <t>chamber</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.10">
+          <t>wish</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.11">
+          <t>desai</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.13">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.16">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.17">
+          <t>remaining</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.18">
+          <t>gandhians</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.20">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.21">
+          <t>participated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.22">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.24">
+          <t>freedom</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.25">
+          <t>struggle</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.16.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.1">
+          <t>outside</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.4">
+          <t>sea</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.6">
+          <t>white</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.7">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.8">
+          <t>blue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.9">
+          <t>uniforms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.10">
+          <t>stroll</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.11">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.12">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.13">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.14">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.15">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.16">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.17">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.18">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.19">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.20">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.21">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.22">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.23">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.24">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.25">
+          <t>point</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.26">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.28">
+          <t>unexpected</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.29">
+          <t>vacation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.30">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.31">
+          <t>i</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.32">
+          <t>started</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.33">
+          <t>missing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.34">
+          <t>my</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.35">
+          <t>classmates</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.37">
+          <t>my</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.38">
+          <t>friends</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.39">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.40">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.41">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.42">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.43">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.44">
+          <t>students</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.45">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.46">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.47">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.48">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.49">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.50">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.51">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.52">
+          <t>just</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.53">
+          <t>my</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.54">
+          <t>friends</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.17.w.55">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.2">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.3">
+          <t>sense</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.4">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.5">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.6">
+          <t>good</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.8">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.9">
+          <t>back</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.18.w.10">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.2">
+          <t>rest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.3">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.4">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.5">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.6">
+          <t>same</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.7">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.8">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.9">
+          <t>st</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.10">
+          <t>xavier</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.11">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.12">
+          <t>high</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.13">
+          <t>school</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.15">
+          <t>loyola</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.16">
+          <t>hall</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.18">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.19">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.22">
+          <t>few</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.23">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.24">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.25">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.26">
+          <t>handful</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.28">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.30">
+          <t>standard</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.31">
+          <t>xi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.32">
+          <t>kept</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.33">
+          <t>coming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.34">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.35">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.36">
+          <t>campus</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.37">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.38">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.39">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.40">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.41">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.42">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.43">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.44">
+          <t>them</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.45">
+          <t>to</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.19.w.46">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.1">
+          <t>it</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.2">
+          <t>was</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.3">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.4">
+          <t>therefore</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.6">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.7">
+          <t>difficult</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.8">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.9">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.11">
+          <t>get</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.12">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.14">
+          <t>track</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.15">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.17">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.18">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.19">
+          <t>called</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.20">
+          <t>off</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.21">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.22">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.23">
+          <t>you</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.24">
+          <t>can</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.25">
+          <t>see</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.26">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.27">
+          <t>yourself</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.28">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.29">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.30">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.31">
+          <t>principal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.32">
+          <t>father</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.33">
+          <t>fernand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.34">
+          <t>durai</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.35">
+          <t>pointing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.36">
+          <t>outside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.37">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.38">
+          <t>window</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.39">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.40">
+          <t>groups</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.41">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.42">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.43">
+          <t>ran</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.44">
+          <t>around</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.45">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.46">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.47">
+          <t>recess</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.48">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.49">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.50">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.51">
+          <t>seem</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.52">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.53">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.54">
+          <t>happy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.55">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.56">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.57">
+          <t>back</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.58">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.59">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.60">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.61">
+          <t>added</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.62">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.63">
+          <t>except</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.64">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.65">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.66">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.67">
+          <t>reported</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.68">
+          <t>sick</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.69">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.70">
+          <t>most</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.71">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.72">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.73">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.74">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.75">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.76">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.77">
+          <t>back</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.20.w.78">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.21">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.21.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.21.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Lesson-learnt-teachers-back-in-schools_articleshow_1596744434.p.1.s.21.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/Lesson-learnt-teachers-back-in-schools/articleshow/1596744434.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

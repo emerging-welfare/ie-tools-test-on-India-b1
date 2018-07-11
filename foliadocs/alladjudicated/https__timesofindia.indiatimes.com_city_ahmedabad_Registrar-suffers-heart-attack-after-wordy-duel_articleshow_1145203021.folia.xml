@@ -1,0 +1,988 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:35" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="SocialClass">non-manual_working_class</meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Formality">Informal</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Violent">No</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="Formality2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.1">
+          <t>Registrar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.2">
+          <t>suffers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.3">
+          <t>heart</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.4">
+          <t>attack</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.5">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.6">
+          <t>wordy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.7">
+          <t>duel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.8">
+          <t>THE</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.9">
+          <t>TIMES</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.10">
+          <t>OF</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.11">
+          <t>INDIA</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.12">
+          <t>NEWS</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.13">
+          <t>SERVICE</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.14">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.15">
+          <t>Jul</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.16">
+          <t>21</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.17">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.18">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.19">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.20">
+          <t>12.25</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.21">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.22">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.23">
+          <t>bhavnagar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.24">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.26">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.28">
+          <t>self-financed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.29">
+          <t>ba</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.30">
+          <t>and</t>
+        </w>
+        <w space="no" class="URL-DOMAIN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.31">
+          <t>b.com</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-03T09:52:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.1">
+            <wref t="bhavnagar" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-01T17:46:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.2">
+            <wref t="Registrar" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.1"/>
+            <wref t="suffers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.2"/>
+            <wref t="heart" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.3"/>
+            <wref t="attack" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.4"/>
+            <wref t="after" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.5"/>
+            <wref t="wordy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.6"/>
+            <wref t="duel" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-01T17:47:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.3">
+            <wref t="Jul" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.15"/>
+            <wref t="21" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.16"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.17"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.18"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.19"/>
+            <wref t="12.25" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.20"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.21"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.1.w.22"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.1">
+          <t>courses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.2">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.3">
+          <t>colleges</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.4">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.5">
+          <t>took</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.7">
+          <t>serious</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.8">
+          <t>turn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.9">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.10">
+          <t>wednesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.11">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.12">
+          <t>exchange</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.14">
+          <t>words</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.15">
+          <t>between</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.17">
+          <t>abvp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.18">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.21">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.22">
+          <t>registrar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.23">
+          <t>bharatsinh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.24">
+          <t>parmar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.2.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.2">
+          <t>latter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.3">
+          <t>suffered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.4">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.5">
+          <t>mild</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.6">
+          <t>heart</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.7">
+          <t>attack</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.9">
+          <t>few</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.10">
+          <t>moments</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.11">
+          <t>later</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.13">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.14">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.15">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.16">
+          <t>hospital</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.3.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.2">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.3">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.4">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.5">
+          <t>went</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.6">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.7">
+          <t>flash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.8">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.10">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.11">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.12">
+          <t>c</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.13">
+          <t>v</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.14">
+          <t>galani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.15">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.17">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.18">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.19">
+          <t>continue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.20">
+          <t>until</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.21">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.22">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.23">
+          <t>promsied</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.24">
+          <t>protection</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.25">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-01T17:47:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.4">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.1"/>
+            <wref t="university" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.2"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.3"/>
+            <wref t="union" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-03T09:57:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.6">
+            <wref t="c" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.12"/>
+            <wref t="v" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.13"/>
+            <wref t="galani" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.14"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-03T09:57:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.11">
+            <wref t="union" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-03T09:57:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.12">
+            <wref t="president" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.11"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-01T17:47:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.5">
+            <wref t="flash" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.7"/>
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-01T17:49:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.7">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-01T17:56:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.9">
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.21"/>
+            <wref t="were" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.22"/>
+            <wref t="promsied" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.23"/>
+            <wref t="protection" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.4.w.24"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.1">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.2">
+          <t>sources</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.3">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.4">
+          <t>abvp</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.5">
+          <t>leaders</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.7">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.8">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.9">
+          <t>executive</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.10">
+          <t>council</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.11">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.12">
+          <t>shailendrasinh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.13">
+          <t>gohil</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.15">
+          <t>raju</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.16">
+          <t>pandya</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.18">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.19">
+          <t>come</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.21">
+          <t>meet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.23">
+          <t>vice-chancellor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.24">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.25">
+          <t>request</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.26">
+          <t>him</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.28">
+          <t>convert</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.30">
+          <t>self-financed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.31">
+          <t>fyba</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.32">
+          <t>class</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.33">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.35">
+          <t>samaldas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.36">
+          <t>college</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.37">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.38">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.39">
+          <t>regular</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.40">
+          <t>one</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.41">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-18T10:39:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.10">
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.27"/>
+            <wref t="convert" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.28"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.29"/>
+            <wref t="self-financed" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.30"/>
+            <wref t="fyba" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.31"/>
+            <wref t="class" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.32"/>
+            <wref t="at" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.33"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.34"/>
+            <wref t="samaldas" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.35"/>
+            <wref t="college" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.36"/>
+            <wref t="into" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.37"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.38"/>
+            <wref t="regular" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.39"/>
+            <wref t="one" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.5.w.40"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-18T10:41:57">Although the sentence does not include an event, I highlighted this phrase because it seems to be the only one explicitly stating the event motivation. </comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.1">
+          <t>as</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.2">
+          <t>vice-chancellor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.3">
+          <t>bharat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.4">
+          <t>oza</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.5">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.6">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.7">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.8">
+          <t>station</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.10">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.11">
+          <t>went</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.14">
+          <t>registrar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.16">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.17">
+          <t>pleaded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.18">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.19">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.20">
+          <t>had</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.21">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.22">
+          <t>powers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.24">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.25">
+          <t>such</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.26">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.27">
+          <t>decision</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.6.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.1">
+          <t>then</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.2">
+          <t>followed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.3">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.4">
+          <t>exchange</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.6">
+          <t>words</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.7">
+          <t>between</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.8">
+          <t>them</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.7.w.9">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.2">
+          <t>registrar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.3">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.5">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.7">
+          <t>remove</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.8">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.9">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.11">
+          <t>university</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.12">
+          <t>building</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.8.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.2">
+          <t>could</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.3">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.4">
+          <t>endure</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.6">
+          <t>stress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.7">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.8">
+          <t>complained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.10">
+          <t>chest</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.11">
+          <t>pain</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.9.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.2">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.3">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.4">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.7">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.8">
+          <t>hospital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.10">
+          <t>later</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.11">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.13">
+          <t>nursing</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.14">
+          <t>home</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.10.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.1">
+          <t>meanwhile</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.3">
+          <t>three</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.4">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.5">
+          <t>associations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.6">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.7">
+          <t>bhavnagar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.8">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.9">
+          <t>pradhyapak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.10">
+          <t>pariwar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.11">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.12">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.13">
+          <t>observed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.14">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.16">
+          <t>sought</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.17">
+          <t>permanent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.18">
+          <t>security</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.19">
+          <t>measures</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.20">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.21">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.22">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.23">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.24">
+          <t>high</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.25">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.27">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.28">
+          <t>took</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.29">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.30">
+          <t>bold</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.31">
+          <t>stand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.32">
+          <t>based</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.33">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.35">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.36">
+          <t>rules</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.37">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.38">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.39">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.40">
+          <t>administrators</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.41">
+          <t>need</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.42">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.43">
+          <t>realise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.44">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.45">
+          <t>enough</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.46">
+          <t>damage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.47">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.48">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.49">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.50">
+          <t>done</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.51">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.52">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.53">
+          <t>university</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.54">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.55">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.56">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.57">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.58">
+          <t>professor</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.59">
+          <t>lamented</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.60">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-01T17:54:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.text.entity.8">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.11.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.12.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.12.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Registrar-suffers-heart-attack-after-wordy-duel_articleshow_1145203021.p.1.s.12.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/Registrar-suffers-heart-attack-after-wordy-duel/articleshow/1145203021.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

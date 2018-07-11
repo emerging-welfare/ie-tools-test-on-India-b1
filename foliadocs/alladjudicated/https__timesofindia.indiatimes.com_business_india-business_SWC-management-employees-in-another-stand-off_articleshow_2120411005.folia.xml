@@ -1,0 +1,1465 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-05T11:35:19" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Event">No</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Motivation2"></meta>
+    <meta id="Religion"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="SocialClass"></meta>
+    <meta id="Caste"></meta>
+    <meta id="Ethnicity"></meta>
+    <meta id="Centrality2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Caste2"></meta>
+    <meta id="Centrality"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="Ideology"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="Motivation"></meta>
+    <meta id="Poor"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.text">
+    <p xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.1">
+          <t>SWC</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.2">
+          <t>management</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.4">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.6">
+          <t>another</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.7">
+          <t>stand-off</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.8">
+          <t>Oct</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.9">
+          <t>3</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.11">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.13">
+          <t>09.14</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.14">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.15">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.16">
+          <t>kolkata</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.17">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.19">
+          <t>shaw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.20">
+          <t>wallace</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.21">
+          <t>management</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.22">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.23">
+          <t>wednesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.24">
+          <t>asserted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.25">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.26">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.27">
+          <t>had</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.28">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.29">
+          <t>intention</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.31">
+          <t>folding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.32">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.33">
+          <t>operations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.34">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.35">
+          <t>kolkata</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.37">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.38">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.39">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.40">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.41">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.42">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.43">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.44">
+          <t>disallowed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.45">
+          <t>entry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.46">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.47">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.48">
+          <t>company</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.49">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.50">
+          <t>head</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.51">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.52">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.53">
+          <t>without</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.54">
+          <t>prior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.55">
+          <t>intimation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.56">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.57">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.58">
+          <t>attempt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.59">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.60">
+          <t>force</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.61">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.62">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.63">
+          <t>resign</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.64">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.65">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.66">
+          <t>kolkata</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.67">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.68">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.69">
+          <t>important</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.70">
+          <t>centre</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.71">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.72">
+          <t>us</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.73">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.74">
+          <t>we</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.75">
+          <t>do</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.76">
+          <t>n't</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.77">
+          <t>want</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.78">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.79">
+          <t>run</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.80">
+          <t>away</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.81">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.82">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.83">
+          <t>city</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.84">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.85">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.86">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.87">
+          <t>spokesman</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.88">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.89">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.90">
+          <t>shaw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.91">
+          <t>wallace</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.92">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.93">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.94">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.95">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.96">
+          <t>comment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.97">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.98">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.99">
+          <t>allegations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.100">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.101">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.1.w.102">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.1">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.4">
+          <t>spokesman</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.5">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.7">
+          <t>shaw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.8">
+          <t>wallace</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.9">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.10">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.11">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.12">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.14">
+          <t>large</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.15">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.17">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.18">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.20">
+          <t>head</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.21">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.22">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.23">
+          <t>denied</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.24">
+          <t>entry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.25">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.27">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.28">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.29">
+          <t>morning</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.30">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.31">
+          <t>alleging</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.32">
+          <t>that</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.33">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.34">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.35">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.36">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.37">
+          <t>attempt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.38">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.39">
+          <t>force</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.40">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.41">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.42">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.43">
+          <t>resign</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.44">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.2.w.45">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.2">
+          <t>termed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.4">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.5">
+          <t>as</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.6">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.7">
+          <t>totally</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.8">
+          <t>illegal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.9">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.10">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.11">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.12">
+          <t>was</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.13">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.14">
+          <t>prior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.15">
+          <t>notice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.18">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.3.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.2">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.5">
+          <t>management</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.6">
+          <t>wanted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.8">
+          <t>close</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.9">
+          <t>down</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.10">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.12">
+          <t>kolkata</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.13">
+          <t>because</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.16">
+          <t>resolution</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.17">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.18">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.20">
+          <t>annual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.21">
+          <t>general</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.22">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.24">
+          <t>shift</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.26">
+          <t>head</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.27">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.28">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.29">
+          <t>mumbai</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.4.w.30">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.5">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.6">
+          <t>called</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.9">
+          <t>pacify</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.10">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.11">
+          <t>sides</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.12">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.14">
+          <t>section</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.15">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.16">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.17">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.18">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.19">
+          <t>allowed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.21">
+          <t>enter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.22">
+          <t>allegedly</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.23">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.24">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.25">
+          <t>late</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.26">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.28">
+          <t>situation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.29">
+          <t>showed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.30">
+          <t>signs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.31">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.32">
+          <t>going</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.33">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.34">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.35">
+          <t>control</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.5.w.36">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.2">
+          <t>stand-off</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.3">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.4">
+          <t>barely</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.6">
+          <t>few</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.7">
+          <t>days</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.8">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.10">
+          <t>m</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.11">
+          <t>r</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.12">
+          <t>chabria-led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.13">
+          <t>management</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.14">
+          <t>passed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.16">
+          <t>resolution</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.17">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.18">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.19">
+          <t>company</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.20">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.21">
+          <t>annual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.22">
+          <t>general</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.23">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.24">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.25">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.26">
+          <t>september</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.27">
+          <t>28</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.28">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.29">
+          <t>shift</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.31">
+          <t>registered</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.32">
+          <t>office</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.33">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.34">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.35">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.36">
+          <t>large</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.37">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.38">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.39">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.40">
+          <t>found</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.41">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.42">
+          <t>main</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.43">
+          <t>gate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.44">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.45">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.46">
+          <t>head</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.47">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.48">
+          <t>closed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.49">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.50">
+          <t>morning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.51">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.52">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.53">
+          <t>section</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.54">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.55">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.56">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.57">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.58">
+          <t>inside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.59">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.60">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.61">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.62">
+          <t>allowed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.63">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.64">
+          <t>come</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.65">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.66">
+          <t>even</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.67">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.68">
+          <t>food</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.69">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.70">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.71">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.72">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.73">
+          <t>spokesman</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.74">
+          <t>alleged</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.6.w.75">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.1">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.2">
+          <t>management</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.3">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.4">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.6">
+          <t>rejected</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.8">
+          <t>allegation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.10">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.11">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.12">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.13">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.15">
+          <t>step</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.17">
+          <t>enforce</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.18">
+          <t>discipline</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.19">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.21">
+          <t>head</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.22">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.24">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.25">
+          <t>latecomers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.26">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.27">
+          <t>refused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.28">
+          <t>permission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.29">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.30">
+          <t>enter</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.7.w.31">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.2">
+          <t>company</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.3">
+          <t>spokesman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.5">
+          <t>kolkata</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.6">
+          <t>contributed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.7">
+          <t>significantly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.10">
+          <t>business</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.11">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.13">
+          <t>company</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.14">
+          <t>and</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.15">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.16">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.17">
+          <t>cannot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.18">
+          <t>simply</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.19">
+          <t>run</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.20">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.21">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.22">
+          <t>here</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.23">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.8.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.1">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.2">
+          <t>union</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.4">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.5">
+          <t>turn</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.7">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.8">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.9">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.10">
+          <t>measures</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.11">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.12">
+          <t>adopted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.13">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.15">
+          <t>force</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.16">
+          <t>the</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.17">
+          <t>195</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.18">
+          <t>-</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.19">
+          <t>odd</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.20">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.21">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.23">
+          <t>head</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.24">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.25">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.26">
+          <t>resign</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.27">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.28">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.29">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.30">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.31">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.32">
+          <t>paid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.33">
+          <t>salaries</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.34">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.35">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.36">
+          <t>year</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.9.w.37">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.2">
+          <t>company</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.3">
+          <t>maintained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.5">
+          <t>staffers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.6">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.7">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.8">
+          <t>accepting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.9">
+          <t>salaries</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.10">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.11">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.12">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.13">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.14">
+          <t>willing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.16">
+          <t>concede</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.19">
+          <t>transfer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.20">
+          <t>of</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.21">
+          <t>20</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.22">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.24">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.25">
+          <t>unit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.26">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.27">
+          <t>chennai</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.10.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.2">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.3">
+          <t>countered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.5">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.6">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.7">
+          <t>ready</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.9">
+          <t>discuss</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.11">
+          <t>voluntary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.12">
+          <t>retirement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.13">
+          <t>scheme</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.14">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.15">
+          <t>employees</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.16">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.11.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.1">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.2">
+          <t>spokesman</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.3">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.4">
+          <t>:</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.5">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.6">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.7">
+          <t>you</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.8">
+          <t>want</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.10">
+          <t>get</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.11">
+          <t>rid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.12">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.13">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.15">
+          <t>give</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.16">
+          <t>us</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.17">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.18">
+          <t>proposal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.19">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.20">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.21">
+          <t>will</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.22">
+          <t>consider</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.23">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.24">
+          <t>"</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_business_india-business_SWC-management-employees-in-another-stand-off_articleshow_2120411005.p.1.s.12.w.25">
+          <t>https://timesofindia.indiatimes.com/business/india-business/SWC-management-employees-in-another-stand-off/articleshow/2120411005.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>
