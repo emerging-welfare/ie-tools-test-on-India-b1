@@ -1,0 +1,1206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:37" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">No</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="SocialClass">professionals</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Motivation2">economic_non-welfare</meta>
+    <meta id="SocialClass2">non-manual_working_class,informal_working_class</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">Yes</meta>
+    <meta id="Centrality2">N-A</meta>
+    <meta id="EventCount">2</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Violent2">No</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.1">
+          <t>Govt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.2">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.3">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.4">
+          <t>resolve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.5">
+          <t>AIIMS</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.6">
+          <t>crisis</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.7">
+          <t>within</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.8">
+          <t>36</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.9">
+          <t>hrs</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.10">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.11">
+          <t>27</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.15">
+          <t>01.42</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.16">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.18">
+          <t>new</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.19">
+          <t>delhi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.20">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.22">
+          <t>delhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.23">
+          <t>high</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.24">
+          <t>court</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.26">
+          <t>taking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.27">
+          <t>suo</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.28">
+          <t>motu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.29">
+          <t>notice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.32">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.33">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.34">
+          <t>resident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.35">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.36">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.37">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.38">
+          <t>india</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.39">
+          <t>institute</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.40">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.41">
+          <t>medical</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.42">
+          <t>sciences</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.43">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.44">
+          <t>aiims</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.45">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.46">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.47">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.48">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.49">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.50">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.51">
+          <t>monday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.52">
+          <t>directed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.53">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.54">
+          <t>centre</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.55">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.56">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.57">
+          <t>institute</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.58">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.59">
+          <t>resolve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.60">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.61">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.62">
+          <t>within</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.63">
+          <t>36</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.64">
+          <t>hours</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.65">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-04-28T13:02:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.2">
+            <wref t="new" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.18"/>
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-14T22:20:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.9">
+            <wref t="Govt" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.1"/>
+            <wref t="asked" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.2"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.3"/>
+            <wref t="resolve" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.4"/>
+            <wref t="AIIMS" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.5"/>
+            <wref t="crisis" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.6"/>
+            <wref t="within" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.7"/>
+            <wref t="36" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.8"/>
+            <wref t="hrs" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-14T22:20:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.10">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.10"/>
+            <wref t="27" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.14"/>
+            <wref t="01.42" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.15"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:27:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.11">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-04-14T22:30:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.14">
+            <wref t="all" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.37"/>
+            <wref t="india" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.38"/>
+            <wref t="institute" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.39"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.40"/>
+            <wref t="medical" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.41"/>
+            <wref t="sciences" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.42"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-14T22:47:22">facility type = aiims hospitals </comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-04-14T22:30:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.15">
+            <wref t="aiims" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.44"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-04-24T09:28:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.1">
+            <wref t="AIIMS" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-24T09:29:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.3">
+            <wref t="institute" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.57"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-28T13:06:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.12">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.35"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T22:29:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.13">
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.48"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-28T13:06:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.5">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.35"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-28T13:07:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.6">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.1.w.35"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.1">
+          <t>giving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.2">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.3">
+          <t>green</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.4">
+          <t>signal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.6">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.8">
+          <t>invoke</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.10">
+          <t>essential</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.11">
+          <t>services</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.12">
+          <t>maintenance</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.13">
+          <t>act</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.16">
+          <t>division</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.17">
+          <t>bench</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.18">
+          <t>comprising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.19">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.20">
+          <t>justice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.21">
+          <t>arijit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.22">
+          <t>passayat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.24">
+          <t>justice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.25">
+          <t>d</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.26">
+          <t>k</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.27">
+          <t>jain</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.28">
+          <t>directed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.29">
+          <t>health</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.30">
+          <t>secretary</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.31">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.32">
+          <t>director</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.33">
+          <t>general</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.34">
+          <t>health</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.35">
+          <t>services</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.36">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.37">
+          <t>aiims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.38">
+          <t>director</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.39">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.40">
+          <t>ensure</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.41">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.42">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.43">
+          <t>comes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.44">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.45">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.46">
+          <t>end</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.47">
+          <t>within</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.48">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.49">
+          <t>next</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.50">
+          <t>36</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.51">
+          <t>hours</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.2.w.52">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.1">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.3">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.4">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.5">
+          <t>gone</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.6">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.7">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.8">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.9">
+          <t>aug</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.10">
+          <t>22</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.11">
+          <t>following</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.12">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.13">
+          <t>manhandling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.15">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.17">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.18">
+          <t>colleagues</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.19">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.20">
+          <t>some</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.21">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.24">
+          <t>workers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.25">
+          <t>resorted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.26">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.27">
+          <t>similar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.28">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.29">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.30">
+          <t>monday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.31">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T22:31:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.17">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T22:33:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.21">
+            <wref t="workers" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.24"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-28T13:11:04">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-28T13:09:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.7">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-28T13:09:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.8">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.3"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:31:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.18">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-28T13:09:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.19">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.8"/>
+            <wref t="aug" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.9"/>
+            <wref t="22" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-14T22:32:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.20">
+            <wref t="manhandling" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.13"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.14"/>
+            <wref t="one" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.15"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.16"/>
+            <wref t="their" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.17"/>
+            <wref t="colleagues" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.18"/>
+            <wref t="by" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.19"/>
+            <wref t="some" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.20"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:33:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.22">
+            <wref t="similar" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.27"/>
+            <wref t="action" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.28"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-28T13:11:13">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-14T22:33:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.23">
+            <wref t="from" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.29"/>
+            <wref t="monday" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.3.w.30"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-28T13:11:24">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.2">
+          <t>court</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.3">
+          <t>issued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.4">
+          <t>notices</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.7">
+          <t>health</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.8">
+          <t>minister</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.12">
+          <t>capacity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.14">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.15">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.16">
+          <t>aiims</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.18">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.19">
+          <t>director</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.21">
+          <t>health</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.22">
+          <t>ministry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.24">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.25">
+          <t>institute</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.26">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.27">
+          <t>karamchari</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.28">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.29">
+          <t>asking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.30">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.31">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.32">
+          <t>file</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.33">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.34">
+          <t>status</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.35">
+          <t>report</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.36">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.37">
+          <t>aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.38">
+          <t>29</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.39">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" confidence="0.5" datetime="2018-04-14T22:34:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.24">
+            <wref t="karamchari" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.27"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-28T13:12:04">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" confidence="0.5" datetime="2018-04-28T13:14:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.29">
+            <wref t="karamchari" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.27"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-28T13:14:58">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" confidence="0.5" datetime="2018-04-28T13:14:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.35">
+            <wref t="karamchari" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.4.w.27"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-28T13:14:58">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.2">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.3">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.4">
+          <t>free</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.6">
+          <t>invoke</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.7">
+          <t>esma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.9">
+          <t>resolve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.10">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.11">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.14">
+          <t>court</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.15">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.5.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.1">
+          <t>earlier</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.4">
+          <t>bench</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.5">
+          <t>headed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.6">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.7">
+          <t>justice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.8">
+          <t>devinder</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.9">
+          <t>gupta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.10">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.11">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.12">
+          <t>suo</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.13">
+          <t>motu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.14">
+          <t>notice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.15">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.17">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.18">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.19">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.21">
+          <t>class</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.22">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.24">
+          <t>four</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.25">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.26">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.27">
+          <t>referred</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.29">
+          <t>matter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.30">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.32">
+          <t>chief</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.33">
+          <t>justice</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.34">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.35">
+          <t>bench</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.36">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.37">
+          <t>further</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.38">
+          <t>action</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.39">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:35:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.26">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.17"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T22:35:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.27">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-22T09:53:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.28">
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.25"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-28T13:15:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.36">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-28T13:15:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.37">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.6.w.19"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.1">
+          <t>taking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.2">
+          <t>serious</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.3">
+          <t>view</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.5">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.6">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.9">
+          <t>bench</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.10">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.12">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.13">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.14">
+          <t>cannot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.15">
+          <t>refuse</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.17">
+          <t>treat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.18">
+          <t>patients</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.20">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.21">
+          <t>anybody</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.22">
+          <t>prevents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.23">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.24">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.25">
+          <t>doing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.26">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.27">
+          <t>duty</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.28">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.29">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.30">
+          <t>amount</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.31">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.32">
+          <t>violation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.33">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.34">
+          <t>article</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.35">
+          <t>21</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.36">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.37">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.38">
+          <t>constitution</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.39">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.40">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.41">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.42">
+          <t>resident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.43">
+          <t>doctors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.44">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.45">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.46">
+          <t>premier</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.47">
+          <t>institute</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.48">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.49">
+          <t>gone</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.50">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.51">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.52">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.53">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.54">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.55">
+          <t>allegedly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.56">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.57">
+          <t>manhandled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.58">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.59">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.60">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.61">
+          <t>colleague</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.62">
+          <t>overs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.63">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.64">
+          <t>dispute</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.65">
+          <t>arising</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.66">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.67">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.68">
+          <t>treatment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.69">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.70">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.71">
+          <t>security</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.72">
+          <t>guard</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.73">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:36:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.30">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T22:38:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.33">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.51"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-19T20:07:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.34">
+            <wref t="some" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.53"/>
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.54"/>
+            <wref t="allegedly" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.55"/>
+            <wref t="had" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.56"/>
+            <wref t="manhandled" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.57"/>
+            <wref t="one" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.58"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.59"/>
+            <wref t="their" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.60"/>
+            <wref t="colleague" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.61"/>
+            <wref t="overs" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.62"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.63"/>
+            <wref t="dispute" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.64"/>
+            <wref t="arising" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.65"/>
+            <wref t="out" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.66"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.67"/>
+            <wref t="treatment" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.68"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.69"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.70"/>
+            <wref t="security" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.71"/>
+            <wref t="guard" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.72"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-24T09:33:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.4">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.45"/>
+            <wref t="premier" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.46"/>
+            <wref t="institute" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.47"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T22:37:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.31">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-28T13:13:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.32">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.43"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-28T13:16:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.38">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-28T13:16:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.39">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-28T13:16:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.40">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.43"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-28T13:16:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.text.entity.41">
+            <wref t="doctors" id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.7.w.43"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.8.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.8.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs_articleshow_1033994487.p.1.s.8.w.3">
+          <t>https://timesofindia.indiatimes.com/city/delhi/Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs/articleshow/1033994487.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

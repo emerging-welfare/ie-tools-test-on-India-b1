@@ -1,0 +1,2093 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:09" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Religion">Sikhism</meta>
+    <meta id="Motivation2">non-economic</meta>
+    <meta id="SocialClass2">N-A</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Caste">Scheduled Castes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2">Urban,Rural</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Centrality">Rural</meta>
+    <meta id="Religion2">Sikhism</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">Yes</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.1">
+          <t>Two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.2">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.3">
+          <t>Baba</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.4">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.5">
+          <t>men</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.6">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.7">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.9">
+          <t>Oct</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.10">
+          <t>3</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.14">
+          <t>02.22</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.15">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.17">
+          <t>sirhind</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.18">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.19">
+          <t>fatehgarh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.20">
+          <t>sahib</t>
+        </w>
+        <w class="REVERSE-SMILEY" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.21">
+          <t>):</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.22">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.23">
+          <t>police</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.25">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.26">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.27">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.28">
+          <t>claimed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.29">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.30">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.31">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.32">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.33">
+          <t>persons</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.34">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.35">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.36">
+          <t>involvement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.37">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.38">
+          <t>setting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.39">
+          <t>seven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.40">
+          <t>birs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.41">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.42">
+          <t>guru</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.43">
+          <t>granth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.44">
+          <t>sahib</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.45">
+          <t>afire</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.46">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.47">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.48">
+          <t>gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.49">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.50">
+          <t>tarkhan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.51">
+          <t>majra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.52">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.53">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.54">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.55">
+          <t>intervening</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.56">
+          <t>night</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.57">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.58">
+          <t>saturday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.59">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.60">
+          <t>sunday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.61">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T14:38:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.1">
+            <wref t="setting" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.38"/>
+            <wref t="seven" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.39"/>
+            <wref t="birs" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.40"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.41"/>
+            <wref t="guru" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.42"/>
+            <wref t="granth" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.43"/>
+            <wref t="sahib" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.44"/>
+            <wref t="afire" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.45"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-21T14:39:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.2">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.53"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.54"/>
+            <wref t="intervening" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.55"/>
+            <wref t="night" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.56"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.57"/>
+            <wref t="saturday" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.58"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.59"/>
+            <wref t="sunday" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.60"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-21T14:39:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.3">
+            <wref t="tarkhan" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.50"/>
+            <wref t="majra" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.51"/>
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.52"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="rural" datetime="2018-05-21T14:39:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.4">
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.52"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-21T14:47:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.8">
+            <wref t="Two" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.1"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.2"/>
+            <wref t="Baba" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.3"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.4"/>
+            <wref t="men" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.5"/>
+            <wref t="arrested" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="eptime" datetime="2018-05-21T14:47:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.9">
+            <wref t="Oct" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.9"/>
+            <wref t="3" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.13"/>
+            <wref t="02.22" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.14"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-21T14:48:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.10">
+            <wref t="sirhind" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-21T14:48:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.11">
+            <wref t="fatehgarh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.19"/>
+            <wref t="sahib" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.20"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-21T15:18:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.37">
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.48"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:14:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.26">
+            <wref t="Baba" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.1.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.1">
+          <t>following</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.2">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.3">
+          <t>incident</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.6">
+          <t>agitated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.7">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.8">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.9">
+          <t>blocked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.10">
+          <t>road</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.11">
+          <t>traffic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.12">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.13">
+          <t>various</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.14">
+          <t>places</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.15">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.17">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.18">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.19">
+          <t>burnt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.20">
+          <t>effigies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.22">
+          <t>baba</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.23">
+          <t>piara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.24">
+          <t>singh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.25">
+          <t>bhaniarewala</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.26">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T14:40:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.5">
+            <wref t="blocked" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.9"/>
+            <wref t="road" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.10"/>
+            <wref t="traffic" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.11"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T14:40:07">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T14:42:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.6">
+            <wref t="burnt" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.19"/>
+            <wref t="effigies" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.20"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T14:42:09">Event 2</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-21T14:42:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.7">
+            <wref t="various" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.13"/>
+            <wref t="places" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.14"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.15"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.16"/>
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.17"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T14:48:28">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-21T14:48:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.12">
+            <wref t="agitated" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.6"/>
+            <wref t="people" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.7"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T14:48:46">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:15:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.27">
+            <wref t="baba" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.22"/>
+            <wref t="piara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.23"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.24"/>
+            <wref t="bhaniarewala" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.25"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:15:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.28">
+            <wref t="baba" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.22"/>
+            <wref t="piara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.23"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.24"/>
+            <wref t="bhaniarewala" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.2.w.25"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:15:26">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.1">
+          <t>giving</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.2">
+          <t>details</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.4">
+          <t>ssp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.5">
+          <t>harnek</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.6">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.7">
+          <t>saran</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.8">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.11">
+          <t>press</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.12">
+          <t>conference</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.13">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.15">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.16">
+          <t>persons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.17">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.18">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.19">
+          <t>identified</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.20">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.21">
+          <t>balvir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.22">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.23">
+          <t>alias</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.24">
+          <t>biru</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.26">
+          <t>rampal</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.27">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.28">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.29">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.30">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.31">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.32">
+          <t>tarkhan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.33">
+          <t>majra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.34">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.35">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.36">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.37">
+          <t>incident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.38">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.39">
+          <t>took</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.40">
+          <t>place</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.41">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="pname" datetime="2018-05-21T14:50:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.13">
+            <wref t="balvir" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.21"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.22"/>
+            <wref t="alias" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.23"/>
+            <wref t="biru" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.24"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="pname" datetime="2018-05-21T14:50:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.14">
+            <wref t="rampal" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.26"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.27"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-21T15:15:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.29">
+            <wref t="tarkhan" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.32"/>
+            <wref t="majra" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.33"/>
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.34"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="rural" datetime="2018-05-21T15:16:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.30">
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.3.w.34"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.2">
+          <t>further</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.3">
+          <t>disclosed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.5">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.6">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.8">
+          <t>followers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.9">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.10">
+          <t>bhaniarewala</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.11">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:16:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.31">
+            <wref t="bhaniarewala" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.10"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-21T15:16:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.32">
+            <wref t="followers" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.4.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.1">
+          <t>balvir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.2">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.3">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.4">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.5">
+          <t>vegetable</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.6">
+          <t>seller</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.7">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.8">
+          <t>rampal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.9">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.10">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.11">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.12">
+          <t>labourer</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.13">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="pname" datetime="2018-05-21T14:51:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.15">
+            <wref t="balvir" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.1"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.2"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="pname" datetime="2018-05-21T14:51:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.16">
+            <wref t="rampal" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.8"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.9"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-21T14:51:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.17">
+            <wref t="vegetable" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.5"/>
+            <wref t="seller" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.6"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="sector" datetime="2018-05-21T14:51:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.18">
+            <wref t="labourer" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.12"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-21T14:51:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.19">
+            <wref t="vegetable" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.5"/>
+            <wref t="seller" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.6"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="partses" datetime="2018-05-21T14:51:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.20">
+            <wref t="labourer" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.5.w.12"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.1">
+          <t>during</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.2">
+          <t>interrogations</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.5">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.6">
+          <t>confessed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.7">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.8">
+          <t>involvement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.10">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.11">
+          <t>crime</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.13">
+          <t>saying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.14">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.15">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.16">
+          <t>done</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.17">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.18">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.20">
+          <t>instance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.22">
+          <t>bhaniarewala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.24">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.25">
+          <t>revenge</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.26">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.27">
+          <t>burning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.28">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.29">
+          <t>bhavsagar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.30">
+          <t>granth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.31">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.32">
+          <t>ludhiana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.33">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.34">
+          <t>september</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.35">
+          <t>16</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.38">
+          <t>ssp</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.39">
+          <t>disclosed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.40">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-21T15:12:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.21">
+            <wref t="take" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.24"/>
+            <wref t="revenge" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.25"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.26"/>
+            <wref t="burning" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.27"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.28"/>
+            <wref t="bhavsagar" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.29"/>
+            <wref t="granth" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.30"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:13:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.22">
+            <wref t="burning" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.27"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.28"/>
+            <wref t="bhavsagar" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.29"/>
+            <wref t="granth" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.30"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:13:27">Event 3</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-21T15:13:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.23">
+            <wref t="ludhiana" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.32"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:13:38">Event 3</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:13:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.24">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.33"/>
+            <wref t="september" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.34"/>
+            <wref t="16" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.35"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:13:57">Event 3</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:16:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.33">
+            <wref t="bhaniarewala" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.6.w.22"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.1">
+          <t>saran</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.4">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.6">
+          <t>ludhiana</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.7">
+          <t>incident</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.10">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.11">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.12">
+          <t>gone</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.13">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.14">
+          <t>bhaniarewala</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.15">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.16">
+          <t>dera</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.17">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.19">
+          <t>baba</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.20">
+          <t>directed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.21">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.23">
+          <t>set</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.25">
+          <t>maximum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.26">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.28">
+          <t>birs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.30">
+          <t>guru</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.31">
+          <t>granth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.32">
+          <t>sahib</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.33">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.34">
+          <t>fire</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.35">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.36">
+          <t>avenge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.38">
+          <t>burning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.39">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.40">
+          <t>bhavsagar</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.41">
+          <t>granth</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.42">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:14:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.25">
+            <wref t="burning" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.38"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.39"/>
+            <wref t="bhavsagar" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.40"/>
+            <wref t="granth" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.41"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:14:26">Event 3</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:17:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.34">
+            <wref t="baba" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.7.w.19"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.3">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.4">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.5">
+          <t>claimed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.6">
+          <t>recovery</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.8">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.9">
+          <t>objectionable</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.10">
+          <t>material</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.11">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.13">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.14">
+          <t>arrested</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.15">
+          <t>persons</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.17">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.18">
+          <t>audio</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.19">
+          <t>cassettes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.21">
+          <t>printed</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.22">
+          <t>books</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.24">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.25">
+          <t>include</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.26">
+          <t>a</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.27">
+          <t>28</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.28">
+          <t>-</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.29">
+          <t>page</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.30">
+          <t>booklet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.31">
+          <t>bearing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.33">
+          <t>title</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.34">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.35">
+          <t>ardaas</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.36">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.8.w.37">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.1">
+          <t>dig</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.2">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.3">
+          <t>patiala</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.4">
+          <t>range</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.5">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.6">
+          <t>sanjiv</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.7">
+          <t>gupta</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.9">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.10">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.12">
+          <t>visited</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.14">
+          <t>gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.15">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.17">
+          <t>birs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.18">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.19">
+          <t>burnt</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:18:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.35">
+            <wref t="birs" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.17"/>
+            <wref t="were" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.18"/>
+            <wref t="burnt" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.19"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:18:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.36">
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.9.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.3">
+          <t>sources</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.4">
+          <t>disclosed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.5">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.7">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.8">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.9">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.10">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.11">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.12">
+          <t>sadhugarh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.13">
+          <t>bus</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.14">
+          <t>stand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.15">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.16">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.17">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.18">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.19">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.20">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.21">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.22">
+          <t>inspectors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.23">
+          <t>harpreet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.24">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.26">
+          <t>kashmira</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.27">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.10.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.2">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.4">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.5">
+          <t>following</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.7">
+          <t>tip-off</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.8">
+          <t>received</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.9">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.11">
+          <t>naka</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.12">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.13">
+          <t>madhopur</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.14">
+          <t>chowk</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.17">
+          <t>sources</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.18">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.11.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.2">
+          <t>sirhind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.3">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.4">
+          <t>claimed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.5">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.6">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.7">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.8">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.11">
+          <t>list</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.12">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.13">
+          <t>suspected</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.14">
+          <t>persons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.16">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.18">
+          <t>incident</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.20">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.21">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.22">
+          <t>gone</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.23">
+          <t>underground</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.12.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.1">
+          <t>meanwhile</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.4">
+          <t>protests</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.5">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.6">
+          <t>burning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.8">
+          <t>birs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.9">
+          <t>continued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.10">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.11">
+          <t>tuesday</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.12">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:19:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.38">
+            <wref t="protests" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.4"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:19:54">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-21T15:20:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.39">
+            <wref t="burning" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.6"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.7"/>
+            <wref t="birs" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.8"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:20:09">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-21T15:20:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.40">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.10"/>
+            <wref t="tuesday" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.11"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:20:23">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:20:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.41">
+            <wref t="burning" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.6"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.7"/>
+            <wref t="birs" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.13.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.2">
+          <t>industrial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.3">
+          <t>town</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.5">
+          <t>mandi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.6">
+          <t>gobindgarh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.7">
+          <t>observed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.9">
+          <t>complete</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.10">
+          <t>bandh</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.11">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.13">
+          <t>second</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.14">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.16">
+          <t>kept</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.17">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.19">
+          <t>business</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.20">
+          <t>establishments</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.21">
+          <t>closed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.22">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="urban" datetime="2018-05-21T15:21:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.42">
+            <wref t="town" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.3"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:21:11">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-21T15:21:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.43">
+            <wref t="mandi" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.5"/>
+            <wref t="gobindgarh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.6"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:21:26">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:21:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.44">
+            <wref t="bandh" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.10"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:21:33">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:21:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.45">
+            <wref t="kept" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.16"/>
+            <wref t="all" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.17"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.18"/>
+            <wref t="business" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.19"/>
+            <wref t="establishments" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.20"/>
+            <wref t="closed" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.14.w.21"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:21:48">Event 4</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.1">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.2">
+          <t>the</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.3">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.4">
+          <t>bhog</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.5">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.6">
+          <t>ceremony</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.8">
+          <t>guru</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.9">
+          <t>granth</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.10">
+          <t>sahib</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.12">
+          <t>large</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.13">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.15">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.16">
+          <t>took</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.17">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.18">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.19">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.20">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.21">
+          <t>march</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.22">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.24">
+          <t>town</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.26">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.27">
+          <t>burning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.29">
+          <t>effigy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.31">
+          <t>bhaniarewala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.32">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.33">
+          <t>gt</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.34">
+          <t>road</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.35">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.36">
+          <t>blocked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.37">
+          <t>traffic</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.38">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.39">
+          <t>around</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.40">
+          <t>one</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.41">
+          <t>hour</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.42">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:29:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.46">
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.3"/>
+            <wref t="bhog" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.4"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.5"/>
+            <wref t="ceremony" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.6"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.7"/>
+            <wref t="guru" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.8"/>
+            <wref t="granth" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.9"/>
+            <wref t="sahib" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.10"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:29:10">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:30:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.47">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.20"/>
+            <wref t="march" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.21"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:30:34">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="urban" datetime="2018-05-21T15:30:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.48">
+            <wref t="town" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.24"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:31:00">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:33:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.49">
+            <wref t="burning" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.27"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.28"/>
+            <wref t="effigy" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.29"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-21T15:35:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.51">
+            <wref t="gt" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.33"/>
+            <wref t="road" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.34"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:35:38">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:35:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.52">
+            <wref t="blocked" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.36"/>
+            <wref t="traffic" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.37"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:35:53">Event 4</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:34:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.50">
+            <wref t="bhaniarewala" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.15.w.31"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:34:40">Event 4 
+Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.1">
+          <t>later</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.3">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.4">
+          <t>organised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.6">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.7">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.10">
+          <t>main</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.11">
+          <t>bazaar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.12">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:36:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.53">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.6"/>
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.7"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:36:08">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-21T15:36:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.54">
+            <wref t="main" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.10"/>
+            <wref t="bazaar" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.16.w.11"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:36:25">Event 4</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.1">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.2">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.3">
+          <t>different</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.4">
+          <t>communities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.5">
+          <t>participated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.7">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.8">
+          <t>rally</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.9">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:36:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.55">
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.17.w.8"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:36:41">Event 4</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.2">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.3">
+          <t>registration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.5">
+          <t>case</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.6">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.8">
+          <t>culprits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.9">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.10">
+          <t>section</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.11">
+          <t>302</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.12">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.14">
+          <t>ipc</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.15">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-21T15:36:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.56">
+            <wref t="registration" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.3"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.4"/>
+            <wref t="case" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.5"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.6"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.7"/>
+            <wref t="culprits" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.8"/>
+            <wref t="under" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.9"/>
+            <wref t="section" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.10"/>
+            <wref t="302" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.11"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.12"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.13"/>
+            <wref t="ipc" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.18.w.14"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:36:59">Event 4</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.2">
+          <t>shiromani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.3">
+          <t>gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.4">
+          <t>parbandhak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.5">
+          <t>committee</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.6">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.7">
+          <t>started</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.9">
+          <t>akhand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.10">
+          <t>path</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.11">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.12">
+          <t>guru</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.13">
+          <t>granth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.14">
+          <t>sahib</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.15">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.17">
+          <t>gurdwara</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.18">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.20">
+          <t>birs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.21">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.22">
+          <t>burnt</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.23">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:37:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.57">
+            <wref t="akhand" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.9"/>
+            <wref t="path" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.10"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:37:15">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-21T15:37:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.58">
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.17"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2018-05-21T15:37:33">Event 4</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T15:37:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.59">
+            <wref t="birs" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.20"/>
+            <wref t="were" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.21"/>
+            <wref t="burnt" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.22"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-21T15:37:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.60">
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.17"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="name" datetime="2018-05-21T15:39:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.text.entity.61">
+            <wref t="shiromani" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.2"/>
+            <wref t="gurdwara" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.3"/>
+            <wref t="parbandhak" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.4"/>
+            <wref t="committee" id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.19.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.1">
+          <t>bhog</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.2">
+          <t>ceremony</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.3">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.4">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.5">
+          <t>performed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.6">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.7">
+          <t>october</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.8">
+          <t>4</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.20.w.9">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.1">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.3">
+          <t>other</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.4">
+          <t>hand</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.7">
+          <t>sarab</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.8">
+          <t>hind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.9">
+          <t>shiromani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.10">
+          <t>akali</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.11">
+          <t>dal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.12">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.13">
+          <t>announced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.15">
+          <t>start</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.17">
+          <t>akhand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.18">
+          <t>path</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.19">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.21">
+          <t>same</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.22">
+          <t>place</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.23">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.24">
+          <t>october</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.25">
+          <t>5</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.26">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.28">
+          <t>bhog</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.29">
+          <t>ceremony</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.30">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.31">
+          <t>ardas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.32">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.33">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.34">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.35">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.36">
+          <t>october</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.37">
+          <t>7</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.21.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.22">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.22.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.22.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Two-of-Babas-men-arrested_articleshow_870605280.p.1.s.22.w.3">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/Two-of-Babas-men-arrested/articleshow/870605280.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

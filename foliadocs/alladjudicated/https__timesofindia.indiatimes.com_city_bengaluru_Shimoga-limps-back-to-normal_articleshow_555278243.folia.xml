@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:08" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Religion">Hinduism,Islam</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Religion2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">N-A</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.1">
+          <t>Shimoga</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.2">
+          <t>limps</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.3">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.5">
+          <t>normal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.6">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.7">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.8">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.9">
+          <t>28</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.11">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.13">
+          <t>11.48</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.14">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.15">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.16">
+          <t>shimoga</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.17">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.18">
+          <t>shimoga</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.19">
+          <t>city</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.21">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.22">
+          <t>witnessed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.23">
+          <t>group</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.24">
+          <t>clashes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.25">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.27">
+          <t>immersion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.28">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.29">
+          <t>ganesha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.30">
+          <t>idol</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.31">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.32">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.33">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.35">
+          <t>death</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.36">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.37">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.38">
+          <t>person</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.39">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.40">
+          <t>sunday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.41">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.42">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.43">
+          <t>limping</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.44">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.45">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.46">
+          <t>normal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.47">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-15T18:29:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.1">
+            <wref t="Shimoga" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-15T18:29:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.2">
+            <wref t="shimoga" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-15T18:29:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.3">
+            <wref t="Shimoga" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.1"/>
+            <wref t="limps" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.2"/>
+            <wref t="back" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.3"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.4"/>
+            <wref t="normal" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-15T18:29:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.4">
+            <wref t="shimoga" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.18"/>
+            <wref t="city" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="urban" datetime="2018-05-15T18:29:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.5">
+            <wref t="city" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-15T18:29:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.6">
+            <wref t="group" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.23"/>
+            <wref t="clashes" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-15T18:30:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.7">
+            <wref t="immersion" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.27"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.28"/>
+            <wref t="ganesha" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.29"/>
+            <wref t="idol" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.30"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-15T18:30:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.10">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.39"/>
+            <wref t="sunday" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.40"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="eptime" datetime="2018-05-15T18:32:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.16">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.8"/>
+            <wref t="28" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.10"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.12"/>
+            <wref t="11.48" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.13"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.14"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.1.w.15"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.1">
+          <t>shops</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.2">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.3">
+          <t>establishments</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.5">
+          <t>banks</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.6">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.7">
+          <t>offices</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.8">
+          <t>remained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.9">
+          <t>opened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.10">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.11">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.2.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.3">
+          <t>attributed</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.4">
+          <t>incident-free</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.5">
+          <t>tuesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.8">
+          <t>vigil</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.10">
+          <t>night</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.11">
+          <t>curfew</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.12">
+          <t>imposed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.14">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.15">
+          <t>pockets</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.18">
+          <t>old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.19">
+          <t>city</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.20">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.21">
+          <t>witnessed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.22">
+          <t>disturbances</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.23">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.24">
+          <t>sunday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.25">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.26">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.27">
+          <t>miscreants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.28">
+          <t>threw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.29">
+          <t>stones</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.30">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.31">
+          <t>ganesha</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.32">
+          <t>procession</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.33">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-15T18:31:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.11">
+            <wref t="miscreants" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.27"/>
+            <wref t="threw" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.28"/>
+            <wref t="stones" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.29"/>
+            <wref t="at" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.30"/>
+            <wref t="ganesha" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.31"/>
+            <wref t="procession" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.32"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-15T18:31:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.12">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.23"/>
+            <wref t="sunday" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.24"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-15T18:31:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.13">
+            <wref t="disturbances" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.3.w.22"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.1">
+          <t>educational</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.2">
+          <t>institutions</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.4">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.5">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.6">
+          <t>closed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.7">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.8">
+          <t>tuesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.9">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.11">
+          <t>precautionary</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.12">
+          <t>measure</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.14">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.15">
+          <t>reopen</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.16">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.17">
+          <t>wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.4.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.1">
+          <t>prohibitory</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.2">
+          <t>orders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.3">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.5">
+          <t>trouble-town</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.7">
+          <t>shimoga</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.8">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.9">
+          <t>continue</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.10">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.11">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.12">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.13">
+          <t>days</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.15">
+          <t>facilitate</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.16">
+          <t>trouble-free</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.17">
+          <t>immersion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.19">
+          <t>ganesha</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.20">
+          <t>idols</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.5.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.1">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.2">
+          <t>injured</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.3">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.5">
+          <t>clashes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.6">
+          <t>are</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.7">
+          <t>recuperating</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.9">
+          <t>sources</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.10">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.11">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-15T18:31:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.text.entity.15">
+            <wref t="clashes" id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.6.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.7.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.7.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Shimoga-limps-back-to-normal_articleshow_555278243.p.1.s.7.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Shimoga-limps-back-to-normal/articleshow/555278243.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

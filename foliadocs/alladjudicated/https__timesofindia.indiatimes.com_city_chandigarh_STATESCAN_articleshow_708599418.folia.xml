@@ -1,0 +1,3127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality">N-A</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Motivation2">non-economic</meta>
+    <meta id="SocialClass2">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+    <meta id="Centrality2">Urban</meta>
+    <meta id="EventCount">1</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Formality2">N-A</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent">Yes</meta>
+    <meta id="Violent2">Yes</meta>
+    <meta id="Formality">N-A</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.1">
+          <t>STATESCAN</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.2">
+          <t>TNN</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.3">
+          <t>&amp;</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.4">
+          <t>Agencies</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.5">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.6">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.7">
+          <t>1</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.8">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.9">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.11">
+          <t>11.57</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.12">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.13">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.14">
+          <t>bjp</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.15">
+          <t>leader</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.16">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.17">
+          <t>house</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.18">
+          <t>attacked</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.19">
+          <t>sonepat</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.20">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.21">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.22">
+          <t>armed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.23">
+          <t>youths</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.24">
+          <t>attacked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.26">
+          <t>house</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.28">
+          <t>local</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.29">
+          <t>bjp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.30">
+          <t>leader</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.31">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.33">
+          <t>injuring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.34">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.35">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.36">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.37">
+          <t>his</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.38">
+          <t>family</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.39">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.40">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.41">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.42">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.43">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.44">
+          <t>saturday</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.45">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-14T18:40:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.2">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.6"/>
+            <wref t="1" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.7"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.8"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.10"/>
+            <wref t="11.57" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.11"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.12"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-14T19:53:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.3">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.14"/>
+            <wref t="leader" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.15"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.16"/>
+            <wref t="house" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.17"/>
+            <wref t="attacked" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T18:59:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.6">
+            <wref t="attacked" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-14T19:50:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.7">
+            <wref t="house" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.26"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-14T19:00:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.10">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.43"/>
+            <wref t="saturday" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.44"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-05T11:51:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.17">
+            <wref t="sonepat" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-05T11:52:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.50">
+            <wref t="house" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-05T11:53:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.51">
+            <wref t="attacked" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.18"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-04-14T18:59:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.4">
+            <wref t="five" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-05T11:56:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.5">
+            <wref t="youths" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.23"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-05T11:55:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.52">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.14"/>
+            <wref t="leader" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-05T11:55:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.53">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.14"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-05T11:57:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.54">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.29"/>
+            <wref t="leader" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.30"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-05T11:57:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.55">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-06-23T17:49:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.8">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-06-23T17:50:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.9">
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.1.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.2">
+          <t>assailants</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.4">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.5">
+          <t>included</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.6">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.7">
+          <t>mahesh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.8">
+          <t>kumar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.11">
+          <t>close</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.12">
+          <t>relative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.14">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.15">
+          <t>bjp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.16">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.17">
+          <t>om</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.18">
+          <t>prakash</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.19">
+          <t>atrey</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.21">
+          <t>attacked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.23">
+          <t>house</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.24">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.25">
+          <t>haripal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.26">
+          <t>sharma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.27">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.28">
+          <t>old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.29">
+          <t>housing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.30">
+          <t>board</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.31">
+          <t>colony</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.32">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.33">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.34">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.35">
+          <t>friday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.36">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.37">
+          <t>fired</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.38">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.39">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.40">
+          <t>son</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.41">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.42">
+          <t>nephew</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.43">
+          <t>before</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.44">
+          <t>escaping</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.45">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.46">
+          <t>they</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.47">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.48">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T19:42:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.1">
+            <wref t="assailants" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-14T19:46:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.11">
+            <wref t="mahesh" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.7"/>
+            <wref t="kumar" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-05T12:01:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.12">
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.10"/>
+            <wref t="close" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.11"/>
+            <wref t="relative" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.12"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.13"/>
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.14"/>
+            <wref t="bjp" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.15"/>
+            <wref t="president" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.16"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T19:47:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.13">
+            <wref t="attacked" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-14T19:53:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.16">
+            <wref t="house" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-14T19:54:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.18">
+            <wref t="old" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.28"/>
+            <wref t="housing" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.29"/>
+            <wref t="board" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.30"/>
+            <wref t="colony" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.31"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-14T19:54:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.19">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.34"/>
+            <wref t="friday" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.35"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T19:55:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.20">
+            <wref t="fired" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.37"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-14T19:52:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.15">
+            <wref t="haripal" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.25"/>
+            <wref t="sharma" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.2.w.26"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.2">
+          <t>injured</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.3">
+          <t>youths</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.5">
+          <t>yash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.6">
+          <t>priya</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.7">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.8">
+          <t>22</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.9">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.10">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.11">
+          <t>toni</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.12">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.13">
+          <t>21</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.14">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.15">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.16">
+          <t>rushed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.19">
+          <t>local</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.20">
+          <t>civil</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.21">
+          <t>hospital</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.23">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.24">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.25">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.26">
+          <t>stated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.28">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.29">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.30">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.31">
+          <t>danger</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.33">
+          <t>they</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.34">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.3.w.35">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.1">
+          <t>intrusion</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.2">
+          <t>foiled</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.4">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.5">
+          <t>pak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.6">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.7">
+          <t>killed</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.8">
+          <t>ferozepur</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.9">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.10">
+          <t>vigilant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.11">
+          <t>border</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.12">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.13">
+          <t>force</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.14">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.15">
+          <t>bsf</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.16">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.17">
+          <t>jawans</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.18">
+          <t>foiled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.19">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.20">
+          <t>intrusion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.21">
+          <t>bid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.22">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.23">
+          <t>pakistani</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.24">
+          <t>nationals</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.26">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.27">
+          <t>border</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.28">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.29">
+          <t>post</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.30">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.31">
+          <t>bop</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.32">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.33">
+          <t>gatti</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.34">
+          <t>rao</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.35">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.36">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.37">
+          <t>jalalabad</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.38">
+          <t>sector</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.39">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.40">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.41">
+          <t>friday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.42">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.43">
+          <t>killing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.44">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.45">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.46">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.47">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.48">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.49">
+          <t>spot</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.4.w.50">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.1">
+          <t>according</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.3">
+          <t>bsf</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.4">
+          <t>sources</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.6">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.7">
+          <t>pakistani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.8">
+          <t>nationals</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.9">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.10">
+          <t>spotted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.11">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.13">
+          <t>bsf</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.14">
+          <t>patrolling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.15">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.16">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.18">
+          <t>gatti</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.19">
+          <t>rao</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.20">
+          <t>check</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.21">
+          <t>post</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.22">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.23">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.24">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.25">
+          <t>trying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.26">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.27">
+          <t>sneak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.28">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.30">
+          <t>indian</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.31">
+          <t>territory</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.5.w.32">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.2">
+          <t>ignored</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.4">
+          <t>bsf</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.5">
+          <t>warning</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.7">
+          <t>fired</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.8">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.10">
+          <t>patrolling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.11">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.13">
+          <t>tried</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.15">
+          <t>get</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.16">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.19">
+          <t>pakistani</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.20">
+          <t>side</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.6.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.1">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.2">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.3">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.5">
+          <t>shot</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.6">
+          <t>dead</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.8">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.10">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.11">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.12">
+          <t>succeeded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.14">
+          <t>crossing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.15">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.16">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.17">
+          <t>pakistan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.7.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8">
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.1">
+          <t>7.75</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.2">
+          <t>kg</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.3">
+          <t>opium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.4">
+          <t>recovered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.5">
+          <t>from</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.6">
+          <t>2</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.7">
+          <t>armymen</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.9">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.10">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.11">
+          <t>claimed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.13">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.14">
+          <t>recovered</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.15">
+          <t>7.75</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.16">
+          <t>kg</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.18">
+          <t>opium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.19">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.20">
+          <t>two</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.21">
+          <t>armymen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.22">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.23">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.25">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.26">
+          <t>friday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.8.w.27">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.1">
+          <t>ssp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.2">
+          <t>harchand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.3">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.4">
+          <t>sidhu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.5">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.6">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.7">
+          <t>following</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.9">
+          <t>tip-off</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.10">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.11">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.12">
+          <t>armymen</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.13">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.14">
+          <t>smuggling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.15">
+          <t>opium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.17">
+          <t>selling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.18">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.19">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.21">
+          <t>cantonment</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.22">
+          <t>area</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.24">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.25">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.26">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.27">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.28">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.29">
+          <t>dsp</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.30">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.31">
+          <t>detective</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.32">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.33">
+          <t>hardev</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.34">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.35">
+          <t>kular</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.36">
+          <t>laid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.37">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.38">
+          <t>trap</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.39">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.40">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.41">
+          <t>army</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.42">
+          <t>recruitment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.43">
+          <t>centre</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.44">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.45">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.46">
+          <t>two</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.47">
+          <t>persons</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.9.w.48">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.1">
+          <t>opium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.2">
+          <t>weighing</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.3">
+          <t>7.75</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.4">
+          <t>kg</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.5">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.6">
+          <t>recovered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.7">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.8">
+          <t>them</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.10.w.9">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.2">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.3">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.4">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.5">
+          <t>identified</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.6">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.7">
+          <t>nayak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.8">
+          <t>hari</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.9">
+          <t>ram</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.12">
+          <t>resident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.14">
+          <t>jodhpur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.15">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.16">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.17">
+          <t>rajasthan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.20">
+          <t>parshotam</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.21">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.23">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.24">
+          <t>resident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.25">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.26">
+          <t>gurdaspur</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.27">
+          <t>district</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.11.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.1">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.2">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.3">
+          <t>attached</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.4">
+          <t>with</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.5">
+          <t>286</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.6">
+          <t>medium</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.7">
+          <t>regiment</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.12.w.8">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.1">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.2">
+          <t>case</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.3">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.5">
+          <t>ndps</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.6">
+          <t>act</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.7">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.8">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.9">
+          <t>registered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.10">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.12">
+          <t>cantonment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.13">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.14">
+          <t>station</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.13.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.2">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.3">
+          <t>confessed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.4">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.5">
+          <t>interrogation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.6">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.7">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.8">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.9">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.10">
+          <t>smuggling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.11">
+          <t>opium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.12">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.13">
+          <t>rajasthan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.15">
+          <t>supplying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.16">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.17">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.19">
+          <t>cantonment</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.20">
+          <t>area</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.14.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.2">
+          <t>ssp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.3">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.5">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.6">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.8">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.9">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.10">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.11">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.12">
+          <t>army</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.14">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.15">
+          <t>contacts</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.16">
+          <t>with</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.17">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.18">
+          <t>other</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.19">
+          <t>agencies</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.20">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.21">
+          <t>cannot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.22">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.23">
+          <t>ruled</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.24">
+          <t>out</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.15.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.1">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.2">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.3">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.4">
+          <t>hold</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.5">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.6">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.7">
+          <t>sept</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.8">
+          <t>10</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.10">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.11">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.12">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.13">
+          <t>organise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.15">
+          <t>series</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.17">
+          <t>public</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.18">
+          <t>rallies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.19">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.21">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.22">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.23">
+          <t>the</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.24">
+          <t>'</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.25">
+          <t>'</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.26">
+          <t>anti-people</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.27">
+          <t>policies</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.28">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.29">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.32">
+          <t>ruling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.33">
+          <t>badal</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.34">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.35">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.36">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.37">
+          <t>mla</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.38">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.39">
+          <t>former</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.40">
+          <t>punjab</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.41">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.42">
+          <t>inderjit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.43">
+          <t>singh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.44">
+          <t>zira</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.45">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.46">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.47">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.48">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.49">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.16.w.50">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.4">
+          <t>panthic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.5">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.6">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.7">
+          <t>hold</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.9">
+          <t>massive</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.10">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.11">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.12">
+          <t>outside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.14">
+          <t>deputy</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.15">
+          <t>commissioner</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.16">
+          <t>'s</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.17">
+          <t>office</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.19">
+          <t>at</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.20">
+          <t>ferozepur</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.22">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.23">
+          <t>september</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.24">
+          <t>10</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.26">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.27">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.28">
+          <t>baba</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.29">
+          <t>sarbjot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.30">
+          <t>singh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.31">
+          <t>bedi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.33">
+          <t>g</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.34">
+          <t>s</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.35">
+          <t>tohra</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.37">
+          <t>simranjit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.38">
+          <t>singh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.39">
+          <t>mann</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.40">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.41">
+          <t>jathedar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.42">
+          <t>ranjit</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.43">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.44">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.45">
+          <t>ravi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.46">
+          <t>inder</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.47">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.48">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.49">
+          <t>jasbir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.50">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.51">
+          <t>rode</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.52">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.53">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.54">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.55">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.56">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.57">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.58">
+          <t>morcha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.59">
+          <t>would</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.60">
+          <t>participate</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.17.w.61">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.1">
+          <t>addressing</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.2">
+          <t>mediapersons</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.4">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.5">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.6">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.7">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.8">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.9">
+          <t>lost</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.10">
+          <t>faith</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.13">
+          <t>government</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.14">
+          <t>machinery</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.18.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.1">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.2">
+          <t>booked</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.3">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.4">
+          <t>damaging</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.5">
+          <t>mosque</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.6">
+          <t>rohtak</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.7">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.9">
+          <t>meham</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.10">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.11">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.13">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.14">
+          <t>booked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.15">
+          <t>five</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.16">
+          <t>persons</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.18">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.19">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.21">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.23">
+          <t>charge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.24">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.25">
+          <t>causing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.26">
+          <t>damage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.28">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.29">
+          <t>mosque</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.30">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.31">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.32">
+          <t>sources</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.33">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.34">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.35">
+          <t>said</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.36">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-14T20:01:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.24">
+            <wref t="five" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.1"/>
+            <wref t="booked" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.2"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.3"/>
+            <wref t="damaging" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.4"/>
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.5"/>
+            <wref t="rohtak" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.6"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:29:39">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-05T11:35:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.25">
+            <wref t="causing" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.25"/>
+            <wref t="damage" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.26"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:35:57">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-14T20:02:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.28">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.18"/>
+            <wref t="saturday" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.19"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:35:40">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-14T20:06:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.29">
+            <wref t="meham" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.9"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:35:04">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-05T11:30:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.41">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.5"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:30:37">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-05T11:31:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.42">
+            <wref t="damaging" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.4"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:31:47">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-05T11:34:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.43">
+            <wref t="rohtak" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-05T11:36:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.44">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.29"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:36:23">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-04-14T20:02:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.26">
+            <wref t="five" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.15"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:35:22">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-14T20:02:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.27">
+            <wref t="persons" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.16"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:35:33">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-05-05T11:29:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.40">
+            <wref t="five" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.1"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:29:39">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-05-05T11:23:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.38">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.5"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:29:54">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-05-05T11:37:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.46">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.29"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:37:11">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.2">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.3">
+          <t>allegedly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.4">
+          <t>dismantled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.6">
+          <t>dilapidated</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.7">
+          <t>mosque</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.9">
+          <t>located</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.11">
+          <t>ward</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.12">
+          <t>no</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.13">
+          <t>9</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.15">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.16">
+          <t>meham</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.17">
+          <t>town</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.19">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.20">
+          <t>30</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.21">
+          <t>km</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.22">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.23">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.26">
+          <t>started</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.27">
+          <t>constructing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.28">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.29">
+          <t>temple</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.30">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.31">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.32">
+          <t>site</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.33">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-05T11:37:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.30">
+            <wref t="dismantled" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.4"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:38:04">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-23T18:01:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.31">
+            <wref t="meham" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-14T20:08:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.32">
+            <wref t="started" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.26"/>
+            <wref t="constructing" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.27"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.28"/>
+            <wref t="temple" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.29"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:39:12">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-06-23T18:01:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.47">
+            <wref t="mosque" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-05T11:38:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.48">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.31"/>
+            <wref t="site" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.32"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:38:56">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-06-23T18:01:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.14">
+            <wref t="town" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.17"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-05-05T11:39:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.49">
+            <wref t="temple" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.20.w.29"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:39:36">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.1">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.2">
+          <t>police</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.6">
+          <t>basis</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.9">
+          <t>complaint</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.10">
+          <t>lodged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.11">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.13">
+          <t>punjab</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.14">
+          <t>wakf</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.15">
+          <t>board</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.16">
+          <t>official</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.18">
+          <t>registered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.19">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.20">
+          <t>case</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.21">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.22">
+          <t>section</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.23">
+          <t>147</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.24">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.25">
+          <t>148</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.26">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.27">
+          <t>285</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.28">
+          <t>and</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.29">
+          <t>447</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.32">
+          <t>indian</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.33">
+          <t>penal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.34">
+          <t>code</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.35">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.36">
+          <t>prem</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.37">
+          <t>yadav</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.38">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.39">
+          <t>purushotam</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.40">
+          <t>yadav</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.41">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.42">
+          <t>vijay</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.43">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.44">
+          <t>sanjay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.45">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.46">
+          <t>anil</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.47">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-14T20:18:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.33">
+            <wref t="prem" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.36"/>
+            <wref t="yadav" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.37"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:53:28">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-14T20:18:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.34">
+            <wref t="purushotam" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.39"/>
+            <wref t="yadav" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.40"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:53:41">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-14T20:18:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.35">
+            <wref t="vijay" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.42"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:53:51">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-14T20:18:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.36">
+            <wref t="sanjay" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.44"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:54:14">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-14T20:18:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.text.entity.37">
+            <wref t="anil" id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.21.w.46"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-05T11:54:03">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.1">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.3">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.4">
+          <t>was</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.5">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.6">
+          <t>report</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.8">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.9">
+          <t>arrest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.11">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.12">
+          <t>connection</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.22.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.1">
+          <t>father</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.2">
+          <t>kills</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.3">
+          <t>children</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.5">
+          <t>himself</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.6">
+          <t>driven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.7">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.8">
+          <t>abject</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.9">
+          <t>poverty</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.11">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.12">
+          <t>man</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.14">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.15">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.16">
+          <t>inebriated</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.17">
+          <t>condition</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.19">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.20">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.21">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.22">
+          <t>children</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.24">
+          <t>then</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.25">
+          <t>committed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.26">
+          <t>suicide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.27">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.28">
+          <t>madina</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.29">
+          <t>village</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.30">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.31">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.32">
+          <t>15</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.33">
+          <t>km</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.34">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.35">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.37">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.38">
+          <t>friday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.39">
+          <t>night</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.40">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.41">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.42">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.43">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.44">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.45">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.23.w.46">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.1">
+          <t>brijender</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.2">
+          <t>singh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.4">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.5">
+          <t>dalit</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.7">
+          <t>brutally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.8">
+          <t>stabbed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.9">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.10">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.11">
+          <t>children</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.12">
+          <t>-</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.13">
+          <t>poonam</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.14">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.15">
+          <t>6</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.16">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.17">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.18">
+          <t>shiv</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.19">
+          <t>kumar</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.20">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.21">
+          <t>four</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.22">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.23">
+          <t>-</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.24">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.25">
+          <t>death</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.26">
+          <t>with</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.27">
+          <t>sharp-edged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.28">
+          <t>weapons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.29">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.30">
+          <t>later</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.31">
+          <t>committed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.32">
+          <t>suicide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.33">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.34">
+          <t>consuming</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.35">
+          <t>poison</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.37">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.38">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.24.w.39">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.1">
+          <t>brijender</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.2">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.3">
+          <t>working</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.4">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.5">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.6">
+          <t>labourer</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.25.w.7">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.1">
+          <t>sushma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.2">
+          <t>swaraj</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.3">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.4">
+          <t>lay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.5">
+          <t>foundation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.6">
+          <t>stone</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.7">
+          <t>ambala</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.8">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.9">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.10">
+          <t>information</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.11">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.12">
+          <t>broadcasting</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.13">
+          <t>minister</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.15">
+          <t>sushma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.16">
+          <t>swaraj</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.17">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.18">
+          <t>lay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.20">
+          <t>foundation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.21">
+          <t>stone</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.22">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.23">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.24">
+          <t>low</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.25">
+          <t>frequency</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.26">
+          <t>transmitter</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.27">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.28">
+          <t>dd</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.29">
+          <t>-2</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.30">
+          <t>channel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.31">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.33">
+          <t>industrial</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.34">
+          <t>area</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.35">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.36">
+          <t>ambala</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.37">
+          <t>cantonment</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.38">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.39">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.40">
+          <t>monday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.26.w.41">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.1">
+          <t>chief</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.2">
+          <t>minister</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.4">
+          <t>om</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.5">
+          <t>prakash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.6">
+          <t>chautala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.7">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.8">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.9">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.10">
+          <t>present</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.11">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.12">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.13">
+          <t>occasion</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.27.w.14">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.1">
+          <t>viewers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.2">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.3">
+          <t>dd</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.4">
+          <t>-2</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.6">
+          <t>residing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.9">
+          <t>around</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.10">
+          <t>ambala</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.12">
+          <t>within</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.14">
+          <t>radius</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.15">
+          <t>of</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.16">
+          <t>35</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.17">
+          <t>km</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.19">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.20">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.21">
+          <t>benefited</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.22">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.24">
+          <t>installation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.25">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.26">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.27">
+          <t>transmitter</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.28.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29">
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.1">
+          <t>28</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.2">
+          <t>-</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.3">
+          <t>year-old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.4">
+          <t>man</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.5">
+          <t>commits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.6">
+          <t>suicide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.7">
+          <t>vinod</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.8">
+          <t>kumar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.10">
+          <t>a</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.11">
+          <t>28</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.12">
+          <t>-</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.13">
+          <t>year-old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.14">
+          <t>resident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.15">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.16">
+          <t>jansui</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.18">
+          <t>attempted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.20">
+          <t>commit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.21">
+          <t>suicide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.22">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.23">
+          <t>consuming</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.24">
+          <t>poison</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.26">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.27">
+          <t>friday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.29.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.1">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.2">
+          <t>relatives</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.3">
+          <t>admitted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.4">
+          <t>him</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.7">
+          <t>mission</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.8">
+          <t>hospital</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.12">
+          <t>critical</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.13">
+          <t>state</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.15">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.16">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.17">
+          <t>died</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.19">
+          <t>saturday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.20">
+          <t>morning</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.30.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.2">
+          <t>body</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.3">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.4">
+          <t>handed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.5">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.7">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.8">
+          <t>family</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.9">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.10">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.11">
+          <t>autopsy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.12">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.13">
+          <t>conducted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.14">
+          <t>later</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.15">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.16">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.31.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.32">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.32.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.32.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.32.w.3">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/STATESCAN/articleshow/708599418.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

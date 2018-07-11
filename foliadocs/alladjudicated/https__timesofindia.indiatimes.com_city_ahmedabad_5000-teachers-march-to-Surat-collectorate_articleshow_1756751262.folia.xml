@@ -1,0 +1,1311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:34" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="SocialClass">non-manual_working_class</meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Motivation2">economic_non-welfare</meta>
+    <meta id="SocialClass2">non-manual_working_class</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+    <meta id="Centrality2">Urban,Rural</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Violent2">No</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="EventCount">2</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1">
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.1">
+          <t>5,000</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.2">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.3">
+          <t>march</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.5">
+          <t>Surat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.6">
+          <t>collectorate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.7">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.9">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.10">
+          <t>12</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.14">
+          <t>12.56</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.15">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.17">
+          <t>surat</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.19">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.20">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.21">
+          <t>thousand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.22">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.23">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.24">
+          <t>took</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.25">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.26">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.27">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.28">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.29">
+          <t>makaipul</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.30">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.32">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.33">
+          <t>collectorate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.34">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.35">
+          <t>nanpura</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.36">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.37">
+          <t>tuesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.38">
+          <t>afternoon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.39">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.40">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.41">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.42">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.43">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.44">
+          <t>notification</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.45">
+          <t>invoking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.46">
+          <t>essential</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.47">
+          <t>services</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.48">
+          <t>maintenance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.49">
+          <t>act</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.50">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.51">
+          <t>esma</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.52">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.53">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.54">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.55">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.56">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.57">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.58">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.59">
+          <t>state</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.60">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-30T09:43:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.2">
+            <wref t="5,000" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.1"/>
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.2"/>
+            <wref t="march" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.3"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.4"/>
+            <wref t="Surat" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.5"/>
+            <wref t="collectorate" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-30T10:12:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.3">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.9"/>
+            <wref t="12" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.12"/>
+            <wref t="12.56" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.14"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-04-29T17:14:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.4">
+            <wref t="surat" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:19:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.7">
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-03-30T10:20:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.8">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.36"/>
+            <wref t="tuesday" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.37"/>
+            <wref t="afternoon" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.38"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-17T12:06:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.9">
+            <wref t="notification" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.44"/>
+            <wref t="invoking" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.45"/>
+            <wref t="essential" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.46"/>
+            <wref t="services" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.47"/>
+            <wref t="maintenance" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.48"/>
+            <wref t="act" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.49"/>
+            <wref t="(" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.50"/>
+            <wref t="esma" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.51"/>
+            <wref t=")" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.52"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.53"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.54"/>
+            <wref t="striking" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.55"/>
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.56"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.57"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.58"/>
+            <wref t="state" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.59"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-29T17:17:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.30">
+            <wref t="march" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-29T17:25:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.33">
+            <wref t="makaipul" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.29"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:25:44">Name of the road</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-29T17:26:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.34">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.31"/>
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.32"/>
+            <wref t="collectorate" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.33"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-29T17:26:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.35">
+            <wref t="nanpura" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.35"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-29T17:30:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.36">
+            <wref t="striking" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.55"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:31:28">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-04-29T17:39:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.50">
+            <wref t="Surat" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.5"/>
+            <wref t="collectorate" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-04-29T17:39:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.51">
+            <wref t="collectorate" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-29T17:40:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.52">
+            <wref t="Surat" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-06-06T20:42:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.5">
+            <wref t="five" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.20"/>
+            <wref t="thousand" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-29T17:21:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.6">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-29T17:12:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.27">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:13:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.28">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:13:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.29">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:18:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.31">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:18:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.32">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-29T17:30:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.37">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.56"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:31:53">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:30:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.38">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.56"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:31:53">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:30:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.39">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.56"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:31:53">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-06-06T20:39:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.10">
+            <wref t="5,000" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-17T12:06:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.26">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.42"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.1.w.43"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.1">
+          <t>according</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.3">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.4">
+          <t>officials</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.5">
+          <t>,</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.6">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.7">
+          <t>untoward</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.8">
+          <t>incident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.9">
+          <t>took</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.10">
+          <t>place</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.11">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.13">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.14">
+          <t>went</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.15">
+          <t>off</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.16">
+          <t>peacefully</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.17">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:38:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.13">
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.2.w.13"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.4">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.5">
+          <t>heavy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.6">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.7">
+          <t>arrangement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.9">
+          <t>prevent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.10">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.11">
+          <t>unlawful</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.12">
+          <t>activities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.13">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.14">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.15">
+          <t>rallyists</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.16">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-30T10:38:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.14">
+            <wref t="rallyists" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.3.w.15"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.1">
+          <t>sources</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.2">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.3">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.4">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.5">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.6">
+          <t>association</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.7">
+          <t>told</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.8">
+          <t>tnn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.9">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.10">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.11">
+          <t>stick</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.13">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.14">
+          <t>peaceful</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.15">
+          <t>means</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.16">
+          <t>unless</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.18">
+          <t>situation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.19">
+          <t>demanded</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.20">
+          <t>otherwise</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.21">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-30T10:34:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.11">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.4"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.5"/>
+            <wref t="association" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="orgses" datetime="2018-04-29T17:38:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.48">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="osector" datetime="2018-04-29T17:38:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.49">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.4.w.4"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.1">
+          <t>collector</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.2">
+          <t>sangeeta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.3">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.6">
+          <t>the</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.7">
+          <t>262</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.8">
+          <t>grant-in-aid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.9">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.10">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.11">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.12">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.14">
+          <t>district</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.15">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.16">
+          <t>81</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.17">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.18">
+          <t>reported</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.20">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.21">
+          <t>resumed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.22">
+          <t>teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.23">
+          <t>activities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.24">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.25">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.26">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:37:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.12">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.11"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:33:09">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-03-30T10:56:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.24">
+            <wref t="schools" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.5.w.9"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:33:21">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.2">
+          <t>focus</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.3">
+          <t>now</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.6">
+          <t>persuade</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.8">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.10">
+          <t>refrain</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.11">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.13">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.14">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.15">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.16">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.17">
+          <t>affect</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.18">
+          <t>studies</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.20">
+          <t>particularly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.21">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.22">
+          <t>classes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.23">
+          <t>x</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.24">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.25">
+          <t>xii</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.26">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.27">
+          <t>she</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.28">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.29">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:41:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.15">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.13"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:33:42">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-30T10:41:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.16">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:33:51">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:37:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.46">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:18:04">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:37:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.47">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.6.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:18:04">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.1">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.3">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.4">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.6">
+          <t>alternative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.7">
+          <t>arrangements</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.9">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.10">
+          <t>administration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.11">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.12">
+          <t>prepared</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.14">
+          <t>list</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.15">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.16">
+          <t>b</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.17">
+          <t>ed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.18">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.20">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.21">
+          <t>district</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.23">
+          <t>unemployed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.24">
+          <t>youth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.25">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.26">
+          <t>teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.27">
+          <t>qualification</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.28">
+          <t>registered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.29">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.31">
+          <t>local</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.32">
+          <t>employment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.33">
+          <t>exchange</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.34">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.35">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.36">
+          <t>retired</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.37">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.7.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.1">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.2">
+          <t>informed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.4">
+          <t>power</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.5">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.6">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.7">
+          <t>delegated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.8">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.9">
+          <t>additional</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.11">
+          <t>deputy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.13">
+          <t>deputy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.14">
+          <t>development</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.15">
+          <t>officers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.17">
+          <t>appoint</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.18">
+          <t>teachers</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.19">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.20">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.21">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.22">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.24">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.25">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.26">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.27">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:42:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.17">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.27"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:34:42">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-03-30T10:57:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.25">
+            <wref t="schools" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.21"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:34:24">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-30T10:42:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.18">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.24"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:34:32">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:37:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.44">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.24"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:25:02">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:37:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.45">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.8.w.24"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:25:02">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.2">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.3">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.4">
+          <t>appointed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.5">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.6">
+          <t>visiting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.7">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.9">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.10">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.11">
+          <t>paid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.12">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.13">
+          <t>200</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.14">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.15">
+          <t>taking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.16">
+          <t>four</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.17">
+          <t>sessions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.18">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.19">
+          <t>day</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.9.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.1">
+          <t>citing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.2">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.3">
+          <t>arrangements</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.4">
+          <t>as</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.5">
+          <t>stop-gap</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.6">
+          <t>measures</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.8">
+          <t>singh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.9">
+          <t>told</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.10">
+          <t>tnn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.11">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.13">
+          <t>fresh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.14">
+          <t>appeal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.15">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.16">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.17">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.18">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.19">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.20">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.21">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.22">
+          <t>call</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.23">
+          <t>off</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.25">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.26">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.28">
+          <t>interest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.30">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.31">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-30T10:47:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.19">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.20"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:35:15">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:36:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.42">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.20"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:25:24">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:36:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.43">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.20"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:25:24">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:48:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.20">
+            <wref t="striking" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.19"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:35:02">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:48:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.21">
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.10.w.25"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:48:06">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.1">
+          <t>actions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.2">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.3">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.4">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.5">
+          <t>initiated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.6">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.7">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.8">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.9">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.10">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.11">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.12">
+          <t>permanent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.13">
+          <t>through</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.14">
+          <t>various</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.15">
+          <t>administrative</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.16">
+          <t>measures</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.18">
+          <t>she</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.19">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-30T10:49:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.22">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:35:43">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-29T17:36:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.40">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:25:38">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-04-29T17:36:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.41">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.8"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-06T21:25:38">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-30T10:49:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.text.entity.23">
+            <wref t="striking" id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.11.w.7"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-29T17:35:31">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.2">
+          <t>alternative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.3">
+          <t>arrangement</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.4">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.5">
+          <t>teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.6">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.7">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.8">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.10">
+          <t>schools</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.11">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.13">
+          <t>managements</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.14">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.15">
+          <t>offered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.16">
+          <t>their</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.17">
+          <t>co-operation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.18">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.19">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.20">
+          <t>authorities</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.22">
+          <t>singh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.23">
+          <t>informed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.12.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.13.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.13.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_5000-teachers-march-to-Surat-collectorate_articleshow_1756751262.p.1.s.13.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/5000-teachers-march-to-Surat-collectorate/articleshow/1756751262.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

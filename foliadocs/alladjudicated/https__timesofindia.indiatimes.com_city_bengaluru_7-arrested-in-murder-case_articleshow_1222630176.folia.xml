@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:35" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Centrality">Rural</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Religion">Hinduism</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Caste">N-A,Scheduled Tribes</meta>
+    <meta id="Ethnicity">Kannada</meta>
+    <meta id="Violent">Yes</meta>
+    <meta id="EventCount">1</meta>
+    <meta id="RelevantCountry">Yes</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1">
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.1">
+          <t>7</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.2">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.3">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.4">
+          <t>murder</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.5">
+          <t>case</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.6">
+          <t>TNN</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.7">
+          <t>&amp;</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.8">
+          <t>Agencies</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.9">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.10">
+          <t>Jul</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.11">
+          <t>29</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.15">
+          <t>11.27</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.16">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.18">
+          <t>davanagere</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.20">
+          <t>seven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.21">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.22">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.23">
+          <t>arrested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.24">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.25">
+          <t>friday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.26">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.27">
+          <t>connection</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.28">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.30">
+          <t>murder</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.31">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.32">
+          <t>madegowda</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.33">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.34">
+          <t>35</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.35">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.36">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.37">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.38">
+          <t>lingayat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.39">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.40">
+          <t>mattihalli</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.41">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.42">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.43">
+          <t>harapanahalli</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.44">
+          <t>taluk</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.45">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.46">
+          <t>davanagere</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.47">
+          <t>district</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.48">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.49">
+          <t>sp</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.50">
+          <t>n.r.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.51">
+          <t>nadamani</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.52">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.53">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-03T14:03:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.1">
+            <wref t="davanagere" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-06T09:03:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.5">
+            <wref t="7" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.1"/>
+            <wref t="arrested" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.2"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.3"/>
+            <wref t="murder" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.4"/>
+            <wref t="case" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-06T09:04:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.6">
+            <wref t="Jul" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.10"/>
+            <wref t="29" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.14"/>
+            <wref t="11.27" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.15"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-06T09:15:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.11">
+            <wref t="mattihalli" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.40"/>
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.41"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-07T21:32:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.12">
+            <wref t="harapanahalli" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.43"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-07T21:32:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.2">
+            <wref t="davanagere" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.46"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="rural" datetime="2018-05-03T14:31:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.3">
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.1.w.41"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.1">
+          <t>although</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.2">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.4">
+          <t>booked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.5">
+          <t>against</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.6">
+          <t>21</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.7">
+          <t>members</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.10">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.11">
+          <t>could</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.12">
+          <t>nab</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.13">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.14">
+          <t>seven</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.15">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.16">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.18">
+          <t>others</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.19">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.20">
+          <t>absconding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.21">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.22">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.23">
+          <t>village</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.2.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.1">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.3">
+          <t>accused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.4">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.5">
+          <t>kept</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.6">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.7">
+          <t>judicial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.8">
+          <t>custody</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.9">
+          <t>upto</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.10">
+          <t>august</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.11">
+          <t>10</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.14">
+          <t>sp</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.15">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.3.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.2">
+          <t>can</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.3">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.4">
+          <t>recalled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.5">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.6">
+          <t>due</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.9">
+          <t>group</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.10">
+          <t>clash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.11">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.13">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.14">
+          <t>between</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.16">
+          <t>lingayats</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.17">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.18">
+          <t>kurabas</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.20">
+          <t>madegowda</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.21">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.22">
+          <t>done</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.24">
+          <t>death</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.25">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.26">
+          <t>thursday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.27">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-06T09:09:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.7">
+            <wref t="group" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.9"/>
+            <wref t="clash" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="rural" datetime="2018-04-06T09:14:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.10">
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-06T09:20:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.19">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.25"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.26"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-06T09:09:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.8">
+            <wref t="lingayats" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-06T09:09:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.9">
+            <wref t="kurabas" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ethnicity" datetime="2018-05-03T14:52:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.16">
+            <wref t="lingayats" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-05-03T14:52:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.20">
+            <wref t="lingayats" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="caste" datetime="2018-05-03T14:53:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.21">
+            <wref t="lingayats" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="caste" datetime="2018-05-03T14:53:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.22">
+            <wref t="kurabas" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ethnicity" datetime="2018-05-03T14:53:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.23">
+            <wref t="kurabas" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="religion" datetime="2018-05-03T14:53:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.text.entity.24">
+            <wref t="kurabas" id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.4.w.18"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.5.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.5.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_7-arrested-in-murder-case_articleshow_1222630176.p.1.s.5.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/7-arrested-in-murder-case/articleshow/1222630176.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

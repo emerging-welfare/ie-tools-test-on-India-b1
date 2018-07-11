@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-05T11:35:19" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Motivation2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Centrality">Rural</meta>
+    <meta id="Violent">Yes</meta>
+    <meta id="Ideology">Maoisim-Communist Party of India</meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.1">
+          <t>Naxalite</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.2">
+          <t>explode</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.3">
+          <t>landmine</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.4">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.5">
+          <t>Rudaram</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.6">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.7">
+          <t>16</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.8">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.9">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.11">
+          <t>02.55</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.12">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.13">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.14">
+          <t>jagdalpur</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.15">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.16">
+          <t>naxalites</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.17">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.18">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.19">
+          <t>exploded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.20">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.21">
+          <t>landmine</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.22">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.23">
+          <t>village</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.24">
+          <t>rudaram</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.25">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.27">
+          <t>bijapur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.28">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.29">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.30">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.31">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.32">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.33">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.34">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.35">
+          <t>gone</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.36">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.37">
+          <t>remove</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.38">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.39">
+          <t>black</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.40">
+          <t>flag</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.41">
+          <t>hoisted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.42">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.43">
+          <t>naxalites</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.44">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.45">
+          <t>wednesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.46">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.47">
+          <t>independence</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.48">
+          <t>day</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.49">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-30T22:51:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.2">
+            <wref t="exploded" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-03T13:05:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.16">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.6"/>
+            <wref t="16" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.7"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.8"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.10"/>
+            <wref t="02.55" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.11"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.12"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-30T22:47:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.18">
+            <wref t="jagdalpur" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.14"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-02-08T13:02:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.19">
+            <wref t="rudaram" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="rural" datetime="2018-02-08T13:03:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.20">
+            <wref t="village" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.23"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-02-08T13:06:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.27">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.17"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-02-08T13:09:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.31">
+            <wref t="bijapur" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.27"/>
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.28"/>
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-02-08T13:12:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.33">
+            <wref t="Naxalite" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.1"/>
+            <wref t="explode" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.2"/>
+            <wref t="landmine" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.3"/>
+            <wref t="at" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.4"/>
+            <wref t="Rudaram" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-03T13:19:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.1">
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.31"/>
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.32"/>
+            <wref t="party" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.33"/>
+            <wref t="had" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.34"/>
+            <wref t="gone" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.35"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.36"/>
+            <wref t="remove" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.37"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.38"/>
+            <wref t="black" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.39"/>
+            <wref t="flag" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.40"/>
+            <wref t="hoisted" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.41"/>
+            <wref t="by" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.42"/>
+            <wref t="naxalites" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.43"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.44"/>
+            <wref t="wednesday" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.45"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.46"/>
+            <wref t="independence" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.47"/>
+            <wref t="day" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.48"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-30T22:50:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.5">
+            <wref t="explode" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-05-30T22:45:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.7">
+            <wref t="landmine" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-05-30T22:47:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.8">
+            <wref t="Rudaram" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-05-30T22:51:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.15">
+            <wref t="landmine" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.21"/>
+          </entity>
+        </entities>
+        <entities/>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-30T22:14:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.3">
+            <wref t="Naxalite" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-30T22:15:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.4">
+            <wref t="Naxalite" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-30T22:48:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.9">
+            <wref t="naxalites" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-30T22:48:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.11">
+            <wref t="naxalites" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.1.w.16"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.1">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.2">
+          <t>,</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.3">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.4">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.5">
+          <t>was</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.6">
+          <t>injured</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.8">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.9">
+          <t>sources</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.10">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.2.w.11">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.1">
+          <t>soon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.2">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.4">
+          <t>six-member</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.5">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.6">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.7">
+          <t>reached</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.8">
+          <t>rudaram</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.9">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.10">
+          <t>thursday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.12">
+          <t>naxalites</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.13">
+          <t>exploded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.15">
+          <t>landmine</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.17">
+          <t>fired</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.18">
+          <t>several</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.19">
+          <t>bullets</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.22">
+          <t>sources</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.23">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.24">
+          <t>.</t>
+        </w>
+        <entities/>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-30T22:53:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.13">
+            <wref t="fired" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-02-08T13:05:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.26">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.9"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-30T22:52:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.28">
+            <wref t="exploded" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-02-08T13:08:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.30">
+            <wref t="rudaram" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-05-30T22:52:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.17">
+            <wref t="landmine" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-05-30T22:53:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.21">
+            <wref t="bullets" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.19"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-30T22:49:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.12">
+            <wref t="naxalites" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-05-30T22:49:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.text.entity.14">
+            <wref t="naxalites" id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.3.w.12"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.1">
+          <t>bijapur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.3">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.5">
+          <t>formally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.6">
+          <t>carved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.7">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.8">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.9">
+          <t>dantewada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.10">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.11">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.12">
+          <t>wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.4.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.5">
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Naxalite-explode-landmine-at-Rudaram_articleshow_1277193448.p.1.s.5.w.1">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Naxalite-explode-landmine-at-Rudaram/articleshow/1277193448.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality">N-A</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Violent">Yes</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Formality2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.1">
+          <t>Phoolan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.2">
+          <t>murder</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.3">
+          <t>condemned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.4">
+          <t>TNN</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.5">
+          <t>&amp;</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.6">
+          <t>Agencies</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.7">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.8">
+          <t>Jul</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.9">
+          <t>28</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.11">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.13">
+          <t>10.51</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.14">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.15">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.16">
+          <t>bellary</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.17">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.18">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.19">
+          <t>samata</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.20">
+          <t>sainik</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.21">
+          <t>dal</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.22">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.23">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.24">
+          <t>federation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.25">
+          <t>condemned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.27">
+          <t>barbaric</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.28">
+          <t>murder</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.30">
+          <t>phoolan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.31">
+          <t>devi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.33">
+          <t>terming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.34">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.35">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.36">
+          <t>act</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.37">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.38">
+          <t>cowardice</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.39">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-04T08:54:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.1">
+            <wref t="bellary" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-13T11:23:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.5">
+            <wref t="Phoolan" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.1"/>
+            <wref t="murder" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.2"/>
+            <wref t="condemned" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-13T11:23:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.6">
+            <wref t="Jul" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.8"/>
+            <wref t="28" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.10"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.12"/>
+            <wref t="10.51" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.13"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.14"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T12:52:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.2">
+            <wref t="murder" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.28"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-23T10:00:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.11">
+            <wref t="murder" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-13T12:52:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.3">
+            <wref t="phoolan" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.30"/>
+            <wref t="devi" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.31"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-04T08:54:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.9">
+            <wref t="Phoolan" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.1.w.1"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.2">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.3">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.5">
+          <t>dismissal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.8">
+          <t>nda</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.9">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.11">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.12">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.13">
+          <t>failed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.15">
+          <t>protect</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.16">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.17">
+          <t>member</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.18">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.19">
+          <t>parliament</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-13T12:56:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.4">
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.16"/>
+            <wref t="member" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.17"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.18"/>
+            <wref t="parliament" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.2.w.19"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.2">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.3">
+          <t>letter</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.5">
+          <t>federation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.6">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.7">
+          <t>president</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.8">
+          <t>purushottam</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.10">
+          <t>government</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.11">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.12">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.13">
+          <t>federation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.14">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.15">
+          <t>rudrappa</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.17">
+          <t>samata</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.18">
+          <t>sainik</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.19">
+          <t>dal</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.20">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.21">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.22">
+          <t>federation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.23">
+          <t>president</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.24">
+          <t>k.b.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.25">
+          <t>prahlad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.26">
+          <t>stated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.27">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.29">
+          <t>attacks</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.30">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.31">
+          <t>dalits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.32">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.33">
+          <t>bihar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.34">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.35">
+          <t>minorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.36">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.37">
+          <t>uttar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.38">
+          <t>pradesh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.39">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.40">
+          <t>suggests</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.41">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.42">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.43">
+          <t>in</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.44">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.45">
+          <t>security</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.46">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.47">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.48">
+          <t>dalit</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.49">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.50">
+          <t>weaker</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.51">
+          <t>sections</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.52">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.53">
+          <t>minorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.54">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.55">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.56">
+          <t>country</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.57">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.58">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.59">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.60">
+          <t>shameful</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.61">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.62">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.63">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.64">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.65">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.66">
+          <t>central</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.67">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.68">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="caste" datetime="2018-04-13T12:56:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.7">
+            <wref t="dalits" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.3.w.31"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.1">
+          <t>home</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.2">
+          <t>minister</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.3">
+          <t>l.k.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.4">
+          <t>advani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.5">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.6">
+          <t>prime</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.7">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.8">
+          <t>vajpayee</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.9">
+          <t>should</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.10">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.12">
+          <t>moral</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.13">
+          <t>responsibility</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.14">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.16">
+          <t>barbaric</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.17">
+          <t>killing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.19">
+          <t>phoolan</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.20">
+          <t>devi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.22">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.23">
+          <t>resign</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.25">
+          <t>they</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.26">
+          <t>demanded</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.27">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-13T12:57:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.8">
+            <wref t="killing" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.17"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-19T16:00:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.text.entity.10">
+            <wref t="phoolan" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.19"/>
+            <wref t="devi" id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.4.w.20"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.2">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.3">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.4">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.5">
+          <t>immediate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.6">
+          <t>arrest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.9">
+          <t>culprits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.10">
+          <t>without</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.11">
+          <t>conceding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.13">
+          <t>political</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.14">
+          <t>pressure</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.5.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.6.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.6.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Phoolan-murder-condemned_articleshow_1485502531.p.1.s.6.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Phoolan-murder-condemned/articleshow/1485502531.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

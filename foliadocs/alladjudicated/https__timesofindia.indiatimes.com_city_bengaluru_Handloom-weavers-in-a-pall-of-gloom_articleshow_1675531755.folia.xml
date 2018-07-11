@@ -1,0 +1,1556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="SocialClass">manual_working_class</meta>
+    <meta id="Motivation">economic_welfare,economic_non-welfare</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Motivation2"></meta>
+    <meta id="Violent">No</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Centrality2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Formality">Informal</meta>
+    <meta id="Formality2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.1">
+          <t>Handloom</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.2">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.3">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.4">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.5">
+          <t>pall</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.7">
+          <t>gloom</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.8">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.9">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.10">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.11">
+          <t>6</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.15">
+          <t>01.23</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.16">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.18">
+          <t>hubli</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.20">
+          <t>faced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.21">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.22">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.23">
+          <t>double-edged</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.24">
+          <t>sword</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.27">
+          <t>condition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.28">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.29">
+          <t>handloom</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.30">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.31">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.32">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.33">
+          <t>region</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.34">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.35">
+          <t>worse</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.36">
+          <t>than</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.37">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.38">
+          <t>worst</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.39">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-04-28T17:06:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.1">
+            <wref t="hubli" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-11T13:02:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.7">
+            <wref t="Handloom" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.1"/>
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.2"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.3"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.4"/>
+            <wref t="pall" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.5"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.6"/>
+            <wref t="gloom" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-11T13:02:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.8">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.10"/>
+            <wref t="6" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.14"/>
+            <wref t="01.23" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.15"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.17"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T14:03:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.17">
+            <wref t="Handloom" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.1"/>
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.1.w.2"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.1">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.3">
+          <t>failure</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.6">
+          <t>karnataka</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.7">
+          <t>handloom</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.8">
+          <t>development</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.9">
+          <t>corporation</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.10">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.11">
+          <t>khdc</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.12">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.13">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.14">
+          <t>provide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.15">
+          <t>raw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.16">
+          <t>materials</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.17">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.18">
+          <t>rendered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.19">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.20">
+          <t>jobless</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.21">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.22">
+          <t>one</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.23">
+          <t>side</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.26">
+          <t>severe</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.27">
+          <t>drought</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.28">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.29">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.30">
+          <t>compounded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.31">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.32">
+          <t>lives</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.33">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.34">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.35">
+          <t>other</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.36">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-11T13:08:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.10">
+            <wref t="jobless" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.20"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="rural" confidence="0.5" datetime="2018-04-24T14:17:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.18">
+            <wref t="drought" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.27"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T14:38:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.27">
+            <wref t="karnataka" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.6"/>
+            <wref t="handloom" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.7"/>
+            <wref t="development" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.8"/>
+            <wref t="corporation" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T14:38:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.28">
+            <wref t="khdc" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.2.w.11"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3">
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.1">
+          <t>no</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.2">
+          <t>rains</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.4">
+          <t>hence</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.5">
+          <t>no</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.6">
+          <t>work</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.7">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-11T13:09:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.11">
+            <wref t="no" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.5"/>
+            <wref t="work" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.3.w.6"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.1">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.2">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.3">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.4">
+          <t>16,000</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.5">
+          <t>families</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.7">
+          <t>north</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.8">
+          <t>karnataka</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.9">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.10">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.11">
+          <t>reeling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.12">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.13">
+          <t>severe</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.14">
+          <t>distress</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.15">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.17">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.18">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.19">
+          <t>months</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.20">
+          <t>with</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.21">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.22">
+          <t>work</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.24">
+          <t>hand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.25">
+          <t>and</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.26">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.27">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.28">
+          <t>alternative</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.29">
+          <t>either</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.30">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-11T13:09:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.12">
+            <wref t="no" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.21"/>
+            <wref t="work" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.22"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-04-28T17:06:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.3">
+            <wref t="north" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.7"/>
+            <wref t="karnataka" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.4.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.1">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.2">
+          <t>wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.5">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.6">
+          <t>staged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.7">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.8">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.9">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.11">
+          <t>front</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.12">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.14">
+          <t>khdc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.15">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.16">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.18">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.20">
+          <t>supply</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.21">
+          <t>raw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.22">
+          <t>materials</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.24">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.25">
+          <t>community</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.26">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-11T13:07:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.9">
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-04-11T13:16:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.13">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.1"/>
+            <wref t="wednesday" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-11T13:16:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.14">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.8"/>
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T17:15:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.15">
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.10"/>
+            <wref t="front" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.11"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.12"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.13"/>
+            <wref t="khdc" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.14"/>
+            <wref t="office" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-19T15:39:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.19">
+            <wref t="supply" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.20"/>
+            <wref t="raw" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.21"/>
+            <wref t="materials" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.22"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.23"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.24"/>
+            <wref t="community" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.25"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-28T17:08:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.31">
+            <wref t="office" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.15"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-11T13:17:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.16">
+            <wref t="authorities" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.18"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-12T13:33:41">The term authorities is used to refer to the karnataka handloom development corporation (khdc). </comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T14:38:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.24">
+            <wref t="khdc" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.5.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.2">
+          <t>vice-president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.5">
+          <t>state</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.6">
+          <t>weavers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.7">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.8">
+          <t>association</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.9">
+          <t>,</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.10">
+          <t>n.g.</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.11">
+          <t>malawade</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.13">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.15">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.16">
+          <t>have</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.17">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.18">
+          <t>work</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.20">
+          <t>do</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.21">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.23">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.24">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.25">
+          <t>months</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.26">
+          <t>with</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.27">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.28">
+          <t>raw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.29">
+          <t>material</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.30">
+          <t>reaching</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.31">
+          <t>them</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T14:27:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.21">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.1"/>
+            <wref t="vice-president" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-04-24T14:27:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.20">
+            <wref t="n.g." id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.10"/>
+            <wref t="malawade" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T14:40:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.29">
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-04-24T14:40:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.30">
+            <wref t="no" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.17"/>
+            <wref t="work" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.18"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-19T15:42:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.6">
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.15"/>
+            <wref t="have" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.16"/>
+            <wref t="no" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.17"/>
+            <wref t="work" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.18"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.19"/>
+            <wref t="do" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.20"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.21"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.22"/>
+            <wref t="last" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.23"/>
+            <wref t="two" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.24"/>
+            <wref t="months" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.25"/>
+            <wref t="with" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.26"/>
+            <wref t="no" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.27"/>
+            <wref t="raw" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.28"/>
+            <wref t="material" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.29"/>
+            <wref t="reaching" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.30"/>
+            <wref t="them" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.31"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T14:27:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.22">
+            <wref t="state" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.5"/>
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.6"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.7"/>
+            <wref t="association" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.6.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.1">
+          <t>due</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.3">
+          <t>scarce</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.4">
+          <t>rainfall</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.6">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.7">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.8">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.11">
+          <t>position</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.13">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.14">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.15">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.16">
+          <t>other</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.17">
+          <t>employment</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.7.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8">
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.1">
+          <t>"</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.2">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.3">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.5">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.6">
+          <t>announced</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.7">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.8">
+          <t>food</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.9">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.10">
+          <t>work</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.11">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.12">
+          <t>scheme</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.13">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.14">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.15">
+          <t>farmers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.17">
+          <t>why</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.18">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.20">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.21">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.22">
+          <t>left</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.23">
+          <t>out</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.24">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.25">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.26">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.27">
+          <t>questioned</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-12T13:46:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.26">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.8.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.2">
+          <t>urged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.4">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.6">
+          <t>immediately</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.7">
+          <t>announce</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.9">
+          <t>relief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.10">
+          <t>package</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.11">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.12">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.13">
+          <t>weavers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.14">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.15">
+          <t>community</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.17">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.18">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.19">
+          <t>wage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.21">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.22">
+          <t>50</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.23">
+          <t>per</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.24">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.25">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.27">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.28">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.29">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.30">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.31">
+          <t>supplied</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.32">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.33">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.34">
+          <t>raw</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.35">
+          <t>material</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.36">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-12T11:25:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.2">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.4"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-28T17:05:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.23">
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.5"/>
+            <wref t="immediately" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.6"/>
+            <wref t="announce" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.7"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.8"/>
+            <wref t="relief" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.9"/>
+            <wref t="package" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.10"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.11"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.12"/>
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.13"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.14"/>
+            <wref t="community" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-19T15:42:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.25">
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.18"/>
+            <wref t="wage" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.19"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.20"/>
+            <wref t="rs" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.21"/>
+            <wref t="50" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.22"/>
+            <wref t="per" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.23"/>
+            <wref t="day" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.24"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.25"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.26"/>
+            <wref t="weavers" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.27"/>
+            <wref t="till" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.28"/>
+            <wref t="they" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.29"/>
+            <wref t="are" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.30"/>
+            <wref t="supplied" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.31"/>
+            <wref t="with" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.32"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.33"/>
+            <wref t="raw" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.34"/>
+            <wref t="material" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.9.w.35"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.1">
+          <t>malawade</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.2">
+          <t>warned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.4">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.6">
+          <t>intensified</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.7">
+          <t>agitation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.9">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.11">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.12">
+          <t>failed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.13">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.14">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.15">
+          <t>note</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.17">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.18">
+          <t>situation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.10.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.2">
+          <t>state</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.3">
+          <t>weavers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.4">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.5">
+          <t>association</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.6">
+          <t>vice-president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.7">
+          <t>termed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.9">
+          <t>shifting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.12">
+          <t>khdc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.13">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.15">
+          <t>hubli</t>
+        </w>
+        <w class="PUNCTUATION-MULTI" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.16">
+          <t>--</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.17">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.18">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.19">
+          <t>seen</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.20">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.21">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.22">
+          <t>attempt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.24">
+          <t>bring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.25">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.26">
+          <t>proper</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.27">
+          <t>decentralisation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.28">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.29">
+          <t>power</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.30">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.31">
+          <t>access</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.32">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.33">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.34">
+          <t>weaving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.35">
+          <t>community</t>
+        </w>
+        <w class="PUNCTUATION-MULTI" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.36">
+          <t>--</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.37">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.38">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.39">
+          <t>mere</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.40">
+          <t>eyewash</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.41">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.11.w.42">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.3">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.4">
+          <t>vested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.5">
+          <t>interests</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.7">
+          <t>bangalore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.8">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.9">
+          <t>retain</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.10">
+          <t>important</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.11">
+          <t>decision-making</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.12">
+          <t>bodies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.13">
+          <t>to</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.14">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.15">
+          <t>call</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.16">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.17">
+          <t>shots</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.18">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.12.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.1">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.2">
+          <t>this</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.4">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.5">
+          <t>pointed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.7">
+          <t>shifting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.9">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.10">
+          <t>important</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.11">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.12">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.13">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.14">
+          <t>monitoring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.15">
+          <t>yarn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.16">
+          <t>purchase</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.18">
+          <t>bangalore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.19">
+          <t>just</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.20">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.21">
+          <t>few</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.22">
+          <t>days</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.23">
+          <t>back</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.13.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.1">
+          <t>khdc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.2">
+          <t>managing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.3">
+          <t>director</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.4">
+          <t>v.</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.5">
+          <t>manjula</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.7">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.8">
+          <t>receiving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.10">
+          <t>memorandum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.11">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.12">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.13">
+          <t>protestors</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.15">
+          <t>assured</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.16">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.18">
+          <t>raw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.19">
+          <t>material</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.20">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.21">
+          <t>reach</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.22">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.23">
+          <t>within</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.24">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.25">
+          <t>week</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.26">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-12T11:31:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.4">
+            <wref t="protestors" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.13"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T14:42:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.text.entity.5">
+            <wref t="khdc" id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.14.w.1"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.1">
+          <t>asking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.3">
+          <t>protestors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.5">
+          <t>cooperate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.6">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.7">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.8">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.10">
+          <t>manjula</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.11">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.13">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.14">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.15">
+          <t>committed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.17">
+          <t>bail</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.18">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.20">
+          <t>weavers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.21">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.22">
+          <t>thus</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.24">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.25">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.26">
+          <t>increased</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.28">
+          <t>khdc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.29">
+          <t>fund</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.30">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.31">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.32">
+          <t>6</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.33">
+          <t>crore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.34">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.35">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.36">
+          <t>12</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.37">
+          <t>crore</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.15.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.16.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.16.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Handloom-weavers-in-a-pall-of-gloom_articleshow_1675531755.p.1.s.16.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Handloom-weavers-in-a-pall-of-gloom/articleshow/1675531755.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

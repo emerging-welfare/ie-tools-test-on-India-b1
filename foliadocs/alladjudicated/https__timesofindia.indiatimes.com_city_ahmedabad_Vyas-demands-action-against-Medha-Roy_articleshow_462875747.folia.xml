@@ -1,0 +1,1310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-12T14:02:32" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+    </annotations>
+    <meta id="Motivation2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Formality2"></meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Poor2"></meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Motivation">N-A</meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Violent">No</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.1">
+          <t>Vyas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.2">
+          <t>demands</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.3">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.4">
+          <t>against</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.5">
+          <t>Medha</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.7">
+          <t>Roy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.8">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.9">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.10">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.11">
+          <t>6</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.15">
+          <t>11.51</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.16">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.18">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.20">
+          <t>reacting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.21">
+          <t>sharply</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.24">
+          <t>demonstrations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.25">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.26">
+          <t>arundhati</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.27">
+          <t>roy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.28">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.29">
+          <t>medha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.30">
+          <t>patkar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.31">
+          <t>daring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.33">
+          <t>supreme</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.34">
+          <t>court</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.35">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.36">
+          <t>take</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.37">
+          <t>action</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.38">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.39">
+          <t>narmada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.40">
+          <t>samarthan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.41">
+          <t>convenor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.42">
+          <t>jay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.43">
+          <t>narayan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.44">
+          <t>vyas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.45">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.46">
+          <t>pleaded</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.47">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.48">
+          <t>stern</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.49">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.50">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.51">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.52">
+          <t>group</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.53">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-22T13:28:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.2">
+            <wref t="demonstrations" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-06-23T18:18:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.10">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.32"/>
+            <wref t="supreme" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.33"/>
+            <wref t="court" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.34"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.35"/>
+            <wref t="take" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.36"/>
+            <wref t="action" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.37"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-05T16:21:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.16">
+            <wref t="Vyas" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.1"/>
+            <wref t="demands" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.2"/>
+            <wref t="action" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.3"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.4"/>
+            <wref t="Medha" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.5"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.6"/>
+            <wref t="Roy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-05T16:21:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.17">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.10"/>
+            <wref t="6" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.14"/>
+            <wref t="11.51" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.15"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-23T18:16:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.18">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.18"/>
+          </entity>
+        </entities>
+        <entities/>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T18:16:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.8">
+            <wref t="Medha" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T18:16:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.19">
+            <wref t="Roy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T18:17:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.20">
+            <wref t="arundhati" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.26"/>
+            <wref t="roy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T18:17:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.21">
+            <wref t="medha" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.29"/>
+            <wref t="patkar" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.30"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T18:18:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.24">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.32"/>
+            <wref t="supreme" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.33"/>
+            <wref t="court" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.1.w.34"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.2">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.3">
+          <t>strongly-worded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.4">
+          <t>letter</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.5">
+          <t>addressed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.8">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.9">
+          <t>justice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.10">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.11">
+          <t>india</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.13">
+          <t>vyas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.14">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.15">
+          <t>indicated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.16">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.18">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.19">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.20">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.21">
+          <t>arundhati</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.22">
+          <t>roy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.24">
+          <t>her</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.25">
+          <t>colleagues</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.26">
+          <t>openly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.27">
+          <t>defying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.29">
+          <t>supreme</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.30">
+          <t>court</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.31">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.32">
+          <t>observations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.33">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.34">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.35">
+          <t>challenging</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.36">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.37">
+          <t>authority</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.38">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.39">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.40">
+          <t>apex</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.41">
+          <t>court</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.42">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.43">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.44">
+          <t>now</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.45">
+          <t>exposed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.46">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.47">
+          <t>real</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.48">
+          <t>face</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.49">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.50">
+          <t>ideology</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.51">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.52">
+          <t>removing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.53">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.54">
+          <t>mask</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.55">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.56">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.57">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.58">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.59">
+          <t>covered</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.60">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.61">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.62">
+          <t>castigating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.63">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.64">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.65">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.66">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.67">
+          <t>contempt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.68">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.69">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.70">
+          <t>supreme</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.71">
+          <t>court</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.72">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.73">
+          <t>vyas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.74">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.75">
+          <t>further</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.76">
+          <t>observed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.77">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.78">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.79">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.80">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.81">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.82">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.83">
+          <t>defiance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.84">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.85">
+          <t>insult</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.86">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.87">
+          <t>apex</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.88">
+          <t>court</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.89">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.90">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.91">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.92">
+          <t>challenge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.93">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.94">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.95">
+          <t>constitutionally-appointed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.96">
+          <t>authority</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.97">
+          <t>showing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.98">
+          <t>sheer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.99">
+          <t>contempt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.100">
+          <t>towards</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.101">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.102">
+          <t>democratic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.103">
+          <t>process</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.104">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.105">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.106">
+          <t>most</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.107">
+          <t>important</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.108">
+          <t>institution</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.109">
+          <t>_</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.110">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.111">
+          <t>judiciary</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.112">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-22T13:28:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.1">
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-22T13:32:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.6">
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.64"/>
+          </entity>
+        </entities>
+        <entities/>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T18:19:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.11">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.28"/>
+            <wref t="supreme" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.29"/>
+            <wref t="court" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.30"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T18:19:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.12">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.39"/>
+            <wref t="apex" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.40"/>
+            <wref t="court" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.41"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T18:19:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.9">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.69"/>
+            <wref t="supreme" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.70"/>
+            <wref t="court" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.71"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-22T14:08:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.13">
+            <wref t="apex" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.87"/>
+            <wref t="court" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.88"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-22T14:08:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.14">
+            <wref t="judiciary" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.111"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-06-23T18:18:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.22">
+            <wref t="arundhati" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.21"/>
+            <wref t="roy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T18:18:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.text.entity.23">
+            <wref t="her" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.24"/>
+            <wref t="colleagues" id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.2.w.25"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.1">
+          <t>vyas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.3">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.4">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.6">
+          <t>same</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.7">
+          <t>people</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.8">
+          <t>who</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.10">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.11">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.12">
+          <t>suits</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.13">
+          <t>them</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.15">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.16">
+          <t>beg</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.17">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.19">
+          <t>supreme</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.20">
+          <t>court</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.21">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.22">
+          <t>justice</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.24">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.26">
+          <t>moment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.28">
+          <t>situation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.29">
+          <t>develops</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.30">
+          <t>exposing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.31">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.32">
+          <t>real</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.33">
+          <t>intentions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.34">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.35">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.36">
+          <t>turn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.37">
+          <t>around</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.38">
+          <t>180</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.39">
+          <t>degrees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.40">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.41">
+          <t>go</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.42">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.43">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.44">
+          <t>extent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.45">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.46">
+          <t>daring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.47">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.48">
+          <t>apex</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.49">
+          <t>court</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.50">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.51">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.52">
+          <t>whatever</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.53">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.54">
+          <t>intentions</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.55">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.56">
+          <t>whatever</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.57">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.58">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.59">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.60">
+          <t>cause</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.61">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.62">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.63">
+          <t>buck</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.64">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.65">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.66">
+          <t>stop</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.67">
+          <t>somewhere</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.68">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.69">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.70">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.71">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.3.w.72">
+          <t>.</t>
+        </w>
+        <entities/>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.2">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.3">
+          <t>appealed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.6">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.7">
+          <t>justice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.8">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.9">
+          <t>these</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.10">
+          <t>people</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.12">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.13">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.14">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.16">
+          <t>exploit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.17">
+          <t>magnanimity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.20">
+          <t>supreme</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.21">
+          <t>court</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.22">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.23">
+          <t>want</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.24">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.25">
+          <t>go</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.26">
+          <t>ahead</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.27">
+          <t>undeterred</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.28">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.29">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.30">
+          <t>plans</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.31">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.32">
+          <t>must</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.33">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.34">
+          <t>checked</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.4.w.35">
+          <t>.</t>
+        </w>
+        <entities/>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.2">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.3">
+          <t>requested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.6">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.7">
+          <t>justice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.8">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.9">
+          <t>such</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.10">
+          <t>people</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.12">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.13">
+          <t>do</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.14">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.15">
+          <t>care</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.16">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.17">
+          <t>democratic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.18">
+          <t>process</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.19">
+          <t>or</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.21">
+          <t>well-established</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.22">
+          <t>judicial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.23">
+          <t>system</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.24">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.25">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.26">
+          <t>country</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.27">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.28">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.29">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.30">
+          <t>restrained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.31">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.32">
+          <t>approaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.33">
+          <t>judicial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.34">
+          <t>or</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.35">
+          <t>quasi-judicial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.36">
+          <t>authorities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.37">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.38">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.39">
+          <t>themselves</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.40">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.41">
+          <t>shown</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.42">
+          <t>defiance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.43">
+          <t>towards</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.44">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.45">
+          <t>system</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.46">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.47">
+          <t>administration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.48">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.49">
+          <t>justice</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.5.w.50">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.1">
+          <t>vyas</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.2">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.3">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.4">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.5">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.6">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.7">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.8">
+          <t>lost</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.9">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.10">
+          <t>battle</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.13">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.15">
+          <t>international</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.16">
+          <t>fora</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.6.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.2">
+          <t>popular</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.3">
+          <t>opinion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.5">
+          <t>turning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.6">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.7">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.9">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.10">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.11">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.12">
+          <t>chased</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.13">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.14">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.16">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.17">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.18">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.19">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.20">
+          <t>most</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.21">
+          <t>safe</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.22">
+          <t>strongholds</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.7.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.1">
+          <t>i</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.2">
+          <t>think</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.3">
+          <t>now</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.4">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.5">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.6">
+          <t>resorting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.8">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.9">
+          <t>kind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.11">
+          <t>stunts</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.12">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.14">
+          <t>sake</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.15">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.16">
+          <t>publicity</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.17">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.18">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.19">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.20">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Vyas-demands-action-against-Medha-Roy_articleshow_462875747.p.1.s.8.w.21">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/Vyas-demands-action-against-Medha-Roy/articleshow/462875747.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

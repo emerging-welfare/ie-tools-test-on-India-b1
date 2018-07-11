@@ -1,0 +1,1987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-08T17:26:45" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Motivation2">economic_welfare</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="SocialClass">non-manual_working_class</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Centrality2">Urban</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="SocialClass2">non-manual_working_class</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="Centrality">Urban,Rural</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+    <meta id="Motivation">economic_welfare</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="EventCount">2</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="Violent2">No</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.1">
+          <t>Nurses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.2">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.3">
+          <t>warpath</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.4">
+          <t>;</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.5">
+          <t>college</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.6">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.7">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.8">
+          <t>join</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.9">
+          <t>soon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.10">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.11">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.12">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.13">
+          <t>8</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.15">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.16">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.17">
+          <t>11.35</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.18">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.19">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.20">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.21">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.22">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.23">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.25">
+          <t>gujarat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.26">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.27">
+          <t>imposed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.29">
+          <t>essential</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.30">
+          <t>services</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.31">
+          <t>maintenance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.32">
+          <t>act</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.33">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.34">
+          <t>esma</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.35">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.36">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.38">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.39">
+          <t>schoolteachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.40">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.41">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.42">
+          <t>state</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.43">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.44">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.45">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.46">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.47">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.48">
+          <t>unions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.49">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.50">
+          <t>threatened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.51">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.52">
+          <t>come</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.53">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.54">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.55">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.56">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.57">
+          <t>streets</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.58">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-17T08:53:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.11">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-05T14:16:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.38">
+            <wref t="Nurses" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.1"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.2"/>
+            <wref t="warpath" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.3"/>
+            <wref t=";" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.4"/>
+            <wref t="college" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.5"/>
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.6"/>
+            <wref t="may" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.7"/>
+            <wref t="join" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.8"/>
+            <wref t="soon" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-05T14:17:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.40">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.12"/>
+            <wref t="8" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.14"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.15"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.16"/>
+            <wref t="11.35" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.17"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.18"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-05T14:18:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.41">
+            <wref t="striking" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.38"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-05-17T13:23:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.2">
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.40"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.41"/>
+            <wref t="state" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.42"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="rural" datetime="2018-05-17T09:03:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.3">
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.40"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.41"/>
+            <wref t="state" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.42"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T09:03:35">Both urban and rural?</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-11T21:21:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.13">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.39"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-05-17T13:25:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.7">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.39"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-05-17T13:25:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.8">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.1.w.39"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.2">
+          <t>federation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.4">
+          <t>college</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.5">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.6">
+          <t>university</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.7">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.8">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.9">
+          <t>associations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.11">
+          <t>gujarat</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.12">
+          <t>state</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.15">
+          <t>gujarat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.16">
+          <t>rajya</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.17">
+          <t>adhyapak</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.18">
+          <t>mahamandal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.21">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.22">
+          <t>staff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.23">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.25">
+          <t>various</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.26">
+          <t>universities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.27">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.28">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.29">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.30">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.31">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.32">
+          <t>join</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.33">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.34">
+          <t>schoolteachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.35">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.36">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.37">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.38">
+          <t>esma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.39">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.40">
+          <t>not</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.41">
+          <t>revoked</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.42">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-17T08:57:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.16">
+            <wref t="agitation" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.36"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-17T08:57:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.1">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.34"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-05-17T13:25:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.5">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.34"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-05-17T13:25:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.6">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.2.w.34"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.2">
+          <t>gujarat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.3">
+          <t>nurses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.4">
+          <t>union</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.5">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.6">
+          <t>gnu</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.7">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.8">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.10">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.11">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.12">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.13">
+          <t>threatened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.15">
+          <t>separate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.16">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.18">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.19">
+          <t>own</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.20">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.21">
+          <t>better</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.22">
+          <t>wages</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.24">
+          <t>other</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.25">
+          <t>perks</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.26">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.27">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.29">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.30">
+          <t>realised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.31">
+          <t>overnight</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.32">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.33">
+          <t>teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.34">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.35">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.36">
+          <t>essential</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.37">
+          <t>service</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.38">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.39">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.40">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.41">
+          <t>teacher</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.42">
+          <t>federation</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.43">
+          <t>'s</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.44">
+          <t>co-ordination</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.45">
+          <t>committee</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.46">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.47">
+          <t>professor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.48">
+          <t>ks</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.49">
+          <t>shastri</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.50">
+          <t>told</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.51">
+          <t>tnn</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.52">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.53">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.54">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.55">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.56">
+          <t>years</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.57">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.58">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.59">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.60">
+          <t>treated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.61">
+          <t>shabbily</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.62">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.63">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.64">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.65">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.66">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.67">
+          <t>kept</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.68">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.69">
+          <t>word</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.70">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.71">
+          <t>promises</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.72">
+          <t>made</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.73">
+          <t>earlier</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.3.w.74">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.2">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.4">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.6">
+          <t>lot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.8">
+          <t>promises</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.9">
+          <t>in</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.10">
+          <t>1998</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.11">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.12">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.13">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.14">
+          <t>implement</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.15">
+          <t>them</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.17">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.18">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.19">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.20">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.21">
+          <t>culprits</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.23">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.24">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.25">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.4.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.2">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.3">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.4">
+          <t>revoke</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.5">
+          <t>esma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.6">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.7">
+          <t>soon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.8">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.9">
+          <t>possible</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.10">
+          <t>or</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.11">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.12">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.13">
+          <t>have</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.14">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.15">
+          <t>choice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.16">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.18">
+          <t>join</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.19">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.20">
+          <t>schoolteachers</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.21">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.22">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.23">
+          <t>some</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.24">
+          <t>500</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.25">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.26">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.27">
+          <t>across</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.29">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.30">
+          <t>had</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.31">
+          <t>met</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.32">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.33">
+          <t>ahmedabad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.34">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.35">
+          <t>days</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.36">
+          <t>ago</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.37">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.38">
+          <t>discuss</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.39">
+          <t>problems</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.40">
+          <t>of</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.41">
+          <t>part-time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.42">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.43">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.44">
+          <t>directors</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.45">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.46">
+          <t>physical</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.47">
+          <t>education</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.48">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.49">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.50">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.51">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.52">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.53">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.54">
+          <t>included</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.55">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.56">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.57">
+          <t>pension</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.58">
+          <t>scheme</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.59">
+          <t>as</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.60">
+          <t>well</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.61">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.62">
+          <t>apart</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.63">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.64">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.65">
+          <t>provident</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.66">
+          <t>fund</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.67">
+          <t>scheme</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.68">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-11T21:35:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.27">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.25"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T09:05:34">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-17T13:29:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.9">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-05-17T13:29:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.10">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-05-17T13:29:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.12">
+            <wref t="schoolteachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="partses" datetime="2018-05-17T13:31:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.14">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.25"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T13:31:03">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="sector" datetime="2018-05-17T13:31:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.15">
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.25"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T13:31:03">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" confidence="0.5" datetime="2018-02-11T21:36:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.28">
+            <wref t="met" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.31"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T09:02:35">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-02-11T21:36:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.29">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.33"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T09:04:46">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-02-11T21:36:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.30">
+            <wref t="two" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.34"/>
+            <wref t="days" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.35"/>
+            <wref t="ago" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.36"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T09:04:58">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-06-12T22:29:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.31">
+            <wref t="discuss" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.38"/>
+            <wref t="problems" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.39"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.40"/>
+            <wref t="part-time" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.41"/>
+            <wref t="teachers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.42"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.43"/>
+            <wref t="directors" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.44"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.45"/>
+            <wref t="physical" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.46"/>
+            <wref t="education" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.47"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-02-11T21:49:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.39">
+            <wref t="some" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.23"/>
+            <wref t="500" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.24"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-17T09:05:18">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-17T09:12:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.text.entity.4">
+            <wref t="they" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.52"/>
+            <wref t="be" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.53"/>
+            <wref t="included" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.54"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.55"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.56"/>
+            <wref t="pension" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.57"/>
+            <wref t="scheme" id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.5.w.58"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.1">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.2">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.3">
+          <t>demands</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.4">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.5">
+          <t>not</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.6">
+          <t>met</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.7">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.9">
+          <t>end</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.11">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.12">
+          <t>month</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.14">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.15">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.16">
+          <t>start</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.17">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.18">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.19">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.20">
+          <t>october</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.21">
+          <t>1</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.6.w.22">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.1">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.2">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.3">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.5">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.6">
+          <t>enough</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.8">
+          <t>administrative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.9">
+          <t>staff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.11">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.12">
+          <t>universities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.15">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.16">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.17">
+          <t>go</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.19">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.20">
+          <t>one-day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.21">
+          <t>mass</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.22">
+          <t>casual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.23">
+          <t>leave</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.24">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.25">
+          <t>september</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.26">
+          <t>10</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.27">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.28">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.29">
+          <t>long</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.30">
+          <t>pending</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.31">
+          <t>demand</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.32">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.33">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.34">
+          <t>conveyance</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.35">
+          <t>allowance</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.7.w.36">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.2">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.3">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.4">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.5">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.7">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.8">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.9">
+          <t>pathik</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.10">
+          <t>ashram</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.11">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.12">
+          <t>gandhinagar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.13">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.14">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.15">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.16">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.17">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.18">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.19">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.21">
+          <t>various</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.22">
+          <t>bodies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.24">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.25">
+          <t>state</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.26">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.27">
+          <t>education</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.28">
+          <t>scene</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.29">
+          <t>rose</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.30">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.31">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.32">
+          <t>voice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.33">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.35">
+          <t>promises</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.36">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.37">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.38">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.39">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.40">
+          <t>not</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.41">
+          <t>kept</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.42">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.43">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.44">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.45">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.46">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.47">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.48">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.49">
+          <t>gujarat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.50">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.51">
+          <t>official</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.52">
+          <t>arvind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.53">
+          <t>shah</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.54">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.8.w.55">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.1">
+          <t>gnu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.2">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.3">
+          <t>narendra</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.4">
+          <t>modi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.6">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.8">
+          <t>other</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.9">
+          <t>hand</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.11">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.12">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.13">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.14">
+          <t>given</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.16">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.17">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.18">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.19">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.20">
+          <t>september</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.21">
+          <t>16</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.23">
+          <t>work</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.24">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.25">
+          <t>better</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.26">
+          <t>wages</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.27">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.28">
+          <t>allowances</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.29">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.31">
+          <t>nursing</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.32">
+          <t>community</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.9.w.33">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.1">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.2">
+          <t>10,000</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.3">
+          <t>nurses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.4">
+          <t>in</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.5">
+          <t>government-run</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.6">
+          <t>hospitals</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.7">
+          <t>throughout</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.9">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.10">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.11">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.12">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.13">
+          <t>salaries</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.14">
+          <t>equivalent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.16">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.17">
+          <t>central</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.18">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.19">
+          <t>counterparts</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.21">
+          <t>hike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.22">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.23">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.24">
+          <t>allowances</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.25">
+          <t>as</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.26">
+          <t>well</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.10.w.27">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.1">
+          <t>modi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.2">
+          <t>says</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.4">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.5">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.6">
+          <t>knows</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.7">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.8">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.9">
+          <t>planning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.10">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.11">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.12">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.13">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.14">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.15">
+          <t>informed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.17">
+          <t>officials</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.19">
+          <t>august</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.20">
+          <t>21</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.11.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.1">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.2">
+          <t>september</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.3">
+          <t>1</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.6">
+          <t>nurses</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.7">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.8">
+          <t>start</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.9">
+          <t>wearing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.10">
+          <t>black</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.11">
+          <t>badges</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.12">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.14">
+          <t>mark</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.15">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.16">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.17">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.18">
+          <t>build</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.19">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.21">
+          <t>further</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.22">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.23">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.24">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.25">
+          <t>demands</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.26">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.27">
+          <t>not</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.28">
+          <t>met.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.29">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.30">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.31">
+          <t>far</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.33">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.34">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.35">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.36">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.37">
+          <t>shown</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.38">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.39">
+          <t>inclination</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.40">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.41">
+          <t>negotiate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.42">
+          <t>with</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.43">
+          <t>us</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.44">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.45">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.46">
+          <t>modi</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.47">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.48">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.49">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.50">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.51">
+          <t>nothing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.52">
+          <t>concrete</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.53">
+          <t>shows</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.54">
+          <t>up</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.55">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.56">
+          <t>then</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.57">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.58">
+          <t>plan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.59">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.60">
+          <t>work</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.61">
+          <t>without</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.62">
+          <t>white</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.63">
+          <t>uniform</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.64">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.65">
+          <t>september</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.66">
+          <t>10</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.67">
+          <t>to</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.68">
+          <t>16</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.69">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.70">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.71">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.72">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.73">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.74">
+          <t>intensify</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.75">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.76">
+          <t>stir</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.77">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.78">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.79">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.80">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.81">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.82">
+          <t>gnu</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.83">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.84">
+          <t>executive</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.85">
+          <t>council</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.86">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.87">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.88">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.89">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.90">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.91">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.92">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.93">
+          <t>fact</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.94">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.95">
+          <t>bit</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.96">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.97">
+          <t>than</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.98">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.99">
+          <t>can</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.100">
+          <t>chew</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.101">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.102">
+          <t>esma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.103">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.104">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.105">
+          <t>scared</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.106">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.107">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.108">
+          <t>teachers</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.109">
+          <t>away</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.12.w.110">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.1">
+          <t>if</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.2">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.3">
+          <t>unions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.4">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.5">
+          <t>come</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.6">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.7">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.8">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.9">
+          <t>street</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.11">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.12">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.13">
+          <t>create</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.15">
+          <t>major</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.16">
+          <t>embarrassment</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.17">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.19">
+          <t>keshubhai</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.20">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.13.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.14.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.14.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Nurses-on-warpath-college-teachers-may-join-soon_articleshow_1428508939.p.1.s.14.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/Nurses-on-warpath-college-teachers-may-join-soon/articleshow/1428508939.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:35" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">N-A</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Violent">No</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="Formality2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.1">
+          <t>BUTA</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.2">
+          <t>announces</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.3">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.5">
+          <t>July</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.6">
+          <t>25</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.7">
+          <t>A</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.8">
+          <t>STAFF</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.9">
+          <t>REPORTER</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.10">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.11">
+          <t>Jul</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.12">
+          <t>24</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.14">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.15">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.16">
+          <t>12.00</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.17">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.18">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.19">
+          <t>vadodara</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.20">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.21">
+          <t>baroda</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.22">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.23">
+          <t>teachers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.24">
+          <t>association</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.25">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.26">
+          <t>buta</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.27">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.28">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.29">
+          <t>announced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.30">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.31">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.32">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.33">
+          <t>july</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.34">
+          <t>25</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.35">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.36">
+          <t>express</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.37">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.38">
+          <t>solidarity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.39">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.40">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.41">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.42">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.43">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.44">
+          <t>protesting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.45">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.46">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.47">
+          <t>polices</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.48">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.49">
+          <t>privatisation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.50">
+          <t>and</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.51">
+          <t>self-finance</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.52">
+          <t>colleges</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.53">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-04-30T20:54:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.1">
+            <wref t="vadodara" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-30T16:20:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.3">
+            <wref t="BUTA" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.1"/>
+            <wref t="announces" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.2"/>
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.3"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.4"/>
+            <wref t="July" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.5"/>
+            <wref t="25" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-30T14:20:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.4">
+            <wref t="Jul" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.11"/>
+            <wref t="24" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.13"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.14"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.15"/>
+            <wref t="12.00" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.16"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.17"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-31T10:46:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.2">
+            <wref t="striking" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.42"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-31T10:47:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.6">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.46"/>
+            <wref t="polices" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.47"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.48"/>
+            <wref t="privatisation" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.49"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.50"/>
+            <wref t="self-finance" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.51"/>
+            <wref t="colleges" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.52"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-31T10:47:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.5">
+            <wref t="employees" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.43"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-30T20:56:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.text.entity.7">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.1.w.46"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.1">
+          <t>association</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.2">
+          <t>general</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.3">
+          <t>secretary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.5">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.6">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.8">
+          <t>buta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.9">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.10">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.11">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.13">
+          <t>proceed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.14">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.16">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.17">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.18">
+          <t>leave</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.19">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.20">
+          <t>wednesday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.21">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.22">
+          <t>per</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.24">
+          <t>all-india</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.25">
+          <t>federation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.26">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.27">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.28">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.29">
+          <t>college</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.30">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.31">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.32">
+          <t>organisation</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.33">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.34">
+          <t>aifucto</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.35">
+          <t>)</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.36">
+          <t>decision</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.2.w.37">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.3">
+          <t>buta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.4">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.5">
+          <t>disapproved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.7">
+          <t>appointment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.10">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.11">
+          <t>member</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.12">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.14">
+          <t>joint</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.15">
+          <t>convenor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.18">
+          <t>m</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.19">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.20">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.21">
+          <t>annual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.22">
+          <t>report</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.23">
+          <t>committee</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.3.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.3">
+          <t>buta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.4">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.5">
+          <t>reservations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.6">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.7">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.8">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.9">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.10">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.11">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.12">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.14">
+          <t>annual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.15">
+          <t>committee</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.16">
+          <t>report</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.17">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.18">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.19">
+          <t>large</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.20">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.23">
+          <t>report</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.24">
+          <t>contained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.25">
+          <t>academic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.26">
+          <t>achievements</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.28">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.29">
+          <t>teachers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.4.w.30">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.2">
+          <t>added</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.4">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.5">
+          <t>buta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.6">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.7">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.8">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.9">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.10">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.11">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.12">
+          <t>provide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.13">
+          <t>details</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.15">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.16">
+          <t>academic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.17">
+          <t>achievements</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.18">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.20">
+          <t>annual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.21">
+          <t>report</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.22">
+          <t>committee</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.24">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.25">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.26">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.27">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.28">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.29">
+          <t>already</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.30">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.31">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.32">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.33">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.34">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.35">
+          <t>withdraw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.36">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.37">
+          <t>same</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.5.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.6.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.6.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_BUTA-announces-strike-on-July-25_articleshow_1670548881.p.1.s.6.w.3">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/BUTA-announces-strike-on-July-25/articleshow/1670548881.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

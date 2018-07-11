@@ -1,0 +1,1542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-12T14:02:33" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+    </annotations>
+    <meta id="Motivation2">non-economic</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2">Urban</meta>
+    <meta id="EventCount">2</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2">No</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Poor">No</meta>
+    <meta id="Ideology2">N-A</meta>
+    <meta id="Violent2">No</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Violent">No</meta>
+    <meta id="SocialClass">professionals</meta>
+    <meta id="SocialClass2">professionals</meta>
+    <meta id="Poor2">No</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Caste">N-A</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.1">
+          <t>Chikka</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.2">
+          <t>Vidhana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.3">
+          <t>Soudha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.4">
+          <t>plan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.5">
+          <t>deals</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.7">
+          <t>big</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.8">
+          <t>blow</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.10">
+          <t>heritage</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.11">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.12">
+          <t>THE</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.13">
+          <t>TIMES</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.14">
+          <t>OF</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.15">
+          <t>INDIA</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.16">
+          <t>NEWS</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.17">
+          <t>SERVICE</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.18">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.19">
+          <t>Jul</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.20">
+          <t>11</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.21">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.22">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.23">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.24">
+          <t>12.42</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.25">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.26">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.27">
+          <t>bangalore</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.28">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.30">
+          <t>sm</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.31">
+          <t>krishna</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.32">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.33">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.34">
+          <t>planning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.35">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.36">
+          <t>construct</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.37">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.38">
+          <t>building</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.39">
+          <t>adjoining</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.40">
+          <t>vidhana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.41">
+          <t>soudha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.42">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.43">
+          <t>order</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.44">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.45">
+          <t>accommodate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.46">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.47">
+          <t>ministers</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.48">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.49">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.50">
+          <t>staff</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.51">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-02-28T13:28:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.3">
+            <wref t="Chikka" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.1"/>
+            <wref t="Vidhana" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.2"/>
+            <wref t="Soudha" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.3"/>
+            <wref t="plan" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.4"/>
+            <wref t="deals" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.5"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.6"/>
+            <wref t="big" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.7"/>
+            <wref t="blow" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.8"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.9"/>
+            <wref t="heritage" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-02-28T13:28:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.4">
+            <wref t="Jul" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.19"/>
+            <wref t="11" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.20"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.21"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.22"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.23"/>
+            <wref t="12.42" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.24"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.25"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.26"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-22T17:16:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.15">
+            <wref t="bangalore" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.27"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-22T17:41:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.17">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-22T17:41:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.18">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.29"/>
+            <wref t="sm" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.30"/>
+            <wref t="krishna" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.31"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.1.w.32"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.3">
+          <t>estimated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.5">
+          <t>cost</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.6">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.7">
+          <t>130</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.8">
+          <t>crore</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.9">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.10">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.11">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.12">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.14">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.15">
+          <t>policy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.16">
+          <t>stressing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.17">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.18">
+          <t>downsizing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.19">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.21">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.22">
+          <t>added</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.23">
+          <t>emphasis</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.24">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.25">
+          <t>decentralisation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.26">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.27">
+          <t>dispersal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.28">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.29">
+          <t>e-governance</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.30">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.31">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.32">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.33">
+          <t>comes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.34">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.35">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.36">
+          <t>surprise</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.37">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.38">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.39">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.40">
+          <t>says</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.41">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.42">
+          <t>concerned</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.43">
+          <t>architect</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.2.w.44">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.1">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.2">
+          <t>only</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.3">
+          <t>that</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.5">
+          <t>building</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.6">
+          <t>a</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.7">
+          <t>`</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.8">
+          <t>chikka</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.9">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.10">
+          <t>vidhana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.11">
+          <t>soudha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.12">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.13">
+          <t>mean</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.14">
+          <t>having</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.16">
+          <t>demolish</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.17">
+          <t>several</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.18">
+          <t>structures</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.20">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.21">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.22">
+          <t>old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.23">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.24">
+          <t>press</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.25">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.26">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.27">
+          <t>arches</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.28">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.29">
+          <t>date</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.30">
+          <t>back</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.31">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.32">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.33">
+          <t>than</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.34">
+          <t>150</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.35">
+          <t>years</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.3.w.36">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.1">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.2">
+          <t>arches</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.3">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.4">
+          <t>protected</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.5">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.7">
+          <t>protection</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.9">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.10">
+          <t>monuments</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.11">
+          <t>act</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.4.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.2">
+          <t>fact</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.3">
+          <t>it</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.4">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.5">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.6">
+          <t>very</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.7">
+          <t>reason</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.8">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.9">
+          <t>the</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.10">
+          <t>25</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.11">
+          <t>-</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.12">
+          <t>year-old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.13">
+          <t>bangalore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.14">
+          <t>urban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.15">
+          <t>art</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.16">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.17">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.18">
+          <t>dissolved</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.19">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.21">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.22">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.24">
+          <t>march</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.25">
+          <t>end</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.26">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.27">
+          <t>year</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.5.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.1">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.2">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.3">
+          <t>lodged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.4">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.5">
+          <t>strong</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.6">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.7">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.9">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.11">
+          <t>construct</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.12">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.13">
+          <t>vidhana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.14">
+          <t>soudha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.17">
+          <t>turn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.19">
+          <t>commission</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.20">
+          <t>was</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.21">
+          <t>scrapped</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.22">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-22T17:23:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.1">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-01T14:48:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.2">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.8"/>
+            <wref t="move" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.9"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.10"/>
+            <wref t="construct" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.11"/>
+            <wref t="another" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.12"/>
+            <wref t="vidhana" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.13"/>
+            <wref t="soudha" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.14"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-28T13:35:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.6">
+            <wref t="members" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.6.w.2"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:23:06">"the members of the bangalore urban art commission" </comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.3">
+          <t>believed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.6">
+          <t>proposed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.7">
+          <t>mini</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.8">
+          <t>soudha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.9">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.10">
+          <t>replicate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.12">
+          <t>old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.13">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.14">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.15">
+          <t>form</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.17">
+          <t>style</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.18">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.19">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.20">
+          <t>occupy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.21">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.22">
+          <t>area</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.23">
+          <t>of</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.24">
+          <t>10</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.25">
+          <t>acres</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.7.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.1">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.2">
+          <t>60</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.3">
+          <t>trees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.4">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.5">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.7">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.8">
+          <t>chopped</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.9">
+          <t>down</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.10">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.11">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.12">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.13">
+          <t>traffic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.14">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.15">
+          <t>vehicular</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.17">
+          <t>pedestrian</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.18">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.19">
+          <t>another</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.20">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.21">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.22">
+          <t>needs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.24">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.25">
+          <t>addressed</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.26">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.27">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.28">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.29">
+          <t>says</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.30">
+          <t>an</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.31">
+          <t>environmentalist</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.8.w.32">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.1">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.2">
+          <t>time</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.3">
+          <t>ago</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.5">
+          <t>timely</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.6">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.7">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.8">
+          <t>vigilant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.9">
+          <t>citizens</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.10">
+          <t>helped</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.11">
+          <t>abort</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.13">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.14">
+          <t>plan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.16">
+          <t>turn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.17">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.18">
+          <t>portion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.20">
+          <t>cubbon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.21">
+          <t>park</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.22">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.23">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.24">
+          <t>rest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.25">
+          <t>house</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.26">
+          <t>for</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.27">
+          <t>legislators</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.9.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.1">
+          <t>city</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.2">
+          <t>architects</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.3">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.4">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.5">
+          <t>concerned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.6">
+          <t>citizens</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.7">
+          <t>point</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.8">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.9">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.11">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.12">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.13">
+          <t>should</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.14">
+          <t>explore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.15">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.16">
+          <t>options</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.17">
+          <t>like</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.18">
+          <t>optimal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.19">
+          <t>use</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.22">
+          <t>huge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.23">
+          <t>vidhana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.24">
+          <t>soudha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.26">
+          <t>ms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.27">
+          <t>buildings</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.28">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.29">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.30">
+          <t>goes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.31">
+          <t>in</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.32">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.33">
+          <t>such</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.34">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.35">
+          <t>drastic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.36">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.37">
+          <t>expensive</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.38">
+          <t>option</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.39">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-22T17:45:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.19">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.10"/>
+            <wref t="state" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.11"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.10.w.12"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.2">
+          <t>bangalore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.3">
+          <t>urban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.4">
+          <t>art</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.5">
+          <t>commission</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.6">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.7">
+          <t>buac</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.8">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.9">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.10">
+          <t>prides</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.11">
+          <t>itself</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.12">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.13">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.14">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.15">
+          <t>apolitical</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.16">
+          <t>body</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.18">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.19">
+          <t>received</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.20">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.21">
+          <t>share</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.22">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.23">
+          <t>bouquets</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.24">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.25">
+          <t>brickbats</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.26">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.27">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.28">
+          <t>years</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.29">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-22T17:52:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.20">
+            <wref t="urban" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.3"/>
+            <wref t="art" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.4"/>
+            <wref t="commission" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.5"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:53:07">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-22T17:52:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.21">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.1"/>
+            <wref t="bangalore" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.2"/>
+            <wref t="urban" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.3"/>
+            <wref t="art" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.4"/>
+            <wref t="commission" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.5"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:52:55">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-22T17:52:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.22">
+            <wref t="buac" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.11.w.7"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:52:49">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.2">
+          <t>protested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.3">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.4">
+          <t>charles</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.5">
+          <t>correa</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.6">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.7">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.8">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.10">
+          <t>plan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.11">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.12">
+          <t>make</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.14">
+          <t>multi-storeyed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.15">
+          <t>building</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.16">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.17">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.18">
+          <t>today</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.19">
+          <t>known</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.20">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.21">
+          <t>vishveshwaraya</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.22">
+          <t>towers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.23">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-28T13:42:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.10">
+            <wref t="protested" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.2"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:53:27">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-02-28T13:49:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.14">
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.9"/>
+            <wref t="plan" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.10"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.11"/>
+            <wref t="make" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.12"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.13"/>
+            <wref t="multi-storeyed" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.14"/>
+            <wref t="building" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.15"/>
+            <wref t="which" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.16"/>
+            <wref t="is" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.17"/>
+            <wref t="today" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.18"/>
+            <wref t="known" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.19"/>
+            <wref t="as" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.20"/>
+            <wref t="vishveshwaraya" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.21"/>
+            <wref t="towers" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.22"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:53:44">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-28T13:48:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.text.entity.13">
+            <wref t="charles" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.4"/>
+            <wref t="correa" id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.12.w.5"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-22T17:53:36">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.2">
+          <t>buac</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.4">
+          <t>instituted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.5">
+          <t>best</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.6">
+          <t>maintained</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.7">
+          <t>buildings</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.9">
+          <t>garden</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.10">
+          <t>awards</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.11">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.12">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.13">
+          <t>presented</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.14">
+          <t>each</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.15">
+          <t>year</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.13.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.1">
+          <t>private</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.2">
+          <t>homes</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.3">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.4">
+          <t>hotels</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.5">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.6">
+          <t>hospitals</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.8">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.9">
+          <t>stations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.10">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.11">
+          <t>eligible</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.13">
+          <t>participate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.15">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.17">
+          <t>fact</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.18">
+          <t>encouraged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.20">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.21">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.22">
+          <t>every</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.23">
+          <t>year</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.14.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.1">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.2">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.3">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.4">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.5">
+          <t>disheartened</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.7">
+          <t>honorary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.8">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.10">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.11">
+          <t>buac</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.13">
+          <t>ma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.14">
+          <t>parthasarathy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.15">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.16">
+          <t>determined</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.18">
+          <t>continue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.19">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.20">
+          <t>movement</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.21">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.22">
+          <t>sustainable</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.24">
+          <t>environment-friendly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.25">
+          <t>urban</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.26">
+          <t>development</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.27">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.28">
+          <t>plans</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.29">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.30">
+          <t>set</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.31">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.32">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.33">
+          <t>ngo</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.34">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.35">
+          <t>october</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.36">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.37">
+          <t>year</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.15.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.16.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.16.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage_articleshow_149050772.p.1.s.16.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Chikka-Vidhana-Soudha-plan-deals-a-big-blow-to-heritage/articleshow/149050772.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

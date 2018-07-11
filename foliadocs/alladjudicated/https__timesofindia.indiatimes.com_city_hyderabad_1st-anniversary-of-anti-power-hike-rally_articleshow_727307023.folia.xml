@@ -1,0 +1,1600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-05T11:35:20" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Motivation2">economic_non-welfare</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2">Urban</meta>
+    <meta id="EventCount">2</meta>
+    <meta id="Caste2">N-A</meta>
+    <meta id="Religion2">N-A</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2">Yes</meta>
+    <meta id="Formality2">N-A</meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Ideology2">Center-left,Radical left_socialism_communism</meta>
+    <meta id="Ideology">Center-left,Radical left_socialism_communism</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="SocialClass2">N-A</meta>
+    <meta id="Poor2">N-A</meta>
+    <meta id="Motivation">economic_non-welfare,non-economic</meta>
+    <meta id="Violent2">Yes</meta>
+    <meta id="Ethnicity2">N-A</meta>
+    <meta id="Violent">No</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1">
+        <w class="NUMBER-ORDINAL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.1">
+          <t>1st</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.2">
+          <t>anniversary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.4">
+          <t>anti-power</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.5">
+          <t>hike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.6">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.7">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.8">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.9">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.10">
+          <t>29</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.12">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.14">
+          <t>12.35</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.15">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.16">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.17">
+          <t>hyderabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.18">
+          <t>:</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.19">
+          <t>processions</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.21">
+          <t>rallies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.22">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.23">
+          <t>condolence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.24">
+          <t>meetings</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.25">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.27">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.28">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.30">
+          <t>left</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.31">
+          <t>parties</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.32">
+          <t>marked</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.33">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.34">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.35">
+          <t>anniversary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.36">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.38">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.39">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.40">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.41">
+          <t>power</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.42">
+          <t>tariff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.43">
+          <t>hike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.44">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.45">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.46">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.47">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.48">
+          <t>lost</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.49">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.50">
+          <t>lives</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.51">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.52">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.53">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.54">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.55">
+          <t>year</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.56">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.57">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.58">
+          <t>city</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.59">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-02-06T20:11:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.1">
+            <wref t="1st" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.1"/>
+            <wref t="anniversary" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.2"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.3"/>
+            <wref t="anti-power" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.4"/>
+            <wref t="hike" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.5"/>
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-01T13:00:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.2">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.9"/>
+            <wref t="29" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.11"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.12"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.13"/>
+            <wref t="12.35" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.14"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.15"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-23T10:42:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.3">
+            <wref t="hyderabad" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T20:20:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.8">
+            <wref t="processions" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T20:20:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.9">
+            <wref t="rallies" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T20:20:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.10">
+            <wref t="condolence" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.23"/>
+            <wref t="meetings" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-01T13:03:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.45">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.33"/>
+            <wref t="first" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.34"/>
+            <wref t="anniversary" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.35"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.36"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.37"/>
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.38"/>
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.39"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.40"/>
+            <wref t="power" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.41"/>
+            <wref t="tariff" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.42"/>
+            <wref t="hike" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.43"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-01T13:04:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.44">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.38"/>
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.39"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:46:12">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-03T11:12:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.47">
+            <wref t="power" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.41"/>
+            <wref t="tariff" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.42"/>
+            <wref t="hike" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.43"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:46:44">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-03-01T13:06:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.50">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.51"/>
+            <wref t="this" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.52"/>
+            <wref t="day" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.53"/>
+            <wref t="last" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.54"/>
+            <wref t="year" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.55"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:47:07">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-06-23T12:44:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.4">
+            <wref t="rally" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.6"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:26:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.11">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-06T20:21:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.12">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.30"/>
+            <wref t="parties" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.31"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:44:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.6">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:45:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.7">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.1.w.30"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.2">
+          <t>three-month</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.3">
+          <t>long</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.4">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.5">
+          <t>culminated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.7">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.8">
+          <t>bloody</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.9">
+          <t>scene</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.10">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.11">
+          <t>bashirbagh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.12">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.13">
+          <t>august</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.14">
+          <t>28</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.15">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.16">
+          <t>year</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.17">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.18">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.19">
+          <t>major</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.20">
+          <t>clash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.21">
+          <t>between</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.23">
+          <t>rallyists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.24">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.26">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.27">
+          <t>resulted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.28">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.29">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.30">
+          <t>firing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.31">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.32">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.33">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.34">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.35">
+          <t>killed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.36">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.37">
+          <t>many</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.38">
+          <t>were</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.39">
+          <t>injured</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.40">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-03-01T13:07:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.52">
+            <wref t="bashirbagh" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.11"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:48:12">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-03-01T13:08:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.53">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.12"/>
+            <wref t="august" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.13"/>
+            <wref t="28" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.14"/>
+            <wref t="last" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.15"/>
+            <wref t="year" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.16"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:48:05">Event 2</comment>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-01T13:09:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.54">
+            <wref t="clash" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.20"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:48:22">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-01T13:09:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.55">
+            <wref t="rallyists" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.2.w.23"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:48:43">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.2">
+          <t>opposition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.3">
+          <t>parties</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.4">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.5">
+          <t>organised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.6">
+          <t>a</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.7">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.8">
+          <t>chalo</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.9">
+          <t>assembly</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.10">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.11">
+          <t>procession</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.12">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.13">
+          <t>suddenly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.14">
+          <t>turned</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.15">
+          <t>violent</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.16">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-01T13:12:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.60">
+            <wref t="opposition" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.2"/>
+            <wref t="parties" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.3"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:49:04">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-03-01T13:35:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.61">
+            <wref t="chalo" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.8"/>
+            <wref t="assembly" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.3.w.9"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-06-23T12:49:22">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.2">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.3">
+          <t>beat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.4">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.6">
+          <t>crowd</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.7">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.8">
+          <t>but</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.9">
+          <t>resorted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.11">
+          <t>firing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.12">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.13">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.14">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.15">
+          <t>unable</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.17">
+          <t>control</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.18">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.19">
+          <t>mob</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.4.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.2">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.3">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.4">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.7">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.8">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.10">
+          <t>left</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.11">
+          <t>parties</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.12">
+          <t>paid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.13">
+          <t>floral</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.14">
+          <t>tributes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.15">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.16">
+          <t>balaswamy</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.17">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.18">
+          <t>ramakrishna</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.20">
+          <t>vishnuvardhan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.21">
+          <t>reddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.22">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.23">
+          <t>died</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.24">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.26">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.27">
+          <t>firing</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:49:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.13">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:50:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.14">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.4"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-06-23T12:51:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.37">
+            <wref t="paid" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.12"/>
+            <wref t="floral" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.13"/>
+            <wref t="tributes" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.14"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.15"/>
+            <wref t="balaswamy" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.16"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.17"/>
+            <wref t="ramakrishna" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.18"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.19"/>
+            <wref t="vishnuvardhan" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.20"/>
+            <wref t="reddy" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.21"/>
+            <wref t="who" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.22"/>
+            <wref t="died" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.23"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.24"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.25"/>
+            <wref t="police" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.26"/>
+            <wref t="firing" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.27"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T12:50:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.15">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:50:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.16">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:50:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.17">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.10"/>
+            <wref t="parties" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:51:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.20">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.5.w.7"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.2">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.3">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.4">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.6">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.7">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.9">
+          <t>babu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.10">
+          <t>jagjivan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.11">
+          <t>ram</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.12">
+          <t>statue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.13">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.14">
+          <t>l</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.15">
+          <t>b</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.16">
+          <t>stadium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.17">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.19">
+          <t>left</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.20">
+          <t>parties</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.21">
+          <t>organised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.22">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.23">
+          <t>silent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.24">
+          <t>march</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.25">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.26">
+          <t>basheerbagh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.28">
+          <t>gun</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.29">
+          <t>foundry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.30">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.31">
+          <t>mark</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.32">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.33">
+          <t>occasion</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.34">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:52:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.18">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-06T20:28:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.19">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.19"/>
+            <wref t="parties" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.20"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:52:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.21">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:54:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.33">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.19"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T20:49:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.38">
+            <wref t="meeting" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T20:50:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.40">
+            <wref t="silent" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.23"/>
+            <wref t="march" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-02-06T20:50:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.41">
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.30"/>
+            <wref t="mark" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.31"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.32"/>
+            <wref t="occasion" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.33"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T12:55:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.46">
+            <wref t="from" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.25"/>
+            <wref t="basheerbagh" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.26"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.27"/>
+            <wref t="gun" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.28"/>
+            <wref t="foundry" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T12:53:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.62">
+            <wref t="at" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.7"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.8"/>
+            <wref t="babu" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.9"/>
+            <wref t="jagjivan" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.10"/>
+            <wref t="ram" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.11"/>
+            <wref t="statue" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T12:53:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.25">
+            <wref t="near" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.13"/>
+            <wref t="l" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.14"/>
+            <wref t="b" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.15"/>
+            <wref t="stadium" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-06-23T12:54:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.31">
+            <wref t="babu" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.9"/>
+            <wref t="jagjivan" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.10"/>
+            <wref t="ram" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.11"/>
+            <wref t="statue" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-06-23T12:54:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.32">
+            <wref t="l" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.14"/>
+            <wref t="b" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.15"/>
+            <wref t="stadium" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-06-23T12:56:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.34">
+            <wref t="basheerbagh" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.26"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-06-23T12:56:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.35">
+            <wref t="gun" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.28"/>
+            <wref t="foundry" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.29"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:52:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.22">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.6.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.1">
+          <t>addressing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.3">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.4">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.5">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.6">
+          <t>activists</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.8">
+          <t>andhra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.9">
+          <t>pradesh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.10">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.11">
+          <t>committee</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.12">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.13">
+          <t>apcc</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.14">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.15">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.16">
+          <t>m</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.17">
+          <t>satyanarayana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.18">
+          <t>rao</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.19">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.21">
+          <t>sacrifices</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.22">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.23">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.25">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.26">
+          <t>youth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.27">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.28">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.29">
+          <t>go</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.30">
+          <t>waste</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.31">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T12:59:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.63">
+            <wref t="andhra" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.8"/>
+            <wref t="pradesh" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.9"/>
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.10"/>
+            <wref t="committee" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T12:57:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.48">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:57:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.49">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T12:59:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.51">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T12:59:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.56">
+            <wref t="apcc" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:59:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.57">
+            <wref t="president" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T12:59:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.58">
+            <wref t="m" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.16"/>
+            <wref t="satyanarayana" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.17"/>
+            <wref t="rao" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.18"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:56:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.23">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T12:56:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.39">
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.7.w.6"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.1">
+          <t>people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.2">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.3">
+          <t>expressed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.4">
+          <t>solidarity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.5">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.6">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.9">
+          <t>form</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.11">
+          <t>ballot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.12">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.14">
+          <t>recent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.15">
+          <t>elections</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.18">
+          <t>local</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.19">
+          <t>bodies</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.20">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.21">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.22">
+          <t>chief</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.23">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.24">
+          <t>n</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.25">
+          <t>chandrababu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.26">
+          <t>naidu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.27">
+          <t>should</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.28">
+          <t>respect</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.29">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.30">
+          <t>people</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.31">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.32">
+          <t>mandate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.33">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.34">
+          <t>change</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.35">
+          <t>his</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.36">
+          <t>policies</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.37">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.38">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.39">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.40">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.8.w.41">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.3">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.5">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.6">
+          <t>just</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.7">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.8">
+          <t>opposition</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.9">
+          <t>demand</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.9.w.10">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.1">
+          <t>even</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.2">
+          <t>naidu</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.3">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.4">
+          <t>own</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.5">
+          <t>legislators</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.6">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.7">
+          <t>seeking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.8">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.9">
+          <t>changes</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.11">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.12">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.10.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.1">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.2">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.3">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.4">
+          <t>k</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.5">
+          <t>rosaiah</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.7">
+          <t>g</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.8">
+          <t>venkataswamy</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.10">
+          <t>p</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.11">
+          <t>sudhakar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.12">
+          <t>reddy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.13">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.14">
+          <t>others</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.15">
+          <t>participated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.18">
+          <t>meeting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.19">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-03-01T13:45:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.24">
+            <wref t="senior" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.1"/>
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.2"/>
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-03-01T13:45:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.64">
+            <wref t="k" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.4"/>
+            <wref t="rosaiah" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-03-01T13:45:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.65">
+            <wref t="g" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.7"/>
+            <wref t="venkataswamy" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-03-01T13:45:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.66">
+            <wref t="p" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.10"/>
+            <wref t="sudhakar" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.11"/>
+            <wref t="reddy" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T13:01:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.59">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T20:52:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.42">
+            <wref t="meeting" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.11.w.18"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.1">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.2">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.4">
+          <t>nine</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.5">
+          <t>left</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.6">
+          <t>parties</t>
+        </w>
+        <w class="PUNCTUATION-MULTI" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.7">
+          <t>--</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.8">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.9">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.10">
+          <t>cpi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.11">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.12">
+          <t>cpm</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.14">
+          <t>cpi</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.15">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.16">
+          <t>ml-nd</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.17">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.19">
+          <t>mcpi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.21">
+          <t>cpi</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.22">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.23">
+          <t>mljanasakhti</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.24">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION-MULTI" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.25">
+          <t>--</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.26">
+          <t>reiterated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.27">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.28">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.29">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.30">
+          <t>continue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.31">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.32">
+          <t>struggle</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.33">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.35">
+          <t>world</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.36">
+          <t>bank-dictated</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.37">
+          <t>anti-people</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.38">
+          <t>reforms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.39">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.40">
+          <t>pursued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.41">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.42">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.43">
+          <t>naidu</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.44">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.45">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.46">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.47">
+          <t>state</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.48">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:18:29" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.5">
+            <wref t="naidu" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.43"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.44"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T13:07:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.70">
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.44"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:33:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.26">
+            <wref t="cpi" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:33:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.27">
+            <wref t="cpm" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.12"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:33:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.28">
+            <wref t="cpi" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.14"/>
+            <wref t="(" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.15"/>
+            <wref t="ml-nd" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.16"/>
+            <wref t=")" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:33:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.29">
+            <wref t="mcpi" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-06T20:34:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.30">
+            <wref t="cpi" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.21"/>
+            <wref t="(" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.22"/>
+            <wref t="mljanasakhti" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.23"/>
+            <wref t=")" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T13:01:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.67">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.5"/>
+            <wref t="parties" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T13:02:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.68">
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-06-23T13:06:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.43">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.34"/>
+            <wref t="world" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.35"/>
+            <wref t="bank-dictated" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.36"/>
+            <wref t="anti-people" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.37"/>
+            <wref t="reforms" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.38"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-06-23T13:02:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.69">
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.12.w.1"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.2">
+          <t>demanded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.5">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.6">
+          <t>immediately</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.7">
+          <t>withdraw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.9">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.10">
+          <t>filed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.11">
+          <t>against</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.12">
+          <t>22</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.13">
+          <t>left</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.14">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.15">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.16">
+          <t>well</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.17">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.18">
+          <t>scores</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.20">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.21">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.22">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.23">
+          <t>agitation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.24">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" confidence="0.68" datetime="2018-03-01T14:34:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.text.entity.36">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.4"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.5"/>
+            <wref t="immediately" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.6"/>
+            <wref t="withdraw" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.7"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.8"/>
+            <wref t="cases" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.9"/>
+            <wref t="filed" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.10"/>
+            <wref t="against" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.11"/>
+            <wref t="22" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.12"/>
+            <wref t="left" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.13"/>
+            <wref t="leaders" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.14"/>
+            <wref t="as" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.15"/>
+            <wref t="well" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.16"/>
+            <wref t="as" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.17"/>
+            <wref t="scores" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.18"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.19"/>
+            <wref t="activists" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.20"/>
+            <wref t="during" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.21"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.22"/>
+            <wref t="agitation" id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.13.w.23"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.14">
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.p.1.s.14.w.1">
+          <t>https://timesofindia.indiatimes.com/city/hyderabad/1st-anniversary-of-anti-power-hike-rally/articleshow/727307023.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

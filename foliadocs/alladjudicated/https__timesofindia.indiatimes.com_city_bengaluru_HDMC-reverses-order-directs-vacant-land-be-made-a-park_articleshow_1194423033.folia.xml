@@ -1,0 +1,1233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-03-23T15:20:36" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Poor">No</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">Center-left</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Motivation">non-economic</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Violent">No</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Formality2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.1">
+          <t>HDMC</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.2">
+          <t>reverses</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.3">
+          <t>order</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.5">
+          <t>directs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.6">
+          <t>vacant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.7">
+          <t>land</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.8">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.9">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.11">
+          <t>park</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.12">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.13">
+          <t>|</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.14">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.15">
+          <t>30</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.16">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.17">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.18">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.19">
+          <t>10.57</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.20">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.21">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.22">
+          <t>hubli</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.23">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.25">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.26">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.27">
+          <t>mahaveer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.28">
+          <t>nagar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.29">
+          <t>succeeded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.30">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.31">
+          <t>getting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.32">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.33">
+          <t>hubli</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.34">
+          <t>dharwad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.35">
+          <t>municipal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.36">
+          <t>corporation</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.37">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.38">
+          <t>hdmc</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.39">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.40">
+          <t>reverse</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.41">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.42">
+          <t>earlier</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.43">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.44">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.45">
+          <t>handing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.46">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.47">
+          <t>the</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.48">
+          <t>22</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.49">
+          <t>guntas</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.50">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.51">
+          <t>open</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.52">
+          <t>space</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.53">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.54">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.55">
+          <t>locality</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.56">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.57">
+          <t>kutchi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.58">
+          <t>dasha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.59">
+          <t>oswal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.60">
+          <t>jain</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.61">
+          <t>mahajan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.62">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.63">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.64">
+          <t>wanted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.65">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.66">
+          <t>construct</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.67">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.68">
+          <t>community</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.69">
+          <t>hall</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.70">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.71">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.72">
+          <t>land</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.73">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-04-29T14:31:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.1">
+            <wref t="hubli" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-04-06T15:54:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.9">
+            <wref t="HDMC" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.1"/>
+            <wref t="reverses" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.2"/>
+            <wref t="order" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.3"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.4"/>
+            <wref t="directs" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.5"/>
+            <wref t="vacant" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.6"/>
+            <wref t="land" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.7"/>
+            <wref t="be" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.8"/>
+            <wref t="made" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.9"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.10"/>
+            <wref t="park" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-04-06T15:54:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.10">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.14"/>
+            <wref t="30" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.15"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.16"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.17"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.18"/>
+            <wref t="10.57" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.19"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.20"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.21"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T13:16:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.14">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.24"/>
+            <wref t="residents" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.25"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.26"/>
+            <wref t="mahaveer" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.27"/>
+            <wref t="nagar" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.28"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-06T15:59:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.15">
+            <wref t="hubli" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.33"/>
+            <wref t="dharwad" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.34"/>
+            <wref t="municipal" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.35"/>
+            <wref t="corporation" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.36"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-06T15:59:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.16">
+            <wref t="hdmc" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.38"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T13:31:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.4">
+            <wref t="HDMC" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.1.w.1"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.1">
+          <t>following</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.2">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.3">
+          <t>protest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.4">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.5">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.7">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.8">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.10">
+          <t>proposed</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.11">
+          <t>move</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.13">
+          <t>hdmc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.14">
+          <t>mayor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.15">
+          <t>firdous</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.16">
+          <t>konnur</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.17">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.18">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.19">
+          <t>gave</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.20">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.21">
+          <t>direction</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.23">
+          <t>develop</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.25">
+          <t>land</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.26">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.27">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.28">
+          <t>park</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.29">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.30">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.31">
+          <t>desired</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.32">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.33">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.34">
+          <t>residents</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.35">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.36">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-06T15:56:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.11">
+            <wref t="protest" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.3"/>
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.4"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-06T15:56:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.13">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.9"/>
+            <wref t="proposed" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.10"/>
+            <wref t="move" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-06T16:03:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.18">
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.22"/>
+            <wref t="develop" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.23"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.24"/>
+            <wref t="land" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.25"/>
+            <wref t="into" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.26"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.27"/>
+            <wref t="park" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.28"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-04-06T16:03:45">residents' demand</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-06T15:56:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.12">
+            <wref t="residents" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-24T13:31:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.3">
+            <wref t="residents" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.34"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-24T13:31:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.2">
+            <wref t="hdmc" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.2.w.13"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.1">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.3">
+          <t>protesters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.4">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.5">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.6">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.7">
+          <t>youth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.8">
+          <t>congress</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.9">
+          <t>leader</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.10">
+          <t>ish</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.11">
+          <t>kohli</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.13">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.15">
+          <t>demonstration</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.16">
+          <t>just</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.17">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.19">
+          <t>beginning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.22">
+          <t>council</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.23">
+          <t>meeting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.25">
+          <t>firdous</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.26">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.27">
+          <t>down</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.28">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.29">
+          <t>received</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.30">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.31">
+          <t>memorandum</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.32">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.33">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.34">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.35">
+          <t>handover</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.36">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.37">
+          <t>property</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.38">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.39">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.40">
+          <t>private</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.41">
+          <t>organisation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.42">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-04-06T16:04:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.21">
+            <wref t="demonstration" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-04-19T15:35:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.24">
+            <wref t="not" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.33"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.34"/>
+            <wref t="handover" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.35"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.36"/>
+            <wref t="property" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.37"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.38"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.39"/>
+            <wref t="private" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.40"/>
+            <wref t="organisation" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.41"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-06T16:04:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.19">
+            <wref t="protesters" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.3"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-06-23T17:24:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.5">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.8"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-04-29T14:37:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.6">
+            <wref t="ish" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.10"/>
+            <wref t="kohli" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-04-29T14:38:23" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.7">
+            <wref t="youth" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.7"/>
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.8"/>
+            <wref t="leader" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ideology" datetime="2018-06-23T17:24:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.text.entity.8">
+            <wref t="congress" id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.3.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.2">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.3">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.4">
+          <t>up</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.5">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.6">
+          <t>discussion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.9">
+          <t>council</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.10">
+          <t>meeting</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.12">
+          <t>though</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.13">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.16">
+          <t>corporators</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.17">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.18">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.19">
+          <t>discussing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.21">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.22">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.23">
+          <t>taking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.24">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.26">
+          <t>subjects</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.27">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.28">
+          <t>accordance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.29">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.30">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.31">
+          <t>agenda</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.4.w.32">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.1">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.2">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.4">
+          <t>majority</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.5">
+          <t>opinion</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.7">
+          <t>develop</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.9">
+          <t>site</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.10">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.11">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.12">
+          <t>park</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.5.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.2">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.3">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.4">
+          <t>recalled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.5">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.6">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.8">
+          <t>times</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.10">
+          <t>india</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.11">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.12">
+          <t>carried</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.14">
+          <t>report</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.15">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.17">
+          <t>proposed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.18">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.21">
+          <t>hdmc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.22">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.23">
+          <t>lease</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.24">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.26">
+          <t>site</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.27">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.28">
+          <t>build</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.30">
+          <t>community</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.31">
+          <t>hall</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.32">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.33">
+          <t>much</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.34">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.35">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.36">
+          <t>wish</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.37">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.38">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.39">
+          <t>local</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.40">
+          <t>residents</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.6.w.41">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.2">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.3">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.4">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.6">
+          <t>wishes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.9">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.10">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.11">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.12">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.13">
+          <t>sarala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.14">
+          <t>bhandge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.15">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.16">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.17">
+          <t>mayor</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.7.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.1">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.2">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.3">
+          <t>then</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.6">
+          <t>resolution</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.7">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.8">
+          <t>hurriedly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.9">
+          <t>passed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.11">
+          <t>build</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.13">
+          <t>community</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.14">
+          <t>hall</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.8.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.2">
+          <t>came</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.3">
+          <t>in</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.4">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.5">
+          <t>sharp</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.6">
+          <t>criticism</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.7">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.9">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.10">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.11">
+          <t>mahaveer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.12">
+          <t>colony</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.13">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.15">
+          <t>number</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.17">
+          <t>representations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.18">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.19">
+          <t>given</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.22">
+          <t>hdmc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.23">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.24">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.25">
+          <t>move</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.9.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.1">
+          <t>infact</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.4">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.5">
+          <t>site</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.6">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.7">
+          <t>kept</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.8">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.10">
+          <t>lung</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.11">
+          <t>space</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.12">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.14">
+          <t>mahaveer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.15">
+          <t>colony</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.16">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.17">
+          <t>formed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.18">
+          <t>in</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.19">
+          <t>1978</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.10.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.1">
+          <t>what</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.2">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.3">
+          <t>come</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.4">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.5">
+          <t>surprise</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.6">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.8">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.9">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.11">
+          <t>relevant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.12">
+          <t>documents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.13">
+          <t>supporting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.15">
+          <t>claims</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.18">
+          <t>residents</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.19">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.21">
+          <t>area</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.22">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.23">
+          <t>allotted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.24">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.25">
+          <t>lung</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.26">
+          <t>space</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.27">
+          <t>went</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.28">
+          <t>missing</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.11.w.29">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.12.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.12.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_HDMC-reverses-order-directs-vacant-land-be-made-a-park_articleshow_1194423033.p.1.s.12.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/HDMC-reverses-order-directs-vacant-land-be-made-a-park/articleshow/1194423033.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

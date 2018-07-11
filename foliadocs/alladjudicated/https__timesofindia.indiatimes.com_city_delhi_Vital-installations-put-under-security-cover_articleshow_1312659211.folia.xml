@@ -1,0 +1,1694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-05T11:35:20" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Motivation2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Formality">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount">1</meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Formality2"></meta>
+    <meta id="Poor">N-A</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Poor2"></meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Motivation">N-A</meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Violent">Yes</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.1">
+          <t>Vital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.2">
+          <t>installations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.3">
+          <t>put</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.4">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.5">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.6">
+          <t>cover</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.7">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.8">
+          <t>12</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.9">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.10">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.12">
+          <t>10.30</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.13">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.14">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.15">
+          <t>new</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.16">
+          <t>delhi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.17">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.18">
+          <t>vital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.19">
+          <t>installations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.20">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.21">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.22">
+          <t>put</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.23">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.24">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.25">
+          <t>cover</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.26">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.27">
+          <t>vehicles</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.28">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.29">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.30">
+          <t>searched</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.31">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.32">
+          <t>random</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.33">
+          <t>ahead</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.34">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.35">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.36">
+          <t>independence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.37">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.38">
+          <t>amid</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.39">
+          <t>apprehensions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.40">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.41">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.42">
+          <t>militant</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.43">
+          <t>strikes</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.44">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.45">
+          <t>hightened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.46">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.47">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.48">
+          <t>bomb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.49">
+          <t>blast</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.50">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.51">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.52">
+          <t>posh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.53">
+          <t>south</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.54">
+          <t>delhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.55">
+          <t>market</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.56">
+          <t>area</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.57">
+          <t>late</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.58">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.59">
+          <t>saturday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.60">
+          <t>night</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.61">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T21:09:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.1">
+            <wref t="bomb" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.48"/>
+            <wref t="blast" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.49"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-06-23T10:29:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.2">
+            <wref t="south" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.53"/>
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.54"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-06-23T10:26:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.3">
+            <wref t="new" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.15"/>
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-03-01T15:21:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.4">
+            <wref t="Aug" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.7"/>
+            <wref t="12" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.8"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.9"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.10"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.11"/>
+            <wref t="10.30" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.12"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.13"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.14"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-03-01T15:30:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.13">
+            <wref t="late" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.57"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.58"/>
+            <wref t="saturday" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.59"/>
+            <wref t="night" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.60"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-03-01T15:21:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.8">
+            <wref t="Vital" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.1"/>
+            <wref t="installations" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.2"/>
+            <wref t="put" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.3"/>
+            <wref t="under" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.4"/>
+            <wref t="security" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.5"/>
+            <wref t="cover" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.6"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-06-23T10:37:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.10">
+            <wref t="posh" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.52"/>
+            <wref t="south" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.53"/>
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.54"/>
+            <wref t="market" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.55"/>
+            <wref t="area" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.56"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-06-23T10:30:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.11">
+            <wref t="market" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.55"/>
+            <wref t="area" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.56"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ses" datetime="2018-06-23T10:30:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.12">
+            <wref t="posh" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.52"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="urban" datetime="2018-06-23T10:37:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.14">
+            <wref t="posh" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.52"/>
+            <wref t="south" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.53"/>
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.54"/>
+            <wref t="market" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.55"/>
+            <wref t="area" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.56"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-06-23T10:39:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.16">
+            <wref t="bomb" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.1.w.48"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.2">
+          <t>bomb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.3">
+          <t>blast</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.6">
+          <t>ring</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.7">
+          <t>road</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.9">
+          <t>posh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.10">
+          <t>south</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.11">
+          <t>extension-ii</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.12">
+          <t>despite</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.13">
+          <t>high</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.14">
+          <t>alert</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.15">
+          <t>sounded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.18">
+          <t>capital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.20">
+          <t>border</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.21">
+          <t>districts</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.22">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.23">
+          <t>uttar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.24">
+          <t>pradesh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.26">
+          <t>haryana</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.27">
+          <t>forced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.29">
+          <t>delhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.30">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.31">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.32">
+          <t>intensify</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.33">
+          <t>searches</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.34">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.35">
+          <t>vehicles</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.36">
+          <t>throughout</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.38">
+          <t>capital</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.39">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.40">
+          <t>virtually</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.41">
+          <t>lay</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.42">
+          <t>siege</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.43">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.44">
+          <t>vital</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.45">
+          <t>installations</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.46">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-06T21:11:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.5">
+            <wref t="bomb" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.2"/>
+            <wref t="blast" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-02-06T21:13:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.6">
+            <wref t="ring" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.6"/>
+            <wref t="road" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-02-06T21:14:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.7">
+            <wref t="delhi" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-03-01T15:31:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.9">
+            <wref t="posh" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.9"/>
+            <wref t="south" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.10"/>
+            <wref t="extension-ii" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="ses" datetime="2018-06-23T10:38:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.15">
+            <wref t="posh" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.9"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="wtype" datetime="2018-06-23T10:39:28" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.text.entity.17">
+            <wref t="bomb" id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.2.w.2"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.1">
+          <t>intelligence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.2">
+          <t>reports</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.3">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.4">
+          <t>warned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.5">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.6">
+          <t>strikes</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.8">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.9">
+          <t>suicide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.10">
+          <t>attacks</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.11">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.12">
+          <t>militants</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.13">
+          <t>outfits</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.14">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.15">
+          <t>hizbul</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.16">
+          <t>mujahideen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.17">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.18">
+          <t>lashker-e-taiba</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.19">
+          <t>,</t>
+        </w>
+        <w space="no" class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.20">
+          <t>al</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.21">
+          <t>-</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.22">
+          <t>badr</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.23">
+          <t>,</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.24">
+          <t>hizb-ul-jehad-e-islami</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.25">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.26">
+          <t>muslim</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.27">
+          <t>fundamentalist</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.28">
+          <t>groups</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.29">
+          <t>owing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.30">
+          <t>allegiance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.31">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.32">
+          <t>international</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.33">
+          <t>terrorist</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.34">
+          <t>mastermind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.35">
+          <t>osama</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.36">
+          <t>bin</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.37">
+          <t>laden</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.3.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.1">
+          <t>according</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.2">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.3">
+          <t>these</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.4">
+          <t>reports</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.6">
+          <t>prime</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.7">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.8">
+          <t>atal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.9">
+          <t>bihari</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.10">
+          <t>vajpayee</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.12">
+          <t>union</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.13">
+          <t>home</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.14">
+          <t>minister</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.15">
+          <t>l.k.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.16">
+          <t>advani</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.17">
+          <t>and</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.18">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.19">
+          <t>another</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.20">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.21">
+          <t>cabinet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.22">
+          <t>colleague</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.23">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.25">
+          <t>potential</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.26">
+          <t>targets</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.27">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.28">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.29">
+          <t>militant</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.30">
+          <t>outfits</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.31">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.32">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.33">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.34">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.35">
+          <t>prepared</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.36">
+          <t>women</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.37">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.38">
+          <t>suicide</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.39">
+          <t>squad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.4.w.40">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.1">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.2">
+          <t>intelligence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.3">
+          <t>input</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.4">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.5">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.6">
+          <t>indicated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.7">
+          <t>involvement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.9">
+          <t>women</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.10">
+          <t>terrorists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.11">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.12">
+          <t>suicide</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.13">
+          <t>squads</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.14">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.15">
+          <t>may</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.16">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.17">
+          <t>around</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.19">
+          <t>independence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.20">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.21">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.22">
+          <t>conducted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.24">
+          <t>a</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.25">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.26">
+          <t>high</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.27">
+          <t>threat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.28">
+          <t>security</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.29">
+          <t>scenario</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.30">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.31">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.32">
+          <t>special</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.33">
+          <t>commissioner</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.34">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.35">
+          <t>police</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.36">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.37">
+          <t>security</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.38">
+          <t>)</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.39">
+          <t>r.s.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.40">
+          <t>gupta</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.41">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.42">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.43">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.44">
+          <t>intelligence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.45">
+          <t>reports</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.46">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.47">
+          <t>indicated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.48">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.49">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.50">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.51">
+          <t>agra</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.52">
+          <t>summit</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.53">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.54">
+          <t>renewed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.55">
+          <t>directions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.56">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.57">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.58">
+          <t>given</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.59">
+          <t>to</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.60">
+          <t>pakistan-sponsored</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.61">
+          <t>terrorists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.62">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.63">
+          <t>indulge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.64">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.65">
+          <t>acts</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.66">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.67">
+          <t>violence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.68">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.69">
+          <t>india</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.70">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.71">
+          <t>particularly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.72">
+          <t>close</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.73">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.74">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.75">
+          <t>independence</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.76">
+          <t>day</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.77">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.78">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.79">
+          <t>gupta</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.80">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.81">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.82">
+          <t>adding</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.83">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.84">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.85">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.86">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.87">
+          <t>focussed</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.88">
+          <t>targets</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.89">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.90">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.91">
+          <t>terrorists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.92">
+          <t>is</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.93">
+          <t>delhi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.5.w.94">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.2">
+          <t>historic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.3">
+          <t>red</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.4">
+          <t>fort</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.6">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.8">
+          <t>prime</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.9">
+          <t>minister</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.10">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.11">
+          <t>unfurl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.13">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.14">
+          <t>flag</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.16">
+          <t>address</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.18">
+          <t>nation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.20">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.21">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.22">
+          <t>sealed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.23">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.24">
+          <t>than</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.25">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.26">
+          <t>week</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.27">
+          <t>ahead</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.28">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.30">
+          <t>independence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.31">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.32">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.33">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.34">
+          <t>vicinity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.35">
+          <t>placed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.36">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.37">
+          <t>watch</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.38">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.39">
+          <t>control</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.40">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.41">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.42">
+          <t>few</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.43">
+          <t>weeks</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.6.w.44">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.1">
+          <t>gupta</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.4">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.5">
+          <t>alert</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.7">
+          <t>sounded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.8">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.9">
+          <t>days</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.10">
+          <t>back</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.12">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.13">
+          <t>continue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.14">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.15">
+          <t>beyond</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.16">
+          <t>independence</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.17">
+          <t>day</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.7.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.1">
+          <t>security</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.2">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.3">
+          <t>vigil</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.4">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.5">
+          <t>particularly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.6">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.7">
+          <t>stepped</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.8">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.9">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.10">
+          <t>railway</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.11">
+          <t>stations</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.13">
+          <t>bus</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.14">
+          <t>terminals</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.17">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.18">
+          <t>crowded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.19">
+          <t>places</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.20">
+          <t>besides</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.21">
+          <t>vital</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.22">
+          <t>installations</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.8.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.1">
+          <t>nsg</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.2">
+          <t>commandos</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.3">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.4">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.5">
+          <t>positioned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.6">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.7">
+          <t>strategic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.8">
+          <t>points</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.9">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.10">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.11">
+          <t>airport</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.9.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.4">
+          <t>considering</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.6">
+          <t>threat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.7">
+          <t>perception</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.8">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.9">
+          <t>time</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.11">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.12">
+          <t>7,000</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.13">
+          <t>personnel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.14">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.15">
+          <t>central</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.16">
+          <t>paramilitary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.17">
+          <t>forces</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.18">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.19">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.20">
+          <t>drawn</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.21">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.22">
+          <t>addition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.25">
+          <t>requirement</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.26">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.27">
+          <t>such</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.28">
+          <t>events</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.10.w.29">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.1">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.2">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.3">
+          <t>supplement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.5">
+          <t>delhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.6">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.7">
+          <t>strength</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.9">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.10">
+          <t>55,000</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.11">
+          <t>personnel</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.12">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.13">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.14">
+          <t>strong</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.15">
+          <t>air</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.16">
+          <t>defence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.17">
+          <t>measures</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.18">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.19">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.20">
+          <t>initiated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.21">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.23">
+          <t>help</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.24">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.25">
+          <t>defence</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.26">
+          <t>authorities</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.27">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.28">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.29">
+          <t>restrictions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.30">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.31">
+          <t>flights</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.32">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.33">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.34">
+          <t>neighbourhood</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.35">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.36">
+          <t>delhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.37">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.38">
+          <t>positioning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.39">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.40">
+          <t>air</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.41">
+          <t>defence</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.42">
+          <t>guns</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.43">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.44">
+          <t>appropriate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.45">
+          <t>places</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.46">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.47">
+          <t>prevent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.48">
+          <t>entry</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.49">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.50">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.51">
+          <t>unauthorised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.52">
+          <t>flying</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.53">
+          <t>objects</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.54">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.55">
+          <t>including</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.56">
+          <t>micro-light</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.57">
+          <t>aircraft</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.58">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.59">
+          <t>gliders</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.60">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.61">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.62">
+          <t>gupta</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.63">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.11.w.64">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.1">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.2">
+          <t>further</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.3">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.5">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.7">
+          <t>trains</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.8">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.9">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.10">
+          <t>be</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.11">
+          <t>restricted</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.12.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.1">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.2">
+          <t>exercise</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.3">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.4">
+          <t>check</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.5">
+          <t>new</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.6">
+          <t>tenants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.7">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.8">
+          <t>owners</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.10">
+          <t>flats</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.11">
+          <t>or</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.12">
+          <t>buildings</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.15">
+          <t>vicinity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.16">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.18">
+          <t>function</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.19">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.20">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.21">
+          <t>going</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.22">
+          <t>on</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.23">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.24">
+          <t>quite</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.25">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.26">
+          <t>time</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.27">
+          <t>now</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.28">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.29">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.30">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.13.w.31">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.14">
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_delhi_Vital-installations-put-under-security-cover_articleshow_1312659211.p.1.s.14.w.1">
+          <t>https://timesofindia.indiatimes.com/city/delhi/Vital-installations-put-under-security-cover/articleshow/1312659211.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

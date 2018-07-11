@@ -1,0 +1,1742 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:08" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.1">
+          <t>Agitating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.2">
+          <t>students</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.3">
+          <t>caned</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.5">
+          <t>over</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.6">
+          <t>100</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.7">
+          <t>hurt</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.8">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.9">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.10">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.11">
+          <t>28</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.13">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.14">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.15">
+          <t>12.16</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.16">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.17">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.18">
+          <t>bangalore</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.19">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.20">
+          <t>all</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.21">
+          <t>hell</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.22">
+          <t>broke</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.23">
+          <t>loose</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.24">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.25">
+          <t>thursday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.26">
+          <t>morning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.27">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.29">
+          <t>university</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.31">
+          <t>agricultural</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.32">
+          <t>sciences</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.33">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.34">
+          <t>uas</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.35">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.36">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.37">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.38">
+          <t>police</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.39">
+          <t>lathi-charged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.40">
+          <t>hundreds</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.41">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.42">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.43">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.44">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.45">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.46">
+          <t>protesting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.47">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.48">
+          <t>handing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.49">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.50">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.51">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.52">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.53">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.54">
+          <t>campus</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.55">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.56">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.57">
+          <t>proposed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.58">
+          <t>biotechnology</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.59">
+          <t>park</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.60">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-13T17:28:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.1">
+            <wref t="Agitating" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.1"/>
+            <wref t="students" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.2"/>
+            <wref t="caned" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.3"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.4"/>
+            <wref t="over" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.5"/>
+            <wref t="100" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.6"/>
+            <wref t="hurt" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="eptime" datetime="2018-05-13T17:29:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.2">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.10"/>
+            <wref t="28" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.12"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.13"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.14"/>
+            <wref t="12.16" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.15"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.16"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.17"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-13T17:29:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.3">
+            <wref t="bangalore" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etime" datetime="2018-05-13T17:29:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.4">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.24"/>
+            <wref t="thursday" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.25"/>
+            <wref t="morning" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.26"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="fname" datetime="2018-05-13T17:29:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.5">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.28"/>
+            <wref t="university" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.29"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.30"/>
+            <wref t="agricultural" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.31"/>
+            <wref t="sciences" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="fname" datetime="2018-05-13T17:29:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.6">
+            <wref t="uas" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.34"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-13T17:29:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.7">
+            <wref t="protesting" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.46"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-13T17:30:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.8">
+            <wref t="handing" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.48"/>
+            <wref t="over" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.49"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.50"/>
+            <wref t="part" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.51"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.52"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.53"/>
+            <wref t="campus" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.54"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.55"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.56"/>
+            <wref t="proposed" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.57"/>
+            <wref t="biotechnology" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.58"/>
+            <wref t="park" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.1.w.59"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.1">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.2">
+          <t>least</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.4">
+          <t>hundred</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.5">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.7">
+          <t>faculty</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.8">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.10">
+          <t>non-teaching</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.11">
+          <t>staff</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.12">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.13">
+          <t>injured</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.14">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.16">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.17">
+          <t>action</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.18">
+          <t>at</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.19">
+          <t>uas</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.20">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.21">
+          <t>gandhi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.22">
+          <t>krishik</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.23">
+          <t>vidya</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.24">
+          <t>kendra</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.2.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.2">
+          <t>vice-chancellor</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.3">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.4">
+          <t>suspended</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.5">
+          <t>classes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.6">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.7">
+          <t>monday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.8">
+          <t>despite</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.9">
+          <t>jeering</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.10">
+          <t>by</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.11">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.3.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.4.w.1">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.4.w.2">
+          <t>commissioner</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.4.w.3">
+          <t>t</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.4.w.4">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.1">
+          <t>madiyal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.3">
+          <t>prohibitory</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.4">
+          <t>orders</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.5">
+          <t>under</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.6">
+          <t>section</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.7">
+          <t>144</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.10">
+          <t>crpc</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.11">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.12">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.13">
+          <t>clamped</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.14">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.15">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.16">
+          <t>campus</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.5.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.2">
+          <t>trouble</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.3">
+          <t>started</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.4">
+          <t>around</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.5">
+          <t>8.30</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.6">
+          <t>a.m.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.7">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.9">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.10">
+          <t>gathered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.11">
+          <t>outside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.12">
+          <t>administrative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.13">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.14">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.15">
+          <t>that</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.16">
+          <t>vice-chancellor</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.17">
+          <t>a.m.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.18">
+          <t>krishnappa</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.19">
+          <t>stall</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.21">
+          <t>transfer</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.22">
+          <t>of</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.23">
+          <t>100</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.24">
+          <t>-</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.25">
+          <t>acre</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.26">
+          <t>land</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.27">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.28">
+          <t>developing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.30">
+          <t>biotech</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.31">
+          <t>park</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-21T23:57:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.9">
+            <wref t="administrative" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.12"/>
+            <wref t="office" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.13"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-21T23:57:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.10">
+            <wref t="stall" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.19"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.20"/>
+            <wref t="transfer" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.21"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.22"/>
+            <wref t="100" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.23"/>
+            <wref t="-" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.24"/>
+            <wref t="acre" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.25"/>
+            <wref t="land" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.26"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.27"/>
+            <wref t="developing" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.28"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.29"/>
+            <wref t="biotech" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.30"/>
+            <wref t="park" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.6.w.31"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.1">
+          <t>agitated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.2">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.3">
+          <t>questioned</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.5">
+          <t>legality</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.8">
+          <t>handover</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.10">
+          <t>land</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.11">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.12">
+          <t>experiments</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.14">
+          <t>several</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.15">
+          <t>plant</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.16">
+          <t>species</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.17">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.18">
+          <t>taking</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.19">
+          <t>place</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-21T23:58:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.11">
+            <wref t="legality" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.5"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.6"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.7"/>
+            <wref t="handover" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.8"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.9"/>
+            <wref t="land" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.7.w.10"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.1">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.2">
+          <t>student</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.3">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.4">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.5">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.6">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.7">
+          <t>than</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.8">
+          <t>40</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.9">
+          <t>species</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.10">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.11">
+          <t>eucalyptus</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.13">
+          <t>mango</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.14">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.15">
+          <t>sandalwood</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.16">
+          <t>trees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.17">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.18">
+          <t>grown</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.19">
+          <t>here</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.20">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.21">
+          <t>germplasm</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.22">
+          <t>experiments</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.23">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.24">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.25">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.26">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.27">
+          <t>authorities</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.28">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.29">
+          <t>assurances</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.30">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.31">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.32">
+          <t>satisfy</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.33">
+          <t>them</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.34">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.35">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.36">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.37">
+          <t>rushed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.38">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.39">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.40">
+          <t>spot</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.41">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.42">
+          <t>trees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.43">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.44">
+          <t>being</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.45">
+          <t>felled</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.8.w.46">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.1">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.2">
+          <t>embraced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.3">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.4">
+          <t>trees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.6">
+          <t>reminiscent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.8">
+          <t>sunderlal</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.9">
+          <t>bahuguna-led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.10">
+          <t>chipko</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.11">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.12">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.14">
+          <t>1970</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.15">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.16">
+          <t>and</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.17">
+          <t>80</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.18">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.19">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.20">
+          <t>saw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.21">
+          <t>a</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.22">
+          <t>15</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.23">
+          <t>-</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.24">
+          <t>year</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.25">
+          <t>moratorium</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.26">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.27">
+          <t>tree-felling</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-21T23:58:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.text.entity.12">
+            <wref t="embraced" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.2"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.3"/>
+            <wref t="trees" id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.9.w.4"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.1">
+          <t>then</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.4">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.5">
+          <t>charged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.6">
+          <t>into</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.7">
+          <t>action</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.9">
+          <t>beating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.10">
+          <t>up</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.11">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.10.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.1">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.2">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.3">
+          <t>melee</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.5">
+          <t>director</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.6">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.7">
+          <t>instruction</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.8">
+          <t>)</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.9">
+          <t>p.g.</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.10">
+          <t>chengappa</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.12">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.13">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.14">
+          <t>trying</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.15">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.16">
+          <t>pacify</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.18">
+          <t>students</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.20">
+          <t>faculty</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.21">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.22">
+          <t>gracy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.24">
+          <t>savitramma</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.25">
+          <t>suffered</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.26">
+          <t>injuries</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.11.w.27">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.1">
+          <t>shashi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.3">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.4">
+          <t>hosteller</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.6">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.7">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.8">
+          <t>beaten</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.9">
+          <t>up</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.12.w.10">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.2">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.3">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.4">
+          <t>lost</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.5">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.6">
+          <t>cool</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.7">
+          <t>started</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.8">
+          <t>pelting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.10">
+          <t>policemen</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.11">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.12">
+          <t>stones</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.13">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.14">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.15">
+          <t>battle</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.16">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.17">
+          <t>lasted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.18">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.19">
+          <t>than</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.20">
+          <t>three</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.21">
+          <t>hours</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.13.w.22">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.1">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.2">
+          <t>least</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.3">
+          <t>nine</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.4">
+          <t>girl</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.5">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.6">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.7">
+          <t>thrashed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.8">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.9">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.10">
+          <t>police</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.14.w.11">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.1">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.2">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.3">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.4">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.5">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.6">
+          <t>chased</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.7">
+          <t>right</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.8">
+          <t>into</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.10">
+          <t>precincts</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.11">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.12">
+          <t>library</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.13">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.14">
+          <t>administrative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.15">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.16">
+          <t>during</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.18">
+          <t>targeted</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.19">
+          <t>attack</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.15.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.1">
+          <t>even</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.2">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.3">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.4">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.5">
+          <t>holed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.6">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.7">
+          <t>inside</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.8">
+          <t>toilet</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.9">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.10">
+          <t>not</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.11">
+          <t>spared</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.16.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.1">
+          <t>chetan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.4">
+          <t>student</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.5">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.6">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.7">
+          <t>running</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.8">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.9">
+          <t>high</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.10">
+          <t>temperature</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.12">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.13">
+          <t>allegedly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.14">
+          <t>dragged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.15">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.16">
+          <t>battered</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.17.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.1">
+          <t>shards</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.3">
+          <t>smashed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.4">
+          <t>flowerpots</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.5">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.6">
+          <t>mutilated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.7">
+          <t>trees</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.8">
+          <t>stand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.9">
+          <t>witness</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.11">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.12">
+          <t>violence</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.18.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.1">
+          <t>anticipating</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.2">
+          <t>trouble</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.5">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.6">
+          <t>top</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.7">
+          <t>brass</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.8">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.9">
+          <t>called</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.11">
+          <t>four</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.12">
+          <t>platoons</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.14">
+          <t>armed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.15">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.16">
+          <t>along</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.17">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.18">
+          <t>six</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.19">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.20">
+          <t>inspectors</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.22">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.23">
+          <t>acps</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.24">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.25">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.26">
+          <t>dcp</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.19.w.27">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.1">
+          <t>hoysala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.2">
+          <t>squads</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.4">
+          <t>patrolled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.6">
+          <t>campus</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.7">
+          <t>since</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.8">
+          <t>7.30</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.9">
+          <t>p.m.</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.10">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.11">
+          <t>wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.20.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.1">
+          <t>describing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.3">
+          <t>damage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.6">
+          <t>building</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.7">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.8">
+          <t>property</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.9">
+          <t>as</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.10">
+          <t>"</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.11">
+          <t>immense</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.12">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.15">
+          <t>vice-chancellor</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.16">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.17">
+          <t>:</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.18">
+          <t>"</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.19">
+          <t>we</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.20">
+          <t>'ll</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.21">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.22">
+          <t>steps</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.23">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.24">
+          <t>prevent</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.25">
+          <t>encroachment</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.26">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.27">
+          <t>land</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.21.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.1">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.2">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.3">
+          <t>appealing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.4">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.6">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.8">
+          <t>reconsider</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.9">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.10">
+          <t>decision</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.11">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.12">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.13">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.14">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.16">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.17">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.18">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.19">
+          <t>requested</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.21">
+          <t>withdraw</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.22">
+          <t>prohibitory</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.23">
+          <t>orders</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.24">
+          <t>"</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.25">
+          <t>immediately</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.26">
+          <t>"</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.22.w.27">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.1">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.2">
+          <t>emergency</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.3">
+          <t>board</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.4">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.5">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.6">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.7">
+          <t>convened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.8">
+          <t>soon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.10">
+          <t>resolve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.12">
+          <t>land</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.13">
+          <t>transfer</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.14">
+          <t>issue</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.16">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.17">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.23.w.18">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.1">
+          <t>additional</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.2">
+          <t>commissioner</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.3">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.4">
+          <t>crime</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.5">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.6">
+          <t>jyothi</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.7">
+          <t>prakash</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.8">
+          <t>mirji</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.10">
+          <t>dcp</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.11">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.12">
+          <t>north</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.13">
+          <t>)</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.14">
+          <t>s.k.</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.15">
+          <t>venugopal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.17">
+          <t>assisted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.18">
+          <t>by</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.19">
+          <t>inspectors</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.21">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.22">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.23">
+          <t>charge</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.24.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.25">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.25.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.25.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Agitating-students-caned-over-100-hurt_articleshow_1755447644.p.1.s.25.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Agitating-students-caned-over-100-hurt/articleshow/1755447644.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

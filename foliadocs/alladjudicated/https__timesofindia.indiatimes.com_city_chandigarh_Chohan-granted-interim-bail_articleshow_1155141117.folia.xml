@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-05T11:35:20" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Formality"></meta>
+    <meta id="Ethnicity"></meta>
+    <meta id="Centrality2"></meta>
+    <meta id="EventCount"></meta>
+    <meta id="Caste2"></meta>
+    <meta id="Religion2"></meta>
+    <meta id="RelevantCountry"></meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Formality2"></meta>
+    <meta id="Poor"></meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Ideology"></meta>
+    <meta id="Religion"></meta>
+    <meta id="Event">No</meta>
+    <meta id="Violent"></meta>
+    <meta id="SocialClass"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Caste"></meta>
+    <meta id="Centrality"></meta>
+    <meta id="Motivation"></meta>
+    <meta id="Violent2"></meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.1">
+          <t>Chohan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.2">
+          <t>granted</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.3">
+          <t>interim</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.4">
+          <t>bail</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.5">
+          <t>Aug</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.6">
+          <t>9</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.7">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.8">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.9">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.10">
+          <t>10.44</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.11">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.12">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.13">
+          <t>granting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.14">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.15">
+          <t>bail</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.17">
+          <t>patiala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.18">
+          <t>additional</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.19">
+          <t>sessions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.20">
+          <t>judge</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.21">
+          <t>p</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.22">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.23">
+          <t>mangat</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.24">
+          <t>fixed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.25">
+          <t>august</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.26">
+          <t>18</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.27">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.29">
+          <t>next</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.30">
+          <t>date</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.31">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.32">
+          <t>hearing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.33">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.35">
+          <t>petition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.36">
+          <t>filed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.37">
+          <t>by</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.38">
+          <t>chohan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.1.w.39">
+          <t>.</t>
+        </w>
+        <entities/>
+        <entities/>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.2">
+          <t>sikh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.3">
+          <t>separatist</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.4">
+          <t>leader</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.5">
+          <t>prayed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.7">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.8">
+          <t>petition</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.9">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.11">
+          <t>arrest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.12">
+          <t>warrants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.13">
+          <t>issued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.14">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.16">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.17">
+          <t>class</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.18">
+          <t>magistrate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.19">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.20">
+          <t>august</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.21">
+          <t>six</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.22">
+          <t>should</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.23">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.24">
+          <t>cancelled</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.25">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.26">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.27">
+          <t>allegations</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.28">
+          <t>of</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.29">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.30">
+          <t>treason</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.31">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.32">
+          <t>creating</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.33">
+          <t>communal</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.34">
+          <t>hatred</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.35">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.36">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.37">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.38">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.39">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.40">
+          <t>patiala-based</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.41">
+          <t>advocate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.42">
+          <t>only</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.43">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.44">
+          <t>gain</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.45">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.46">
+          <t>cheap</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.47">
+          <t>publicity</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.48">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.49">
+          <t>"</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.50">
+          <t>chohan</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.51">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.52">
+          <t>counsel</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.53">
+          <t>argued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.54">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.55">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.56">
+          <t>client</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.57">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.58">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.59">
+          <t>caused</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.60">
+          <t>any</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.61">
+          <t>breach</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.62">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.63">
+          <t>communal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.64">
+          <t>amity</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.65">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.66">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.67">
+          <t>article</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.68">
+          <t>19</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.69">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.70">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.71">
+          <t>constitution</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.72">
+          <t>guarantees</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.73">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.74">
+          <t>freedom</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.75">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.76">
+          <t>expression</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.77">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.78">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.79">
+          <t>any</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.80">
+          <t>citizen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.2.w.81">
+          <t>.</t>
+        </w>
+        <entities/>
+        <entities/>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.1">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.2">
+          <t>august</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.3">
+          <t>six</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.6">
+          <t>patiala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.7">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.8">
+          <t>class</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.9">
+          <t>magistrate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.10">
+          <t>issued</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.11">
+          <t>arrest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.12">
+          <t>warrants</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.13">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.14">
+          <t>chohan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.15">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.16">
+          <t>directed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.17">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.18">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.19">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.20">
+          <t>produce</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.22">
+          <t>khalistan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.23">
+          <t>ideologue</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.24">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.25">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.26">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.27">
+          <t>september</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.28">
+          <t>22</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.3.w.29">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4">
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.1">
+          <t>chohan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.3">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.4">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.5">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.6">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.7">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.8">
+          <t>media</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.9">
+          <t>interactions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.10">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.11">
+          <t>returning</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.14">
+          <t>country</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.16">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.17">
+          <t>reportedly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.18">
+          <t>stated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.19">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.20">
+          <t>he</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.21">
+          <t>still</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.22">
+          <t>believed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.24">
+          <t>creation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.25">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.26">
+          <t>khalistan</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.4.w.27">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.5">
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_chandigarh_Chohan-granted-interim-bail_articleshow_1155141117.p.1.s.5.w.1">
+          <t>https://timesofindia.indiatimes.com/city/chandigarh/Chohan-granted-interim-bail/articleshow/1155141117.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

@@ -1,0 +1,2112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-02-12T14:02:29" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="Event">Yes</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="SocialClass">small_peasantry,middle+rich_peasantry</meta>
+    <meta id="Centrality">Urban</meta>
+    <meta id="Motivation">economic_non-welfare</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Poor">N-A</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.1">
+          <t>Furore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.2">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.3">
+          <t>A</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.4">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.5">
+          <t>bad</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.6">
+          <t>co-op</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.7">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.8">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.9">
+          <t>deposits</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.11">
+          <t>MMCB</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.12">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.13">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.14">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.15">
+          <t>23</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.16">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.17">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.18">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.19">
+          <t>12.27</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.20">
+          <t>AM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.21">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.22">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.23">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.24">
+          <t>trouble</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.25">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.26">
+          <t>brewing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.27">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.28">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.29">
+          <t>ahmedabad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.30">
+          <t>district</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.31">
+          <t>co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.32">
+          <t>bank</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.33">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.34">
+          <t>adcb</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.35">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.36">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.37">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.38">
+          <t>bank</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.39">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.40">
+          <t>investments</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.41">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.42">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.43">
+          <t>revival</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.44">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.45">
+          <t>madhavpura</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.46">
+          <t>mercantile</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.47">
+          <t>co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.48">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.49">
+          <t>ltd</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.50">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.51">
+          <t>mmcb</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.52">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.53">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="eptime" datetime="2018-02-28T14:11:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.2">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.14"/>
+            <wref t="23" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.15"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.16"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.17"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.18"/>
+            <wref t="12.27" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.19"/>
+            <wref t="AM" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.20"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place_pub" datetime="2018-05-16T20:30:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.3">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.22"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-05-16T20:32:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.18">
+            <wref t="A" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.3"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.4"/>
+            <wref t="bad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T20:32:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.19">
+            <wref t="deposits" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.9"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.10"/>
+            <wref t="MMCB" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="doc_title" datetime="2018-05-16T20:34:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.31">
+            <wref t="Furore" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.1"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.2"/>
+            <wref t="A" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.3"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.4"/>
+            <wref t="bad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.5"/>
+            <wref t="co-op" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.6"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.7"/>
+            <wref t="over" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.8"/>
+            <wref t="deposits" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.9"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.10"/>
+            <wref t="MMCB" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.11"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-05-16T20:39:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.38">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.29"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T20:40:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.40">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.37"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.38"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.39"/>
+            <wref t="investments" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.40"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.41"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.42"/>
+            <wref t="revival" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.43"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.44"/>
+            <wref t="madhavpura" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.45"/>
+            <wref t="mercantile" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.46"/>
+            <wref t="co-operative" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.47"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.48"/>
+            <wref t="ltd" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.49"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-05-17T11:30:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.1">
+            <wref t="A" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.3"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.4"/>
+            <wref t="bad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.5"/>
+            <wref t="co-op" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.6"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-17T11:31:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.17">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-17T13:00:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.57">
+            <wref t="Furore" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T20:33:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.22">
+            <wref t="A" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.3"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.4"/>
+            <wref t="bad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.5"/>
+            <wref t="co-op" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.6"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-17T11:31:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.30">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.7"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T20:38:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.32">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.28"/>
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.29"/>
+            <wref t="district" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.30"/>
+            <wref t="co-operative" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.31"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T20:38:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.33">
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.34"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-17T11:34:33" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.34">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-17T11:51:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.37">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.32"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:40:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.39">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.1.w.38"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.1">
+          <t>several</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.2">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.4">
+          <t>co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.5">
+          <t>societies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.6">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.7">
+          <t>different</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.8">
+          <t>parts</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.10">
+          <t>ahmedabad</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.11">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.12">
+          <t>staged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.13">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.14">
+          <t>hunger</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.15">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.17">
+          <t>front</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.18">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.20">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.21">
+          <t>premises</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.22">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.24">
+          <t>income</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.25">
+          <t>tax</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.26">
+          <t>circle</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.27">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="place" datetime="2018-02-21T16:02:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.4">
+            <wref t="ahmedabad" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.10"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-21T16:05:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.5">
+            <wref t="hunger" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.14"/>
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="loc" datetime="2018-05-16T20:30:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.6">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.20"/>
+            <wref t="premises" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="fname" datetime="2018-05-16T20:29:38" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.7">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.23"/>
+            <wref t="income" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.24"/>
+            <wref t="tax" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.25"/>
+            <wref t="circle" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.26"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:41:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.8">
+            <wref t="members" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.2"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="count" datetime="2018-05-16T20:44:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.42">
+            <wref t="several" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:42:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.41">
+            <wref t="co-operative" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.4"/>
+            <wref t="societies" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:45:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.43">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.2.w.20"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.2">
+          <t>protesters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.3">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.4">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.5">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.6">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.8">
+          <t>recently-concluded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.9">
+          <t>annual</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.10">
+          <t>general</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.11">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.12">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.13">
+          <t>convened</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.14">
+          <t>afresh</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.15">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-21T16:07:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.9">
+            <wref t="protesters" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-02-21T16:08:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.10">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.7"/>
+            <wref t="recently-concluded" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.8"/>
+            <wref t="annual" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.9"/>
+            <wref t="general" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.10"/>
+            <wref t="meeting" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.11"/>
+            <wref t="be" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.12"/>
+            <wref t="convened" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.13"/>
+            <wref t="afresh" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.3.w.14"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.1">
+          <t>alleging</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.2">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.3">
+          <t>the</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.4">
+          <t>5,159</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.5">
+          <t>member-co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.6">
+          <t>societies</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.7">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.8">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.9">
+          <t>intimated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.10">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.12">
+          <t>agm</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.13">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.14">
+          <t>time</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.16">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.17">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.18">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.19">
+          <t>get</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.20">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.21">
+          <t>voice</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.22">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.23">
+          <t>concerns</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.24">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.25">
+          <t>keeping</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.26">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.27">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.28">
+          <t>norms</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.29">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T20:46:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.44">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.3"/>
+            <wref t="5,159" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.4"/>
+            <wref t="member-co-operative" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.5"/>
+            <wref t="societies" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.6"/>
+            <wref t="was" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.7"/>
+            <wref t="not" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.8"/>
+            <wref t="intimated" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.9"/>
+            <wref t="about" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.10"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.11"/>
+            <wref t="agm" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.12"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.13"/>
+            <wref t="time" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.14"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T20:47:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.45">
+            <wref t="did" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.17"/>
+            <wref t="not" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.18"/>
+            <wref t="get" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.19"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.20"/>
+            <wref t="voice" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.21"/>
+            <wref t="their" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.22"/>
+            <wref t="concerns" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.23"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.24"/>
+            <wref t="keeping" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.25"/>
+            <wref t="with" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.26"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.27"/>
+            <wref t="norms" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.4.w.28"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5">
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.1">
+          <t>co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.2">
+          <t>society</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.3">
+          <t>members</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.4">
+          <t>threatened</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.6">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.7">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.8">
+          <t>fight</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.11">
+          <t>streets</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.12">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.13">
+          <t>taking</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.14">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.16">
+          <t>massive</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.17">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.18">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.19">
+          <t>lal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.20">
+          <t>darwaja</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.21">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.23">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.24">
+          <t>headquarters</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.25">
+          <t>situated</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.26">
+          <t>near</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.28">
+          <t>reserve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.29">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.31">
+          <t>india</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.32">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.33">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.34">
+          <t>ahmedabad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.5.w.35">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.2">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.3">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.4">
+          <t>startling</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.5">
+          <t>demand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.8">
+          <t>agitationists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.9">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.10">
+          <t>voiced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.11">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.13">
+          <t>director</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.14">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.15">
+          <t>adcb</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.17">
+          <t>pradip</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.18">
+          <t>singh</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.19">
+          <t>chudasama</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.21">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.22">
+          <t>joined</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.24">
+          <t>agitationists</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.25">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.26">
+          <t>saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.27">
+          <t>.</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.28">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.29">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.30">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.31">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.32">
+          <t>adcb</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.33">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.34">
+          <t>amit</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.35">
+          <t>shah</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.36">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.37">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.38">
+          <t>promised</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.39">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.40">
+          <t>give</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.41">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.42">
+          <t>100</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.43">
+          <t>crore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.44">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.45">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.46">
+          <t>mmcb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.47">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.48">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.49">
+          <t>rate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.50">
+          <t>of</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.51">
+          <t>7.5</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.52">
+          <t>per</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.53">
+          <t>cent</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.54">
+          <t>interest</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.55">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.56">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.57">
+          <t>bail</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.58">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.59">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.60">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.61">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.62">
+          <t>financial</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.63">
+          <t>crisis</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.64">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:48:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.11">
+            <wref t="director" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.13"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-02-28T14:24:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.12">
+            <wref t="pradip" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.17"/>
+            <wref t="singh" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.18"/>
+            <wref t="chudasama" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.19"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-28T14:28:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.13">
+            <wref t="agitationists" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.24"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:47:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.46">
+            <wref t="agitationists" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.8"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T20:49:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.47">
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.15"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T20:49:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.48">
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.32"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T20:50:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.49">
+            <wref t="promised" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.38"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.39"/>
+            <wref t="give" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.40"/>
+            <wref t="rs" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.41"/>
+            <wref t="100" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.42"/>
+            <wref t="crore" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.43"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.44"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.45"/>
+            <wref t="mmcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.46"/>
+            <wref t="at" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.47"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.48"/>
+            <wref t="rate" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.49"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.50"/>
+            <wref t="7.5" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.51"/>
+            <wref t="per" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.52"/>
+            <wref t="cent" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.53"/>
+            <wref t="interest" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.54"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.55"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.56"/>
+            <wref t="bail" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.57"/>
+            <wref t="it" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.58"/>
+            <wref t="out" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.59"/>
+            <wref t="from" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.60"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.61"/>
+            <wref t="financial" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.62"/>
+            <wref t="crisis" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.6.w.63"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.1">
+          <t>while</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.2">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.3">
+          <t>knows</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.4">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.5">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.6">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.7">
+          <t>being</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.8">
+          <t>done</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.10">
+          <t>buy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.11">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.12">
+          <t>positions</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.15">
+          <t>mmcb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.16">
+          <t>board</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.17">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.18">
+          <t>directors</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.19">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.20">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.21">
+          <t>question</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.23">
+          <t>very</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.24">
+          <t>logic</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.25">
+          <t>behind</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.26">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.27">
+          <t>decision</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.28">
+          <t>involving</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.29">
+          <t>public</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.30">
+          <t>money</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.31">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.32">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.33">
+          <t>chudasama</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.34">
+          <t>told</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.35">
+          <t>tnn</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.36">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-02-28T14:29:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.14">
+            <wref t="chudasama" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.33"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T20:51:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.50">
+            <wref t="this" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.5"/>
+            <wref t="is" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.6"/>
+            <wref t="being" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.7"/>
+            <wref t="done" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.8"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.9"/>
+            <wref t="buy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.10"/>
+            <wref t="two" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.11"/>
+            <wref t="positions" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.12"/>
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.13"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.14"/>
+            <wref t="mmcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.15"/>
+            <wref t="board" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.16"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.17"/>
+            <wref t="directors" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.7.w.18"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.1">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.2">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.3">
+          <t>:</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.4">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.5">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.6">
+          <t>demand</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.7">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.9">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.10">
+          <t>give</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.12">
+          <t>similar</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.13">
+          <t>loan</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.14">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.15">
+          <t>exactly</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.17">
+          <t>same</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.18">
+          <t>rate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.20">
+          <t>interest</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.21">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.23">
+          <t>farming</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.24">
+          <t>community</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.25">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.26">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.27">
+          <t>suffered</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.28">
+          <t>drought</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.29">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.30">
+          <t>years</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.31">
+          <t>together</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.32">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-03-01T14:46:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.15">
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.8"/>
+            <wref t="chairman" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.9"/>
+            <wref t="give" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.10"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.11"/>
+            <wref t="similar" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.12"/>
+            <wref t="loan" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.13"/>
+            <wref t="with" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.14"/>
+            <wref t="exactly" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.15"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.16"/>
+            <wref t="same" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.17"/>
+            <wref t="rate" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.18"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.19"/>
+            <wref t="interest" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.20"/>
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.21"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.22"/>
+            <wref t="farming" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.23"/>
+            <wref t="community" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.8.w.24"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.2">
+          <t>agitation</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.3">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.4">
+          <t>intended</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.6">
+          <t>stop</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.7">
+          <t>autocracy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.10">
+          <t>co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.11">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.12">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.13">
+          <t>largely</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.14">
+          <t>deals</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.15">
+          <t>with</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.16">
+          <t>farmers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.17">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.18">
+          <t>money</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.19">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-17T12:53:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.20">
+            <wref t="to" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.5"/>
+            <wref t="stop" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.6"/>
+            <wref t="autocracy" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.7"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.8"/>
+            <wref t="a" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.9"/>
+            <wref t="co-operative" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.10"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.11"/>
+            <wref t="which" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.12"/>
+            <wref t="largely" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.13"/>
+            <wref t="deals" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.14"/>
+            <wref t="with" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.15"/>
+            <wref t="farmers" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.16"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.17"/>
+            <wref t="money" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.18"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-21T16:27:42" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.21">
+            <wref t="agitation" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:55:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.51">
+            <wref t="co-operative" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.10"/>
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.9.w.11"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.1">
+          <t>though</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.3">
+          <t>bank</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.4">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.5">
+          <t>financially</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.6">
+          <t>stable</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.7">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.8">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.9">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.10">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.11">
+          <t>profit</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.12">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.13">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.14">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.15">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.16">
+          <t>like</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.17">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.18">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.19">
+          <t>go</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.21">
+          <t>mmcb</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.22">
+          <t>way</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.23">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.24">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.25">
+          <t>jayantibhai</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.26">
+          <t>solanki</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.27">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.28">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.30">
+          <t>suryakala</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.31">
+          <t>agarkha</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.32">
+          <t>utpada</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.33">
+          <t>sahkari</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.34">
+          <t>mandal</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.35">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.36">
+          <t>bapunagar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.37">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.38">
+          <t>who</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.39">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.40">
+          <t>saturday</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.41">
+          <t>completed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.42">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.43">
+          <t>fifth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.44">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.45">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.46">
+          <t>hunger</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.47">
+          <t>strike</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.48">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.49">
+          <t>:</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.50">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.51">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.52">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.53">
+          <t>definitely</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.54">
+          <t>something</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.55">
+          <t>fishy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.56">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.57">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.58">
+          <t>state</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.59">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.60">
+          <t>affairs</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.61">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.62">
+          <t>adcb</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.63">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-21T16:29:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.23">
+            <wref t="hunger" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.46"/>
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.47"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etime" datetime="2018-05-17T12:56:36" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.56">
+            <wref t="on" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.39"/>
+            <wref t="saturday" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.40"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-02-28T14:25:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.24">
+            <wref t="jayantibhai" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.25"/>
+            <wref t="solanki" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.26"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-05-16T20:57:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.26">
+            <wref t="chairman" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.28"/>
+            <comment annotator="sumercan" annotatortype="manual" datetime="2018-05-16T20:58:41">chairman of a mandal</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="type" datetime="2018-02-21T16:30:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.25">
+            <wref t="bank" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.3"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-02-21T22:27:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.35">
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.10.w.62"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.2">
+          <t>agm</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.3">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.5">
+          <t>september</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.6">
+          <t>18</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.7">
+          <t>got</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.8">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.9">
+          <t>within</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.10">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.11">
+          <t>very</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.12">
+          <t>short</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.13">
+          <t>duration</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.11.w.14">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.1">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.3">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.4">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.5">
+          <t>reached</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.7">
+          <t>dinesh</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.8">
+          <t>hall</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.9">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.10">
+          <t>tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.13">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.14">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.15">
+          <t>passed</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.16">
+          <t>four</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.19">
+          <t>five</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.20">
+          <t>proposals</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.22">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.24">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.25">
+          <t>folded</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.26">
+          <t>up</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.27">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.28">
+          <t>soon</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.29">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.31">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.32">
+          <t>declared</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.33">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.34">
+          <t>dividend</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.35">
+          <t>of</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.36">
+          <t>10</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.37">
+          <t>per</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.38">
+          <t>cent</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.12.w.39">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.1">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.2">
+          <t>did</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.3">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.4">
+          <t>get</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.5">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.6">
+          <t>say</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.7">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.8">
+          <t>word</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.9">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.10">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.11">
+          <t>citing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.12">
+          <t>examples</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.13">
+          <t>of</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.14">
+          <t>"</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.15">
+          <t>arbitrary</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.16">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.17">
+          <t>investments</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.18">
+          <t>like</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.19">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.20">
+          <t>worth</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.21">
+          <t>rs</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.22">
+          <t>20</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.23">
+          <t>crore</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.24">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.25">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.26">
+          <t>adcb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.27">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.28">
+          <t>maharashtra</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.29">
+          <t>krishna</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.30">
+          <t>valley</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.31">
+          <t>development</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.32">
+          <t>corporation</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.33">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.34">
+          <t>without</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.35">
+          <t>consulting</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.36">
+          <t>its</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.37">
+          <t>co-operative</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.38">
+          <t>body</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.39">
+          <t>members</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.40">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.41">
+          <t>and</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.42">
+          <t>failed-promises</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.43">
+          <t>like</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.44">
+          <t>partial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.45">
+          <t>crop</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.46">
+          <t>insurance</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.47">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.48">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.49">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.50">
+          <t>promised</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.51">
+          <t>73</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.52">
+          <t>per</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.53">
+          <t>cent</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.54">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.55">
+          <t>chudasama</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.56">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.57">
+          <t>:</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.58">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.59">
+          <t>after</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.60">
+          <t>102</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.61">
+          <t>hours</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.62">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.63">
+          <t>hunger</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.64">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.65">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.66">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.67">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.68">
+          <t>been</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.69">
+          <t>no</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.70">
+          <t>effort</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.71">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.72">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.73">
+          <t>adcb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.74">
+          <t>chairman</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.75">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.76">
+          <t>resolve</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.77">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.78">
+          <t>issue</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.79">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.80">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.81">
+          <t>i</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.82">
+          <t>decided</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.83">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.84">
+          <t>join</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.85">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.86">
+          <t>agitation</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.87">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-21T16:49:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.27">
+            <wref t="hunger" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.63"/>
+            <wref t="strike" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.64"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-02-21T16:49:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.28">
+            <wref t="agitation" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.86"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T21:01:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.52">
+            <wref t="&quot;" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.14"/>
+            <wref t="arbitrary" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.15"/>
+            <wref t="&quot;" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.16"/>
+            <wref t="investments" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.17"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-05-16T21:02:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.54">
+            <wref t="failed-promises" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.42"/>
+            <wref t="like" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.43"/>
+            <wref t="partial" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.44"/>
+            <wref t="crop" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.45"/>
+            <wref t="insurance" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.46"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T21:03:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.36">
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.73"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="name" datetime="2018-05-16T21:01:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.53">
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.26"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="pname" datetime="2018-03-09T13:12:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.16">
+            <wref t="chudasama" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.13.w.55"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.1">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.3">
+          <t>end</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.5">
+          <t>this</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.6">
+          <t>masses</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.7">
+          <t>'</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.8">
+          <t>movement</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.10">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.11">
+          <t>hopes</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.12">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.13">
+          <t>transparency</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.14">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.16">
+          <t>working</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.18">
+          <t>adcb</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.19">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.20">
+          <t>its</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.21">
+          <t>branches</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.22">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="sumercan" annotatortype="manual" class="motive" datetime="2018-02-21T16:50:25" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.29">
+            <wref t="transparency" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.13"/>
+            <wref t="in" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.14"/>
+            <wref t="the" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.15"/>
+            <wref t="working" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.16"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.17"/>
+            <wref t="adcb" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.18"/>
+            <wref t="and" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.19"/>
+            <wref t="its" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.20"/>
+            <wref t="branches" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.21"/>
+          </entity>
+          <entity annotator="sumercan" annotatortype="manual" class="etype" datetime="2018-05-16T21:03:54" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.text.entity.55">
+            <wref t="masses" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.6"/>
+            <wref t="'" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.7"/>
+            <wref t="movement" id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.14.w.8"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.1">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.2">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.3">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.4">
+          <t>crucial</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.5">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.6">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.7">
+          <t>financial</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.8">
+          <t>buoyancy</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.9">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.10">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.11">
+          <t>going</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.13">
+          <t>mmcb</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.14">
+          <t>way</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.15">
+          <t>.</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.16">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.17">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.18">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_ahmedabad_Furore-in-Abad-co-op-bank-over-deposits-in-MMCB_articleshow_567368177.p.1.s.15.w.19">
+          <t>https://timesofindia.indiatimes.com/city/ahmedabad/Furore-in-Abad-co-op-bank-over-deposits-in-MMCB/articleshow/567368177.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

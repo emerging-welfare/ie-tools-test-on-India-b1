@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-04-30T16:54:08" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes4-Organizer.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="Ideology2"></meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Religion">N-A</meta>
+    <meta id="Motivation2"></meta>
+    <meta id="SocialClass2"></meta>
+    <meta id="Caste">N-A</meta>
+    <meta id="SocialClass">N-A</meta>
+    <meta id="Centrality2"></meta>
+    <meta id="Caste2"></meta>
+    <meta id="Centrality">N-A</meta>
+    <meta id="Religion2"></meta>
+    <meta id="Motivation">economic_welfare</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="Ideology">N-A</meta>
+    <meta id="Ethnicity2"></meta>
+    <meta id="Poor2"></meta>
+    <meta id="Ethnicity">N-A</meta>
+    <meta id="Poor">Yes</meta>
+  </metadata>
+  <text xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text">
+    <p xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1">
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.1">
+          <t>Students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.2">
+          <t>stage</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.3">
+          <t>dharna</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.4">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.5">
+          <t>facilities</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.6">
+          <t>TNN</t>
+        </w>
+        <w class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.7">
+          <t>|</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.8">
+          <t>Sep</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.9">
+          <t>7</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.11">
+          <t>2001</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.12">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.13">
+          <t>11.35</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.14">
+          <t>PM</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.15">
+          <t>IST</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.16">
+          <t>hubli</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.17">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.18">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.19">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.20">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.21">
+          <t>primary</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.22">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.23">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.24">
+          <t>girinichala</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.26">
+          <t>near</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.27">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.28">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.29">
+          <t>staged</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.30">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.31">
+          <t>dharna</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.32">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.33">
+          <t>front</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.34">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.35">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.36">
+          <t>tahsildar</t>
+        </w>
+        <w class="SUFFIX" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.37">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.38">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.39">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.40">
+          <t>better</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.41">
+          <t>facilities</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.42">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.43">
+          <t>their</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.44">
+          <t>school</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.45">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="doc_title" datetime="2018-05-16T15:42:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.1">
+            <wref t="Students" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.1"/>
+            <wref t="stage" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.2"/>
+            <wref t="dharna" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.3"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.4"/>
+            <wref t="facilities" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.5"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="eptime" datetime="2018-05-16T15:42:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.2">
+            <wref t="Sep" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.8"/>
+            <wref t="7" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.9"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.10"/>
+            <wref t="2001" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.11"/>
+            <wref t="," id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.12"/>
+            <wref t="11.35" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.13"/>
+            <wref t="PM" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.14"/>
+            <wref t="IST" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.15"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place_pub" datetime="2018-05-16T15:43:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.3">
+            <wref t="hubli" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-16T15:43:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.4">
+            <wref t="dharna" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.3"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="motive" datetime="2018-05-16T15:44:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.7">
+            <wref t="better" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.40"/>
+            <wref t="facilities" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.41"/>
+            <wref t="for" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.42"/>
+            <wref t="their" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.43"/>
+            <wref t="school" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.44"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="etype" datetime="2018-05-16T15:45:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.8">
+            <wref t="dharna" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.31"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="loc" datetime="2018-05-16T15:45:18" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.9">
+            <wref t="tahsildar" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.36"/>
+            <wref t="'s" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.37"/>
+            <wref t="office" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.38"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2018-05-16T15:45:44" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes8-Event.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.10">
+            <wref t="girinichala" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.24"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-16T15:43:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.5">
+            <wref t="Students" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="type" datetime="2018-05-16T15:44:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Participant.foliaset.xml" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.text.entity.6">
+            <wref t="students" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.18"/>
+            <wref t="of" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.19"/>
+            <wref t="government" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.20"/>
+            <wref t="primary" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.21"/>
+            <wref t="school" id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.1.w.22"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.1">
+          <t>the</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.2">
+          <t>50</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.3">
+          <t>-</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.4">
+          <t>year-old</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.5">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.6">
+          <t>has</t>
+        </w>
+        <w class="NUMBER" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.7">
+          <t>250</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.8">
+          <t>students</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.9">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.10">
+          <t>classes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.11">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.12">
+          <t>to</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.13">
+          <t>fifth</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.2.w.14">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.1">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.2">
+          <t>classes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.3">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.4">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.6">
+          <t>just</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.7">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.8">
+          <t>rooms</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.9">
+          <t>having</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.10">
+          <t>no</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.11">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.12">
+          <t>proper</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.13">
+          <t>roofing</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.14">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.15">
+          <t>.</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.16">
+          <t>`</t>
+        </w>
+        <w space="no" class="SYMBOL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.17">
+          <t>`</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.18">
+          <t>rain</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.19">
+          <t>or</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.20">
+          <t>shine</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.21">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.22">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.23">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.24">
+          <t>forced</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.25">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.26">
+          <t>hold</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.27">
+          <t>classes</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.28">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.29">
+          <t>these</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.30">
+          <t>conditions</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.31">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.32">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.33">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.35">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.36">
+          <t>authorities</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.37">
+          <t>complained</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.3.w.38">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.1">
+          <t>they</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.2">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.3">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.4">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.5">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.6">
+          <t>facilities</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.7">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.9">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.10">
+          <t>five</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.11">
+          <t>years</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.4.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.1">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.2">
+          <t>other</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.3">
+          <t>demands</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.4">
+          <t>include</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.6">
+          <t>separate</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.7">
+          <t>site</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.8">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.10">
+          <t>school</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.11">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.12">
+          <t>funds</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.13">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.14">
+          <t>constructing</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.16">
+          <t>building</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.17">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.18">
+          <t>house</t>
+        </w>
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.19">
+          <t>five</t>
+        </w>
+        <w space="no" class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.20">
+          <t>classrooms</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.5.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.6">
+        <w class="WORD" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.6.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.6.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="https__timesofindia.indiatimes.com_city_bengaluru_Students-stage-dharna-for-facilities_articleshow_1032651472.p.1.s.6.w.3">
+          <t>https://timesofindia.indiatimes.com/city/bengaluru/Students-stage-dharna-for-facilities/articleshow/1032651472.cms</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>
