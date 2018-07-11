@@ -15,6 +15,10 @@ The script simply takes a **pretrained model** and an **input text** as input, g
 - [Stanford's pretrained classifiers 3.9.1](https://nlp.stanford.edu/software/CRF-NER.html) [1], 
 - [NLTK's Stanford NER library 3.2.4](https://www.nltk.org/_modules/nltk/tag/stanford.html) [2].
 
+### Notes 
+
+- You will need to reach The Times of India annotated files by contacting to the team.
+
 ### Usage
 The script allows two types of configurations: **default** and **custom** mode.
 
