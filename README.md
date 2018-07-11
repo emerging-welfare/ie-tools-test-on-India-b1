@@ -24,17 +24,20 @@ To run on default mode, type:
 
 To run on custom mode, you should specify the parameters in the order below:
 
-`python stanfordNERTagger.py -t <tagger-file> -m <model-file> -tt <tag-types> -e <eval-metrics> -tf <test-file> -of <out-file>`
+`python stanfordNERTagger.py -nt <ner-tool> -tt <tag-types> -e <eval-metrics> -tf <test-file> -of <out-file>`
 
 An example configuration (Paths are valid from within the project main folder "NERTools")
 
-`python stanfordNERTagger.py -t './stanford-ner-files/stanford-ner.jar' -m './stanford-ner-files/ner-model-english-conll-4class.ser.gz' -tt 'ORG' 'LOC' 'PER' -e 2 -tf './conll-dataset/test-a.txt' -of './stanford-out-files/out-a.txt'`
+`python stanfordNERTagger.py -nt stanford -tt 'ORG' 'LOC' 'PER' -e 2 -tf './conll-dataset/test-a.txt' -of './stanford-out-files/out-a.txt'`
+
+If you choose Stanford as NER Tool, the program will want you to specify model and tagger paths.
+
+As an example:
+
+`'./stanford-ner-files/stanford-ner.jar' './stanford-ner-files/ner-model-english-conll-4class.ser.gz'`
 
 ### Parameters
-
-- tagger-file: the path to the Stanford's tagger file you downloaded earlier on your local.
-
-- model-file: the path to a pretrained model Stanford provided which you downloaded earlier on your local.
+- ner-tool: name of the nlp tool you want to use (stanford, spacy, etc.)
 
 - tag-types: Entity tag names. For example it is 'PER' for 'person', 'ORG' for 'organization' and 'LOC' for 'location' entities with respect to [CONLL's 
 annotation specifications](http://www.aclweb.org/anthology/W03-0419.pdf) [3].
@@ -44,6 +47,11 @@ annotation specifications](http://www.aclweb.org/anthology/W03-0419.pdf) [3].
 - test-file: Test annotated data file (CONLL2003, ACE, Folia, etc.)
 
 - out-file: Program output in which the scores of the pretrained model are reported.
+
+- tagger-file: the path to the Stanford's tagger file you downloaded earlier on your local.
+
+- model-file: the path to a pretrained model Stanford provided which you downloaded earlier on your local.
+
 
 ### Results
 
@@ -57,7 +65,11 @@ Mostly benefitted from a [blog post](https://blog.sicara.com/train-ner-model-wit
 
 spacy.py code is yet incomplete. (planned as Tool 2)
 
+The test data and stanford pretrained models used as defaut are available in the project.
+You will need to reach The Times of India annotated files by contacting to the team.
+
 ## References
+
 [1] [Stanford NER website](https://nlp.stanford.edu/software/CRF-NER.html)
 
 [2] [NLTK’s Stanford NER Library](https://www.nltk.org/_modules/nltk/tag/stanford.html)
