@@ -68,7 +68,7 @@ This package uses Spacy within. It contains a pretrained model, Conll data and a
 ### Installation
 
 - Follow the instructions on [the original page](https://github.com/Franck-Dernoncourt/NeuroNER#requirements)
--- If you already have tensorflow and python3.x, then you do not the script provided. Directly download and unzip NeuroNER:
+  - If you already have tensorflow and python3.x, then you do not the script provided. Directly download and unzip NeuroNER:
   `wget https://github.com/Franck-Dernoncourt/NeuroNER/archive/master.zip
 sudo apt-get install -y unzip # This line is for Ubuntu users only
 unzip master.zip`
@@ -97,7 +97,7 @@ It is missing in the requirements in the documentation but NeuroNER requires pyc
 `pip install pycorenlp`
 Make sure you install it under the right python dist. For example in my case I needed to install it under Anaconda. So I had to run the pip of Anaconda which resides in /anaconda/bin.
 
--- version: pycorenlp-0.3.0
+  - version: pycorenlp-0.3.0
 
 - **OSError: [E050] Can't find model 'en', ..., AttributeError: 'NeuroNER' object has no attribute 'sess'**:
 
@@ -138,4 +138,6 @@ You will need to reach The Times of India annotated files by contacting to the t
 [3] Erik F. Tjong Kim Sang and Fien De Meulder. 2003. Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition. In CoNLL-2003. (link)
 
 [4] [Code blog](https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486)
+
+[5] [NeuroNER Github Repository](https://github.com/Franck-Dernoncourt/NeuroNER)
 
