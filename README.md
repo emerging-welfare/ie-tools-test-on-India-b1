@@ -61,6 +61,67 @@ Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hz
 
 Mostly benefitted from a [blog post](https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486) [4].
 
+## Tool 2: NeuroNER
+
+This package uses Spacy within. It contains a pretrained model, Conll data and a Glove word vector model.
+
+### Installation
+
+- Follow the instructions on [the original page](https://github.com/Franck-Dernoncourt/NeuroNER#requirements)
+-- If you already have tensorflow and python3.x, then you do not the script provided. Directly download and unzip NeuroNER:
+  `wget https://github.com/Franck-Dernoncourt/NeuroNER/archive/master.zip
+sudo apt-get install -y unzip # This line is for Ubuntu users only
+unzip master.zip`
+- Download the Glove word embeddings. 
+`# Download some word embeddings
+mkdir NeuroNER-master/data/word_vectors
+cd NeuroNER-master/data/word_vectors
+wget http://neuroner.com/data/word_vectors/glove.6B.100d.zip
+unzip glove.6B.100d.zip`
+
+### Usage
+
+- Open terminal from inside ./src
+- Run command:
+`python main.py --train_model=False --use_pretrained_model=True --dataset_text_folder=../data/example_unannotated_texts --pretrained_model_folder=../trained_models/conll_2003_en`
+
+### Problem Resolution
+
+Bunch of problems you may encounter and the fixes:
+
+- **ModuleNotFoundError: No module named '\_struct'**:
+Ensure you are using the right pyhton on your system. For example in my case it was looking for the module '\_struct' under the wrong python (/usr/local/lib/python). Running the command with the right python (Anaconda's) fixed the issue.
+
+- **ModuleNotFoundError: No module named 'pycorenlp'**:
+It is missing in the requirements in the documentation but NeuroNER requires pycorenlp. To install:
+`pip install pycorenlp`
+Make sure you install it under the right python dist. For example in my case I needed to install it under Anaconda. So I had to run the pip of Anaconda which resides in /anaconda/bin.
+
+-- version: pycorenlp-0.3.0
+
+- **OSError: [E050] Can't find model 'en', ..., AttributeError: 'NeuroNER' object has no attribute 'sess'**:
+
+I got this error with the example command in the **Usage** section above. Could't figure out why. Since we are not very interested in predicting the example_annotaated_texts, I changed the command to:
+
+`python main.py --train_model=False --use_pretrained_model=True --dataset_text_folder=../data/conll_2003/en --pretrained_model_folder=../trained_models/conll_2003_en`
+
+But then I got this error:
+
+- **OSError: For prediction mode, either test set and deploy set must exist in the specified dataset folder: ../data/conll_2003/en**
+
+Configure the arguments 'parameters.ini' with the exact values: 
+
+`train_model = False
+use_pretrained_model = True
+pretrained_model_folder = ../trained_models/conll_2003_en
+dataset_text_folder = ../data/conll2003/en`
+
+A rather hacky solution but it worked.
+
+## Results:
+
+Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
+
 ## Notes
 
 spacy.py code is yet incomplete. (planned as Tool 2)
