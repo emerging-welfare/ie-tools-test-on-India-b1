@@ -116,6 +116,10 @@ use_pretrained_model = True
 pretrained_model_folder = ../trained_models/conll_2003_en
 dataset_text_folder = ../data/conll2003/en`
 
+Then run:
+
+`python main.py`
+
 A rather hacky solution but it worked.
 
 ## Results:
