@@ -65,6 +65,10 @@ Mostly benefitted from a [blog post](https://blog.sicara.com/train-ner-model-wit
 
 This package uses Spacy within. It contains a pretrained model, Conll data and a Glove word vector model.
 
+### Requirements
+- python, tensorflow, pycorenlp
+  - My versions: python 3.6.3, tensorflow 1.8.0, pycorenlp 0.3.0
+  
 ### Installation
 
 - Follow the instructions on [the original page](https://github.com/Franck-Dernoncourt/NeuroNER#requirements)
