@@ -89,7 +89,7 @@ unzip glove.6B.100d.zip`
 - Run command:
 `python main.py --train_model=False --use_pretrained_model=True --dataset_text_folder=../data/example_unannotated_texts --pretrained_model_folder=../trained_models/conll_2003_en`
 
-### Problem Resolution
+### Possible Problems and Solutions
 
 Bunch of problems you may encounter and the fixes:
 
