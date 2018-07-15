@@ -3,6 +3,26 @@ import os
 import re
 
 
+def convertFoliaClass2ConllTag(e):
+    per = 'I-PER'
+    loc = 'I-LOC'
+    org = 'I-ORG'
+    cls = e.cls
+    if re.match('^.*Target.*$', e.set):
+        if cls == 'name':
+            return per
+    elif re.match('^.*Organizer.*$', e.set):
+        if cls == 'name':
+            return org
+    if cls == 'loc' or cls == 'place' or cls == 'place_pub':
+        return loc
+    if cls == 'pname':
+        return per
+    if cls == 'fname':
+        return org
+    return 'O'
+
+
 def convertFoliaClass2stfTag(e):
     per = 'PERSON'
     loc = 'LOCATION'
@@ -66,6 +86,60 @@ def readFoliaIntoSentences(path):
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     return [sentences_as_tokens, ids, id2idx, idx2id, all_tokens, actual_stf_tags]
+
+
+def folia2conll(path):
+    sentences = []  # A sentence is a list of token ids.
+    ids = []
+    id2token = {}
+    id2tag = {}
+    conll_file = open('./folia_as_conll.txt', 'a')
+
+    if os.path.isdir(path):
+        idx = -1
+        for filename in os.listdir(path):
+            doc = folia.Document(file=path + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentence_tokenized = sentence.select(folia.Word)
+                words_folia = list(sentence_tokenized)
+                sentence_tokens = []  # sentence as token ids
+                for word in words_folia:
+                    w_id = word.id
+                    w_text = word.text()
+                    if w_id in ids:
+                        continue
+                    idx = idx + 1
+                    if idx == 16307 and w_text == '<P>':
+                        idx = idx - 1
+                        continue
+                    sentence_tokens.append(w_id)
+                    id2token[w_id] = w_text
+                    id2tag[w_id] = 'O'
+
+                    ids.append(w_id)
+
+                    sentences.append(sentence_tokens)
+                for layer in sentence.select(folia.EntitiesLayer):
+                    for entity in layer.select(folia.Entity):
+                        for word in entity.wrefs():
+                            word_id = word.id
+                            conll_tag = convertFoliaClass2ConllTag(entity)
+                            id2tag[word_id] = conll_tag
+
+                for _id in sentence_tokens:
+                    line = id2token[_id] + " " + id2tag[_id] + "\n"
+                    conll_file.write(line)
+
+                conll_file.write("\n")
+
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    conll_file.close()
+
+
+folia2conll("./foliadocs/alladjudicated")
+print("Folia coverted to conll")
+
 
 """
 pred_idx = [i for i,e in enumerate(pred_stf_tags) if (e != 'O' and e != 'MISC')]
