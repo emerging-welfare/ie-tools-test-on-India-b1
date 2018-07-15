@@ -3,3 +3,5 @@ venv/
 spacy1.py
 __pycache__/
 foliadocs/
+folia_as_conll.txt
+
