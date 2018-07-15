@@ -155,7 +155,7 @@ if len(args) <= 1:
     print("Please specify the operation then the input file. For help, type 'python foliaHelper.py -h\n")
     sys.exit()
 elif args[1] == '-h':
-    print('example usage: \n python foliaHelper.py foliafile outfile \n '
+    print('example usage: \n python foliaHelper.py folia2conll foliafile outfile \n '
           'foliafile: file or folder containing folia formatted content \n'
           'outfile: output file path')
 else:

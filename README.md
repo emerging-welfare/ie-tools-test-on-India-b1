@@ -126,6 +126,73 @@ Then run:
 
 A rather hacky solution but it worked.
 
+### To run with Folia-annotated files:
+
+#### Create a folder
+
+Create a folder named 'folia' inside './data' of the NeuroNER directory.
+
+#### Convert your Folia files to Conll format:
+
+Open terminal on ./standalone_python_scripts. Run:
+
+`python foliaHelper.py folia2conll foliafile outfile`
+
+where
+
+foliafile: path to a folder containing files OR a single file.
+outfile: path to create a single file containing conll formatted version of folia content.
+
+Preferably, set outfile path under the 'folia' folder you have just created. NeuroNER needs to have the outfile under that path.
+
+#### Configure './src/parameters.ini':
+
+- train_model = False
+- use_pretrained_model = True
+- pretrained_model_folder = ../trained_models/conll_2003_en
+- dataset_text_folder = ../data/folia
+
+#### Modify train.py:
+
+- Modify line 75.
+
+from:
+
+`assert(token == token_original and gold_label == gold_label_original)`
+
+to:
+
+`assert(token == token_original)`
+
+#### Run NeuroNER
+
+Open terminal on ./src. Run:
+
+`python main.py`
+
+Results are recorded to files named: '000_test.txt' and '000_test.txt_conll_evaluation.txt' in the 'output' folder.
+
+#### Evaluating for raw tag:
+
+- Omit initial letters from conll tags (For details please read google docs)
+
+`python ./standalone_python_scripts/neuroNERoutfileHelper.py -r original-outfile edited-outfile`
+
+where:
+
+'original-outfile' is the path to the NeuroNER output file named '000_test.txt'
+'edited-outfile' is any path you want for the new file to be created.
+
+- Run conlleval for raw tags:
+
+`python conlleval -r < edited-outfile > resultfile`
+
+where:
+
+'edited-outfile' is the path to the output of the previous step.
+'resultfile' is any path you want for the new file to be created.
+
+
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
