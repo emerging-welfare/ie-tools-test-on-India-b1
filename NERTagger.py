@@ -7,8 +7,7 @@ from metricHelper import findPrecisionRecalls
 from stanfordNER import runStfModel
 nltk.download('punkt')
 
-# args = sys.argv
-args = []
+args = sys.argv
 """args = ['stanfordNERTagger.py', '-nt', 'stanford',
         '-tt', 'ORG', 'LOC', 'PER', '-e', 1, '-f', 1, '-tf', './conll-dataset/test-a.txt',
         '-of', './stanford-out-files/out-a.txt']"""
