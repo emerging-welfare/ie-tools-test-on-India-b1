@@ -142,3 +142,30 @@ def folia2conll(flpath, opath):
 
     print('Folia docs are converted to conll format')
     conll_file.close()
+
+
+args = sys.argv
+
+folder = './foliadocs/alladjudicated'
+single_file = './foliadocs/alladjudicated/' \
+              'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
+
+# args = ['foliaHelper.py', 'folia2conll', folder, './folia_as_conll_test.txt']
+if len(args) <= 1:
+    print("Please specify the operation then the input file. For help, type 'python foliaHelper.py -h\n")
+    sys.exit()
+elif args[1] == '-h':
+    print('example usage: \n python foliaHelper.py foliafile outfile \n '
+          'foliafile: file or folder containing folia formatted content \n'
+          'outfile: output file path')
+else:
+    oper = args[1]
+    foliafile = args[2]
+    outfile = args[3]
+
+    if oper == 'folia2conll':
+        folia2conll(foliafile, outfile)
+    else:
+        print('TODO: change code of other helper functions to allow calling from command prompt.\n')
+        sys.exit()
+

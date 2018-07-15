@@ -11,6 +11,9 @@
 # So for better understanding, with this code I omit the initials for both the actual and predicted tags.
 # Conlleval has also an option named -r. It assumes the tags are "raw': initial-free.
 
+import sys
+
+
 def omit_initials_from_tags(outfile, resfile):
     with open(outfile) as f:
         content = f.readlines()
@@ -37,8 +40,28 @@ def omit_initials_from_tags(outfile, resfile):
             resf.write("\n")
         resf.write(' '.join(line) + '\n')
     resf.close()
-    
 
-out =  "./000_test.txt"
-res =  "./000_test_edited.txt"
-omit_initials_from_tags(out, res)
+args = sys.argv
+
+original_outfile = "/home/berfu/Masaüstü/000_test.txt"
+edited_outfile = "/home/berfu/Masaüstü/000_test_edited_test.txt"
+
+# args = ['neuroNERoutfileHelper.py', '-r', original_outfile, edited_outfile]
+if len(args) <= 1:
+    print("Please specify the operation then the input and output files."
+          " For help, type 'python neuroNERoutfileHelper.py -h\n")
+    sys.exit()
+elif args[1] == '-h':
+    print('example usage: \n python neuroNERoutfileHelper.py -r '
+          'original-outfile edited-outfile \n '
+          '-r: convert conll tags to raw tags'
+          'original-outfile: output of NeuroNER: the file having token - actual tag - predicted tag \n'
+          'edited-outfile: outfile\'s version with raw tags')
+elif args[1] == '-r':
+    original_outfile = args[2]
+    edited_outfile = args[3]
+    omit_initials_from_tags(original_outfile, edited_outfile)
+else:
+    print("Please specify the operation then the input and output files. "
+          "For help, type 'python neuroNERoutfileHelper.py -h\n")
+    sys.exit()

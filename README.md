@@ -63,7 +63,7 @@ Mostly benefitted from a [blog post](https://blog.sicara.com/train-ner-model-wit
 
 ## Tool 2: NeuroNER
 
-This package uses Spacy within. It contains a pretrained model, Conll data and a Glove word vector model.
+This package uses Spacy as the default tokenizer (a tokenizer is used only if input is of BRAT format). It contains a pretrained model, Conll data and a Glove word vector model.
 
 ### Requirements
 - python, tensorflow, pycorenlp
@@ -129,6 +129,8 @@ A rather hacky solution but it worked.
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
+
+IMPORTANT NOTE: NeuroNER source code is modified (one line) to be able to predict with Folia documents. Details in the google docs.
 
 ## Notes
 
