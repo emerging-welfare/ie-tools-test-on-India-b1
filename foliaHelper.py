@@ -42,6 +42,57 @@ def convertFoliaClass2stfTag(e):
         return org
     return 'O'
 
+"""
+def readFoliaFileIntoSentences(filepath, idx, ids, id2idx, idx2id, actual_stf_tags, all_tokens, sentences_as_tokens):
+    doc = folia.Document(file=filepath)
+    for h, sentence in enumerate(doc.sentences()):
+        sentence_tokenized = sentence.select(folia.Word)
+        words_folia = list(sentence_tokenized)
+        sentence_tokens = []
+        for word in words_folia:
+            w_id = word.id
+            w_text = word.text()
+            if w_id in ids:
+                continue
+            idx = idx + 1
+            if w_text == '<P>':
+                idx = idx - 1
+                continue
+            ids.append(w_id)
+            id2idx[w_id] = idx
+            idx2id[idx] = w_id
+            actual_stf_tags.append('O')
+            sentence_tokens.append(w_text)
+            all_tokens.append(w_text)
+
+        sentences_as_tokens.append(sentence_tokens)
+        for layer in sentence.select(folia.EntitiesLayer):
+            for entity in layer.select(folia.Entity):
+                for word in entity.wrefs():
+                    word_id = word.id
+                    _idx = id2idx[word_id]
+                    stf_tag = convertFoliaClass2stfTag(entity)
+                    actual_stf_tags[_idx] = stf_tag
+
+
+def readFoliaIntoSentences(path):
+    sentences_as_tokens = []
+    ids = []
+    id2idx = {}
+    idx2id = {}
+    all_tokens = []
+    actual_stf_tags = []
+    idx = -1
+    if os.path.isdir(path):
+        for filename in os.listdir(path):
+            filepath = path + '/' + filename
+            readFoliaFileIntoSentences(filepath, idx, ids, id2idx, idx2id, actual_stf_tags, all_tokens, sentences_as_tokens)
+    else:
+        readFoliaFileIntoSentences(path, idx, ids, id2idx, idx2id, actual_stf_tags, all_tokens, sentences_as_tokens)
+    return [sentences_as_tokens, all_tokens, actual_stf_tags]
+
+"""
+
 
 def readFoliaIntoSentences(path):
     sentences_as_tokens = []
@@ -85,7 +136,7 @@ def readFoliaIntoSentences(path):
 
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
-    return [sentences_as_tokens, ids, id2idx, idx2id, all_tokens, actual_stf_tags]
+    return [sentences_as_tokens, all_tokens, actual_stf_tags]
 
 
 def doc2conll(fp, sentences, ids, id2token, id2tag, idx, conllfile):
@@ -101,7 +152,7 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, conllfile):
             if w_id in ids:
                 continue
             idx = idx + 1
-            if idx == 16307 and w_text == '<P>':
+            if w_text == '<P>':
                 idx = idx - 1
                 continue
             sentence_tokens.append(w_id)

@@ -1,4 +1,4 @@
-Final Scores: 
+Scores: 
 (Type 'other' results are omitted before calculating scores other than MCC.) 
 TOTAL precision: 0.2
 TOTAL recall: 0.02

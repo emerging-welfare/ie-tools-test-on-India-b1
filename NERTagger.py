@@ -77,7 +77,7 @@ actual_stf_tags = []
 if annotation_format == 0:  # Conll
     [_sentences, actual_stf_tokens, actual_stf_tags] = readConllIntoSentences(testfile)
 elif annotation_format == 1:  # Folia
-    [_sentences, ids, id2idx, idx2id, actual_stf_tokens, actual_stf_tags] = readFoliaIntoSentences(testfile)
+    [_sentences, actual_stf_tokens, actual_stf_tags] = readFoliaIntoSentences(testfile)
 
 if ner_tool == 'stanford':
     result = runStfModel(_sentences, tagger, model)
@@ -88,7 +88,6 @@ else:
 """CALCULATING COMMON VARIABLES"""
 
 pred_stf_tokens = [tp[0] for tp in token_predTag]
-pred_stf_tags = [tp[1] for tp in token_predTag]
 pred_stf_tags = [tp[1] for tp in token_predTag]
 
 actual = actual_stf_tags

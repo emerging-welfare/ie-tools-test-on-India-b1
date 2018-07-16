@@ -3,6 +3,7 @@ import os
 import re
 import sys
 
+
 def convertFoliaClass2ConllTag(e):
     per = 'I-PER'
     loc = 'I-LOC'
