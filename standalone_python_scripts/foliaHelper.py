@@ -4,26 +4,6 @@ import re
 import sys
 
 
-def convertFoliaClass2ConllTag(e):
-    per = 'I-PER'
-    loc = 'I-LOC'
-    org = 'I-ORG'
-    cls = e.cls
-    if re.match('^.*Target.*$', e.set):
-        if cls == 'name':
-            return per
-    elif re.match('^.*Organizer.*$', e.set):
-        if cls == 'name':
-            return org
-    if cls == 'loc' or cls == 'place' or cls == 'place_pub':
-        return loc
-    if cls == 'pname':
-        return per
-    if cls == 'fname':
-        return org
-    return 'O'
-
-
 def convertFoliaClass2stfTag(e):
     per = 'PERSON'
     loc = 'LOCATION'
@@ -89,7 +69,45 @@ def readFoliaIntoSentences(path):
     return [sentences_as_tokens, ids, id2idx, idx2id, all_tokens, actual_stf_tags]
 
 
-def doc2conll(fp, sentences, ids, id2token, id2tag, idx, conllfile):
+def tag(type, w_nu, prev_tagtype):
+    if prev_tagtype is None:
+        return 'I-' + type
+    else:
+        prev_tagtype_splitted = prev_tagtype.split('-')
+        if len(prev_tagtype_splitted) <= 1:  # not I-LOC like tag.
+            return 'I-' + type
+        else:
+            prev_type = prev_tagtype_splitted[1]
+            if type != prev_type:
+                return 'I-' + type
+            else:
+                if w_nu > 0:
+                    return 'I-' + type
+                else:
+                    return 'B-' + type
+
+
+def convertFoliaClass2ConllTag(e, w_nu, prev_tagtype=None):
+    per = 'PER'
+    loc = 'LOC'
+    org = 'ORG'
+    cls = e.cls
+    if re.match('^.*Target.*$', e.set):
+        if cls == 'name':
+            return tag(per, w_nu, prev_tagtype)
+    elif re.match('^.*Organizer.*$', e.set):
+        if cls == 'name':
+            return tag(org, w_nu, prev_tagtype)
+    if cls == 'loc' or cls == 'place' or cls == 'place_pub':
+        return tag(loc, w_nu, prev_tagtype)
+    if cls == 'pname':
+        return tag(per, w_nu, prev_tagtype)
+    if cls == 'fname':
+        return tag(org, w_nu, prev_tagtype)
+    return 'O'
+
+
+def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfile):
 
     doc = folia.Document(file=fp)
     for h, sentence in enumerate(doc.sentences()):
@@ -102,22 +120,44 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, conllfile):
             if w_id in ids:
                 continue
             idx = idx + 1
-            if idx == 16307 and w_text == '<P>':
+            if w_text == '<P>':
                 idx = idx - 1
                 continue
             sentence_tokens.append(w_id)
             id2token[w_id] = w_text
             id2tag[w_id] = 'O'
-
             ids.append(w_id)
+            idx2id[idx] = w_id
+            id2idx[w_id] = idx
 
             sentences.append(sentence_tokens)
         for layer in sentence.select(folia.EntitiesLayer):
             for entity in layer.select(folia.Entity):
-                for word in entity.wrefs():
+                for w_nu, word in enumerate(entity.wrefs()):
                     word_id = word.id
-                    conll_tag = convertFoliaClass2ConllTag(entity)
-                    id2tag[word_id] = conll_tag
+                    word_idx = id2idx[word_id]
+                    word_text = word.text()
+                    # Office kelimesi icin overlap durumu var. fname phrase'inin icinde bulunuyor (org). Baska yerde de kendi basina loc olarak isaretlenmis.
+                    if word_text == 'satyagraha':
+                        print('satyagraha')
+                    if word_idx == 0:
+                        conll_tagtype = convertFoliaClass2ConllTag(entity, w_nu)
+                    else:
+                        prev_w_idx = id2idx[word_id] - 1
+                        prev_w_id = idx2id[prev_w_idx]
+                        prev_tagtype = id2tag[prev_w_id]
+                        conll_tagtype = convertFoliaClass2ConllTag(entity, w_nu, prev_tagtype)
+
+                    # Asagidaki check'i foliadaki sirali olmayan taglemeler icin yapiyorum. Ornegin ayni id'deki bir entity birden fazla kez taglendiyse
+                    # bunlardan biri eger kaydadeger (loc per org vs) ise, o tagi koru. sonradan kaydadeger olmayan bir tagine denk gelsen bile
+                    # degistirme. (ornegin 'mosque' kelimesi loc ve religion olarak iki kez taglenmis. Loc olarak tagle. Religion'a geldiginde atla.)
+
+                        prev_tagtype_of_current = id2tag[word_id]
+                        if len(conll_tagtype.split('-')) <= 1 : # Su an buldugum tag kaydadeger bir tag degil ise
+                            if len(prev_tagtype_of_current.split('-')) <= 1: # daha onceki de kaydadeger degil ise
+                                id2tag[word_id] = conll_tagtype
+                        else:
+                            id2tag[word_id] = conll_tagtype
 
         for _id in sentence_tokens:
             line = id2token[_id] + " " + id2tag[_id] + "\n"
@@ -131,15 +171,17 @@ def folia2conll(flpath, opath):
     ids = []
     id2token = {}
     id2tag = {}
+    idx2id = {}
+    id2idx = {}
     conll_file = open(opath, 'w')
 
     idx = -1
     if os.path.isdir(flpath):
         for filename in os.listdir(flpath):
             fpath = flpath + '/' + filename
-            doc2conll(fpath, sentences, ids, id2token, id2tag, idx, conll_file)
+            doc2conll(fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
     else:
-        doc2conll(flpath, sentences, ids, id2token, id2tag, idx, conll_file)
+        doc2conll(flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
 
     print('Folia docs are converted to conll format')
     conll_file.close()
@@ -147,11 +189,11 @@ def folia2conll(flpath, opath):
 
 args = sys.argv
 
-folder = './foliadocs/alladjudicated'
+folder = '../foliadocs/alladjudicated'
 single_file = './foliadocs/alladjudicated/' \
               'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
 
-# args = ['foliaHelper.py', 'folia2conll', folder, './folia_as_conll_test.txt']
+args = ['foliaHelper.py', 'folia2conll', folder, './folia_as_conll_test.txt']
 if len(args) <= 1:
     print("Please specify the operation then the input file. For help, type 'python foliaHelper.py -h\n")
     sys.exit()

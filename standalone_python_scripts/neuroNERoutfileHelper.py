@@ -41,10 +41,10 @@ def omit_initials_from_tags(outfile, resfile):
         resf.write(' '.join(line) + '\n')
     resf.close()
 
-args = sys.argv
 
+args = sys.argv
 original_outfile = "/home/berfu/Masaüstü/000_test.txt"
-edited_outfile = "/home/berfu/Masaüstü/000_test_edited_test.txt"
+edited_outfile = "/home/berfu/Masaüstü/000_test_edited.txt"
 
 # args = ['neuroNERoutfileHelper.py', '-r', original_outfile, edited_outfile]
 if len(args) <= 1:
