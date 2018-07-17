@@ -82,8 +82,8 @@ elif annotation_format == 1:  # Folia
 if ner_tool == 'stanford':
     result = runStfModel(_sentences, tagger, model)
     token_predTag = [item for sublist in result for item in sublist]
-else:
-    print('TODO: Calling other ner tools.')
+elif ner_tool == 'spacy':
+    print('TODO: Calling spacy.')
 
 """CALCULATING COMMON VARIABLES"""
 

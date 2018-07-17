@@ -174,7 +174,7 @@ Results are recorded to files named: '000_test.txt' and '000_test.txt_conll_eval
 
 #### Evaluating for raw tag:
 
-- Omit initial letters from conll tags (For details please read google docs)
+- Omit initial letters from conll tags
 
 `python ./standalone_python_scripts/neuroNERoutfileHelper.py -r original-outfile edited-outfile`
 

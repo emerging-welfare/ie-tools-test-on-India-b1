@@ -107,7 +107,7 @@ def convertFoliaClass2ConllTag(e, w_nu, prev_tagtype=None):
     return 'O'
 
 
-def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfile):
+def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conllfile):
 
     doc = folia.Document(file=fp)
     for h, sentence in enumerate(doc.sentences()):
@@ -140,10 +140,12 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfi
                     # Office kelimesi icin overlap durumu var. fname phrase'inin icinde bulunuyor (org). Baska yerde de kendi basina loc olarak isaretlenmis.
                     if word_text == 'satyagraha':
                         print('satyagraha')
+                    if word_id == 'https__timesofindia.indiatimes.com_city_bengaluru_He-dares-to-bare-all-for-justice_articleshow_582054535.p.1.s.2.w.36':
+                        print('office, which is tagged multiple times.')
                     if word_idx == 0:
                         conll_tagtype = convertFoliaClass2ConllTag(entity, w_nu)
                     else:
-                        prev_w_idx = id2idx[word_id] - 1
+                        prev_w_idx = word_idx - 1
                         prev_w_id = idx2id[prev_w_idx]
                         prev_tagtype = id2tag[prev_w_id]
                         conll_tagtype = convertFoliaClass2ConllTag(entity, w_nu, prev_tagtype)
@@ -156,8 +158,30 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfi
                         if len(conll_tagtype.split('-')) <= 1 : # Su an buldugum tag kaydadeger bir tag degil ise
                             if len(prev_tagtype_of_current.split('-')) <= 1: # daha onceki de kaydadeger degil ise
                                 id2tag[word_id] = conll_tagtype
+                                id2entityLength[word_id] = len(list(entity.wrefs()))
+                                id2entityId[word_id] = entity.id
                         else:
-                            id2tag[word_id] = conll_tagtype
+                            if len(prev_tagtype_of_current.split('-')) > 1: # daha onceki de kaydadeger ise
+                                # If current entity that the word belongs is longer than the previous entity it belongs,
+                                # choose the assign the tag of current entity to the token.
+                                parent_entity_length = id2entityLength[word_id]
+                                current_entity_length = len(list(entity.wrefs()))
+                                if current_entity_length > parent_entity_length:
+                                    id2tag[word_id] = conll_tagtype
+                                    id2entityLength[word_id] = len(list(entity.wrefs()))
+                                    id2entityId[word_id] = entity.id
+                                parent_entity_set = id2entityId[word_id]
+                                current_entity_set = entity.set
+                                if parent_entity_set == current_entity_set:
+                                    id2tag[word_id] = conll_tagtype
+                                    id2entityLength[word_id] = len(list(entity.wrefs()))
+                                    id2entityId[word_id] = entity.id
+                                # elif current_entity_length > 1 and parent_entity_length > 1:
+                                   # print('An unexpected case: a token in more than one entities of length > 2')
+                            else:
+                                id2tag[word_id] = conll_tagtype
+                                id2entityLength[word_id] = len(list(entity.wrefs()))
+                                id2entityId[word_id] = entity.id
 
         for _id in sentence_tokens:
             line = id2token[_id] + " " + id2tag[_id] + "\n"
@@ -167,6 +191,8 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfi
 
 
 def folia2conll(flpath, opath):
+    id2entityLength = {}
+    id2entityId = {}
     sentences = []  # A sentence is a list of token ids.
     ids = []
     id2token = {}
@@ -179,7 +205,7 @@ def folia2conll(flpath, opath):
     if os.path.isdir(flpath):
         for filename in os.listdir(flpath):
             fpath = flpath + '/' + filename
-            doc2conll(fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
+            doc2conll(fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conll_file)
     else:
         doc2conll(flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
 
@@ -193,7 +219,7 @@ folder = '../foliadocs/alladjudicated'
 single_file = './foliadocs/alladjudicated/' \
               'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
 
-args = ['foliaHelper.py', 'folia2conll', folder, './folia_as_conll_test.txt']
+args = ['foliaHelper.py', 'folia2conll', folder, './folia_as_conll_test1.txt']
 if len(args) <= 1:
     print("Please specify the operation then the input file. For help, type 'python foliaHelper.py -h\n")
     sys.exit()
