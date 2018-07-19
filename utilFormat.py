@@ -65,6 +65,25 @@ def createconllevalinputfile(sentences, actual_tags, pred_tags):
     return conlleval_inputfile_name
 
 #################################################################################################
+# intermediate func
+def foliaclass2rawtag(e):
+    per = 'PER'
+    loc = 'LOC'
+    org = 'ORG'
+    cls = e.cls
+    if re.match('^.*Target.*$', e.set):
+        if cls == 'name':
+            return per
+    elif re.match('^.*Organizer.*$', e.set):
+        if cls == 'name':
+            return org
+    if cls == 'loc' or cls == 'place' or cls == 'place_pub':
+        return loc
+    if cls == 'pname':
+        return per
+    if cls == 'fname':
+        return org
+    return 'O'
 
 # intermediate func
 def foliaclass2stanfordtag(e):
@@ -128,6 +147,8 @@ def folia2sentences(path, tagFormat):
                                 tag = foliaclass2stanfordtag(entity)
                             elif tagFormat == 'conll':
                                 print('TODO: reuse codes that output files to output objects instead.')
+                            elif tagFormat == 'raw':
+                                tag = foliaclass2rawtag(entity)
                             actual_tags[_idx] = tag
 
     else:
