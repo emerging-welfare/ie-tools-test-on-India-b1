@@ -1,4 +1,0 @@
-Scores: 
-(Type 'other' results are omitted before calculating scores other than MCC.) 
-Matthew's Correlation Coefficient: 0.93
-

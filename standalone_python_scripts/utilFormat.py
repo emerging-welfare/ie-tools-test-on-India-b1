@@ -4,7 +4,50 @@ import re
 import sys
 
 
-def convertFoliaClass2stfTag(e):
+# clear tags from initial parts (I-LOC to LOC, etc)
+# I required this operation to evaluate NeuroNER prediction results on folia docs.
+# The reason is that the predictor outputs conll formatted tags such as I-LOC, B-LOC.
+# However, for folia docs I do  not have information about tag initials.
+# Since NeuroNER accepts decent conll formatted test files as output, I had to assign initials to tags.
+# And I arbitrarily assigned I, at the beginning of each tag - except for O and MISC.
+
+
+# Now after prediction, default conlleval evaluates the results regarding the initials as well as the tags.
+# This brings an additional error to the results.
+# So for better understanding, with this code I omit the initials for both the actual and predicted tags.
+# Conlleval has also an option named -r. It assumes the tags are "raw': initial-free.
+
+
+def conll2raw(outfile, resfile):
+    with open(outfile) as f:
+        content = f.readlines()
+        content = [x.strip() for x in content]
+        content_list = [x.split() for x in content]
+
+        for line in content_list:
+            if len(line) == 0:
+                continue
+            act = line[-2]
+            pred = line[-1]
+
+            a = act.split('-')
+            p = pred.split('-')
+
+            if len(a) > 1: act = a[1]
+            if len(p) > 1: pred = p[1]
+            line[-2] = act
+            line[-1] = pred
+
+    resf = open(resfile, 'w')
+    for line in content_list:
+        if len(line) == 0:
+            resf.write("\n")
+        resf.write(' '.join(line) + '\n')
+    resf.close()
+
+#######################################################################################
+
+def foliaclass2stanfordtag(e):
     per = 'PERSON'
     loc = 'LOCATION'
     org = 'ORGANIZATION'
@@ -24,7 +67,7 @@ def convertFoliaClass2stfTag(e):
     return 'O'
 
 
-def readFoliaIntoSentences(path):
+def folia2sentences(path):
     sentences_as_tokens = []
     ids = []
     id2idx = {}
@@ -61,7 +104,7 @@ def readFoliaIntoSentences(path):
                         for word in entity.wrefs():
                             word_id = word.id
                             _idx = id2idx[word_id]
-                            stf_tag = convertFoliaClass2stfTag(entity)
+                            stf_tag = foliaclass2stanfordtag(entity)
                             actual_stf_tags[_idx] = stf_tag
 
     else:
@@ -87,7 +130,7 @@ def tag(type, w_nu, prev_tagtype):
                     return 'B-' + type
 
 
-def convertFoliaClass2ConllTag(e, w_nu, prev_tagtype=None):
+def foliaclass2conlltag(e, w_nu, prev_tagtype=None):
     per = 'PER'
     loc = 'LOC'
     org = 'ORG'
@@ -143,12 +186,12 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2enti
                     if word_id == 'https__timesofindia.indiatimes.com_city_bengaluru_He-dares-to-bare-all-for-justice_articleshow_582054535.p.1.s.2.w.36':
                         print('office, which is tagged multiple times.')
                     if word_idx == 0:
-                        conll_tagtype = convertFoliaClass2ConllTag(entity, w_nu)
+                        conll_tagtype = foliaclass2conlltag(entity, w_nu)
                     else:
                         prev_w_idx = word_idx - 1
                         prev_w_id = idx2id[prev_w_idx]
                         prev_tagtype = id2tag[prev_w_id]
-                        conll_tagtype = convertFoliaClass2ConllTag(entity, w_nu, prev_tagtype)
+                        conll_tagtype = foliaclass2conlltag(entity, w_nu, prev_tagtype)
 
                     # Asagidaki check'i foliadaki sirali olmayan taglemeler icin yapiyorum. Ornegin ayni id'deki bir entity birden fazla kez taglendiyse
                     # bunlardan biri eger kaydadeger (loc per org vs) ise, o tagi koru. sonradan kaydadeger olmayan bir tagine denk gelsen bile
@@ -215,26 +258,34 @@ def folia2conll(flpath, opath):
 
 args = sys.argv
 
-folder = '../foliadocs/alladjudicated'
-single_file = './foliadocs/alladjudicated/' \
-              'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
+#infile = '../foliadocs/alladjudicated'
+#outfile = './foliadocs/alladjudicated/' \
+#              'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
 
-args = ['foliaHelper.py', 'folia2conll', folder, './folia_as_conll_test1.txt']
+infile = "/home/berfu/Masaüstü/000_test.txt"
+outfile = "/home/berfu/Masaüstü/000_test_edited.txt"
+
+# args = ['utilFormat.py', 'folia2conll', infile, outfile]
+# args = ['utilFormat.py', 'conll2raw', infile, outfile]
 if len(args) <= 1:
-    print("Please specify the operation then the input file. For help, type 'python foliaHelper.py -h\n")
+    print("Please specify the operation then the input and output files."
+          " For help, type 'python neuroNERoutfileHelper.py -h\n")
     sys.exit()
 elif args[1] == '-h':
-    print('example usage: \n python foliaHelper.py folia2conll foliafile outfile \n '
-          'foliafile: file or folder containing folia formatted content \n'
-          'outfile: output file path')
-else:
-    oper = args[1]
-    foliafile = args[2]
+    print('example usage: \n python neuroNERoutfileHelper.py -r '
+          'original-outfile edited-outfile \n '
+          'conll2raw: convert conll tags to raw tags | \n'
+          'folia2conll: convert folia to conll format'
+          'infile: the file having token - actual tag - predicted tag \n'
+          'outfile: infile\'s version with raw tags')
+elif args[1] == 'conll2raw':
+    infile = args[2]
     outfile = args[3]
-
-    if oper == 'folia2conll':
-        folia2conll(foliafile, outfile)
-    else:
-        print('TODO: change code of other helper functions to allow calling from command prompt.\n')
-        sys.exit()
-
+    conll2raw(infile, outfile)
+elif args[1] == 'folia2conll':
+    infile = args[2]
+    outfile = args[3]
+    folia2conll(infile, outfile)
+else:
+    print('TODO: change code of other helper functions to allow calling from command prompt.\n')
+    sys.exit()
