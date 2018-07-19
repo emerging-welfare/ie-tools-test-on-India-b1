@@ -1,4 +1,4 @@
-**Note: ** README is under construction to be updated wrt the current version of NERTools. 
+**Note:** README is under construction to be updated wrt the current version of NERTools. 
 
 # NERTools
 This repo consists of scripts to test existing named-entity recognition tools (such as StanfordNER, Spacy, ...) 
@@ -198,6 +198,9 @@ where:
 
 ### Requirements:
 - Refer to [spacy's own requirements notes](https://github.com/explosion/spaCy/blob/master/requirements.txt). You do not need to worry about them. They are installed alongside.
+### My versions:
+- spacy 2.0.11
+- python 3 .6.3
 
 ### Installation:
 - Run:
@@ -210,7 +213,7 @@ Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this w
 
   - Download model tar.gz and unzip.
   
-  The model I used is the default model pretrained with Wikipedia data. (For the study on the automatically annotated Wikipedia data: [](https://ac.els-cdn.com/S0004370212000276/1-s2.0-S0004370212000276-main.pdf?_tid=a4122aa4-585d-45b5-937d-071f529bb90f&acdnat=1531911108_e342997b556d6a38872a815d6ebaa858)
+  The model I used is the default model pretrained with Wikipedia data. ([Wikipedia data paper](https://ac.els-cdn.com/S0004370212000276/1-s2.0-S0004370212000276-main.pdf?_tid=a4122aa4-585d-45b5-937d-071f529bb90f&acdnat=1531911108_e342997b556d6a38872a815d6ebaa858))
   
   Model name/ver: **xx-ent-wiki-sm-2.0.0**
   
