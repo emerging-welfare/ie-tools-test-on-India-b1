@@ -1,3 +1,5 @@
+**Note: ** README is under construction to be updated wrt the current version of NERTools. 
+
 # NERTools
 This repo consists of scripts to test existing named-entity recognition tools (such as StanfordNER, Spacy, ...) 
 in order to determine baseline models for EMW project in Koc University, Istanbul.
@@ -192,7 +194,32 @@ where:
 'edited-outfile' is the path to the output of the previous step.
 'resultfile' is any path you want for the new file to be created.
 
+## Tool 3: Spacy
 
+### Requirements:
+- Refer to [spacy's own requirements notes](https://github.com/explosion/spaCy/blob/master/requirements.txt). You do not need to worry about them. They are installed alongside.
+
+### Installation:
+- Run:
+`pip install spacy`
+If you have multiple pips, please use the one under the python distribution you use. For anaconda pip is under `anaconda/bin`.
+Spacy should now be under `anaconda/lib/python3.6/site-packages`.
+
+- Install a pretrained model:
+Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this worked:
+
+  - Download model tar.gz and unzip.
+  
+  The model I used is the default model pretrained with Wikipedia data. (For the study on the automatically annotated Wikipedia data: [](https://ac.els-cdn.com/S0004370212000276/1-s2.0-S0004370212000276-main.pdf?_tid=a4122aa4-585d-45b5-937d-071f529bb90f&acdnat=1531911108_e342997b556d6a38872a815d6ebaa858)
+  
+  Model name/ver: **xx-ent-wiki-sm-2.0.0**
+  
+  - Copy `xx-ent-wiki-sm-2.0.0/xx-ent-wiki-sm/xx-ent-wiki-sm-2.0.0/vocab` into `xx-ent-wiki-sm-2.0.0/xx-ent-wiki-sm/xx-ent-wiki-sm-2.0.0/ner`
+  - Put `xx-ent-wiki-sm-2.0.0/xx-ent-wiki-sm` under `spacy/data`. **Note that you put there only the second level `xx-ent-wiki-sm` folder.**
+  
+ ### Usage:
+ - Please refer to the [ipython notebook]() 
+ 
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
