@@ -221,7 +221,7 @@ Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this w
   - Put `xx-ent-wiki-sm-2.0.0/xx-ent-wiki-sm` under `spacy/data`. **Note that you put there only the second level `xx-ent-wiki-sm` folder.**
   
  ### Usage:
- - Please refer to the [ipython notebook]() 
+ - Please refer to the [ipython notebook](https://github.com/emerging-welfare/NERTools/blob/master/spacyner.ipynb) 
  
 ## Results:
 
