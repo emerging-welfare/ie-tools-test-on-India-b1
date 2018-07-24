@@ -220,6 +220,20 @@ Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this w
  ### Usage:
  - Please refer to the [ipython notebook](https://github.com/emerging-welfare/NERTools/blob/master/spacyner.ipynb) 
  
+ OR 
+ 
+ - Run spacy under NERTools with the command:
+ `python tagger spacy conll conll-testa.txt conll-testa-out.txt`
+
+Then the program will want you to specify model and tagger paths.
+
+As an example:
+
+`'xx_ent_wiki_smr' '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0/ner'`
+
+_Note that to use these paths you will need to install and do necessary modifications on spacy model folder first. Please refer to the **Installation** section._
+ 
+ 
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
@@ -227,8 +241,6 @@ Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hz
 IMPORTANT NOTE: NeuroNER source code is modified (one line) to be able to predict with Folia documents. Details in the google docs.
 
 ## Notes
-
-spacyner.py is not incorporated into the NERTools yet (planned as Tool 2). For now it can be run standalone. Also the Ipython notebook is ready!
 
 The test data and stanford pretrained models used as default are available in the project.
 
