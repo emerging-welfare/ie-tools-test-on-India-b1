@@ -4,6 +4,7 @@ from utilFormat import folia2sentences
 from utilFormat import conll2sentences
 from utilEval import runconlleval
 from stanfordner import runstanfordmodel
+from spacyner import runspacymodel
 from utilFormat import conll2stanford
 from utilFormat import conll2raw
 from utilFormat import stanford2raw
@@ -17,12 +18,14 @@ args = sys.argv
             'conll-testa.txt',
             'conll-testa-out.txt']"""
 
-ner_tool = 'stanford' # stanford, spacy
+ner_tool = 'spacy' # stanford, spacy
 annotation_format = 'folia'  # conll, folia
 testfile = './foliadocs/alladjudicated'
 outfile = 'folia-out.txt'
-tagger = 'stanford-ner.jar'
-model = 'stanford-en-4class.ser.gz'
+model = 'xx_ent_wiki_sm'
+tagger = '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0/ner'
+# tagger = 'stanford-ner.jar'
+# model = 'stanford-en-4class.ser.gz'
 # testfile = 'conll-testa.txt'
 # outfile = 'conll-testa-out.txt'
 
@@ -63,7 +66,12 @@ else:
                 tagger = tagger_model[0]
                 model = tagger_model[1]
             elif ner_tool == 'spacy':
-                print("TODO: Implementation for tools other than StanfordNER. \n")
+                print("Now please specify the model and ner paths to be used, respectively: "
+                      "(separate by whitespace): \n")
+                tagger_model = input()
+                tagger_model = tagger_model.split()
+                tagger = tagger_model[0]
+                model = tagger_model[1]
 
 _sentences = []
 actual_tags = []
@@ -73,28 +81,30 @@ if annotation_format == 'conll':
     if ner_tool == 'stanford':
         actual_tags = conll2stanford(actual_tags)
     elif ner_tool == 'spacy':
-        print('Note: Incomplete implementation. \n')
         actual_tags = conll2raw(actual_tags)
 elif annotation_format == 'folia':
     if ner_tool == 'stanford':
         [_sentences, tokens, actual_tags] = folia2sentences(testfile, 'stanford')
     elif ner_tool == 'spacy':
-        # [_sentences, tokens, actual_tags] = readFoliaIntoSentences(testfile, 'conll')
-        print('TODO: Read folia into sentences with the tags of conll format. \n')
+        [_sentences, tokens, actual_tags] = folia2sentences(testfile, 'raw')
 
 
 if ner_tool == 'stanford':
     result = runstanfordmodel(_sentences, tagger, model)
     token_predTag = [item for sublist in result for item in sublist]
-    actual_tags_edited = stanford2raw(actual_tags)
+    actual_tags = stanford2raw(actual_tags)
     pred_tags = [tp[1] for tp in token_predTag]
     pred_tags_edited = stanford2raw(pred_tags)
 
 elif ner_tool == 'spacy':
-    print('TODO: Call spacy model. \n')
+    result = runspacymodel(_sentences, tagger, model)
+    pred_tags = [t[1] for t in result]
+    pred_tags_edited = ['O' if x == '' else x for x in pred_tags]
+    if annotation_format == 'conll':
+        actual_tags = conll2raw(actual_tags)
 
 # Run conlleval script
-conlleval_inputfile_name = createconllevalinputfile(_sentences, actual_tags_edited, pred_tags_edited)
+conlleval_inputfile_name = createconllevalinputfile(_sentences, actual_tags, pred_tags_edited)
 runconlleval(conlleval_inputfile_name, outfile)
 print('Operation ended.\n')
 
