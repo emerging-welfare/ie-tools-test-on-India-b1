@@ -223,6 +223,7 @@ Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this w
  OR 
  
  - Run spacy under NERTools with the command:
+ 
  `python tagger spacy conll conll-testa.txt conll-testa-out.txt`
 
 Then the program will want you to specify model and tagger paths.
