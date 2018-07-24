@@ -228,7 +228,8 @@ IMPORTANT NOTE: NeuroNER source code is modified (one line) to be able to predic
 
 ## Notes
 
-spacy.py under NERTools code is yet incomplete. (planned as Tool 2). But the running Ipython notebook is ready!
+spacyner.py is not incorporated into the NERTools yet (planned as Tool 2). For now it can be run standalone. Also the Ipython notebook is ready!
+
 The test data and stanford pretrained models used as default are available in the project.
 
 ## References
