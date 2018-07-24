@@ -8,3 +8,5 @@ folia_as_conll_test.txt
 folia_as_conll_test1.txt
 folia_as_sentences.txt
 folia-out.txt
+spacy_eval.txt
+
