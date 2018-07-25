@@ -272,12 +272,11 @@ if len(args) <= 1:
           " For help, type 'python neuroNERoutfileHelper.py -h\n")
     sys.exit()
 elif args[1] == '-h':
-    print('example usage: \n python neuroNERoutfileHelper.py -r '
-          'original-outfile edited-outfile \n '
+    print('example usage: \n python utilFormat.py \n '
           'conll2raw: convert conll tags to raw tags | \n'
-          'folia2conll: convert folia to conll format'
+          'folia2conll: convert folia to conll format \n'
           'infile: the file having token - actual tag - predicted tag \n'
-          'outfile: infile\'s version with raw tags')
+          'outfile: infile\'s version with raw tags \n')
 elif args[1] == 'conll2raw':
     infile = args[2]
     outfile = args[3]

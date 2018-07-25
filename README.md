@@ -143,6 +143,7 @@ foliafile: path to a folder containing files OR a single file.
 outfile: path to create a single file containing conll formatted version of folia content.
 
 Preferably, set outfile path under the 'folia' folder you have just created. NeuroNER needs to have the outfile under that path.
+outfile name needs to be ''
 
 #### Configure './src/parameters.ini':
 
