@@ -130,6 +130,9 @@ def folia2sentences(path, tagFormat):
                     if w_text == '<P>':
                         idx = idx - 1
                         continue
+                    if w_text == 'krishnappa':
+                        idx = idx - 1
+                        continue
                     ids.append(w_id)
                     id2idx[w_id] = idx
                     idx2id[idx] = w_id

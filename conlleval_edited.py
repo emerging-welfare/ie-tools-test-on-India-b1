@@ -200,15 +200,15 @@ def countChunks(fileIterator, args):
         if inCorrect:
             endOfGuessed = endOfChunk(lastCorrect, correct, lastCorrectType, correctType)
             endOfCorrect = endOfChunk(lastGuessed, guessed, lastGuessedType, guessedType)
-            if (endOfGuessed and endOfCorrect and lastGuessedType == lastCorrectType):
+            if (endOfGuessed and endOfCorrect and lastGuessed != lastCorrect or lastGuessedType == lastCorrectType):
                 inCorrect = False
                 correctChunk[lastCorrectType] += 1
-            elif ( endOfGuessed != endOfCorrect or guessedType != correctType):
+            elif ( endOfGuessed != endOfCorrect or guessed != correct or guessedType != correctType):
                 inCorrect = False
 
         startOfGuessed = startOfChunk(lastGuessed, guessed, lastGuessedType, guessedType)
         startOfCorrect = startOfChunk(lastCorrect, correct, lastCorrectType, correctType)
-        if (startOfCorrect and startOfGuessed and guessedType == correctType):
+        if (startOfCorrect and startOfGuessed and guessed == correct and guessedType == correctType):
             inCorrect = True
         if startOfCorrect:
             foundCorrect[correctType] += 1
@@ -275,11 +275,11 @@ def evaluate(correctChunk, foundGuessed, foundCorrect, latex=False):
 if __name__ == "__main__":
     args = parse_args()
     # process input and count chunks
-    correctChunk, foundGuessed, foundCorrect, correctTags, tokenCounter = countChunks(sys.stdin, args)
+    # correctChunk, foundGuessed, foundCorrect, correctTags, tokenCounter = countChunks(sys.stdin, args)
 
-    #file_object = open('neuroner_folia_out.txt')
-    #lines = file_object.readlines()
-    #correctChunk, foundGuessed, foundCorrect, correctTags, tokenCounter = countChunks(lines, args)
+    file_object = open('neuroner_folia_out.txt')
+    lines = file_object.readlines()
+    correctChunk, foundGuessed, foundCorrect, correctTags, tokenCounter = countChunks(lines, args)
 
     # compute metrics and print
     evaluate(correctChunk, foundGuessed, foundCorrect, latex=args.latex)

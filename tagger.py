@@ -18,16 +18,15 @@ args = sys.argv
             'conll-testa.txt',
             'conll-testa-out.txt']"""
 
-ner_tool = 'spacy' # stanford, spacy
+ner_tool = 'stanford' # stanford, spacy
 annotation_format = 'folia'  # conll, folia
 testfile = './foliadocs/alladjudicated'
-outfile = 'folia-out.txt'
+# testfile = 'foliaasconllcap.txt'
+outfile = 'spacy_folia_out_eval.txt'
 model = 'xx_ent_wiki_sm'
 tagger = '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0/ner'
 # tagger = 'stanford-ner.jar'
 # model = 'stanford-en-4class.ser.gz'
-# testfile = 'conll-testa.txt'
-# outfile = 'conll-testa-out.txt'
 
 if len(args) <= 1:
     print("running on default mode \n")
