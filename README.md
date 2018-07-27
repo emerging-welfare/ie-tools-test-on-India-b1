@@ -235,7 +235,115 @@ As an example:
 
 _Note that to use these paths you will need to install and do necessary modifications on spacy model folder first. Please refer to the **Installation** section._
  
+## PETRARCH2
+
+PETRARCH can also be used as an instrument of a pipeline called phoenix pipeline. this pipeline is beneficial for near-real time services such as web sites with users querying etc. But this is not very relevant to our focus. Also pipeline requires modules such as Mongodb or hypnos. Therefore I preferred to use PETRARCH2 outside the pipeline.
+
+### Requirements:
+
+- Stanford CoreNLP (my version 3.9.1, publish date: 2018-02-2017)
+- Python 2.x (PETRARCH2 is not compatible with python 3.x unfortunately) (my version 2.7)
+
+### Installation:
+
+#### Stanford CoreNLP:
+- StanfordCoreNLP requires minimum of Java 8, but also works with Java 9 and 10. (for details for Java 9 and 10 please visit
+[Stanford CoreNLP's website](https://stanfordnlp.github.io/CoreNLP/).
+- Download from [Stanford CoreNLP's website](https://stanfordnlp.github.io/CoreNLP/) manually and unzip.
+
+#### PETRARCH2:
+- Download petrarch2 from [its github page](https://github.com/openeventdata/petrarch2) and unzip.
+
+### Test PETRARCH2:
+- Open petrarch2-master/petrarch2 in terminal and run command:
+
+`/usr/bin/python2.7 petrarch2.py batch -i data/text/GigaWord.sample.PETR.xml -o test.txt`
+
+This throws the error on my run: 
+
+`UnicodeDecodeError: 'ascii' codec can't decode byte 0xc4 in position 12: ordinal not in range(128)`
+
+To solve add the lines below in utilities.py:
+
+`import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')`
+
+### Test Stanford CoreNLP:
+
+- On directory stanford-corenlp-full-2018-02-27 run:
+
+`java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma -file input.txt`
+
+You can see the output file: input.txt.out and input.txt.xml
+
+### Stanford CoreNLP and PETRARCH2 together:
+
+PETRARCH2 requires an xml file containing text and its parse. We'll need to first parse the text and merge text-parse pairs in a decent format. The format is:
+
+    ```
+    <Sentences>
  
+    <Sentence date = "20150805" id ="NULL-1107c5f6-7a30-4aa8-8845-7db535b7504d_1" source = "en1_6-10_story+10+ISO:CHN" sentence = "True">
+    <Text>
+    Javanese Grand Waffalo Shinzo Abesson has asked the colonial vizarate to look into the alleged spying activities on the
+    Javanese tribes and companies raised by the Wikileaks website in telephone talks with colonial vizar Joel Bowden
+    Wednesday, local media reported .
+    </Text>
+    <Parse>
+    (ROOT (S (NP (JJ Javanese) (NNP Grand) (NNP Waffalo) (NNP Shinzo) (NNP Abesson)) 
+    (VP (VBZ has) 
+    (VP (VBN asked) 
+    (NP (NP (DT the) (NNP colonial) (NN vizarate)) (S 
+    (VP (TO to) 
+    (VP (VB look) 
+    (PP (IN into) 
+    (NP (NP (NP (DT the) (JJ alleged) (VBG spying) (NNS activities)) 
+    (PP (IN on) 
+    (NP (NP (DT the) (JJ Javanese) (NN tribes) (CC and) (NNS companies)) 
+    (VP (VBN raised) 
+    (PP (IN by) (NP (DT the) (NNP Wikileaks) (NN website))) 
+    (PP (IN in) 
+    (NP (NP (NN telephone) (NNS talks)) 
+    (PP (IN with) (NP (NNP colonial) (NNP vizar) (NNP Joel) (NNP Bowden) (NNP Wednesday))))))))) 
+    (, ,) 
+    (NP (JJ local) (NNS media)))))))) 
+    (VP (VBD reported)))) 
+    (. .))) 
+    </Parse>
+ 
+    </Sentence>
+    <Sentence date = "20150903" id ="NULL-1105dabf-7eb5-452b-9d02-9b4d6ecfa718_1" source = "en1_6-10_story+10+ISO:LVA" sentence = "True">
+    <Text>
+    On September 2, 2015, Lorien dopplemats confirmed the European Disunion has extended the sanctions imposed on Mordor
+    and Harad citizens supporting pro-Elf separatists in Eastern Mordor, for a further six months .
+    </Text>
+    <Parse>
+    (ROOT (S 
+    (PP (IN On) (NP (NNP September) (CD 2) 
+    (, ,) 
+    (NP (CD 2015)) 
+    (, ,) 
+    (NP (JJ Lorien) (NNS dopplemats)))) 
+    (VP (VBD confirmed) 
+    (SBAR (S (NP (DT the) (NNP European) (NNP Disunion)) 
+    (VP (VBZ has) 
+    (VP (VBN extended) (S (NP (DT the) (NNS sanctions)) 
+    (VP (VBN imposed) 
+    (PP (IN on) 
+    (NP (NP (ADJP (JJ Mordor) (CC and) (JJ Harad)) (NNS citizens)) 
+    (VP (VBG supporting) 
+    (NP (NP (JJ pro-Elf) (NNS separatists)) 
+    (PP (IN in) (NP (NNP Eastern) (NNP Mordor))))))))) 
+    (, ,) 
+    (PP (IN for) (NP (DT a) (JJ further) (CD six) (NNS months)))))))) 
+    (. .))) 
+    </Parse>
+    </Sentence>
+ 
+    </Sentences>
+    ```
+
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
@@ -245,6 +353,8 @@ IMPORTANT NOTE: NeuroNER source code is modified (one line) to be able to predic
 ## Notes
 
 The test data and stanford pretrained models used as default are available in the project.
+
+PETRARCH2 notes are incomplete.
 
 ## References
 
