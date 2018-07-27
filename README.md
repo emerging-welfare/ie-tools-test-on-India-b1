@@ -269,6 +269,8 @@ To solve add the lines below in utilities.py:
 reload(sys)
 sys.setdefaultencoding('utf-8')`
 
+events will be listed in evts.test.txt.
+
 ### Test Stanford CoreNLP:
 
 - On directory stanford-corenlp-full-2018-02-27 run:
