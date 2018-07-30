@@ -13,4 +13,6 @@ spacy_folia_out_eval.txt
 stanford_folia_out_eval.txt
 conlleval_edited.py
 conlleval_input
+stanfordparser.py
+
 

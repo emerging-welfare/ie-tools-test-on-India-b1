@@ -12,3 +12,4 @@ print(sentences)
 for line in sentences:
     for sentence in line:
         sentence.draw()
+
