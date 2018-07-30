@@ -66,6 +66,33 @@ def foliaclass2stanfordtag(e):
         return org
     return 'O'
 
+def folia_sentences2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentence_tokenized = sentence.select(folia.Word)
+                words_folia = list(sentence_tokenized)
+                word_classes = [w.cls for w in words_folia]
+                if 'URL' in word_classes:
+                    continue
+                for i,word in enumerate(words_folia):
+                    w_id = word.id
+                    w_text = word.text()
+                    if w_id in ids:
+                        continue
+                    if w_text == '<P>':
+                        continue
+                    ids.append(w_id)
+                    if i + 1 == len(words_folia):
+                        outfile.write(w_text + '\n')
+                    else:
+                        outfile.write(w_text + ' ')
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
 
 def folia2sentences(path):
     sentences_as_tokens = []
@@ -258,15 +285,20 @@ def folia2conll(flpath, opath):
 
 args = sys.argv
 
-#infile = '../foliadocs/alladjudicated'
-#outfile = './foliadocs/alladjudicated/' \
+# infile = '../foliadocs/alladjudicated'
+# outfile = './foliadocs/alladjudicated/' \
 #              'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
 
-infile = "/home/berfu/Masaüstü/000_test.txt"
-outfile = "/home/berfu/Masaüstü/000_test_edited.txt"
+# infile = "/home/berfu/Masaüstü/000_test.txt"
+# outfile = "/home/berfu/Masaüstü/000_test_edited.txt"
+
+infile = '../foliadocs/alladjudicated'
+outfile = "../foliadocs/foliasentences.txt"
 
 # args = ['utilFormat.py', 'folia2conll', infile, outfile]
 # args = ['utilFormat.py', 'conll2raw', infile, outfile]
+args = ['utilFormat.py', 'folia_sentences2file', infile, outfile]
+
 if len(args) <= 1:
     print("Please specify the operation then the input and output files."
           " For help, type 'python neuroNERoutfileHelper.py -h\n")
@@ -285,6 +317,10 @@ elif args[1] == 'folia2conll':
     infile = args[2]
     outfile = args[3]
     folia2conll(infile, outfile)
+elif args[1] == 'folia_sentences2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_sentences2file(infile, outfile)
 else:
     print('TODO: change code of other helper functions to allow calling from command prompt.\n')
     sys.exit()

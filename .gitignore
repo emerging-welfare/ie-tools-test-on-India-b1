@@ -9,4 +9,8 @@ folia_as_conll_test1.txt
 folia_as_sentences.txt
 folia-out.txt
 spacy_eval.txt
+spacy_folia_out_eval.txt
+stanford_folia_out_eval.txt
+conlleval_edited.py
+conlleval_input
 
