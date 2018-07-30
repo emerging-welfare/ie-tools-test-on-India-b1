@@ -348,17 +348,23 @@ PETRARCH2 requires an xml file containing text and its parse. We'll need to firs
 
 Pipeline steps are below:
 
-- Convert your original input to a single sentence-by-sentence txt file (use standalone_python_scripts/utilFormat.py - folia_sentences2file script)
+- Convert your original input to a single sentence-by-sentence txt file (use standalone_python_scripts/utilFormat.py - folia_sentences2file script) - For now assumes your files are of Folia annotated xml format.
+
+`python utilFormat.py folia_sentences2file <folia-docs-folder-path> foliasentences.txt`
 
 - Parse sentences: Feed the output file of the previous step to StanfordCoreNLP, ie. Open terminal at 'stanford-corenlp-full-2018-02-27' and run command:
 
 `java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse -file foliasentences.txt`
 
-- Create input file to Petrarch2: Create an xml file containing sentences and their parses according to the format shown n the figure above. (Use 'xmlParser.py')
+Output file name is  `foliasentences.txt.xml`
+
+- Create input file to Petrarch2: Create an xml file containing sentences and their parses according to the format shown n the figure above. (Use 'xmlParser.py') - For now assumes xml is of StanfordCoreNLP output format.
+
+`/home/berfu/anaconda/bin/python standalone_python_scripts/xmlParser.py foliadocs/foliasentences.txt.xml foliadocs/petrarchreadable.xml`
 
 - Run Petrarch2:
 
-`/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarch_in.xml -o Gigatest.txt`
+`/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o Gigatest.txt`
 
 
 ## Results:
