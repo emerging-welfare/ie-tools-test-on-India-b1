@@ -346,6 +346,21 @@ PETRARCH2 requires an xml file containing text and its parse. We'll need to firs
     </Sentences>
     ```
 
+Pipeline steps are below:
+
+- Convert your original input to a single sentence-by-sentence txt file (use standalone_python_scripts/utilFormat.py - folia_sentences2file script)
+
+- Parse sentences: Feed the output file of the previous step to StanfordCoreNLP, ie. Open terminal at 'stanford-corenlp-full-2018-02-27' and run command:
+
+`java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse -file foliasentences.txt`
+
+- Create input file to Petrarch2: Create an xml file containing sentences and their parses according to the format shown n the figure above. (Use 'xmlParser.py')
+
+- Run Petrarch2:
+
+`/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarch_in.xml -o Gigatest.txt`
+
+
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
