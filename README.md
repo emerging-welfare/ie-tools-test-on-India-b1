@@ -235,7 +235,7 @@ As an example:
 
 _Note that to use these paths you will need to install and do necessary modifications on spacy model folder first. Please refer to the **Installation** section._
  
-## PETRARCH2
+## Tool 4: PETRARCH2
 
 PETRARCH can also be used as an instrument of a pipeline called phoenix pipeline. this pipeline is beneficial for near-real time services such as web sites with users querying etc. But this is not very relevant to our focus. Also pipeline requires modules such as Mongodb or hypnos. Therefore I preferred to use PETRARCH2 outside the pipeline.
 
