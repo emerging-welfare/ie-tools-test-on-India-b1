@@ -66,11 +66,12 @@ def foliaclass2stanfordtag(e):
         return org
     return 'O'
 
-def folia_sentences2file(inpath, outpath):
+def folia_sentencesanddocname2file(inpath, outpath):
     outfile = open(outpath, 'w')
     ids = []
     if os.path.isdir(inpath):
         for filename in os.listdir(inpath):
+            outfile.write('\n\n' + filename + '\n')
             doc = folia.Document(file=inpath + '/' + filename)
             for h, sentence in enumerate(doc.sentences()):
                 sentence_tokenized = sentence.select(folia.Word)
@@ -90,6 +91,103 @@ def folia_sentences2file(inpath, outpath):
                         outfile.write(w_text + '\n')
                     else:
                         outfile.write(w_text + ' ')
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
+def folia_sentenceid2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentence_tokenized = sentence.select(folia.Word)
+                words_folia = list(sentence_tokenized)
+                word_classes = [w.cls for w in words_folia]
+                if 'URL' in word_classes:
+                    continue
+                sentences_num += 1
+                outfile.write(sentence.id + '\n')
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
+def folia_docname2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentence_tokenized = sentence.select(folia.Word)
+                words_folia = list(sentence_tokenized)
+                word_classes = [w.cls for w in words_folia]
+                if 'URL' in word_classes:
+                    continue
+                sentences_num += 1
+                outfile.write(filename + '\n')
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
+def folia_sentenceIdsandeventwords2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentenceIdwritten = False
+                for layer in sentence.select(folia.EntitiesLayer):
+                    for i, entity in enumerate(layer.select(folia.Entity)):
+                        if entity.cls == 'etype':
+                            if not sentenceIdwritten:
+                                outfile.write('\n' + sentence.id + '\n')
+                                sentenceIdwritten == True
+                            for word in entity.wrefs():
+                                word_text = word.text()
+                                outfile.write(entity.id + '\t' + word_text + '\n')
+
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
+def folia_sentences2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentence_tokenized = sentence.select(folia.Word)
+                words_folia = list(sentence_tokenized)
+                word_classes = [w.cls for w in words_folia]
+                if 'URL' in word_classes:
+                    continue
+                sentences_num += 1
+                if sentence.id == 'https__timesofindia.indiatimes.com_city_delhi_Dikshit-turns-to-God-on-CNG_articleshow_1476407249.p.1.s.14':
+                    print('in the sentence before sabharwal.')
+                for i,word in enumerate(words_folia):
+                    w_id = word.id
+                    w_text = word.text()
+                    if w_text == 'sabharwal':
+                        print('Lol')
+                    if w_id in ids:
+                        continue
+                    if w_text == '<P>':
+                        continue
+                    ids.append(w_id)
+                    # word.next() if NoneType then it means <entities> tag is hit. Now it is time for newline.
+                    # word.next() check is necessary for sentences having entities tagged. len(words_folia) check does not do in that case. It
+                    # counts wrefs inside the entities as well as w as words.
+                    if (not word.next()) or i + 1 == len(words_folia):
+                        outfile.write(w_text.lower() + '\n')
+                    else:
+                        outfile.write(w_text.lower() + ' ')
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
@@ -321,6 +419,22 @@ elif args[1] == 'folia_sentences2file':
     infile = args[2]
     outfile = args[3]
     folia_sentences2file(infile, outfile)
+elif args[1] == 'folia_sentencesanddocname2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_sentencesanddocname2file(infile, outfile)
+elif args[1] == 'folia_docname2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_docname2file(infile, outfile)
+elif args[1] == 'folia_sentenceid2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_sentenceid2file(infile, outfile)
+elif args[1] == 'folia_sentenceIdsandeventwords2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_sentenceIdsandeventwords2file(infile, outfile)
 else:
     print('TODO: change code of other helper functions to allow calling from command prompt.\n')
     sys.exit()

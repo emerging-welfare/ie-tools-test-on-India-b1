@@ -9,7 +9,7 @@ def escape_invalid_char(word):
     word = word.replace('\"', "&quot;")
     return word
 
-def xmlparse_stf(infile, outfile):
+def xmlparse_stf(infile, outfile, sentenceidsfile):
     e = xml.etree.ElementTree.parse(infile).getroot()
 
     d = e.find("document")
@@ -39,6 +39,10 @@ def xmlparse_stf(infile, outfile):
     if len(sentences) <= 0:
         sys.exit()
     else:
+        sentenceidsf = open(sentenceidsfile, "r")
+        sentenceids = sentenceidsf.readlines()
+        sentenceids = [x.strip() for x in sentenceids]  # refs
+
         outxml = open(outfile, "w+")
         outxml.write("<Sentences>\n")
 
@@ -51,6 +55,9 @@ def xmlparse_stf(infile, outfile):
             outxml.write("<Parse>\n")
             outxml.write(parses[i] + '\n')
             outxml.write("</Parse>\n")
+            outxml.write("<Ref>\n")
+            outxml.write(sentenceids[i] + '\n')
+            outxml.write("</Ref>\n")
             outxml.write("</Sentence>\n")
 
         outxml.write("</Sentences>\n")
@@ -59,11 +66,12 @@ def xmlparse_stf(infile, outfile):
 
 args = sys.argv
 
-# args = ['xmlParser.py', '../foliadocs/foliasentences.txt.xml', '../foliadocs/petrarchreadable.xml']
+# args = ['xmlParser.py', '../foliadocs/foliasentences.txt.xml', '../foliadocs/petrarchreadable.xml', '../foliadocs/foliasentenceids.txt' ]
 infilepath = args[1]
 outfilepath = args[2]
+foliadocnamespath = args[3]
 
-xmlparse_stf(infilepath,outfilepath)
+xmlparse_stf(infilepath,outfilepath,foliadocnamespath)
 
 print('Operation ended.')
 
