@@ -218,7 +218,7 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfi
             idx2id[idx] = w_id
             id2idx[w_id] = idx
 
-            sentences.append(sentence_tokens)
+        sentences.append(sentence_tokens)
         for layer in sentence.select(folia.EntitiesLayer):
             for entity in layer.select(folia.Entity):
                 for w_nu, word in enumerate(entity.wrefs()):

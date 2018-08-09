@@ -9,6 +9,45 @@ def escape_invalid_char(word):
     word = word.replace('\"', "&quot;")
     return word
 
+# Creates rpi input xml.
+def text2rpiinput(infile, outfolder):
+    f = open(infile, "r")
+    allinput = f.readlines()
+    sentences = []
+    for line in allinput:
+        if len(line.strip()) > 0:
+            if len(sentences) == 0:
+                sentences.append([])
+            sentences[-1].append(line.strip())
+        else:
+            sentences.append([])
+
+    docnames = [e[0] for e in sentences]
+    sentencelist = [e[1:] for e in sentences] # doc2sentences
+
+    lstfile = open(outfolder + 'test.lst',  "w+")
+    for i,docname in enumerate(docnames):
+        lstfile.write(docname + '.sgm' + '\n')
+        outxml = open(outfolder + docname + '.sgm', "w+")
+        outxml.write("<DOC>\n")
+        outxml.write('<DOCID>' + docname + '</DOCID>\n')
+        outxml.write('<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>\n') # dummy
+        outxml.write('<DATETIME> 20030325 </DATETIME>\n') # dummy
+        outxml.write('<BODY>\n')
+        outxml.write('<HEADLINE> dummy headline </HEADLINE>\n')
+        outxml.write("<TEXT>\n")
+        sents = sentencelist[i]
+        for i, sent in enumerate(sents):
+            outxml.write(sent + '\n\n')
+        outxml.write("</TEXT>\n")
+        outxml.write('</BODY>\n')  # dummy
+        outxml.write("</DOC>\n")
+        outxml.close()
+
+    print('Sentences and their parses are written to a file in xml format.\n')
+    lstfile.close()
+
+# Creates PETRARCH2 input xml.
 def xmlparse_stf(infile, outfile, sentenceidsfile):
     e = xml.etree.ElementTree.parse(infile).getroot()
 
@@ -66,12 +105,18 @@ def xmlparse_stf(infile, outfile, sentenceidsfile):
 
 args = sys.argv
 
-# args = ['xmlParser.py', '../foliadocs/foliasentences.txt.xml', '../foliadocs/petrarchreadable.xml', '../foliadocs/foliasentenceids.txt' ]
-infilepath = args[1]
-outfilepath = args[2]
-foliadocnamespath = args[3]
+# args = ['xmlParser.py', 'petrarch2', '../foliadocs/foliasentences.txt.xml', '../foliadocs/petrarchreadable.xml', '../foliadocs/foliasentenceids.txt' ]
+# args = ['xmlParser.py', 'rpi', '../foliadocs/foliadocnamesentenceshavingevents.txt', '../foliadocs/rpi/']
 
-xmlparse_stf(infilepath,outfilepath,foliadocnamespath)
+if args[1] == 'petrarch2':
+    infilepath = args[2]
+    outfilepath = args[3]
+    foliadocnamespath = args[4]
+    xmlparse_stf(infilepath, outfilepath, foliadocnamespath)
+elif args[1] == 'rpi':
+    infilepath = args[2]
+    outfilepath = args[3]
+    text2rpiinput(infilepath,outfilepath)
 
 print('Operation ended.')
 

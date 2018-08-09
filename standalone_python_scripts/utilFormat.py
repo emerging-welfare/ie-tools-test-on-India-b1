@@ -17,7 +17,6 @@ import sys
 # So for better understanding, with this code I omit the initials for both the actual and predicted tags.
 # Conlleval has also an option named -r. It assumes the tags are "raw': initial-free.
 
-
 def conll2raw(outfile, resfile):
     with open(outfile) as f:
         content = f.readlines()
@@ -65,6 +64,8 @@ def foliaclass2stanfordtag(e):
     if cls == 'fname':
         return org
     return 'O'
+
+
 
 def folia_sentencesanddocname2file(inpath, outpath):
     outfile = open(outpath, 'w')
@@ -150,10 +151,131 @@ def folia_sentenceIdsandeventwords2file(inpath, outpath):
                             for word in entity.wrefs():
                                 word_text = word.text()
                                 outfile.write(entity.id + '\t' + word_text + '\n')
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
+# rpi postprocessing before evaluation
+def folia_docnameetypewords2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            docnamewritten = False
+            for h, sentence in enumerate(doc.sentences()):
+                sentencehandled = False
+                for layer in sentence.select(folia.EntitiesLayer):
+                    if sentencehandled: break
+                    for i, entity in enumerate(layer.select(folia.Entity)):
+                        if sentencehandled: break
+                        if entity.cls == 'etype':
+                            if not docnamewritten:
+                                outfile.write('\n' + filename + '\n')
+                                docnamewritten = True
+                            sentence_tokenized = sentence.select(folia.Word)
+                            words_folia = list(sentence_tokenized)
+                            word_classes = [w.cls for w in words_folia]
+                            if 'URL' in word_classes:
+                                continue
+                            sentences_num += 1
+                            sentencehandled = True
+                            for word in entity.wrefs():
+                                word_text = word.text()
+                                outfile.write(word_text + '\n')
 
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
+
+# preprocessing before creating rpi input file.
+def folia_docnamesentenceshavingevents2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            docnamewritten = False
+            for h, sentence in enumerate(doc.sentences()):
+                sentencehandled = False
+                for layer in sentence.select(folia.EntitiesLayer):
+                    if sentencehandled: break
+                    for i, entity in enumerate(layer.select(folia.Entity)):
+                        if sentencehandled: break
+                        if entity.cls == 'etype':
+                            if not docnamewritten:
+                                outfile.write('\n' + filename + '\n')
+                                docnamewritten = True
+                            sentence_tokenized = sentence.select(folia.Word)
+                            words_folia = list(sentence_tokenized)
+                            word_classes = [w.cls for w in words_folia]
+                            if 'URL' in word_classes:
+                                continue
+                            sentences_num += 1
+                            for i, word in enumerate(words_folia):
+                                w_id = word.id
+                                w_text = word.text()
+                                if w_id in ids:
+                                    continue
+                                if w_text == '<P>':
+                                    continue
+                                ids.append(w_id)
+                                # word.next() if NoneType then it means <entities> tag is hit. Now it is time for newline.
+                                # word.next() check is necessary for sentences having entities tagged. len(words_folia) check does not do in that case. It
+                                # counts wrefs inside the entities as well as w as words.
+                                if (not word.next()) or i + 1 == len(words_folia):
+                                    outfile.write(w_text + '\n')
+                                else:
+                                    outfile.write(w_text + ' ')
+                            sentencehandled = True
+
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
+def folia_sentenceshavingevents2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentencehandled = False
+                for layer in sentence.select(folia.EntitiesLayer):
+                    if sentencehandled: break
+                    for i, entity in enumerate(layer.select(folia.Entity)):
+                        if sentencehandled: break
+                        if entity.cls == 'etype':
+                            sentence_tokenized = sentence.select(folia.Word)
+                            words_folia = list(sentence_tokenized)
+                            word_classes = [w.cls for w in words_folia]
+                            if 'URL' in word_classes:
+                                continue
+                            sentences_num += 1
+                            for i, word in enumerate(words_folia):
+                                w_id = word.id
+                                w_text = word.text()
+                                if w_id in ids:
+                                    continue
+                                if w_text == '<P>':
+                                    continue
+                                ids.append(w_id)
+                                # word.next() if NoneType then it means <entities> tag is hit. Now it is time for newline.
+                                # word.next() check is necessary for sentences having entities tagged. len(words_folia) check does not do in that case. It
+                                # counts wrefs inside the entities as well as w as words.
+                                if (not word.next()) or i + 1 == len(words_folia):
+                                    outfile.write(w_text + '\n\n')
+                                else:
+                                    outfile.write(w_text + ' ')
+                            sentencehandled = True
+
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
 
 def folia_sentences2file(inpath, outpath):
     outfile = open(outpath, 'w')
@@ -169,13 +291,9 @@ def folia_sentences2file(inpath, outpath):
                 if 'URL' in word_classes:
                     continue
                 sentences_num += 1
-                if sentence.id == 'https__timesofindia.indiatimes.com_city_delhi_Dikshit-turns-to-God-on-CNG_articleshow_1476407249.p.1.s.14':
-                    print('in the sentence before sabharwal.')
                 for i,word in enumerate(words_folia):
                     w_id = word.id
                     w_text = word.text()
-                    if w_text == 'sabharwal':
-                        print('Lol')
                     if w_id in ids:
                         continue
                     if w_text == '<P>':
@@ -266,7 +384,7 @@ def foliaclass2conlltag(e, w_nu, prev_tagtype=None):
     elif re.match('^.*Organizer.*$', e.set):
         if cls == 'name':
             return tag(org, w_nu, prev_tagtype)
-    if cls == 'loc' or cls == 'place' or cls == 'place_pub':
+    if cls == 'place':
         return tag(loc, w_nu, prev_tagtype)
     if cls == 'pname':
         return tag(per, w_nu, prev_tagtype)
@@ -275,10 +393,21 @@ def foliaclass2conlltag(e, w_nu, prev_tagtype=None):
     return 'O'
 
 
-def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conllfile):
+def hasEvent(sentence):
+    for layer in sentence.select(folia.EntitiesLayer):
+        for i, entity in enumerate(layer.select(folia.Entity)):
+            if entity.cls == 'etype':
+                return True
+
+    return False
+
+def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conllfile, onlysentenceswithevents):
 
     doc = folia.Document(file=fp)
     for h, sentence in enumerate(doc.sentences()):
+        # Check if sentence has event, if not, pass.
+        if onlysentenceswithevents and not hasEvent(sentence):
+            continue
         sentence_tokenized = sentence.select(folia.Word)
         words_folia = list(sentence_tokenized)
         sentence_tokens = []  # sentence as token ids
@@ -298,7 +427,8 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2enti
             idx2id[idx] = w_id
             id2idx[w_id] = idx
 
-            sentences.append(sentence_tokens)
+        sentences.append(sentence_tokens)
+        numsentences += 1
         for layer in sentence.select(folia.EntitiesLayer):
             for entity in layer.select(folia.Entity):
                 for w_nu, word in enumerate(entity.wrefs()):
@@ -356,9 +486,9 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2enti
             conllfile.write(line)
 
         conllfile.write("\n")
+    return numsentences
 
-
-def folia2conll(flpath, opath):
+def folia2conll(flpath, opath, onlysentenceswithevents):
     id2entityLength = {}
     id2entityId = {}
     sentences = []  # A sentence is a list of token ids.
@@ -368,17 +498,33 @@ def folia2conll(flpath, opath):
     idx2id = {}
     id2idx = {}
     conll_file = open(opath, 'w')
-
+    numsentences = 0
     idx = -1
     if os.path.isdir(flpath):
         for filename in os.listdir(flpath):
             fpath = flpath + '/' + filename
-            doc2conll(fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conll_file)
+            numsentences = doc2conll(numsentences, fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conll_file, onlysentenceswithevents)
     else:
-        doc2conll(flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
+        numsentences = doc2conll(numsentences, flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file, onlysentenceswithevents)
 
     print('Folia docs are converted to conll format')
     conll_file.close()
+
+def conll2sentences(inpath, outpath):
+    f = open(inpath, "r")
+    content = f.readlines()
+    content = [x.strip() for x in content]
+    content_list = [x.split() for x in content]
+    o = open(outpath, 'w')
+
+    for line in content_list:
+        if len(line) == 0:
+            o.write("\n\n")
+            continue
+        w = line[0]
+        o.write(w + ' ')
+
+    o.close()
 
 
 args = sys.argv
@@ -390,12 +536,21 @@ args = sys.argv
 # infile = "/home/berfu/Masaüstü/000_test.txt"
 # outfile = "/home/berfu/Masaüstü/000_test_edited.txt"
 
-infile = '../foliadocs/alladjudicated'
-outfile = "../foliadocs/foliasentences.txt"
+# infile = '../foliadocs/alladjudicated'
+# outfile = "../foliadocs/foliaasconll_onlysentenceshavingevents.txt"
+
+# infile = "../foliadocs/foliaasconll_onlysentenceshavingevents_cap.txt"
+# outfile = "../foliadocs/foliasentences_cap.txt"
+
+# infile = "../foliadocs/alladjudicated"
+# outfile = "../foliadocs/foliadocnamesentenceshavingevents.txt"
+
+# infile = "../foliadocs/alladjudicated"
+# outfile = "../foliadocs/folia_docnameetypewords.txt"
 
 # args = ['utilFormat.py', 'folia2conll', infile, outfile]
 # args = ['utilFormat.py', 'conll2raw', infile, outfile]
-args = ['utilFormat.py', 'folia_sentences2file', infile, outfile]
+# args = ['utilFormat.py', 'folia_docnameetypewords2file', infile, outfile]
 
 if len(args) <= 1:
     print("Please specify the operation then the input and output files."
@@ -414,7 +569,10 @@ elif args[1] == 'conll2raw':
 elif args[1] == 'folia2conll':
     infile = args[2]
     outfile = args[3]
-    folia2conll(infile, outfile)
+    onlysentenceswithevents = False
+    if args[4] == 'e':
+        onlysentenceswithevents = True
+    folia2conll(infile, outfile, onlysentenceswithevents)
 elif args[1] == 'folia_sentences2file':
     infile = args[2]
     outfile = args[3]
@@ -435,6 +593,24 @@ elif args[1] == 'folia_sentenceIdsandeventwords2file':
     infile = args[2]
     outfile = args[3]
     folia_sentenceIdsandeventwords2file(infile, outfile)
+elif args[1] == 'folia_sentenceshavingevents2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_sentenceshavingevents2file(infile, outfile)
+elif args[1] == 'conll2sentences':
+    infile = args[2]
+    outfile = args[3]
+    conll2sentences(infile, outfile)
+elif args[1] == 'folia_docnamesentenceshavingevents2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_docnamesentenceshavingevents2file(infile, outfile)
+elif args[1] == 'folia_docnameetypewords2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_docnameetypewords2file(infile, outfile)
 else:
     print('TODO: change code of other helper functions to allow calling from command prompt.\n')
     sys.exit()
+
+# folia_sentenceshavingeventswithdocnames2file
