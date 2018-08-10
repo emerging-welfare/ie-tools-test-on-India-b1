@@ -25,7 +25,7 @@ def text2rpiinput(infile, outfolder):
     docnames = [e[0] for e in sentences]
     sentencelist = [e[1:] for e in sentences] # doc2sentences
 
-    lstfile = open(outfolder + 'test.lst',  "w+")
+    lstfile = open('../' + outfolder + 'test.lst',  "w+")
     for i,docname in enumerate(docnames):
         lstfile.write(docname + '.sgm' + '\n')
         outxml = open(outfolder + docname + '.sgm', "w+")
@@ -38,7 +38,7 @@ def text2rpiinput(infile, outfolder):
         outxml.write("<TEXT>\n")
         sents = sentencelist[i]
         for i, sent in enumerate(sents):
-            outxml.write(sent + '\n\n')
+            outxml.write(sent + '\n')
         outxml.write("</TEXT>\n")
         outxml.write('</BODY>\n')  # dummy
         outxml.write("</DOC>\n")
@@ -103,10 +103,10 @@ def xmlparse_stf(infile, outfile, sentenceidsfile):
 
         print('Sentences and their parses are written to a file in xml format.\n')
 
-args = sys.argv
+# args = sys.argv
 
 # args = ['xmlParser.py', 'petrarch2', '../foliadocs/foliasentences.txt.xml', '../foliadocs/petrarchreadable.xml', '../foliadocs/foliasentenceids.txt' ]
-# args = ['xmlParser.py', 'rpi', '../foliadocs/foliadocnamesentenceshavingevents.txt', '../foliadocs/rpi/']
+args = ['xmlParser.py', 'rpi', '../foliadocs/foliadocnamesentenceshavingevents.txt', '../foliadocs/rpi/input/']
 
 if args[1] == 'petrarch2':
     infilepath = args[2]

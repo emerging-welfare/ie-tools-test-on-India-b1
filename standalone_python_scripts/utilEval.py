@@ -61,12 +61,14 @@ def evalrpi(rpirespath, eventsrefpath, outfilepath):
                         fp_event_docnames.append(dname)
                         fp_anchors.append(w)
 
-    accuracy = numtrueanchors/numpredanchors
+    precision = numtrueanchors/numpredanchors
+    # recall: to be able to find recall we need to map anchors to etypes by id. One way to do this is to use charseq start-ends if
+    # it is fairly easier than propogating word ids to rpi output.
     tp_anchors_set = set(tp_anchors)
     fn_anchors_set = set(eventwordsall) - tp_anchors_set
     fp_anchors_set = set(fp_anchors)
     of = open(outfilepath, 'w+')
-    of.write('Accuracy (number of truly predicted anchors/number of predicted anchors) - document-wise checked - : ' + str(accuracy) + '\n\n')
+    of.write('Precision (number of truly predicted anchors/number of predicted anchors) - document-wise checked - : ' + str(precision) + '\n\n')
     #of.write('True positive anchors:\n\n')
     #for t in list(tp_anchors_set):
     #    of.write(t + '\n')
@@ -167,7 +169,7 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     outfile.close()
 
 args = sys.argv
-# args = ['utilEval.py', 'petrarch', '../foliadocs/rpi/output/','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt']
+args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrarchreadable_out_lower.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt']
 # args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpieval.txt']
 resultpath = args[2]  # "../foliadocs/evts.petrarchreadable_out_lower.txt"
 referencepath = args[3]  # "../foliadocs/foliasentenceideventidword.txt"

@@ -65,8 +65,6 @@ def foliaclass2stanfordtag(e):
         return org
     return 'O'
 
-
-
 def folia_sentencesanddocname2file(inpath, outpath):
     outfile = open(outpath, 'w')
     ids = []

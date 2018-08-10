@@ -12,19 +12,24 @@ from utilFormat import createconllevalinputfile
 nltk.download('punkt')
 
 args = sys.argv
-"""args = ['tagger.py', 
+"""args = ['tagger.py',
             'stanford',
             'conll', 
             'conll-testa.txt',
             'conll-testa-out.txt']"""
+args = ['tagger.py',
+            'spacy',
+            'folia',
+            './foliadocs/alladjudicated',
+            'stanford_folia_out_eval.txt']
 
-ner_tool = 'stanford' # stanford, spacy
+ner_tool = 'spacy' # stanford, spacy
 annotation_format = 'folia'  # conll, folia
 testfile = './foliadocs/alladjudicated'
 # testfile = 'foliaasconllcap.txt'
 outfile = 'spacy_folia_out_eval.txt'
 model = 'xx_ent_wiki_sm'
-tagger = '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0/ner'
+tagger = '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0'
 # tagger = 'stanford-ner.jar'
 # model = 'stanford-en-4class.ser.gz'
 
@@ -53,9 +58,9 @@ else:
         if len(args) != 5:
             print("Wrong command line arguments. Please type 'python3 tagger.py -h' for help.\n")
         else:
-            ner_tool = args[2]
-            annotation_format = args[-5]
-            testfile = args[-3]
+            ner_tool = args[1]
+            annotation_format = args[-3]
+            testfile = args[-2]
             outfile = args[-1]
             if ner_tool == "stanford":
                 print("Now please specify the model and tagger paths to be used, respectively: "
