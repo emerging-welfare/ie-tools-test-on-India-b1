@@ -384,7 +384,35 @@ RPI is a tool that jointly extracts entities (not need be 'named'), relations an
 
 - First create input files suitable to the input format rpi accepts which is like: (You can see more on documentation of RPI which is placed under docs/)
 
-`abc`
+```
+<DOC>
+<DOCID> APW_ENG_20030411.0304 </DOCID>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATETIME> 20030411 </DATETIME>
+<BODY>
+<HEADLINE>
+Lawyer reprimanded for Chiluba's failure to appear in court
+</HEADLINE>
+<TEXT>
+LUSAKA, Zambia (AP)
+
+The lawyer of former Zambian president Frederick Chiluba was
+reprimanded by a Lusaka magistrate when his client failed to appear
+in court on theft charges Friday.
+
+Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates court as scheduled
+because he has filed an appeal to have case heard at a higher court.
+
+Chiluba's lawyer, Chifumu Banda, told the court he had advised
+Chiluba not to appear in court Friday, following an agreement with
+the prosecution that the case be postponed for a month while the
+appeal is considered.
+
+</TEXT>
+</BODY>
+</DOC>
+```
 
 To create Times of India documents' equivalences of the RPI input format, follow the steps below:
 
