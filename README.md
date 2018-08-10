@@ -426,11 +426,11 @@ To create Times of India documents' equivalences of the RPI input format, follow
    
    `java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint_model /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/ /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/test.lst /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/output/`
    
-   - Evaluate results:
+   - Create intermediate file before evaluation, to keep document names and words annotated as 'etype':
    
-    - Create intermediate file keeping document names and words annotated as 'etype'.
-    
     `utilFormat.py folia_docnameetypewords2file ../foliadocs/alladjudicated outfile`
+   
+   - Evaluate:
     
     `utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
     
