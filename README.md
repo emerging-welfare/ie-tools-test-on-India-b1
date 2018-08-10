@@ -366,12 +366,82 @@ Output file name is  `foliasentences.txt.xml`
 
 `/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o Gigatest.txt`
 
+## Tool 5: BLENDER - RPI
+
+RPI is a tool that jointly extracts entities (not need be 'named'), relations and events. 
+
+### Installation
+
+- Download and unzip the software from [Blender Lab's website](https://nlp.cs.rpi.edu/software/).
+
+### Test
+
+- Run command on terminal inside rpi's main folder,
+
+`java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint model ./examples/test/ ./examples/test.lst ./examples/testOutput/`
+
+### Run with Times of India documents:
+
+- First create input files suitable to the input format rpi accepts which is like: (You can see more on documentation of RPI which is placed under docs/)
+
+`<DOC>
+<DOCID> APW_ENG_20030411.0304 </DOCID>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATETIME> 20030411 </DATETIME>
+<BODY>
+<HEADLINE>
+Lawyer reprimanded for Chiluba's failure to appear in court
+</HEADLINE>
+<TEXT>
+LUSAKA, Zambia (AP)
+
+The lawyer of former Zambian president Frederick Chiluba was
+reprimanded by a Lusaka magistrate when his client failed to appear
+in court on theft charges Friday.
+
+Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates court as scheduled
+because he has filed an appeal to have case heard at a higher court.
+
+Chiluba's lawyer, Chifumu Banda, told the court he had advised
+Chiluba not to appear in court Friday, following an agreement with
+the prosecution that the case be postponed for a month while the
+appeal is considered.
+
+</TEXT>
+</BODY>
+</DOC>`
+
+To create Times of India documents' equivalences of the RPI input format, follow the steps below:
+
+   - Intermediate file which keeps document names and sentences as raw text. If you want yo run RPI only on the sentences having events, filter out other sentences:
+   
+   `utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated outfile`
+   
+   - Create RPI input files:
+   
+  `xmlParser.py rpi ../foliadocs/foliadocnamesentenceshavingevents.txt ../foliadocs/rpi/input/`
+  
+   - Run on RPI directory:
+   
+   `java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint_model /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/ /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/test.lst /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/output/`
+   
+   - Evaluate results:
+   
+    - Create intermediate file keeping document names and words annotated as 'etype'.
+    
+    `utilFormat.py folia_docnameetypewords2file ../foliadocs/alladjudicated outfile`
+    
+    `utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
+    
 
 ## Results:
 
 Please see [the Google Docs document](https://docs.google.com/document/d/1wKh2Hzld9ull8IR_dRrcGP6N4TBeJKMxeJllDPkvwGY/edit?usp=sharing) for the results.
 
 IMPORTANT NOTE: NeuroNER source code is modified (one line) to be able to predict with Folia documents. Details in the google docs.
+
+NOTE : Due to the variations of file formats required by the tools and our annotation style, for practical reasons, for now, we may do some hacks in order to come up with a rough evaluation, better than none. For details see the technical report (draft) in the Overleaf [link](https://www.overleaf.com/read/gctwrmrswrkf)
 
 ## Notes
 
@@ -391,3 +461,6 @@ PETRARCH2 notes are incomplete.
 
 [5] [NeuroNER Github Repository](https://github.com/Franck-Dernoncourt/NeuroNER)
 
+[6] [PETRARCH2 Github Repository](https://github.com/openeventdata/petrarch2)
+
+[7] [BLENDER - RPI](https://github.com/openeventdata/petrarch2https://nlp.cs.rpi.edu/software/)
