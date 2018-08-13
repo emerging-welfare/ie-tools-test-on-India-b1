@@ -366,9 +366,9 @@ Output file name is  `foliasentences.txt.xml`
 
 `/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o Gigatest.txt`
 
-## Tool 5: BLENDER - RPI
+## Tool 5: RPI Joint Information Extraction System
 
-RPI is a tool that jointly extracts entities (not need be 'named'), relations and events. 
+RPI Joint Information Extraction System is a tool that jointly extracts entities (need not be 'named'), relations and events. 
 
 ### Installation
 
@@ -418,11 +418,11 @@ To create Times of India documents' equivalences of the RPI input format, follow
 
    - Intermediate file which keeps document names and sentences as raw text. If you want yo run RPI only on the sentences having events, filter out other sentences:
    
-   `utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated outfile`
+   `python utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated outfile`
    
    - Create RPI input files:
    
-  `xmlParser.py rpi ../foliadocs/foliadocnamesentenceshavingevents.txt ../foliadocs/rpi/input/`
+  `python xmlParser.py rpi ../foliadocs/foliadocnamesentenceshavingevents.txt ../foliadocs/rpi/input/`
   
    - Run on RPI directory:
    
@@ -430,11 +430,11 @@ To create Times of India documents' equivalences of the RPI input format, follow
    
    - Create intermediate file before evaluation, to keep document names and words annotated as 'etype':
    
-    `utilFormat.py folia_docnameetypewords2file ../foliadocs/alladjudicated outfile`
+    `python utilFormat.py folia_docnameetypewords2file ../foliadocs/alladjudicated outfile`
    
    - Evaluate:
     
-    `utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
+    `python utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
     
 
 ## Results:
