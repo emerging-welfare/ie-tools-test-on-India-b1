@@ -421,23 +421,26 @@ To create Times of India documents' equivalences of the RPI input format, follow
    
    (- If you want yo run RPI only on the sentences having events, filter out other sentences:
    
-   `python utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated outfile`)
+   `/home/berfu/anaconda/bin/python utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated ../foliadocs/foliadocnamesentenceshavingevents.txt`)
    
    - Create RPI input files:
    
-  `python xmlParser.py rpi ../foliadocs/foliadocnamesentenceshavingevents.txt ../foliadocs/rpi/input/`
+   `/home/berfu/anaconda/bin/python xmlParser.py rpi ../foliadocs/foliadocnamesentences.txt ../foliadocs/rpi/input/`
+   
+   (- If you want yo run RPI only on the sentences having events, filter out other sentences:
+   `/home/berfu/anaconda/bin/python xmlParser.py rpi ../foliadocs/foliadocnamesentenceshavingevents.txt ../foliadocs/rpi/input/`)
   
    - Run on RPI directory:
    
-   `java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint_model /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/ /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/test.lst /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/output/`
+   `java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint_model /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/ /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/test.lst /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/output`
    
    - Create intermediate file before evaluation, to keep document names and words annotated as 'etype':
    
-    `python utilFormat.py folia_docnameetypewords2file ../foliadocs/alladjudicated outfile`
+    `/home/berfu/anaconda/bin/python utilFormat.py folia_docnameetypewords2file ../foliadocs/alladjudicated outfile`
    
    - Evaluate:
     
-    `python utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
+    `/home/berfu/anaconda/bin/python utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
     
 
 ## Results:
