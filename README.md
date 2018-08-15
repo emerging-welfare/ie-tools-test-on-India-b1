@@ -416,9 +416,12 @@ appeal is considered.
 
 To create Times of India documents' equivalences of the RPI input format, follow the steps below:
 
-   - Intermediate file which keeps document names and sentences as raw text. If you want yo run RPI only on the sentences having events, filter out other sentences:
+   - Intermediate file which keeps document names and sentences as raw text:
+   `/home/berfu/anaconda/bin/python utilFormat.py folia_sentencesanddocname2file ../foliadocs/alladjudicated ../foliadocs/foliadocnamesandsentences.txt`
    
-   `python utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated outfile`
+   (- If you want yo run RPI only on the sentences having events, filter out other sentences:
+   
+   `python utilFormat.py folia_docnamesentenceshavingevents2file ../foliadocs/alladjudicated outfile`)
    
    - Create RPI input files:
    
