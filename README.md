@@ -440,7 +440,10 @@ To create Times of India documents' equivalences of the RPI input format, follow
    
    - Evaluate:
     
-    `/home/berfu/anaconda/bin/python utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpieval.txt`
+    `/home/berfu/anaconda/bin/python utilEval.py rpi ../foliadocs/rpi/output/ ../foliadocs/folia_docnameetypewords.txt ../foliadocs/rpi/`
+    
+Scores file (rpieval.txt) and a file containing information about false positive events tagged by rpi as 'demonstrate'
+(rpi_fp_demonstrate.csv) are created underneath ./foliadocs/rpi
     
 
 ## Results:
