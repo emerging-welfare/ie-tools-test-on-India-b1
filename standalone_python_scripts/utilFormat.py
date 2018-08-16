@@ -70,7 +70,7 @@ def folia_sentencesanddocname2file(inpath, outpath):
     ids = []
     if os.path.isdir(inpath):
         for filename in os.listdir(inpath):
-            outfile.write('\n\n' + filename + '\n')
+            outfile.write('\n' + filename + '\n')
             doc = folia.Document(file=inpath + '/' + filename)
             for h, sentence in enumerate(doc.sentences()):
                 sentence_tokenized = sentence.select(folia.Word)
@@ -82,14 +82,23 @@ def folia_sentencesanddocname2file(inpath, outpath):
                     w_id = word.id
                     w_text = word.text()
                     if w_id in ids:
-                        continue
+                        # we hit the entities layer of sentence. That means the actual sentence is over.
+                        # put a newline and break the word list for loop.
+                        outfile.write('\n')
+                        break
                     if w_text == '<P>':
                         continue
                     ids.append(w_id)
-                    if i + 1 == len(words_folia):
+                    if i+1 == len(words_folia):
+                        # Here it is for sure the word is not a child of entities layer. Because if so we would have broken the loop
+                        # on line 90 already and gotten over with this sentence.
+                        # So this word is actually the end word of the sentence. AND no entity layer for this sentence.
+                        # So put a newline. It will not hit the line 89 anyways for this sentence.
                         outfile.write(w_text + '\n')
                     else:
+                        # a regular word neither the last word nor an entity word.
                         outfile.write(w_text + ' ')
+
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
@@ -161,13 +170,12 @@ def folia_docnameetypewords2file(inpath, outpath):
     if os.path.isdir(inpath):
         for filename in os.listdir(inpath):
             doc = folia.Document(file=inpath + '/' + filename)
+            if filename == "https__timesofindia.indiatimes.com_city_hyderabad_1st-anniversary-of-anti-power-hike-rally_articleshow_727307023.folia.xml":
+                print("Here")
             docnamewritten = False
             for h, sentence in enumerate(doc.sentences()):
-                sentencehandled = False
                 for layer in sentence.select(folia.EntitiesLayer):
-                    if sentencehandled: break
                     for i, entity in enumerate(layer.select(folia.Entity)):
-                        if sentencehandled: break
                         if entity.cls == 'etype':
                             if not docnamewritten:
                                 outfile.write('\n' + filename + '\n')
@@ -178,7 +186,6 @@ def folia_docnameetypewords2file(inpath, outpath):
                             if 'URL' in word_classes:
                                 continue
                             sentences_num += 1
-                            sentencehandled = True
                             for word in entity.wrefs():
                                 word_text = word.text()
                                 outfile.write(word_text + '\n')
@@ -543,12 +550,12 @@ args = sys.argv
 # infile = "../foliadocs/alladjudicated"
 # outfile = "../foliadocs/foliadocnamesentenceshavingevents.txt"
 
-# infile = "../foliadocs/alladjudicated"
-# outfile = "../foliadocs/folia_docnameetypewords.txt"
+infile = "../foliadocs/alladjudicated"
+outfile = "../foliadocs/foliadocnamesandsentences.txt"
 
 # args = ['utilFormat.py', 'folia2conll', infile, outfile]
 # args = ['utilFormat.py', 'conll2raw', infile, outfile]
-# args = ['utilFormat.py', 'folia_docnameetypewords2file', infile, outfile]
+# args = ['utilFormat.py', 'folia_sentencesanddocname2file', infile, outfile]
 
 if len(args) <= 1:
     print("Please specify the operation then the input and output files."

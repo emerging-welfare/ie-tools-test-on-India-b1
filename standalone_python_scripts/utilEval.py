@@ -3,7 +3,7 @@ import sys
 import os
 import xml.etree.ElementTree
 
-def evalrpi(rpirespath, eventsrefpath, outfilepath):
+def evalrpi(rpirespath, eventsrefpath, outfolderpath):
     eventinfo = open(eventsrefpath, 'r')
     events = eventinfo.readlines()
     eventslist = []
@@ -25,10 +25,15 @@ def evalrpi(rpirespath, eventsrefpath, outfilepath):
     fp_anchors = []
     numtrueanchors = 0
     numpredanchors = 0
-    tp_event_nuggets = []
+    tp_event_sents = []
     tp_event_docnames = []
-    fp_event_nuggets = []
+    tp_subtypes = []
+    tp_tense = []
+    fp_event_sents = []
     fp_event_docnames = []
+    fp_subtypes = []
+    fp_tense = []
+
     if os.path.isdir(rpirespath):
         for filename in os.listdir(rpirespath):
             fpath = rpirespath + filename
@@ -38,49 +43,140 @@ def evalrpi(rpirespath, eventsrefpath, outfilepath):
             events = [r for r in res if r.tag == 'event']
             if len(events) > 0:
                 dpath = doc.attrib['DOCID']
-                match = re.match(r"^.*test/(.*)\.sgm.*$", dpath)
+                match = re.match(r"^.*input/(.*)\.sgm.*$", dpath)
                 dname = match.group(1)
-                idx = docnames.index(dname)
 
                 for ev in events:
+                    subtype = ev.attrib['SUBTYPE']
+                    tense = ev.attrib['TENSE']
                     em = ev.find('event_mention')
+                    ex = em.find('extent')
+                    tx = ex.find('charseq').text
                     a = em.find('anchor')
                     numpredanchors += 1
                     cs = a.find('charseq')
                     w = cs.text
-                    ewords = eventwords[idx]
-                    ex = em.find('extent')
-                    tx = ex.find('charseq').text
-                    if w in ewords:
-                        numtrueanchors += 1
-                        tp_event_nuggets.append(tx)
-                        tp_event_docnames.append(dname)
-                        tp_anchors.append(w)
-                    else:
-                        fp_event_nuggets.append(tx)
+                    if dname not in docnames:
+                        fp_event_sents.append(tx)
                         fp_event_docnames.append(dname)
                         fp_anchors.append(w)
+                        fp_subtypes.append(subtype)
+                        fp_tense.append(tense)
+                    else:
+                        idx = docnames.index(dname)
+                        ewords = eventwords[idx]
+                        if w in ewords:
+                            numtrueanchors += 1
+                            tp_event_sents.append(tx)
+                            tp_event_docnames.append(dname)
+                            tp_anchors.append(w)
+                            tp_subtypes.append(subtype)
+                            tp_tense.append(tense)
+                        else:
+                            fp_event_sents.append(tx)
+                            fp_event_docnames.append(dname)
+                            fp_anchors.append(w)
+                            fp_subtypes.append(subtype)
+                            fp_tense.append(tense)
+
 
     precision = numtrueanchors/numpredanchors
+    recall = numtrueanchors/len(eventwordsall)
+    f1 = 2*precision*recall/(precision + recall)
     # recall: to be able to find recall we need to map anchors to etypes by id. One way to do this is to use charseq start-ends if
     # it is fairly easier than propogating word ids to rpi output.
     tp_anchors_set = set(tp_anchors)
     fn_anchors_set = set(eventwordsall) - tp_anchors_set
     fp_anchors_set = set(fp_anchors)
-    of = open(outfilepath, 'w+')
-    of.write('Precision (number of truly predicted anchors/number of predicted anchors) - document-wise checked - : ' + str(precision) + '\n\n')
+
+    """TP EXAMINATION"""
+    # Demonstration orani
+    # Hangilerine demonstration demis
+    # Hangilerine baska bir sey demis/ne demis
+    tp_demon_idx = [i for i in range(len(tp_anchors)) if tp_subtypes[i] == 'Demonstrate']
+    tp_attack_idx = [i for i in range(len(tp_anchors)) if tp_subtypes[i] == 'Attack']
+    tp_other_idx = [i for i in range(len(tp_anchors)) if i not in tp_demon_idx and i not in tp_attack_idx]
+    """FP EXAMINATION"""
+    # Demonstration dediklerinin orani
+    # Hangilerine demonstration demis
+    fp_demon_idx = [i for i in range(len(fp_anchors)) if fp_subtypes[i] == 'Demonstrate']
+    fp_attack_idx = [i for i in range(len(fp_anchors)) if fp_subtypes[i] == 'Attack']
+    fp_other_idx = [i for i in range(len(fp_anchors)) if i not in fp_demon_idx and i not in fp_attack_idx]
+
+    fp_demon_sents = [fp_event_sents[i] for i in fp_demon_idx]
+    fp_demon_anchors = [fp_anchors[i] for i in fp_demon_idx]
+    fp_demon_tense = [fp_tense[i] for i in fp_demon_idx]
+    fp_demon_docnames = [fp_event_docnames[i] for i in fp_demon_idx]
+    import pandas as pd
+    d = {'anchor': pd.Series(fp_demon_anchors),
+         'tense': pd.Series(fp_demon_tense),
+         'sentence': pd.Series(fp_demon_sents),
+         'doc': pd.Series(fp_demon_docnames)}
+    fp_demon = pd.DataFrame(d, columns=['anchor', 'tense', 'sentence', 'doc'])
+    fp_demon.to_csv(outfolderpath + 'rpi_fp_demonstrate.csv')
+
+    """TP FP INTERSECTION"""
+    tp_event_sents_set = set(tp_event_sents)
+    fp_event_sents_set = set(fp_event_sents)
+    tp_fp_inter = tp_event_sents_set.intersection(fp_event_sents_set)
+    sen2docname = {}
+    sen2tp_anchors = {}
+    sen2fp_anchors = {}
+    sen2tp_tenses = {}
+    sen2tp_subtypes = {}
+    sen2fp_tenses = {}
+    sen2fp_subtypes = {}
+    sen2tp_indices = {}
+    sen2fp_indices = {}
+
+    for sen in tp_fp_inter:
+        tp_indices = [i for i, x in enumerate(tp_event_sents) if x == sen]
+        sen2tp_indices[sen] = tp_indices
+        sen2docname[sen] = tp_event_docnames[tp_indices[0]]
+        fp_indices = [i for i, x in enumerate(fp_event_sents) if x == sen]
+        sen2tp_anchors[sen] = [tp_anchors[i] for i in tp_indices]
+        sen2fp_anchors[sen] = [fp_anchors[i] for i in fp_indices]
+        sen2tp_tenses[sen] = [tp_tense[i] for i in tp_indices]
+        sen2tp_subtypes[sen] = [tp_subtypes[i] for i in tp_indices]
+        sen2fp_tenses[sen] = [fp_tense[i] for i in fp_indices]
+        sen2fp_subtypes[sen] = [fp_subtypes[i] for i in fp_indices]
+
+    of = open(outfolderpath + 'rpieval.txt', 'w+')
+    of.write('Precision (number of truly predicted anchors/number of predicted anchors) - document-wise string check - : ' + str(precision) + '\n\n')
+    of.write('Recall (number of truly predicted anchors/number of actually annotated anchors) - document-wise string check - : ' + str(recall) + '\n')
+    of.write('F1 measure: ' + str(f1) + '\n\n')
+
     #of.write('True positive anchors:\n\n')
     #for t in list(tp_anchors_set):
     #    of.write(t + '\n')
     #of.write('\n\n\n\nFalse positive anchors:\n\n')
     #for m in list(fp_anchors_set):
      #   of.write(m + '\n')
-    of.write('\n\n\n\nTrue positive anchors - rpi nuggets:\n\n')
+
+    of.write('\n\n\n\nTrue positive anchors - rpi sents:\n\n')
     for i,tp in enumerate(tp_anchors):
-        of.write(tp + '\t' + tp_event_nuggets[i] + '\t' + tp_event_docnames[i] + '\n\n')
-    of.write('\n\n\n\nFalse positive anchors - rpi nuggets:\n\n')
+        of.write(tp_subtypes[i] + '\t' +  tp_tense[i] + '\t' + tp + '\t' +  tp_event_sents[i] + '\t' + tp_event_docnames[i] + '\n\n')
+    of.write('\n\n\n\nFalse positive anchors - rpi sents:\n\n')
     for i, fp in enumerate(fp_anchors):
-        of.write(fp + '\t' + fp_event_nuggets[i] + '\t' + fp_event_docnames[i] + '\n\n')
+        of.write(fp_subtypes[i] + '\t' +  fp_tense[i] + '\t' + fp + '\t' + fp_event_sents[i] + '\t' + fp_event_docnames[i] + '\n\n')
+
+    of.write('\n\n\n\nSentences predicted to have both tp and fp events/anchors: \n\n')
+    for s in tp_fp_inter:
+        of.write('\n\n\n' + s + '\n')
+        docnm = sen2docname[sen]
+        of.write(docnm + '\n')
+        tpanchors = sen2tp_anchors[s]
+        tptenses = sen2tp_tenses[s]
+        tpsubtps = sen2tp_subtypes[s]
+        for i,a in enumerate(tpanchors):
+            of.write('tp' + '\t' + a + '\t' + tptenses[i] + '\t' + tpsubtps[i] + '\n')
+        fpanchors = sen2fp_anchors[s]
+        fptenses = sen2fp_tenses[s]
+        fpsubtps = sen2fp_subtypes[s]
+        for i, a in enumerate(fpanchors):
+            of.write('fp' + '\t' + a + '\t' + fptenses[i] + '\t' + fpsubtps[i] + '\n')
+
+
     of.write('\n\n\n\nFalse negative anchors:\n\n')
     for m in list(fn_anchors_set):
         of.write(m + '\n')
@@ -169,8 +265,8 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     outfile.close()
 
 args = sys.argv
-args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrarchreadable_out_lower.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt']
-# args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpieval.txt']
+# args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrarchreadable_out_lower.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt']
+# args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpi/']
 resultpath = args[2]  # "../foliadocs/evts.petrarchreadable_out_lower.txt"
 referencepath = args[3]  # "../foliadocs/foliasentenceideventidword.txt"
 outfilepath = args[4]  # "../foliadocs/petrarcheval.txt"
