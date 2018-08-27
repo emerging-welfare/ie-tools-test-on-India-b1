@@ -36,7 +36,7 @@ If you choose Stanford as NER Tool, the program will want you to specify model a
 
 As an example:
 
-`'./stanford-ner-files/stanford-ner.jar' './stanford-ner-files/ner-model-english-conll-4class.ser.gz'`
+`'stanford-ner.jar' 'ner-model-english-conll-4class.ser.gz'`
 
 ### Parameters
 - ner-tool: name of the nlp tool you want to use (stanford, spacy, etc.)
