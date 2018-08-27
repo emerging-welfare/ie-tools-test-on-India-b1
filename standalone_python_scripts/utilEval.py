@@ -33,7 +33,6 @@ def evalrpi(rpirespath, eventsrefpath, outfolderpath):
     fp_event_docnames = []
     fp_subtypes = []
     fp_tense = []
-
     if os.path.isdir(rpirespath):
         for filename in os.listdir(rpirespath):
             fpath = rpirespath + filename
@@ -56,6 +55,7 @@ def evalrpi(rpirespath, eventsrefpath, outfolderpath):
                     numpredanchors += 1
                     cs = a.find('charseq')
                     w = cs.text
+
                     if dname not in docnames:
                         fp_event_sents.append(tx)
                         fp_event_docnames.append(dname)
@@ -114,6 +114,22 @@ def evalrpi(rpirespath, eventsrefpath, outfolderpath):
          'doc': pd.Series(fp_demon_docnames)}
     fp_demon = pd.DataFrame(d, columns=['anchor', 'tense', 'sentence', 'doc'])
     fp_demon.to_csv(outfolderpath + 'rpi_fp_demonstrate.csv')
+
+    # Strike
+    '''tp_strike_idx = [i for i in range(len(tp_anchors)) if tp_anchors[i] == 'strike']
+    len(tp_strike_idx)
+    Out[3]: 102
+    fp_strike_idx = [i for i in range(len(fp_anchors)) if fp_anchors[i] == 'strike']
+    len(fp_strike_idx)
+    Out[5]: 10
+    tp_strike_subtype = [tp_subtypes[i] for i in tp_strike_idx]
+    fp_strike_subtype = [fp_subtypes[i] for i in fp_strike_idx]
+    tp_num_strike_demon = len([s for s in tp_strike_subtype if s == 'Attack'])
+    tp_num_strike_demon
+    Out[9]: 102
+    fp_num_strike_demon = len([s for s in fp_strike_subtype if s == 'Attack'])
+    fp_num_strike_demon
+    Out[11]: 10'''
 
     """TP FP INTERSECTION"""
     tp_event_sents_set = set(tp_event_sents)
@@ -266,7 +282,7 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
 
 args = sys.argv
 # args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrarchreadable_out_lower.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt']
-# args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpi/']
+args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpi/']
 resultpath = args[2]  # "../foliadocs/evts.petrarchreadable_out_lower.txt"
 referencepath = args[3]  # "../foliadocs/foliasentenceideventidword.txt"
 outfilepath = args[4]  # "../foliadocs/petrarcheval.txt"

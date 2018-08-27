@@ -106,6 +106,11 @@ def xmlparse_stf(infile, outfile, sentenceidsfile):
 args = sys.argv
 
 # args = ['xmlParser.py', 'petrarch2', '../foliadocs/foliasentences.txt.xml', '../foliadocs/petrarchreadable.xml', '../foliadocs/foliasentenceids.txt' ]
+# '../foliadocs/foliasentences.txt.xml': Stanford core nlp's output (we will use pos tags)
+# '../foliadocs/petrarchreadable.xml': output file path to be used by petrarch2 as input later.
+# '../foliadocs/foliasentenceids.txt': sentence ids of all of the folia docs are listed. This info will also be included
+# into the petrarchreadable.xml, for petrarch2 will access it and print out to the output file.
+
 # args = ['xmlParser.py', 'rpi', '../foliadocs/foliadocnamesentenceshavingevents.txt', '../foliadocs/rpi/input1/']
 
 if args[1] == 'petrarch2':
