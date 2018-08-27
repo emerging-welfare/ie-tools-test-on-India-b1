@@ -364,7 +364,7 @@ PETRARCH2 requires an xml file containing text and its parse. We'll need to firs
     </Sentences>
     ```
 
-Pipeline steps are below:
+**Pipeline steps are below:**
 
 - Convert your original input to a single sentence-by-sentence txt file (use standalone_python_scripts/utilFormat.py - folia_sentences2file script) - For now assumes your files are of Folia annotated xml format.
 
@@ -393,7 +393,7 @@ which is to be,
 
 `/home/berfu/anaconda/bin/python standalone_python_scripts/xmlParser.py petrarch2 foliadocs/foliasentences.txt.xml foliadocs/petrarchreadable.xml '../foliadocs/foliasentenceids.txt'`
 
-- Before running Petrarch2, we need to edit some code to make petrarch add sentenceids to output file.
+- **Before running Petrarch2, we need to edit some code to make petrarch add sentenceids to output file.**
 
 You can either replace the originals of the files 'PETRreader.py' and 'PETRwriter.py' with the modified versions of them which nests inside NERTools source directory with the same names,
 
@@ -433,9 +433,21 @@ Or you can apply the changes below:
   
   `event_str += '\t{}'.format(reffilename)`
   
-- Run Petrarch2:
+#### Run Petrarch2:
 
 `/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o outfilename.txt`
+
+#### Evaluate results:
+
+- First create a file that stores sentence ids - event ids and event words, to be used by evaluation funtion.
+
+`/home/berfu/anaconda/bin/python standalone_python_scripts/utilFormat.py folia_sentenceIdsandeventwords2file ../foliadocs/alladjudicated '../foliadocs/foliasentenceideventidword.txt'`
+
+- Then evaluate Petrarch2 results 
+
+(Count an event-word as true positive if the event-word found by Petrarch2 string-matches to any of the words of **any** of the events of that sentence. Count an event as true positive if any words found by Petrarch2 matches to one of the words of that event. Please read the technical report for details.)
+
+`/home/berfu/anaconda/bin/python standalone_python_scripts/utilEval.py petrarch '../foliadocs/evts.petrarchreadable_out.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt'`
 
 ## Tool 5: RPI Joint Information Extraction System
 
