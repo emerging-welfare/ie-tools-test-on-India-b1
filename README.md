@@ -382,7 +382,7 @@ Output file name is  `foliasentences.txt.xml`
 
 - Run Petrarch2:
 
-`/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o Gigatest.txt`
+`/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o outfilename.txt`
 
 ## Tool 5: RPI Joint Information Extraction System
 
