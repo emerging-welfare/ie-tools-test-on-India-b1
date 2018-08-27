@@ -405,6 +405,8 @@ Or you can apply the changes below:
   
   `reffile_name = story.find('Ref').text`
   
+  **Note: the variable name 'reffile_name' is misleading. It in fact refers to 'sentence id', not the 'file name'.**
+  
   The line above will read the xml element that we called earlier as 'Ref' when creating the input to petrarch, which contains sentence id.
   
   modify the line 2163 to:
