@@ -71,21 +71,30 @@ This package uses Spacy as the default tokenizer (a tokenizer is used only if in
 ### Installation
 
 - Follow the instructions on [the original page](https://github.com/Franck-Dernoncourt/NeuroNER#requirements)
+
   - If you already have tensorflow and python3.x, then you do not the script provided. Directly download and unzip NeuroNER:
-  `wget https://github.com/Franck-Dernoncourt/NeuroNER/archive/master.zip
-sudo apt-get install -y unzip # This line is for Ubuntu users only
-unzip master.zip`
+  
+  `wget https://github.com/Franck-Dernoncourt/NeuroNER/archive/master.zip`
+  
+  `sudo apt-get install -y unzip` (This line is for Ubuntu users only.)
+  
+  `unzip master.zip`
+  
 - Download the Glove word embeddings. 
-`# Download some word embeddings
-mkdir NeuroNER-master/data/word_vectors
-cd NeuroNER-master/data/word_vectors
-wget http://neuroner.com/data/word_vectors/glove.6B.100d.zip
-unzip glove.6B.100d.zip`
+
+`mkdir NeuroNER-master/data/word_vectors`
+
+`cd NeuroNER-master/data/word_vectors`
+
+`wget http://neuroner.com/data/word_vectors/glove.6B.100d.zip`
+
+`unzip glove.6B.100d.zip`
 
 ### Usage
 
 - Open terminal from inside ./src
 - Run command:
+
 `python main.py --train_model=False --use_pretrained_model=True --dataset_text_folder=../data/example_unannotated_texts --pretrained_model_folder=../trained_models/conll_2003_en`
 
 ### Possible Problems and Solutions
@@ -97,7 +106,9 @@ Ensure you are using the right pyhton on your system. For example in my case it 
 
 - **ModuleNotFoundError: No module named 'pycorenlp'**:
 It is missing in the requirements in the documentation but NeuroNER requires pycorenlp. To install:
+
 `pip install pycorenlp`
+
 Make sure you install it under the right python dist. For example in my case I needed to install it under Anaconda. So I had to run the pip of Anaconda which resides in /anaconda/bin.
 
   - version: pycorenlp-0.3.0
@@ -112,7 +123,7 @@ But then I got this error:
 
 - **OSError: For prediction mode, either test set and deploy set must exist in the specified dataset folder: ../data/conll_2003/en**
 
-Configure the arguments 'parameters.ini' with the exact values: 
+Configure the arguments 'src/parameters.ini' with the exact values: 
 
 `train_model = False
 use_pretrained_model = True
@@ -141,9 +152,6 @@ where
 
 foliafile: path to a folder containing files OR a single file.
 outfile: path to create a single file containing conll formatted version of folia content.
-
-Preferably, set outfile path under the 'folia' folder you have just created. NeuroNER needs to have the outfile under that path.
-outfile name needs to be ''
 
 #### Configure './src/parameters.ini':
 
@@ -195,18 +203,24 @@ where:
 ## Tool 3: Spacy
 
 ### Requirements:
+
 - Refer to [spacy's own requirements notes](https://github.com/explosion/spaCy/blob/master/requirements.txt). You do not need to worry about them. They are installed alongside.
+
 ### My versions:
 - spacy 2.0.11
 - python 3 .6.3
 
 ### Installation:
+
 - Run:
 `pip install spacy`
+
 If you have multiple pips, please use the one under the python distribution you use. For anaconda pip is under `anaconda/bin`.
+
 Spacy should now be under `anaconda/lib/python3.6/site-packages`.
 
 - Install a pretrained model:
+
 Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this worked:
 
   - Download model tar.gz and unzip.
@@ -247,14 +261,18 @@ PETRARCH can also be used as an instrument of a pipeline called phoenix pipeline
 ### Installation:
 
 #### Stanford CoreNLP:
+
 - StanfordCoreNLP requires minimum of Java 8, but also works with Java 9 and 10. (for details for Java 9 and 10 please visit
 [Stanford CoreNLP's website](https://stanfordnlp.github.io/CoreNLP/).
+
 - Download from [Stanford CoreNLP's website](https://stanfordnlp.github.io/CoreNLP/) manually and unzip.
 
 #### PETRARCH2:
+
 - Download petrarch2 from [its github page](https://github.com/openeventdata/petrarch2) and unzip.
 
 ### Test PETRARCH2:
+
 - Open petrarch2-master/petrarch2 in terminal and run command:
 
 `/usr/bin/python2.7 petrarch2.py batch -i data/text/GigaWord.sample.PETR.xml -o test.txt`
@@ -417,6 +435,7 @@ appeal is considered.
 To create Times of India documents' equivalences of the RPI input format, follow the steps below:
 
    - Intermediate file which keeps document names and sentences as raw text:
+   
    `/home/berfu/anaconda/bin/python utilFormat.py folia_sentencesanddocname2file ../foliadocs/alladjudicated ../foliadocs/foliadocnamesandsentences.txt`
    
    (- If you want yo run RPI only on the sentences having events, filter out other sentences:
@@ -428,6 +447,7 @@ To create Times of India documents' equivalences of the RPI input format, follow
    `/home/berfu/anaconda/bin/python xmlParser.py rpi ../foliadocs/foliadocnamesentences.txt ../foliadocs/rpi/input/`
    
    (- If you want yo run RPI only on the sentences having events, filter out other sentences:
+   
    `/home/berfu/anaconda/bin/python xmlParser.py rpi ../foliadocs/foliadocnamesentenceshavingevents.txt ../foliadocs/rpi/input/`)
   
    - Run on RPI directory:
@@ -456,9 +476,7 @@ NOTE : Due to the variations of file formats required by the tools and our annot
 
 ## Notes
 
-The test data and stanford pretrained models used as default are available in the project.
-
-PETRARCH2 notes are incomplete.
+The Conll data and stanford pretrained models used as default are available in the project.
 
 ## References
 
