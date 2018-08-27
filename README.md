@@ -376,10 +376,61 @@ Pipeline steps are below:
 
 Output file name is  `foliasentences.txt.xml`
 
+- Create a file containing all sentence ids in the Times of India documents.
+
+`/home/berfu/anaconda/bin/python standalone_python_scripts/utilFormat.py folia_sentenceid2file ../foliadocs/alladjudicated ../foliadocs/foliasentenceids.txt`
+
+Output file is  `../foliadocs/foliasentenceids.txt`
+
+(This file contains sentence ids of all of the sentences in Times of India docs. This info will also be included
+into the petrarchreadable.xml, for petrarch2 will access it and print out to the output file at the end.)
+
 - Create input file to Petrarch2: Create an xml file containing sentences and their parses according to the format shown n the figure above. (Use 'xmlParser.py') - For now assumes xml is of StanfordCoreNLP output format.
 
-`/home/berfu/anaconda/bin/python standalone_python_scripts/xmlParser.py foliadocs/foliasentences.txt.xml foliadocs/petrarchreadable.xml`
+`python xmlParser.py petrarch2 <stanfordparser's output> <petrarchoutfile> <sentenceids file>`
 
+which is to be,
+
+`/home/berfu/anaconda/bin/python standalone_python_scripts/xmlParser.py petrarch2 foliadocs/foliasentences.txt.xml foliadocs/petrarchreadable.xml '../foliadocs/foliasentenceids.txt'`
+
+- Before running Petrarch2, we need to edit some code to make petrarch add sentenceids to output file.
+
+You can either replace the originals of the files 'PETRreader.py' and 'PETRwriter.py' with the modified versions of them which nests inside NERTools source directory with the same names,
+
+Or you can apply the changes below:
+
+  - In 'PETRreader.py', 
+  
+  at line 2156, add:
+  
+  `reffile_name = story.find('Ref').text`
+  
+  The line above will read the xml element that we called earlier as 'Ref' when creating the input to petrarch, which contains sentence id.
+  
+  modify the line 2163 to:
+  
+  `sent_dict = {'content': text, 'parsed': parsed_content, 'reffilename': reffile_name}`
+  
+  modify the line 2177 to:
+  
+  `sent_dict[i] = {'content': sent, 'parsed': parsed_content, 'reffilename': reffile_name}`
+  
+  - In 'PETRwriter.py',
+  
+  at the line 66, add:
+  
+  `reffilename = story_dict['sents'][sents[0]]['reffilename']`
+  
+  modify the line 93 to:
+  
+  `print('Event: {}\t{}\t{}\t{}\t{}\t{}\t{}'.format(story_date, source, target, code, ids, StorySource, reffilename))`
+
+  finally,
+  
+  modify the line 135 to:
+  
+  `event_str += '\t{}'.format(reffilename)`
+  
 - Run Petrarch2:
 
 `/usr/bin/python2.7 petrarch2.py batch -i data/text/petrarchreadable.xml -o outfilename.txt`
