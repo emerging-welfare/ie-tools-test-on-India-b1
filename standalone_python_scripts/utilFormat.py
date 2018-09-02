@@ -389,7 +389,7 @@ def foliaclass2conlltag(e, w_nu, prev_tagtype=None):
     elif re.match('^.*Organizer.*$', e.set):
         if cls == 'name':
             return tag(org, w_nu, prev_tagtype)
-    if cls == 'place':
+    if cls == 'place' or cls == 'place_pub' or cls == 'loc':
         return tag(loc, w_nu, prev_tagtype)
     if cls == 'pname':
         return tag(per, w_nu, prev_tagtype)
@@ -406,7 +406,7 @@ def hasEvent(sentence):
 
     return False
 
-def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conllfile, onlysentenceswithevents):
+def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, conllfile, onlysentenceswithevents):
 
     doc = folia.Document(file=fp)
     for h, sentence in enumerate(doc.sentences()):
@@ -439,12 +439,11 @@ def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, i
                 for w_nu, word in enumerate(entity.wrefs()):
                     word_id = word.id
                     word_idx = id2idx[word_id]
-                    word_text = word.text()
                     # Office kelimesi icin overlap durumu var. fname phrase'inin icinde bulunuyor (org). Baska yerde de kendi basina loc olarak isaretlenmis.
-                    if word_text == 'satyagraha':
-                        print('satyagraha')
                     if word_id == 'https__timesofindia.indiatimes.com_city_bengaluru_He-dares-to-bare-all-for-justice_articleshow_582054535.p.1.s.2.w.36':
                         print('office, which is tagged multiple times.')
+                    if word.text() == 'hyderabad':
+                        print('here')
                     if word_idx == 0:
                         conll_tagtype = foliaclass2conlltag(entity, w_nu)
                     else:
@@ -462,29 +461,96 @@ def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, i
                             if len(prev_tagtype_of_current.split('-')) <= 1: # daha onceki de kaydadeger degil ise
                                 id2tag[word_id] = conll_tagtype
                                 id2entityLength[word_id] = len(list(entity.wrefs()))
-                                id2entityId[word_id] = entity.id
                         else:
                             if len(prev_tagtype_of_current.split('-')) > 1: # daha onceki de kaydadeger ise
                                 # If current entity that the word belongs is longer than the previous entity it belongs,
-                                # choose the assign the tag of current entity to the token.
+                                # choose the tag of current entity to the token.
                                 parent_entity_length = id2entityLength[word_id]
                                 current_entity_length = len(list(entity.wrefs()))
                                 if current_entity_length > parent_entity_length:
                                     id2tag[word_id] = conll_tagtype
                                     id2entityLength[word_id] = len(list(entity.wrefs()))
-                                    id2entityId[word_id] = entity.id
-                                parent_entity_set = id2entityId[word_id]
-                                current_entity_set = entity.set
-                                if parent_entity_set == current_entity_set:
-                                    id2tag[word_id] = conll_tagtype
-                                    id2entityLength[word_id] = len(list(entity.wrefs()))
-                                    id2entityId[word_id] = entity.id
                                 # elif current_entity_length > 1 and parent_entity_length > 1:
                                    # print('An unexpected case: a token in more than one entities of length > 2')
                             else:
                                 id2tag[word_id] = conll_tagtype
                                 id2entityLength[word_id] = len(list(entity.wrefs()))
-                                id2entityId[word_id] = entity.id
+        for _id in sentence_tokens:
+            line = id2token[_id] + " " + id2tag[_id] + "\n"
+            conllfile.write(line)
+
+        conllfile.write("\n")
+    return numsentences
+
+def preferableTag(entset, tag): #for example prefer loc to, say, religion, if the entity is tagged multiple times.
+    if re.match('^.*Target.*$', entset):
+        if tag == 'name':
+            return True
+    elif re.match('^.*Organizer.*$', entset):
+        if tag == 'name':
+            return True
+    elif re.match('^.*Participant.*$', entset):
+        if tag == 'pname':
+            return True
+    if tag in ['etype', 'loc', 'fname', 'place', 'place_pub']:
+        return True
+    return False
+
+
+def docEntitiesAndTags(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx,
+                                     id2entityLength, conllfile, onlysentenceswithevents):
+    doc = folia.Document(file=fp)
+    for h, sentence in enumerate(doc.sentences()):
+        # Check if sentence has event, if not, pass.
+        if onlysentenceswithevents and not hasEvent(sentence):
+            continue
+        sentence_tokenized = sentence.select(folia.Word)
+        words_folia = list(sentence_tokenized)
+        sentence_tokens = []  # sentence as token ids
+        for word in words_folia:
+            w_id = word.id
+            w_text = word.text()
+            if w_id in ids:
+                continue
+            idx = idx + 1
+            if w_text == '<P>':
+                idx = idx - 1
+                continue
+            sentence_tokens.append(w_id)
+            id2token[w_id] = w_text
+            id2tag[w_id] = 'O'
+            ids.append(w_id)
+            idx2id[idx] = w_id
+            id2idx[w_id] = idx
+
+        sentences.append(sentence_tokens)
+        numsentences += 1
+        for layer in sentence.select(folia.EntitiesLayer):
+            for entity in layer.select(folia.Entity):
+                for w_nu, word in enumerate(entity.wrefs()):
+                    word_id = word.id
+                    tag = entity.cls
+                    # Asagidaki check'i foliadaki sirali olmayan taglemeler icin yapiyorum. Ornegin ayni id'deki bir entity birden fazla kez taglendiyse
+                    # bunlardan biri eger kaydadeger (loc per org vs) ise, o tagi koru. sonradan kaydadeger olmayan bir tagine denk gelsen bile
+                    # degistirme. (ornegin 'mosque' kelimesi loc ve religion olarak iki kez taglenmis. Loc olarak tagle. Religion'a geldiginde atla.)
+
+                    prev_tagtype_of_current = id2tag[word_id]
+                    if not preferableTag(entity.set, tag):  # Su an buldugum tag kaydadeger bir tag degil ise
+                        if preferableTag(entity.set, prev_tagtype_of_current):  # daha onceki de kaydadeger degil ise
+                            id2tag[word_id] = tag
+                            id2entityLength[word_id] = len(list(entity.wrefs()))
+                    else:
+                        if preferableTag(entity.set, prev_tagtype_of_current):  # daha onceki de kaydadeger ise
+                            # If current entity that the word belongs is longer than the previous entity it belongs,
+                            # choose the tag of current entity to the token.
+                            parent_entity_length = id2entityLength[word_id]
+                            current_entity_length = len(list(entity.wrefs()))
+                            if current_entity_length > parent_entity_length:
+                                id2tag[word_id] = tag
+                                id2entityLength[word_id] = len(list(entity.wrefs()))
+                        else:
+                            id2tag[word_id] = tag
+                            id2entityLength[word_id] = len(list(entity.wrefs()))
 
         for _id in sentence_tokens:
             line = id2token[_id] + " " + id2tag[_id] + "\n"
@@ -493,9 +559,8 @@ def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, i
         conllfile.write("\n")
     return numsentences
 
-def folia2conll(flpath, opath, onlysentenceswithevents):
+def foliaEntitiesAndTags(flpath, opath, onlysentenceswithevents):
     id2entityLength = {}
-    id2entityId = {}
     sentences = []  # A sentence is a list of token ids.
     ids = []
     id2token = {}
@@ -508,7 +573,31 @@ def folia2conll(flpath, opath, onlysentenceswithevents):
     if os.path.isdir(flpath):
         for filename in os.listdir(flpath):
             fpath = flpath + '/' + filename
-            numsentences = doc2conll(numsentences, fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, id2entityId, conll_file, onlysentenceswithevents)
+            numsentences = docEntitiesAndTags(numsentences, fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx,
+                                     id2entityLength, conll_file, onlysentenceswithevents)
+    else:
+        numsentences = docEntitiesAndTags(numsentences, flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx,
+                                 conll_file, onlysentenceswithevents)
+
+    print('Folia docs are converted to conll format')
+    conll_file.close()
+
+
+def folia2conll(flpath, opath, onlysentenceswithevents):
+    id2entityLength = {}
+    sentences = []  # A sentence is a list of token ids.
+    ids = []
+    id2token = {}
+    id2tag = {}
+    idx2id = {}
+    id2idx = {}
+    conll_file = open(opath, 'w')
+    numsentences = 0
+    idx = -1
+    if os.path.isdir(flpath):
+        for filename in os.listdir(flpath):
+            fpath = flpath + '/' + filename
+            numsentences = doc2conll(numsentences, fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, id2entityLength, conll_file, onlysentenceswithevents)
     else:
         numsentences = doc2conll(numsentences, flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file, onlysentenceswithevents)
 
@@ -544,18 +633,23 @@ args = sys.argv
 # infile = '../foliadocs/alladjudicated'
 # outfile = "../foliadocs/foliaasconll_onlysentenceshavingevents.txt"
 
+infile = '../foliadocs/alladjudicated'
+outfile = "../foliadocs/foliaasconll.txt"
+
 # infile = "../foliadocs/foliaasconll_onlysentenceshavingevents_cap.txt"
 # outfile = "../foliadocs/foliasentences_cap.txt"
 
 # infile = "../foliadocs/alladjudicated"
 # outfile = "../foliadocs/foliadocnamesentenceshavingevents.txt"
 
-infile = "../foliadocs/alladjudicated"
-outfile = "../foliadocs/foliadocnamesandsentences.txt"
+#infile = "../foliadocs/alladjudicated"
+#outfile = "../foliadocs/foliaentitiesandtags_onlysentenceswithevents.txt"
+onlysentenceswithevents = False
 
-# args = ['utilFormat.py', 'folia2conll', infile, outfile]
+args = ['utilFormat.py', 'folia2conll', infile, outfile, onlysentenceswithevents]
 # args = ['utilFormat.py', 'conll2raw', infile, outfile]
 # args = ['utilFormat.py', 'folia_sentencesanddocname2file', infile, outfile]
+# args = ['utilFormat.py', 'foliaEntitiesAndTags', infile, outfile, onlysentenceswithevents]
 
 if len(args) <= 1:
     print("Please specify the operation then the input and output files."
@@ -614,6 +708,12 @@ elif args[1] == 'folia_docnameetypewords2file':
     infile = args[2]
     outfile = args[3]
     folia_docnameetypewords2file(infile, outfile)
+elif args[1] == 'foliaEntitiesAndTags':
+    infile = args[2]
+    outfile = args[3]
+    if args[4] == 'e':
+        onlysentenceswithevents = True
+    foliaEntitiesAndTags(infile, outfile, onlysentenceswithevents)
 else:
     print('TODO: change code of other helper functions to allow calling from command prompt.\n')
     sys.exit()
