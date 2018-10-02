@@ -415,6 +415,9 @@ def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, i
             continue
         sentence_tokenized = sentence.select(folia.Word)
         words_folia = list(sentence_tokenized)
+        word_classes = [w.cls for w in words_folia]
+        if 'URL' in word_classes:
+            continue
         sentence_tokens = []  # sentence as token ids
         for word in words_folia:
             w_id = word.id
@@ -440,10 +443,12 @@ def doc2conll(numsentences, fp, sentences, ids, id2token, id2tag, idx, idx2id, i
                     word_id = word.id
                     word_idx = id2idx[word_id]
                     # Office kelimesi icin overlap durumu var. fname phrase'inin icinde bulunuyor (org). Baska yerde de kendi basina loc olarak isaretlenmis.
+                    ''' 
                     if word_id == 'https__timesofindia.indiatimes.com_city_bengaluru_He-dares-to-bare-all-for-justice_articleshow_582054535.p.1.s.2.w.36':
                         print('office, which is tagged multiple times.')
                     if word.text() == 'hyderabad':
                         print('here')
+                    '''
                     if word_idx == 0:
                         conll_tagtype = foliaclass2conlltag(entity, w_nu)
                     else:
@@ -507,6 +512,9 @@ def docEntitiesAndTags(numsentences, fp, sentences, ids, id2token, id2tag, idx, 
         sentence_tokenized = sentence.select(folia.Word)
         words_folia = list(sentence_tokenized)
         sentence_tokens = []  # sentence as token ids
+        word_classes = [w.cls for w in words_folia]
+        if 'URL' in word_classes:
+            continue
         for word in words_folia:
             w_id = word.id
             w_text = word.text()
@@ -601,10 +609,11 @@ def folia2conll(flpath, opath, onlysentenceswithevents):
     else:
         numsentences = doc2conll(numsentences, flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file, onlysentenceswithevents)
 
-    print('Folia docs are converted to conll format')
+    print('Folia docs are converted to conll format \n')
+    print('Num sentences: ' + str(numsentences))
     conll_file.close()
 
-def conll2sentences(inpath, outpath):
+def conll2sentences(inpath, outpath, propercase):
     f = open(inpath, "r")
     content = f.readlines()
     content = [x.strip() for x in content]
@@ -616,10 +625,16 @@ def conll2sentences(inpath, outpath):
             o.write("\n\n")
             continue
         w = line[0]
+        '''( BCD ) like usage becomes problematic when petrarch processes sentence parses. In-word parenthesis is also problematic.'''
+        if '(' in w:
+            w = w.replace('(','[')
+        if ')' in w:
+            w = w.replace(')',']')
+        if propercase and line[1] != 'O':
+            w = w.capitalize()
         o.write(w + ' ')
 
     o.close()
-
 
 args = sys.argv
 
@@ -633,8 +648,14 @@ args = sys.argv
 # infile = '../foliadocs/alladjudicated'
 # outfile = "../foliadocs/foliaasconll_onlysentenceshavingevents.txt"
 
-infile = '../foliadocs/alladjudicated'
-outfile = "../foliadocs/foliaasconll.txt"
+# infile = '../foliadocs/foliaasconll1.txt'
+# outfile = "../foliadocs/foliasentences_cap.txt"
+
+infile = '../foliadocs/foliaasconll1.txt'
+outfile = "../foliadocs/foliasentences1.txt"
+
+# infile = '../foliadocs/alladjudicated'
+# outfile = "../foliadocs/foliasentenceids1.txt"
 
 # infile = "../foliadocs/foliaasconll_onlysentenceshavingevents_cap.txt"
 # outfile = "../foliadocs/foliasentences_cap.txt"
@@ -645,11 +666,14 @@ outfile = "../foliadocs/foliaasconll.txt"
 #infile = "../foliadocs/alladjudicated"
 #outfile = "../foliadocs/foliaentitiesandtags_onlysentenceswithevents.txt"
 onlysentenceswithevents = False
+propercase = False
 
-args = ['utilFormat.py', 'folia2conll', infile, outfile, onlysentenceswithevents]
+# args = ['utilFormat.py', 'conll2sentences', infile, outfile, onlysentenceswithevents]
 # args = ['utilFormat.py', 'conll2raw', infile, outfile]
 # args = ['utilFormat.py', 'folia_sentencesanddocname2file', infile, outfile]
 # args = ['utilFormat.py', 'foliaEntitiesAndTags', infile, outfile, onlysentenceswithevents]
+# args = ['utilFormat.py', 'conll2sentences', infile, outfile]
+args = ['utilFormat.py', 'conll2sentences', infile, outfile]
 
 if len(args) <= 1:
     print("Please specify the operation then the input and output files."
@@ -699,7 +723,7 @@ elif args[1] == 'folia_sentenceshavingevents2file':
 elif args[1] == 'conll2sentences':
     infile = args[2]
     outfile = args[3]
-    conll2sentences(infile, outfile)
+    conll2sentences(infile, outfile, True)
 elif args[1] == 'folia_docnamesentenceshavingevents2file':
     infile = args[2]
     outfile = args[3]

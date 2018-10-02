@@ -98,7 +98,7 @@ if ner_tool == 'stanford':
     token_predTag = [item for sublist in result for item in sublist]
     actual_tags = stanford2raw(actual_tags)
     pred_tags = [tp[1] for tp in token_predTag]
-    pred_tags_edited = stanford2raw(pred_tags)
+    pred_tags_edited = stanford2raw(pred_tags)  # eg. LOCATION to LOC
 
 elif ner_tool == 'spacy':
     result = runspacymodel(_sentences, tagger, model)

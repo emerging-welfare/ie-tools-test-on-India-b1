@@ -241,7 +241,7 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     predwordspersentence = [p.split('TOI',1)[1].strip().split() for p in predfirstlines] # take string after word TOI (arbitrary StorySource text I added to every sentence in the xml because it is required.)
     predsentenceids = [p[1].strip() for p in predevents2]
 
-    true_sentence = 0
+    true_sentenceids = []
     true_eventids = []
     true_word = 0
 
@@ -250,7 +250,7 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     for i, predsentenceid in enumerate(predsentenceids):
         if predsentenceid not in sentenceids:
             continue
-        true_sentence += 1
+        true_sentenceids.append(predsentenceid)
         idx = sentenceids.index(predsentenceid)
         ewords = predwordspersentence[i] # predicted event related words in the sentence (words after 'TOI')
         for eword in ewords:
@@ -275,14 +275,31 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     outfile = open(outfilepath, 'w')
     outfile.write('Recall: ' + str(recall) + '\n')
     outfile.write('Precision: ' + str(precision) + '\n')
-    outfile.write('F1: ' + str(f1) + '\n')
+    outfile.write('F1: ' + str(f1) + '\n\n')
     outfile.write('Event related words truly detected (' + str(len(true_words_found)) + '): ' + str(true_words_found) + '\n')
-    outfile.write('Event related words missed (' + str(len(true_words_missed)) + '): ' + str(true_words_missed) + '\n')
+    outfile.write('Event related words missed (' + str(len(true_words_missed)) + '): ' + str(true_words_missed) + '\n\n')
+
+    totalsennum = len(sentenceids)
+    predsennum = len(predsentenceids)
+    truesennum = len(true_sentenceids)
+    senrecall = round(truesennum/totalsennum,2)
+    senprec = round(truesennum / predsennum, 2)
+    outfile.write('Recall (True sentence): ' + str(truesennum) + " / " + str(totalsennum) + " = " + str(senrecall) + '\n')
+    outfile.write('Precision (True sentence): ' + str(truesennum) + " / " + str(predsennum) + " = " + str(senprec) + '\n\n')
+    totalsennum_un = len(set(sentenceids))
+    truesennum_un = len(set(true_sentenceids))
+    predsennum_un =  len(set(predsentenceids))
+    senrecallun = round(truesennum_un / totalsennum_un, 2)
+    senprecun = round(truesennum_un / predsennum_un, 2)
+    outfile.write('Recall (True sentence - unique): ' + str(truesennum_un) + " / " + str(totalsennum_un) + " = " + str(senrecallun) + '\n')
+    outfile.write('Precision (True sentence - unique): ' + str(truesennum) + " / " + str(predsennum_un) + " = " + str(senprecun) + '\n')
+    outfile.write('F1: ' + str(f1) + '\n\n')
+
     outfile.close()
 
 args = sys.argv
-# args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrarchreadable_out_lower.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt']
-args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpi/']
+args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrout_originalCAMEO.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval_originalCAMEO.txt']
+# args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpi/']
 resultpath = args[2]  # "../foliadocs/evts.petrarchreadable_out_lower.txt"
 referencepath = args[3]  # "../foliadocs/foliasentenceideventidword.txt"
 outfilepath = args[4]  # "../foliadocs/petrarcheval.txt"
