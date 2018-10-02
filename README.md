@@ -393,6 +393,8 @@ equally,
 
 Output file name is  `foliasentences.txt.xml`
 
+**Note:** Petrarch assumes that sentences are parsed beforehand. (see petrarch.py line 463: `run(paths, out, True)`). So this step is obligatory in this setting.
+
 - Create a file containing all sentence ids in the Times of India documents.
 
 `/home/berfu/anaconda/bin/python standalone_python_scripts/utilFormat.py folia_sentenceid2file ../foliadocs/alladjudicated ../foliadocs/foliasentenceids.txt`
