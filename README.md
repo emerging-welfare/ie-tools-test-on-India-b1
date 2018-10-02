@@ -293,7 +293,7 @@ events will be listed in evts.test.txt.
 
 - On directory stanford-corenlp-full-2018-02-27 run:
 
-`java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma -file input.txt`
+`java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse -file input.txt -tokenize.whitespace -ssplit.eolonly`
 
 You can see the output file: input.txt.out and input.txt.xml
 
@@ -366,13 +366,30 @@ PETRARCH2 requires an xml file containing text and its parse. We'll need to firs
 
 **Pipeline steps are below:**
 
-- Convert your original input to a single sentence-by-sentence txt file (use standalone_python_scripts/utilFormat.py - folia_sentences2file script) - For now assumes your files are of Folia annotated xml format.
+- Convert your original input to a single sentence-by-sentence txt file. We convert the names to proper-case to gain maximum performance from the tools. To convert to proper-case, we first convert the files from folia format to conll format. Then we make the necessary conversions through conll-formatted version, while we are creating sentence-by-sentence txt file.
 
-`python utilFormat.py folia_sentences2file <folia-docs-folder-path> foliasentences.txt`
+`python utilFormat.py folia2conll <folia-docs-folder-path> <output-file> <skip-non-event-sentences>`
+
+equally,
+
+`python utilFormat.py folia2conll <folia-docs-folder-path> foliaasconll.txt `
+
+(if you want to skip non-event sentences you need to put "y" as the <skip-non-event-sentences> parameter, otherwise it takes all the sentences.)
+
+Then convert conll-format into sentence-by-sentence format:
+
+Note: conll2sentences function is arranged as to create decent files such that possible problems when petrarch reads the parses are eliminated. (For example a term like '(xyz)' causes problematic parse output. To avoid it, we convert it to [xyz] in conll2sentences function beforehand.) 
+
+`python utilFormat.py conll2sentences <input-as-conll> <output-file> <proper-case>`
+
+equally,
+
+`python utilFormat.py conll2sentences foliaasconll.txt foliasentences.txt y`
+
 
 - Parse sentences: Feed the output file of the previous step to StanfordCoreNLP, ie. Open terminal at 'stanford-corenlp-full-2018-02-27' and run command:
 
-`java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse -file foliasentences.txt`
+`java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse -file foliasentences.txt -tokenize.whitespace -ssplit.eolonly`
 
 Output file name is  `foliasentences.txt.xml`
 
@@ -448,6 +465,12 @@ Or you can apply the changes below:
 (Count an event-word as true positive if the event-word found by Petrarch2 string-matches to any of the words of **any** of the events of that sentence. Count an event as true positive if any words found by Petrarch2 matches to one of the words of that event. Please read the technical report for details.)
 
 `/home/berfu/anaconda/bin/python standalone_python_scripts/utilEval.py petrarch '../foliadocs/evts.petrarchreadable_out.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval.txt'`
+
+#### Filtering our CAMEO from verb classes which are not very relevant to protest events:
+
+I filtered out CAMEO verb dictionary to reduce it to contain only the verb/word cotegories that interest us. Note that in petrarch's config file verb dictionary's name must remain as is. So filtered-CAMEO must have the same file name. So do not forget to keep the copy of the original CAMEO file somewhere!
+
+For comparison of results with original and filtered-out CAMEO, please read the report. 
 
 ## Tool 5: RPI Joint Information Extraction System
 
