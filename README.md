@@ -1,6 +1,6 @@
 **Note:** README is under construction to be updated wrt the current version of this repo. 
 
-# Information Extraction Tools Test
+# Information Extraction Tools Test on India News Data
 This repo consists of scripts to test existing named-entity recognition tools (such as StanfordNER, Spacy, ...) 
 in order to determine baseline models for EMW project in Koc University, Istanbul.
 
@@ -28,7 +28,7 @@ To run on custom mode, you should specify the parameters in the order below:
 
 `python tagger.py <ner-tool> <annotationformat> <test-file> <out-file>`
 
-An example configuration (Paths are valid from within the project main folder "NERTools")
+An example configuration (Paths are valid from within the project main folder "ie-tools-test-on-India-b1")
 
 `python tagger.py stanford conll './conll-dataset/test-a.txt' './stanford-out-files/out-a.txt'`
 
@@ -233,11 +233,11 @@ Normally `python -m spacy download xx_ent_wiki_sm` should work but for me this w
   - Put `xx-ent-wiki-sm-2.0.0/xx-ent-wiki-sm` under `spacy/data`. **Note that you put there only the second level `xx-ent-wiki-sm` folder.**
   
  ### Usage:
- - Please refer to the [ipython notebook](https://github.com/emerging-welfare/NERTools/blob/master/spacyner.ipynb) 
+ - Please refer to the [ipython notebook](https://github.com/emerging-welfare/ie-tools-test-on-India-b1/blob/master/spacyner.ipynb) 
  
  OR 
  
- - Run spacy under NERTools with the command:
+ - Run spacy under ie-tools-test-on-India-b1 with the command:
  
  `python tagger spacy conll conll-testa.txt conll-testa-out.txt`
 
@@ -414,7 +414,7 @@ which is to be,
 
 - **Before running Petrarch2, we need to edit some code to make petrarch add sentenceids to output file.**
 
-You can either replace the originals of the files 'PETRreader.py' and 'PETRwriter.py' with the modified versions of them which nests inside NERTools source directory with the same names,
+You can either replace the originals of the files 'PETRreader.py' and 'PETRwriter.py' with the modified versions of them which nests inside ie-tools-test-on-India-b1 source directory with the same names,
 
 Or you can apply the changes below:
 
@@ -542,7 +542,7 @@ To create Times of India documents' equivalences of the RPI input format, follow
   
    - Run on RPI directory:
    
-   `java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint_model /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/ /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/input/test.lst /home/berfu/PycharmProjects/NERTools/foliadocs/rpi/output`
+   `java -Xmx1G -cp ere.jar edu.rpi.jie.ere.joint.Tagger ./models/joint/joint_model /home/berfu/PycharmProjects/ie-tools-test-on-India-b1/foliadocs/rpi/input/ /home/berfu/PycharmProjects/ie-tools-test-on-India-b1/foliadocs/rpi/input/test.lst /home/berfu/PycharmProjects/ie-tools-test-on-India-b1/foliadocs/rpi/output`
    
    - Create intermediate file before evaluation, to keep document names and words annotated as 'etype':
    
