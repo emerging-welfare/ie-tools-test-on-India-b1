@@ -1,6 +1,6 @@
-**Note:** README is under construction to be updated wrt the current version of NERTools. 
+**Note:** README is under construction to be updated wrt the current version of this repo. 
 
-# NERTools
+# Information Extraction Tools Test
 This repo consists of scripts to test existing named-entity recognition tools (such as StanfordNER, Spacy, ...) 
 in order to determine baseline models for EMW project in Koc University, Istanbul.
 
