@@ -140,7 +140,7 @@ def folia_docname2file(inpath, outpath):
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
 
-def folia_sentenceIdsandeventwords2file(inpath, outpath):
+def folia_sentenceIdsandeventwords2file(inpath,outpath):
     outfile = open(outpath, 'w')
     ids = []
     sentences_num = 0
@@ -158,6 +158,23 @@ def folia_sentenceIdsandeventwords2file(inpath, outpath):
                             for word in entity.wrefs():
                                 word_text = word.text()
                                 outfile.write(entity.id + '\t' + word_text + '\n')
+
+def foliaeventanchors2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ewords = []
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                for layer in sentence.select(folia.EntitiesLayer):
+                    for i, entity in enumerate(layer.select(folia.Entity)):
+                        if entity.cls == 'etype':
+                            for word in entity.wrefs():
+                                word_text = word.text().lower()
+                                ewords.append(word_text)
+        uniqeventwords = list(set(ewords))
+        for w in uniqeventwords:
+            outfile.write(w + '\n')
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
@@ -281,6 +298,49 @@ def folia_sentenceshavingevents2file(inpath, outpath):
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
 
+def folia_eventsentencesandids_2file(inpath, outpath):
+    outfile = open(outpath, 'w')
+    ids = []
+    sentences_num = 0
+    if os.path.isdir(inpath):
+        for filename in os.listdir(inpath):
+            doc = folia.Document(file=inpath + '/' + filename)
+            for h, sentence in enumerate(doc.sentences()):
+                sentencehandled = False
+                for layer in sentence.select(folia.EntitiesLayer):
+                    if sentencehandled: break
+                    for i, entity in enumerate(layer.select(folia.Entity)):
+                        if sentencehandled: break
+                        if entity.cls == 'etype':
+                            sentence_tokenized = sentence.select(folia.Word)
+                            words_folia = list(sentence_tokenized)
+                            word_classes = [w.cls for w in words_folia]
+                            if 'URL' in word_classes:
+                                continue
+                            sentences_num += 1
+                            outfile.write(sentence.id + '\n')
+                            for i, word in enumerate(words_folia):
+                                w_id = word.id
+                                w_text = word.text()
+                                if w_id in ids:
+                                    continue
+                                if w_text == '<P>':
+                                    continue
+                                ids.append(w_id)
+                                # word.next() if NoneType then it means <entities> tag is hit. Now it is time for newline.
+                                # word.next() check is necessary for sentences having entities tagged. len(words_folia) check does not do in that case. It
+                                # counts wrefs inside the entities as well as w as words.
+                                if (not word.next()) or i + 1 == len(words_folia):
+                                    outfile.write(w_text + '\n\n')
+                                else:
+                                    outfile.write(w_text + ' ')
+
+                            sentencehandled = True
+
+    else:
+        print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
+    outfile.close()
+
 
 def folia_sentences2file(inpath, outpath):
     outfile = open(outpath, 'w')
@@ -314,6 +374,52 @@ def folia_sentences2file(inpath, outpath):
     else:
         print("TODO: Handling of a single Folia file instead of a folder of Folia files.")
     outfile.close()
+
+
+# Assumes both files have the same number of non empty lines
+def merge_2files(filepath1,filepath2,outfilepath):
+    file1 = open(filepath1, 'r')
+    file2 = open(filepath2, 'r')
+    outfl = open(outfilepath, 'w')
+
+    file1lines = file1.readlines()
+    file2lines = file2.readlines()
+    file1lines = [l.strip() for l in file1lines if l.strip()]
+    file2lines = [l.strip() for l in file2lines if l.strip()]
+
+    for i in range(len(file1lines)):
+        outfl.write(file2lines[i] + '\n')
+        outfl.write(file1lines[i] + '\n\n')
+    outfl.close()
+
+def filter_folia_sentences_by_id(sentenceidsfile, sentencesfile, outfilepath):
+
+    sentenceinfo = open(sentencesfile, 'r')
+    sentenceidsinfo = open(sentenceidsfile, 'r')
+    sentences_all_with_newlines = sentenceinfo.readlines()
+    sentenceids = sentenceidsinfo.readlines()
+    sentenceids = [si.strip() for si in sentenceids]
+    linksentencepairs = [[]]
+
+    for l in sentences_all_with_newlines:
+        if l.strip() is not '':
+            linksentencepairs[-1].append(l.strip())
+        else:
+            linksentencepairs.append([])
+
+    sentence_ids_all = [ls[0] for ls in linksentencepairs if len(ls) > 0]
+    sentences_all = [' '.join(ls[1:]) for ls in linksentencepairs if len(ls) > 0]
+
+    # sentenceids parameter: ids of fn sentences by petrarch.
+    sentenceids_filtered_idx = [i for i in range(len(sentences_all)) if sentence_ids_all[i] in sentenceids]
+
+    # outfile: id and text of fn sentences by petrarch
+    outfile = open(outfilepath, 'w')
+    for i in sentenceids_filtered_idx:
+        outfile.write(sentence_ids_all[i] + '\n')
+        outfile.write(sentences_all[i] + '\n\n')
+    outfile.close()
+
 
 def folia2sentences(path):
     sentences_as_tokens = []
@@ -636,6 +742,7 @@ def conll2sentences(inpath, outpath, propercase):
 
     o.close()
 
+
 args = sys.argv
 
 # infile = '../foliadocs/alladjudicated'
@@ -651,8 +758,15 @@ args = sys.argv
 # infile = '../foliadocs/foliaasconll1.txt'
 # outfile = "../foliadocs/foliasentences_cap.txt"
 
-infile = '../foliadocs/foliaasconll1.txt'
-outfile = "../foliadocs/foliasentences1.txt"
+# infile = '../foliadocs/alladjudicated'
+# outfile = "../foliadocs/petrarch_sentences_fp.txt"
+# foliasentenceids = '../foliadocs/petrarch_sentenceids_fp.txt'
+# foliasentences = '../foliadocs/folia_sentenceid_sentence.txt'
+
+# infile = '../foliadocs/alladjudicated'
+outfile = "../foliadocs/petrarch_sentences_tp.txt"
+foliasentenceids = '../foliadocs/petrarch_sentenceids_tp.txt'
+foliasentences = '../foliadocs/folia_sentenceid_sentence.txt'
 
 # infile = '../foliadocs/alladjudicated'
 # outfile = "../foliadocs/foliasentenceids1.txt"
@@ -665,15 +779,17 @@ outfile = "../foliadocs/foliasentences1.txt"
 
 #infile = "../foliadocs/alladjudicated"
 #outfile = "../foliadocs/foliaentitiesandtags_onlysentenceswithevents.txt"
-onlysentenceswithevents = False
-propercase = False
 
-# args = ['utilFormat.py', 'conll2sentences', infile, outfile, onlysentenceswithevents]
+# infile1 = '../foliadocs/foliasentenceidsandeventwords.txt'
+# infile2 = '../foliadocs/petrarch_sentences_fn.txt'
+
+# args = ['utilFormat.py', 'conll2sentences', infile, outfile, 'y']
 # args = ['utilFormat.py', 'conll2raw', infile, outfile]
 # args = ['utilFormat.py', 'folia_sentencesanddocname2file', infile, outfile]
-# args = ['utilFormat.py', 'foliaEntitiesAndTags', infile, outfile, onlysentenceswithevents]
+# args = ['utilFormat.py', 'foliaEntitiesAndTags', infile, outfile, 'y']
 # args = ['utilFormat.py', 'conll2sentences', infile, outfile]
-args = ['utilFormat.py', 'conll2sentences', infile, outfile]
+args = ['utilFormat.py', 'filter_folia_sentences_by_id', foliasentenceids, foliasentences, outfile]
+# args = ['utilFormat.py', 'merge_2file_parts', infile1, infile2, outfile]
 
 if len(args) <= 1:
     print("Please specify the operation then the input and output files."
@@ -692,10 +808,10 @@ elif args[1] == 'conll2raw':
 elif args[1] == 'folia2conll':
     infile = args[2]
     outfile = args[3]
-    onlysentenceswithevents = False
-    if args[4] == 'e':
-        onlysentenceswithevents = True
-    folia2conll(infile, outfile, onlysentenceswithevents)
+    if len(args) > 4 and args[4] == 'e':
+        folia2conll(infile, outfile, True)
+    else:
+        folia2conll(infile, outfile, False)
 elif args[1] == 'folia_sentences2file':
     infile = args[2]
     outfile = args[3]
@@ -716,14 +832,25 @@ elif args[1] == 'folia_sentenceIdsandeventwords2file':
     infile = args[2]
     outfile = args[3]
     folia_sentenceIdsandeventwords2file(infile, outfile)
+elif args[1] == 'foliaeventanchors2file':
+    infile = args[2]
+    outfile = args[3]
+    foliaeventanchors2file(infile, outfile)
 elif args[1] == 'folia_sentenceshavingevents2file':
     infile = args[2]
     outfile = args[3]
     folia_sentenceshavingevents2file(infile, outfile)
+elif args[1] == 'folia_eventsentencesandids_2file':
+    infile = args[2]
+    outfile = args[3]
+    folia_eventsentencesandids_2file(infile, outfile)
 elif args[1] == 'conll2sentences':
     infile = args[2]
     outfile = args[3]
-    conll2sentences(infile, outfile, True)
+    if len(args) > 4 and args[4] == "y":
+        conll2sentences(infile, outfile, True)
+    else:
+        conll2sentences(infile, outfile, False)
 elif args[1] == 'folia_docnamesentenceshavingevents2file':
     infile = args[2]
     outfile = args[3]
@@ -735,9 +862,20 @@ elif args[1] == 'folia_docnameetypewords2file':
 elif args[1] == 'foliaEntitiesAndTags':
     infile = args[2]
     outfile = args[3]
-    if args[4] == 'e':
-        onlysentenceswithevents = True
-    foliaEntitiesAndTags(infile, outfile, onlysentenceswithevents)
+    if len(args) > 4 and args[4] == 'y':
+        foliaEntitiesAndTags(infile, outfile, True)
+    else:
+        foliaEntitiesAndTags(infile, outfile, False)
+elif args[1] == 'filter_folia_sentences_by_id':
+    sentenceids = args[2]
+    sentences = args[3]
+    outfile = args[4]
+    filter_folia_sentences_by_id(sentenceids, sentences, outfile)
+elif args[1] == 'merge_2files':
+    file1path = args[2]
+    file2path = args[3]
+    outfile = args[4]
+    merge_2files(file1path, file2path, outfile)
 else:
     print('TODO: change code of other helper functions to allow calling from command prompt.\n')
     sys.exit()

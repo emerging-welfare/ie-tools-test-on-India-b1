@@ -198,7 +198,6 @@ def evalrpi(rpirespath, eventsrefpath, outfolderpath):
         of.write(m + '\n')
     of.close()
 
-
 def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     petrarchres = open(petrarchrespath, 'r')
     eventinfo = open(eventsrefpath, 'r')
@@ -241,18 +240,25 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     predwordspersentence = [p.split('TOI',1)[1].strip().split() for p in predfirstlines] # take string after word TOI (arbitrary StorySource text I added to every sentence in the xml because it is required.)
     predsentenceids = [p[1].strip() for p in predevents2]
 
-    true_sentenceids = []
+    sentenceids_tp= []
     true_eventids = []
     true_word = 0
-
+    sentence_ids_fp = []
     true_word_indices = []
+    petrarch_words = []
+    senids_ewords_fp = {}
     allwidx = -1
     for i, predsentenceid in enumerate(predsentenceids):
+        ewords = predwordspersentence[i]  # predicted event related words in the sentence (words after 'TOI')
+        petrarch_words.extend(ewords)
         if predsentenceid not in sentenceids:
+            sentence_ids_fp.append(predsentenceid)
+            if predsentenceid not in senids_ewords_fp.keys():
+                senids_ewords_fp[predsentenceid] = []
+            senids_ewords_fp[predsentenceid].extend(ewords)
             continue
-        true_sentenceids.append(predsentenceid)
+        sentenceids_tp.append(predsentenceid)
         idx = sentenceids.index(predsentenceid)
-        ewords = predwordspersentence[i] # predicted event related words in the sentence (words after 'TOI')
         for eword in ewords:
             allwidx += 1
             if eword in wordspersentence[idx]:  # check if word exists in any of events of that sentence
@@ -269,9 +275,52 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     precision = round(numtrueeventsfound/len(predsentenceids),2)
     f1 = round(2*recall*precision/(recall+precision),2)
 
-    true_words_found = set([eventwords[i] for i in true_word_indices])
-    true_words_missed = set([eventwords[i] for i in range(0,len(eventwords)) if i not in true_word_indices])
+    true_words_found = set([eventwords[i].lower() for i in true_word_indices])
+    true_words_missed = set([eventwords[i].lower() for i in range(0,len(eventwords)) if i not in true_word_indices])
+    true_words_missed_uniq = set(true_words_missed)
+    true_words_found_uniq = set(true_words_found)
+    true_words_missed_indeed = true_words_missed_uniq - true_words_found_uniq
 
+    petrarch_words_uniq = list(set(petrarch_words)) # all words that petrarch decided that they are event-related (whether true or false).
+
+    sentenceids_fn = set(sentenceids) - set(sentenceids_tp)
+    sentenceids_fp_uniq = list(set(sentence_ids_fp))
+    sentenceids_tp_uniq = list(set(sentenceids_tp))
+
+    '''
+    outfile2 = open('../foliadocs/petrarch_sentenceids_fn.txt', 'w')
+    for s in list(sentenceids_fn):
+        outfile2.write(s + '\n')
+    outfile2.close()
+
+    outfile4 = open('../foliadocs/petrarch_sentenceids_fp.txt', 'w')
+    for s in sentenceids_fp_uniq:
+        outfile4.write(s + '\n')
+    outfile4.close()
+
+    outfile5 = open('../foliadocs/petrarch_sentenceids_tp.txt', 'w')
+    for s in sentenceids_tp_uniq:
+        outfile5.write(s + '\n')
+    outfile5.close()
+
+    outfile3 = open('../foliadocs/petrarch_event_words_missed.txt', 'w')
+    for s in list(true_words_missed_indeed):
+        outfile3.write(s + '\n')
+    outfile3.close()
+
+    outfile6 = open('../foliadocs/petrarch_words.txt', 'w')
+    for s in petrarch_words_uniq:
+        outfile6.write(s + '\n')
+    outfile6.close()
+    '''
+
+    outfile7 = open('../foliadocs/petrarch_sentenceids_ewords_fp.txt', 'w')
+    for s in sentenceids_fp_uniq:
+        outfile7.write(s + '\n')
+        outfile7.write(' '.join(senids_ewords_fp[s]) + '\n\n')
+    outfile7.close()
+
+    '''
     outfile = open(outfilepath, 'w')
     outfile.write('Recall: ' + str(recall) + '\n')
     outfile.write('Precision: ' + str(precision) + '\n')
@@ -279,26 +328,83 @@ def evalpetrarch(petrarchrespath,eventsrefpath,outfilepath):
     outfile.write('Event related words truly detected (' + str(len(true_words_found)) + '): ' + str(true_words_found) + '\n')
     outfile.write('Event related words missed (' + str(len(true_words_missed)) + '): ' + str(true_words_missed) + '\n\n')
 
-    totalsennum = len(sentenceids)
-    predsennum = len(predsentenceids)
-    truesennum = len(true_sentenceids)
-    senrecall = round(truesennum/totalsennum,2)
-    senprec = round(truesennum / predsennum, 2)
-    outfile.write('Recall (True sentence): ' + str(truesennum) + " / " + str(totalsennum) + " = " + str(senrecall) + '\n')
-    outfile.write('Precision (True sentence): ' + str(truesennum) + " / " + str(predsennum) + " = " + str(senprec) + '\n\n')
     totalsennum_un = len(set(sentenceids))
-    truesennum_un = len(set(true_sentenceids))
+    truesennum_un = len(set(sentenceids_tp))
     predsennum_un =  len(set(predsentenceids))
     senrecallun = round(truesennum_un / totalsennum_un, 2)
     senprecun = round(truesennum_un / predsennum_un, 2)
     outfile.write('Recall (True sentence - unique): ' + str(truesennum_un) + " / " + str(totalsennum_un) + " = " + str(senrecallun) + '\n')
-    outfile.write('Precision (True sentence - unique): ' + str(truesennum) + " / " + str(predsennum_un) + " = " + str(senprecun) + '\n')
+    outfile.write('Precision (True sentence - unique): ' + str(truesennum_un) + " / " + str(predsennum_un) + " = " + str(senprecun) + '\n')
     outfile.write('F1: ' + str(f1) + '\n\n')
 
     outfile.close()
+    '''
+
+
+def petrarch_merge_anchor_sentence(foliaanchorsf, petsentencesf, outfile):
+    foliaanchors = open(foliaanchorsf, 'r')
+    petsentences = open(petsentencesf, 'r')
+    outfl = open(outfilepath, 'w')
+
+    foliaanchorslines = foliaanchors.readlines()
+    petsentenceslines = petsentences.readlines()
+
+    # methodology:
+    # folia sentenceid-anchors list
+    # 1. folia sentence ids
+    # 2. folia anchors
+    # 2. petrarch sentences
+    # 3. folia anchors corresponding to petrarch sentence ids
+    # merge 1 2 3 in a file.
+
+    folia_senid_anchors = [[]]
+
+    for l in foliaanchorslines:
+        if l.strip():
+            folia_senid_anchors[-1].append(l.strip())
+        else:
+            folia_senid_anchors.append([])
+
+    foliasenids = [folia_senid_anchors[i][0] for i in range(len(folia_senid_anchors)) if len(folia_senid_anchors[i]) > 0]
+    foliaanchors = [' '.join(folia_senid_anchors[i][1:]) for i in range(len(folia_senid_anchors)) if len(folia_senid_anchors[i]) > 0]
+
+    pet_senid_sents = [[]]
+
+    for l in petsentenceslines:
+        if l.strip():
+            pet_senid_sents[-1].append(l.strip())
+        else:
+            pet_senid_sents.append([])
+
+    petsenids = [pet_senid_sents[i][0] for i in range(len(pet_senid_sents)) if
+                   len(pet_senid_sents[i]) > 0]
+    petsents = [' '.join(pet_senid_sents[i][1:]) for i in range(len(pet_senid_sents)) if
+                    len(pet_senid_sents[i]) > 0]
+
+    # most sentence ids have multiple copies of them in foliasenids.
+    # Therefore we create a dictionary and map anchors to the same sentence id.
+    pet_senid_anch = {}
+    for i,fs in enumerate(foliasenids):
+        if fs in petsenids:
+            if fs not in pet_senid_anch.keys():
+                pet_senid_anch[fs] = []
+            pet_senid_anch[fs].append(foliaanchors[i])
+
+    for i in range(len(petsenids)):
+        sid = petsenids[i]
+        outfl.write(petsenids[i] + '\n')
+        outfl.write(petsents[i] + '\n')
+        outfl.write(' // '.join(pet_senid_anch[sid]) + '\n\n')
+
+    outfl.close()
+
 
 args = sys.argv
-args = ['utilEval.py', 'petrarch', '../foliadocs/evts.petrout_originalCAMEO.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval_originalCAMEO.txt']
+infile1 = '../foliadocs/foliasentenceidsandeventwords.txt'
+infile2 = '../foliadocs/petrarch_sentences_fn.txt'
+outfile = "../foliadocs/petrarch_sentence_anchors_fn.txt"
+# args = ['utilEval.py', 'petrarch_merge_anchor_sentence', infile1, infile2, outfile]
+args = ['utilEval.py', 'petrarch', '../foliadocs/petrarchout_foliauppercase_originalcameo.txt','../foliadocs/foliasentenceideventidword.txt','../foliadocs/petrarcheval_foliauppercase_originalcameo.txt']
 # args = ['utilEval.py', 'rpi', '../foliadocs/rpi/output/','../foliadocs/folia_docnameetypewords.txt','../foliadocs/rpi/']
 resultpath = args[2]  # "../foliadocs/evts.petrarchreadable_out_lower.txt"
 referencepath = args[3]  # "../foliadocs/foliasentenceideventidword.txt"
@@ -310,5 +416,9 @@ elif args[1] == 'rpi':
     evalrpi(resultpath, referencepath, outfilepath)
     # NOTE: rpi output files should have ids created by the function 'text2rpiinput' in xmlParser.py for a regex expression to work in the evalrpi function.
     # So please follow the rpi pipeline on README or be aware of the regex situation.
-
+elif args[1] == 'petrarch_merge_anchor_sentence':
+    foliaanchors = args[2]
+    petsentences = args[3]
+    outfile = args[4]
+    petrarch_merge_anchor_sentence(foliaanchors, petsentences, outfile)
 

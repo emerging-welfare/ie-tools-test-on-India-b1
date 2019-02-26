@@ -285,7 +285,3 @@ if __name__ == "__main__":
     evaluate(correctChunk, foundGuessed, foundCorrect, latex=args.latex)
 
     sys.exit(0)
-
-g
-con
-.py

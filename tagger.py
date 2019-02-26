@@ -9,29 +9,38 @@ from utilFormat import conll2stanford
 from utilFormat import conll2raw
 from utilFormat import stanford2raw
 from utilFormat import createconllevalinputfile
+from utilFormat import createerroranalysisfile
 nltk.download('punkt')
 
 args = sys.argv
-"""args = ['tagger.py',
+'''args = ['tagger.py',
             'stanford',
             'conll', 
             'conll-testa.txt',
-            'conll-testa-out.txt']"""
-args = ['tagger.py',
+            'conll-testa-out.txt']'''
+'''args = ['tagger.py',
             'spacy',
             'folia',
             './foliadocs/alladjudicated',
-            'stanford_folia_out_eval.txt']
+            'stanford_folia_out_eval.txt']'''
 
-ner_tool = 'spacy' # stanford, spacy
-annotation_format = 'folia'  # conll, folia
-testfile = './foliadocs/alladjudicated'
-# testfile = 'foliaasconllcap.txt'
-outfile = 'spacy_folia_out_eval.txt'
-model = 'xx_ent_wiki_sm'
-tagger = '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0'
-# tagger = 'stanford-ner.jar'
+ner_tool = 'stanford' # stanford, spacy
+annotation_format = 'conll'  # conll, folia
+# testfile = './foliadocs/alladjudicated'
+testfile = './india_conll_cap_evt.txt'
+testfile2 = './india_tokenperline_cap_evt.txt'
+# testfile = 'aceconll-traintest.txt'
+conlleval_inputfile_name = 'stf_3class_india_cap_evt_actual_predicted.txt'
+error_analysis_file_name = 'stf_3class_india_cap_evt_folia_conll_predicted.txt'
+outfile = 'stanford_3class_india_evt_eval.txt'
+# outfile = 'spacy_folia_out_eval.txt'
+# model = 'xx_ent_wiki_sm'
+# tagger = '/home/berfu/anaconda/lib/python3.6/site-packages/spacy/data/xx_ent_wiki_sm/xx_ent_wiki_sm-2.0.0'
+tagger = 'stanford-ner.jar'
 # model = 'stanford-en-4class.ser.gz'
+model = 'stanford-en-3class.ser.gz'
+# (stanford-en-4class.ser.gz) uses only CONLL 2003 data as training set.
+# (stanford-en-3class.ser.gz) uses CONLL 2003 MUCs and ACE 2002 data as training set.
 
 if len(args) <= 1:
     print("running on default mode \n")
@@ -80,6 +89,9 @@ else:
 _sentences = []
 actual_tags = []
 
+actual_folia_tags = []
+[_sentences2, tokens2, actual_folia_tags] = conll2sentences(testfile2)
+
 if annotation_format == 'conll':
     [_sentences, tokens, actual_tags] = conll2sentences(testfile)
     if ner_tool == 'stanford':
@@ -108,7 +120,8 @@ elif ner_tool == 'spacy':
         actual_tags = conll2raw(actual_tags)
 
 # Run conlleval script
-conlleval_inputfile_name = createconllevalinputfile(_sentences, actual_tags, pred_tags_edited)
+createerroranalysisfile(_sentences,actual_folia_tags,actual_tags,pred_tags_edited,error_analysis_file_name)
+createconllevalinputfile(_sentences, actual_tags, pred_tags_edited, conlleval_inputfile_name)
 runconlleval(conlleval_inputfile_name, outfile)
 print('Operation ended.\n')
 

@@ -5,7 +5,7 @@ member O O
 over O O
 inside O O
 fighting O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 6 O O
@@ -101,8 +101,8 @@ came O O
 from O O
 kurnool O O
 to O O
-Gandhi ORG PER
-Bhavan ORG PER
+Gandhi ORG LOC
+Bhavan ORG LOC
 on O O
 friday O O
 , O O
@@ -788,7 +788,7 @@ teachers O O
 association O O
 president O O
 nn O O
-desai O PER
+desai O O
 said O O
 the O O
 rally O O
@@ -1638,7 +1638,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Curfew-to-be-lifted-in-Hubli-today/articleshow/1553037015.cms O O
 
-Phoolan O PER
+Phoolan PER PER
 murder O O
 condemned O O
 TNN O ORG
@@ -1653,7 +1653,7 @@ Jul O O
 10.51 O O
 PM O O
 IST O O
-Bellary LOC O
+Bellary LOC LOC
 : O O
 district O O
 samata O O
@@ -1722,8 +1722,8 @@ students O O
 ' O O
 federation O O
 president O O
-k.b. O PER
-prahlad O PER
+k.b. O O
+prahlad O O
 stated O O
 that O O
 the O O
@@ -1821,7 +1821,7 @@ sought O O
 for O O
 hospital O O
 strikes O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 22 O O
@@ -1851,7 +1851,7 @@ tribunal O O
 to O O
 adjudicate O O
 on O O
-Hospital LOC O
+Hospital LOC LOC
 strikes O O
 , O O
 under O O
@@ -2070,7 +2070,7 @@ Aug O O
 10.50 O O
 PM O O
 IST O O
-Hassan LOC O
+Hassan LOC PER
 : O O
 district O O
 in-charge O O
@@ -2205,12 +2205,12 @@ laid O O
 siege O O
 to O O
 the O O
-Office LOC O
-Of LOC O
-The LOC O
-Assistant LOC O
-Executive LOC O
-Engineer LOC O
+Office LOC MISC
+Of LOC MISC
+The LOC MISC
+Assistant LOC MISC
+Executive LOC MISC
+Engineer LOC MISC
 attached O O
 to O O
 the O O
@@ -2396,7 +2396,7 @@ at O O
 village O O
 Segra LOC O
 under O O
-Naggal LOC LOC
+Naggal LOC MISC
 constituency O O
 in O O
 Ambala LOC LOC
@@ -2432,12 +2432,12 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/Protest-against-police-inaction/articleshow/573267564.cms O O
 
-STATESCAN O O
+STATESCAN O ORG
 TNN O ORG
 & O ORG
 Agencies O ORG
-| O O
-Sep O O
+| O ORG
+Sep O ORG
 1 O O
 , O O
 2001 O O
@@ -2457,7 +2457,7 @@ armed O O
 youths O O
 attacked O O
 the O O
-House LOC O
+House LOC ORG
 of O O
 local O O
 bjp O O
@@ -2500,15 +2500,15 @@ atrey O O
 , O O
 attacked O O
 the O O
-House LOC O
-of O O
-Haripal PER PER
-Sharma PER PER
+House LOC ORG
+of O ORG
+Haripal PER ORG
+Sharma PER ORG
 in O O
-Old LOC O
-Housing LOC O
-Board LOC O
-Colony LOC O
+Old LOC LOC
+Housing LOC LOC
+Board LOC LOC
+Colony LOC LOC
 here O O
 , O O
 on O O
@@ -3010,8 +3010,8 @@ five O O
 booked O O
 for O O
 damaging O O
-Mosque LOC O
-Rohtak LOC O
+Mosque LOC LOC
+Rohtak LOC LOC
 : O O
 the O O
 Meham LOC LOC
@@ -3074,7 +3074,7 @@ a O O
 temple O O
 on O O
 The LOC O
-Site LOC O
+Site LOC ORG
 . O O
 
 the O O
@@ -3269,7 +3269,7 @@ the O O
 industrial O O
 area O O
 , O O
-ambala O LOC
+ambala O O
 cantonment O O
 , O O
 on O O
@@ -3393,10 +3393,10 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/STATESCAN/articleshow/708599418.cms O O
 
-Dikshit O PER
+Dikshit PER PER
 turns O O
 to O O
-God O O
+God O PER
 on O O
 CNG O O
 New LOC LOC
@@ -3415,7 +3415,7 @@ Supreme O ORG
 Court O ORG
 on O O
 the O O
-CNG O O
+CNG O ORG
 issue O O
 , O O
 chief O O
@@ -3791,9 +3791,9 @@ transporters O O
 shifted O O
 base O O
 to O O
-Bhagwan ORG LOC
-Dass ORG LOC
-Road ORG LOC
+Bhagwan ORG ORG
+Dass ORG ORG
+Road ORG ORG
 near O O
 The LOC O
 Supreme LOC ORG
@@ -4484,10 +4484,10 @@ rana O O
 allegedly O O
 shot O O
 dead O O
-Phoolan PER LOC
-Devi PER LOC
-In LOC LOC
-Delhi LOC LOC
+Phoolan PER ORG
+Devi PER ORG
+In LOC ORG
+Delhi LOC ORG
 , O O
 someone O O
 claiming O O
@@ -4657,8 +4657,8 @@ accused O O
 a O O
 party O O
 worker O O
-keshav O PER
-chauhan O PER
+keshav O O
+chauhan O O
 and O O
 gun-shop O O
 owner O O
@@ -4696,7 +4696,7 @@ Union O ORG
 protests O O
 against O O
 disinvestment O O
-PTI O O
+PTI O ORG
 | O O
 Feb O O
 14 O O
@@ -4837,7 +4837,7 @@ said O O
 on O O
 wednesday O O
 in O O
-mumbai O LOC
+mumbai O O
 that O O
 the O O
 government O O
@@ -4873,7 +4873,7 @@ taken O O
 to O O
 Goindwal O LOC
 sahib O O
-TNN O O
+TNN O ORG
 | O O
 Oct O O
 2 O O
@@ -4882,7 +4882,7 @@ Oct O O
 , O O
 12.32 O O
 AM O O
-IST O LOC
+IST O O
 Patiala LOC LOC
 : O O
 seven O O
@@ -4903,7 +4903,7 @@ Tarkhan LOC LOC
 Majra LOC LOC
 Village LOC LOC
 near O O
-Sirhind LOC LOC
+Sirhind LOC O
 , O O
 on O O
 sunday O O
@@ -4916,8 +4916,8 @@ Sahib LOC LOC
 for O O
 immersion O O
 in O O
-River ORG O
-Bias ORG O
+River ORG LOC
+Bias ORG LOC
 , O O
 in O O
 a O O
@@ -4947,7 +4947,7 @@ of O O
 Mandi LOC PER
 Gobindgarh LOC PER
 , O O
-Sirhind LOC LOC
+Sirhind LOC PER
 and O O
 Bassi LOC PER
 Pathana LOC PER
@@ -4959,8 +4959,8 @@ monday O O
 to O O
 protest O O
 the O O
-Tarkhan LOC PER
-Majra LOC PER
+Tarkhan LOC MISC
+Majra LOC MISC
 incident O O
 . O O
 
@@ -4974,7 +4974,7 @@ march O O
 organised O O
 by O O
 The ORG O
-All-india ORG O
+All-india ORG ORG
 Sikh ORG ORG
 Students ORG ORG
 Federation ORG ORG
@@ -4983,12 +4983,12 @@ which O O
 passed O O
 through O O
 the O O
-Markets LOC ORG
-of O ORG
-Fatehgarh LOC ORG
-Sahib LOC ORG
+Markets LOC MISC
+of O MISC
+Fatehgarh LOC MISC
+Sahib LOC MISC
 and O O
-Sirhind LOC O
+Sirhind LOC LOC
 . O O
 
 later O O
@@ -4999,9 +4999,9 @@ burnt O O
 the O O
 effigy O O
 of O O
-Piara PER PER
-Singh PER PER
-Bhaniara PER PER
+Piara PER LOC
+Singh PER LOC
+Bhaniara PER LOC
 on O O
 Gt LOC LOC
 Road LOC LOC
@@ -5023,8 +5023,8 @@ there O O
 the O O
 people O O
 of O O
-Sadugarh LOC LOC
-Area LOC LOC
+Sadugarh LOC ORG
+Area LOC ORG
 also O O
 blocked O O
 traffic O O
@@ -5056,8 +5056,8 @@ blocked O O
 traffic O O
 on O O
 the O O
-Patiala-sirhind ORG LOC
-Road ORG LOC
+Patiala-sirhind ORG MISC
+Road ORG MISC
 . O O
 
 the O O
@@ -5321,7 +5321,7 @@ Sep O O
 , O O
 11.31 O O
 PM O O
-IST O LOC
+IST O O
 Vadodara LOC LOC
 : O O
 contrary O O
@@ -5384,7 +5384,7 @@ monday O O
 revealed O O
 that O O
 the O O
-Schools LOC ORG
+Schools LOC O
 had O O
 remained O O
 closed O O
@@ -5530,7 +5530,7 @@ of O O
 some O O
 of O O
 the O O
-Schools LOC O
+Schools LOC ORG
 . O O
 
 senior O O
@@ -5632,7 +5632,7 @@ action O O
 
 president O O
 of O O
-The ORG O
+The ORG ORG
 Principal ORG ORG
 's ORG ORG
 Association ORG ORG
@@ -5701,7 +5701,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Shut-schools-in-Vadodara-contradict-claims/articleshow/1254281963.cms O O
 
-Vokkaliga O O
+Vokkaliga O ORG
 rally O O
 gives O O
 Lakshmi O PER
@@ -5710,7 +5710,7 @@ case O O
 a O O
 political O O
 turn O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 14 O O
@@ -5877,8 +5877,8 @@ city O O
 , O O
 also O O
 lambasted O O
-Writer PER O
-Ramdas PER O
+Writer PER MISC
+Ramdas PER MISC
 and O O
 used O O
 choice O O
@@ -5890,7 +5890,7 @@ him O O
 ngo O O
 leaders O O
 and O O
-Ramdas PER PER
+Ramdas PER ORG
 are O O
 intolerant O O
 of O O
@@ -5940,9 +5940,9 @@ august O O
 7 O O
 . O O
 
-Bjp ORG PER
-mla O PER
-Shankerlingegowda PER PER
+Bjp ORG ORG
+mla O ORG
+Shankerlingegowda PER ORG
 , O O
 who O O
 also O O
@@ -6253,10 +6253,10 @@ hand O O
 grenade O O
 at O O
 a O O
-Border LOC O
-Security LOC O
-Force LOC O
-Bunker LOC O
+Border LOC ORG
+Security LOC ORG
+Force LOC ORG
+Bunker LOC ORG
 at O O
 Rainawari LOC LOC
 on O O
@@ -6315,7 +6315,7 @@ and O O
 exploded O O
 on O O
 the O O
-Roadside LOC O
+Roadside LOC MISC
 at O O
 Zaldagar LOC LOC
 in O O
@@ -6391,10 +6391,10 @@ militants O O
 shot O O
 dead O O
 An PER O
-Alleged PER O
-Informer PER O
-Mir PER LOC
-Hamza PER LOC
+Alleged PER ORG
+Informer PER ORG
+Mir PER ORG
+Hamza PER ORG
 at O O
 Chatti LOC LOC
 Bandipora LOC LOC
@@ -6408,9 +6408,9 @@ group O O
 attacked O O
 The LOC O
 House LOC ORG
-Of LOC O
-A LOC O
-Counter-insurgent LOC O
+Of LOC MISC
+A LOC MISC
+Counter-insurgent LOC MISC
 in O O
 North LOC LOC
 Kashmir LOC LOC
@@ -6479,11 +6479,11 @@ of O O
 actual O O
 control O O
 in O O
-Kani LOC LOC
-Behak LOC LOC
-Kacdh LOC LOC
-Hama LOC LOC
-Area LOC LOC
+Kani LOC ORG
+Behak LOC ORG
+Kacdh LOC ORG
+Hama LOC ORG
+Area LOC ORG
 while O O
 trying O O
 to O O
@@ -6512,11 +6512,11 @@ at O O
 Gambir LOC LOC
 Mughian LOC LOC
 in O O
-Manjakote LOC LOC
-Sector LOC LOC
-Of LOC LOC
+Manjakote LOC O
+Sector LOC O
+Of LOC O
 Rajouri LOC LOC
-District LOC LOC
+District LOC O
 on O O
 thursday O O
 morning O O
@@ -7230,7 +7230,7 @@ takes O O
 on O O
 excess O O
 load O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 25 O O
@@ -7611,7 +7611,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/Safdarjung-takes-on-excess-load/articleshow/1530434774.cms O O
 
-Shimoga O O
+Shimoga LOC ORG
 limps O O
 back O O
 to O O
@@ -7628,8 +7628,8 @@ PM O O
 IST O O
 Shimoga LOC O
 : O O
-Shimoga LOC LOC
-City LOC LOC
+Shimoga LOC ORG
+City LOC ORG
 , O O
 which O O
 witnessed O O
@@ -7765,8 +7765,8 @@ https://timesofindia.indiatimes.com/city/bengaluru/Shimoga-limps-back-to-normal/
 
 2 O O
 more O O
-Deendar ORG O
-Anjuman ORG O
+Deendar ORG PER
+Anjuman ORG PER
 activists O O
 held O O
 for O O
@@ -7797,10 +7797,10 @@ in O O
 the O O
 bomb O O
 explosions O O
-In LOC O
-Places LOC O
-Of LOC O
-Worship LOC O
+In LOC MISC
+Places LOC MISC
+Of LOC MISC
+Worship LOC MISC
 were O O
 arrested O O
 and O O
@@ -7974,7 +7974,7 @@ monday O O
 services O O
 in O O
 the O O
-Hospital LOC O
+Hospital LOC LOC
 came O O
 to O O
 a O O
@@ -8218,7 +8218,7 @@ worst O O
 affected O O
 appeared O O
 to O O
-The ORG ORG
+The ORG O
 Rajendra ORG ORG
 Prasad ORG ORG
 Centre ORG ORG
@@ -8244,11 +8244,11 @@ about O O
 
 similarly O O
 , O O
-The ORG O
-Institute ORG ORG
-Rotary ORG ORG
-Cancer ORG ORG
-Hospital ORG ORG
+The ORG LOC
+Institute ORG LOC
+Rotary ORG LOC
+Cancer ORG LOC
+Hospital LOC LOC
 with O O
 a O O
 capacity O O
@@ -8528,7 +8528,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/Occupancy-rate-falls-as-patients-leave-AIIMS/articleshow/381506976.cms O O
 
-Centre O O
+Centre O LOC
 's O O
 decision O O
 on O O
@@ -8537,7 +8537,7 @@ shehjdharis O O
 ' O O
 upset O O
 SGPC O O
-Chandigarh LOC O
+Chandigarh LOC LOC
 : O O
 The ORG O
 Shiromani ORG ORG
@@ -8545,7 +8545,7 @@ Gurdwara ORG ORG
 Parbandhak ORG ORG
 Committee ORG ORG
 ( O O
-Sgpc ORG O
+Sgpc ORG PER
 ) O O
 and O O
 Panthic ORG ORG
@@ -8569,7 +8569,7 @@ from O O
 participating O O
 in O O
 the O O
-SGPC O O
+SGPC O ORG
 elections O O
 . O O
 
@@ -8583,7 +8583,7 @@ Aug O O
 11.15 O O
 PM O O
 IST O O
-Chandigarh LOC O
+Chandigarh LOC LOC
 : O O
 The ORG O
 Shiromani ORG ORG
@@ -8591,10 +8591,10 @@ Gurdwara ORG ORG
 Parbandhak ORG ORG
 Committee ORG ORG
 ( O O
-Sgpc ORG O
+Sgpc ORG PER
 ) O O
 and O O
-Panthic ORG O
+Panthic ORG PER
 morcha O O
 leaders O O
 are O O
@@ -8666,7 +8666,7 @@ voters O O
 
 both O O
 the O O
-Sgpc ORG O
+Sgpc ORG ORG
 and O O
 morcha O O
 leaders O O
@@ -8993,12 +8993,12 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/Centres-decision-on-shehjdharis-upset-SGPC/articleshow/30365224.cms O O
 
-Valjibhai O PER
-Bagda PER PER
+Valjibhai PER ORG
+Bagda PER ORG
 does O O
 it O O
 again O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 9 O O
@@ -9059,8 +9059,8 @@ in O O
 front O O
 of O O
 the O O
-Ramakrishna ORG PER
-Ashrama ORG PER
+Ramakrishna ORG LOC
+Ashrama ORG LOC
 here O O
 on O O
 wednesday O O
@@ -9131,7 +9131,7 @@ of O O
 growing O O
 terrorism O O
 in O O
-jammu O LOC
+jammu O O
 where O O
 innocent O O
 people O O
@@ -9198,8 +9198,8 @@ few O O
 minutes O O
 even O O
 the O O
-Ramakrihna ORG LOC
-Ashrama ORG LOC
+Ramakrihna ORG ORG
+Ashrama ORG ORG
 witnessed O O
 traffic O O
 jam O O
@@ -9225,7 +9225,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Valjibhai-Bagda-does-it-again/articleshow/1282209380.cms O O
 
-MSU O ORG
+Msu ORG ORG
 students O O
 leaders O O
 protest O O
@@ -9249,10 +9249,10 @@ Jul O O
 12.54 O O
 AM O O
 IST O O
-Vadodara LOC O
+Vadodara LOC LOC
 : O O
-Ms ORG ORG
-University ORG ORG
+Ms ORG O
+University ORG O
 student O O
 leaders O O
 burnt O O
@@ -9263,13 +9263,13 @@ minister O O
 of O O
 higher O O
 education O O
-Bharat PER LOC
-Barot PER LOC
-Near ORG LOC
-Dn ORG LOC
-Hall ORG LOC
-Cricket ORG LOC
-Ground ORG LOC
+Bharat PER MISC
+Barot PER MISC
+Near ORG MISC
+Dn ORG MISC
+Hall ORG MISC
+Cricket ORG MISC
+Ground ORG MISC
 on O O
 monday O O
 . O O
@@ -9540,17 +9540,17 @@ minister O O
 of O O
 higher O O
 education O O
-Bharat PER LOC
-Barot PER LOC
-Near ORG LOC
-Dn ORG LOC
-Hall ORG LOC
-Cricket ORG LOC
-Ground ORG LOC
-On ORG LOC
-Ms ORG LOC
-University ORG LOC
-Campus ORG LOC
+Bharat PER MISC
+Barot PER MISC
+Near ORG MISC
+Dn ORG MISC
+Hall ORG MISC
+Cricket LOC MISC
+Ground LOC MISC
+On ORG MISC
+Ms ORG MISC
+University ORG MISC
+Campus ORG MISC
 on O O
 monday O O
 . O O
@@ -9572,7 +9572,7 @@ Jul O O
 11.55 O O
 PM O O
 IST O O
-Chandigarh LOC O
+Chandigarh LOC LOC
 : O O
 as O O
 the O O
@@ -9593,8 +9593,8 @@ relationship O O
 between O O
 chief O O
 minister O O
-O ORG PER
-P ORG PER
+O ORG O
+P ORG O
 Chautala ORG PER
 and O O
 the O O
@@ -9812,8 +9812,8 @@ hour O O
 after O O
 pakistan O O
 president O O
-pervez O PER
-musharraf O PER
+pervez O O
+musharraf O O
 's O O
 flight O O
 touched O O
@@ -10230,7 +10230,7 @@ jet O O
 airways O O
 flight O O
 to O O
-mumbai O LOC
+mumbai O O
 , O O
 which O O
 his O O
@@ -10262,8 +10262,8 @@ action O O
 against O O
 Medha PER ORG
 , O O
-Roy PER ORG
-TNN O ORG
+Roy PER PER
+TNN O PER
 | O O
 Aug O O
 6 O O
@@ -10297,9 +10297,9 @@ action O O
 narmada O O
 samarthan O O
 convenor O O
-jay O PER
-narayan O PER
-vyas O PER
+jay O O
+narayan O O
+vyas O O
 has O O
 pleaded O O
 for O O
@@ -10823,11 +10823,11 @@ a O O
 meeting O O
 At ORG O
 The ORG O
-Babu ORG O
-Jagjivan ORG O
-Ram ORG O
-Statue ORG O
-Near ORG O
+Babu ORG MISC
+Jagjivan ORG MISC
+Ram ORG MISC
+Statue ORG MISC
+Near ORG MISC
 L ORG O
 B ORG O
 Stadium ORG O
@@ -10840,10 +10840,10 @@ a O O
 silent O O
 march O O
 From ORG O
-Basheerbagh ORG O
+Basheerbagh ORG PER
 To ORG O
-Gun ORG O
-Foundry ORG O
+Gun ORG LOC
+Foundry ORG LOC
 to O O
 mark O O
 the O O
@@ -10865,7 +10865,7 @@ Committee ORG ORG
 Apcc ORG O
 ) O O
 president O O
-M ORG PER
+M ORG O
 Satyanarayana ORG PER
 Rao ORG PER
 said O O
@@ -10906,8 +10906,8 @@ bodies O O
 chief O O
 minister O O
 n O O
-chandrababu O PER
-naidu O PER
+chandrababu O O
+naidu O O
 should O O
 respect O O
 the O O
@@ -10952,10 +10952,10 @@ added O O
 senior O O
 congress O O
 leaders O O
-K PER PER
+K PER O
 Rosaiah PER PER
 , O O
-G PER PER
+G PER O
 Venkataswamy PER PER
 , O O
 P PER O
@@ -10978,20 +10978,20 @@ parties O O
 -- O O
 including O O
 the O O
-Cpi ORG O
+Cpi ORG MISC
 , O O
 Cpm ORG ORG
 , O O
-Cpi ORG O
-( ORG O
-Ml-nd ORG O
+Cpi ORG MISC
+( ORG MISC
+Ml-nd ORG MISC
 ) ORG O
 , O O
 Mcpi ORG PER
 and O O
-Cpi ORG O
-( ORG O
-Mljanasakhti ORG O
+Cpi ORG MISC
+( ORG MISC
+Mljanasakhti ORG MISC
 ) ORG O
 -- O O
 reiterated O O
@@ -11011,8 +11011,8 @@ being O O
 pursued O O
 by O O
 the O O
-Naidu PER ORG
-Government PER ORG
+Naidu PER MISC
+Government PER MISC
 in O O
 the O O
 state O O
@@ -11133,8 +11133,8 @@ strike O O
 and O O
 its O O
 president O O
-C ORG PER
-V ORG PER
+C ORG O
+V ORG O
 Galani ORG PER
 said O O
 the O O
@@ -11335,9 +11335,9 @@ lamented O O
 
 url O O
 : O O
-https://timesofindia.indiatimes.com/city/ahmedabad/Registrar-suffers-heart-attack-after-wordy-duel/articleshow/1145203021.cms O O
+https://timesofindia.indiatimes.com/city/ahmedabad/Registrar-suffers-heart-attack-after-wordy-duel/articleshow/1145203021.cms O ORG
 
-Handloom O O
+Handloom O ORG
 weavers O O
 in O O
 a O O
@@ -11354,7 +11354,7 @@ Sep O O
 01.23 O O
 AM O O
 IST O O
-Hubli LOC O
+Hubli LOC LOC
 : O O
 faced O O
 with O O
@@ -11462,10 +11462,10 @@ staged O O
 a O O
 protest O O
 demonstration O O
-In ORG O
-Front ORG O
-Of ORG O
-The ORG O
+In ORG ORG
+Front ORG ORG
+Of ORG ORG
+The ORG ORG
 Khdc ORG ORG
 Office ORG ORG
 demanding O O
@@ -11742,7 +11742,7 @@ with O O
 the O O
 government O O
 , O O
-manjula O PER
+manjula O O
 said O O
 the O O
 government O O
@@ -11781,7 +11781,7 @@ arrest O O
 teachers O O
 for O O
 burning O O
-ESMA O O
+ESMA O ORG
 notification O O
 TNN O O
 | O O
@@ -12197,7 +12197,7 @@ Sep O O
 11.58 O O
 PM O O
 IST O O
-Vadodara LOC O
+Vadodara LOC LOC
 : O O
 tension O O
 gripped O O
@@ -12602,7 +12602,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Communal-tension-grips-Dabhoi-town/articleshow/641970013.cms O O
 
-CPI(M) O O
+Cpi(m) ORG O
 stages O O
 protest O O
 rally O O
@@ -13001,7 +13001,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/CPIM-stages-protest-rally-in-Bhavnagar/articleshow/311996326.cms O O
 
-Kudremukh O O
+Kudremukh O PER
 gets O O
 nod O O
 to O O
@@ -13010,10 +13010,10 @@ ahead O O
 with O O
 mining O O
 THE O O
-TIMES O O
-OF O O
-INDIA O O
-NEWS O O
+TIMES O MISC
+OF O MISC
+INDIA O MISC
+NEWS O MISC
 SERVICE O O
 | O O
 Jul O O
@@ -13024,7 +13024,7 @@ Jul O O
 10.48 O O
 PM O O
 IST O O
-Mangalore LOC O
+Mangalore LOC LOC
 \ O O
 Bangalore LOC O
 : O O
@@ -13139,8 +13139,8 @@ months O O
 , O O
 pending O O
 the O O
-supreme O ORG
-court O ORG
+supreme O O
+court O O
 decision O O
 . O O
 
@@ -13155,8 +13155,8 @@ been O O
 filed O O
 in O O
 the O O
-Apex LOC O
-Court LOC O
+Apex LOC ORG
+Court LOC ORG
 by O O
 environmentalists O O
 against O O
@@ -13191,7 +13191,7 @@ however O O
 on O O
 monday O O
 , O O
-murari O PER
+murari O O
 said O O
 the O O
 mining O O
@@ -13264,7 +13264,7 @@ Assembly LOC O
 meanwhile O O
 , O O
 five O O
-Bjp ORG O
+Bjp ORG ORG
 members O O
 representing O O
 the O O
@@ -13373,8 +13373,8 @@ litigation O O
 filed O O
 in O O
 the O O
-supreme O ORG
-court O ORG
+supreme O O
+court O O
 is O O
 disposed O O
 of O O
@@ -13414,7 +13414,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Kudremukh-gets-nod-to-go-ahead-with-mining/articleshow/699000706.cms O O
 
-Nude O O
+Nude O MISC
 parade O O
 : O O
 CPM O ORG
@@ -13431,7 +13431,7 @@ Aug O O
 10.15 O O
 PM O O
 IST O O
-Bellary LOC O
+Bellary LOC LOC
 : O O
 the O O
 cpm O O
@@ -13446,7 +13446,7 @@ cod O O
 inquiries O O
 into O O
 the O O
-Vanenur LOC O
+Vanenur LOC LOC
 incident O O
 in O O
 which O O
@@ -13693,7 +13693,7 @@ https://timesofindia.indiatimes.com/city/bengaluru/Nude-parade-CPM-wants-judicia
 
 Police O O
 , O O
-NGOs O O
+NGOs O ORG
 differ O O
 on O O
 lathicharge O O
@@ -13708,7 +13708,7 @@ Aug O O
 10.02 O O
 PM O O
 IST O O
-Mysore LOC O
+Mysore LOC LOC
 : O O
 a O O
 mudslinging O O
@@ -14193,9 +14193,9 @@ Court O O
 seeks O O
 proof O O
 of O O
-Simi ORG O
+Simi ORG LOC
 activities O O
-TNN O ORG
+TNN O O
 | O O
 Oct O O
 3 O O
@@ -14302,7 +14302,7 @@ of O O
 municipal O O
 councillor O O
 from O O
-okhla O LOC
+okhla O O
 , O O
 Asif PER PER
 Mohammad PER PER
@@ -14344,7 +14344,7 @@ the O O
 bail O O
 plea O O
 of O O
-Simi ORG O
+Simi ORG LOC
 activists O O
 , O O
 Saif PER PER
@@ -14388,9 +14388,9 @@ organisation O O
 simi O O
 's O O
 lawyer O O
-feroz O PER
-khan O PER
-gazi O PER
+feroz O O
+khan O O
+gazi O O
 argued O O
 that O O
 while O O
@@ -14647,7 +14647,7 @@ Sep O O
 12.12 O O
 AM O O
 IST O O
-Kolar LOC O
+Kolar LOC PER
 : O O
 heavy O O
 rain O O
@@ -14967,8 +14967,8 @@ bjp O O
 y O O
 . O O
 
-surendra O PER
-gowda O PER
+surendra O O
+gowda O O
 , O O
 president O O
 of O O
@@ -15069,16 +15069,16 @@ he O O
 said O O
 . O O
 
-Dss ORG O
+Dss ORG ORG
 protest O O
 : O O
 hundreds O O
 of O O
-Dalit ORG O
-Sangarsha ORG O
-Samithi ORG O
+Dalit ORG LOC
+Sangarsha ORG LOC
+Samithi ORG LOC
 ( O O
-Dss ORG O
+Dss ORG ORG
 ) O O
 workers O O
 staged O O
@@ -15151,11 +15151,11 @@ Commissioner LOC O
 M PER O
 . PER O
 
-Thimmaiah PER O
+Thimmaiah PER PER
 , O O
 convenor O O
 of O O
-Dss ORG O
+Dss ORG ORG
 alleged O O
 the O O
 government O O
@@ -15341,7 +15341,7 @@ a O O
 protest O O
 march O O
 in O O
-Kolar LOC LOC
+Kolar LOC PER
 in O O
 response O O
 to O O
@@ -15366,7 +15366,7 @@ the O O
 procession O O
 culminated O O
 At ORG O
-The ORG O
+The ORG LOC
 Mecci ORG LOC
 Square ORG LOC
 where O O
@@ -15423,7 +15423,7 @@ innocent O O
 people O O
 . O O
 
-K.v. PER PER
+K.v. PER O
 Suresh PER PER
 Kumar PER PER
 , O O
@@ -15452,7 +15452,7 @@ https://timesofindia.indiatimes.com/city/bengaluru/Drought-hit-Kolar-suffers-rai
 cobra O O
 eggs O O
 perish O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 12 O O
@@ -15503,7 +15503,7 @@ by O O
 the O O
 people O O
 of O O
-Sagar LOC O
+Sagar LOC LOC
 as O O
 dfo O O
 shivaraj O O
@@ -15604,7 +15604,7 @@ assured O O
 action O O
 against O O
 the O O
-Dfo PER O
+Dfo PER ORG
 , O O
 People PER O
 withdrew O O
@@ -15759,9 +15759,9 @@ Junior ORG ORG
 Doctors ORG ORG
 ' ORG ORG
 Association ORG ORG
-( O O
-Ksjda ORG O
-) O O
+( O ORG
+Ksjda ORG ORG
+) O ORG
 . O O
 
 overcrowded O O
@@ -16126,7 +16126,7 @@ such O O
 as O O
 Kolar LOC PER
 and O O
-Tumkur LOC LOC
+Tumkur LOC PER
 who O O
 boycotted O O
 classes O O
@@ -16151,9 +16151,9 @@ sound O O
 out O O
 PM O O
 on O O
-Cauvery O O
+Cauvery O LOC
 row O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 8 O O
@@ -16336,7 +16336,7 @@ the O O
 four O O
 reservoirs O O
 in O O
-karnataka O LOC
+karnataka O O
 . O O
 
 karnataka O O
@@ -16594,7 +16594,7 @@ chief O O
 m O O
 . O O
 
-karunanidhi O PER
+karunanidhi O O
 told O O
 reporters O O
 that O O
@@ -16670,7 +16670,7 @@ Sep O O
 10.22 O O
 PM O O
 IST O O
-Gulbarga LOC O
+Gulbarga LOC LOC
 : O O
 the O O
 karnataka O O
@@ -16736,8 +16736,8 @@ the O O
 Vishwa ORG ORG
 Hindu ORG ORG
 Parishad ORG ORG
-( O O
-Vhp ORG O
+( O ORG
+Vhp ORG ORG
 ) O O
 on O O
 the O O
@@ -16886,8 +16886,8 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Judicial-probe-into-clashes-likely-Kharge/articleshow/1368120601.cms O O
 
-Old O O
-Hubli LOC O
+Old LOC O
+Hubli LOC LOC
 tense O O
 after O O
 clashes O O
@@ -16899,8 +16899,8 @@ Hubli LOC LOC
 area O O
 in O O
 the O O
-Twin LOC O
-Cities LOC O
+Twin LOC LOC
+Cities LOC LOC
 has O O
 turned O O
 into O O
@@ -16931,8 +16931,8 @@ Hubli LOC LOC
 area O O
 in O O
 the O O
-Twin LOC O
-Cities LOC O
+Twin LOC LOC
+Cities LOC LOC
 has O O
 turned O O
 into O O
@@ -17056,8 +17056,8 @@ tense O O
 hours O O
 in O O
 the O O
-Twin LOC O
-Cities LOC O
+Twin LOC LOC
+Cities LOC LOC
 . O O
 
 he O O
@@ -17074,8 +17074,8 @@ which O O
 former O O
 bjp O O
 corporator O O
-Nandagopal PER O
-Sapare PER O
+Nandagopal PER PER
+Sapare PER PER
 is O O
 also O O
 a O O
@@ -17202,7 +17202,7 @@ the O O
 two O O
 . O O
 
-Sadiq PER PER
+Sadiq PER O
 and O O
 his O O
 followers O O
@@ -17220,14 +17220,14 @@ sapare O O
 staged O O
 a O O
 protest O O
-In ORG O
-Front ORG O
-Of ORG O
-The ORG O
-Police ORG O
-Commissioner ORG O
-'s ORG O
-Office ORG O
+In ORG ORG
+Front ORG ORG
+Of ORG ORG
+The ORG ORG
+Police ORG ORG
+Commissioner ORG ORG
+'s ORG ORG
+Office ORG ORG
 demanding O O
 action O O
 against O O
@@ -17246,7 +17246,7 @@ Dal ORG ORG
 Mutalik ORG ORG
 , O O
 and O O
-Bjp ORG O
+Bjp ORG ORG
 corporators O O
 led O O
 the O O
@@ -17387,9 +17387,9 @@ https://timesofindia.indiatimes.com/city/bengaluru/Old-Hubli-tense-after-clashes
 teachers O O
 march O O
 to O O
-Surat ORG ORG
-Collectorate ORG ORG
-TNN O ORG
+Surat ORG LOC
+Collectorate ORG LOC
+TNN O O
 | O O
 Sep O O
 12 O O
@@ -17399,7 +17399,7 @@ Sep O O
 12.56 O O
 AM O O
 IST O O
-Surat LOC O
+Surat LOC LOC
 : O O
 over O O
 five O O
@@ -17411,7 +17411,7 @@ out O O
 a O O
 rally O O
 from O O
-Makaipul LOC LOC
+Makaipul LOC PER
 to O O
 The LOC O
 District LOC ORG
@@ -17734,9 +17734,9 @@ Dharna O O
 as O O
 jeep O O
 hits O O
-RBI O O
+RBI O MISC
 employee O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 11 O O
@@ -17751,8 +17751,8 @@ Bangalore LOC O
 commotion O O
 prevailed O O
 on O O
-Nrupathunga ORG O
-Road ORG O
+Nrupathunga ORG LOC
+Road ORG LOC
 ( O O
 made O O
 one-way O O
@@ -17796,7 +17796,7 @@ a O O
 dharna O O
 on O O
 the O O
-Road LOC LOC
+Road LOC MISC
 demanding O O
 action O O
 against O O
@@ -17826,7 +17826,7 @@ while O O
 on O O
 this O O
 busy O O
-Road LOC O
+Road LOC ORG
 . O O
 
 the O O
@@ -17914,13 +17914,13 @@ on O O
 thursday O O
 morning O O
 at O O
-The ORG O
+The ORG ORG
 University ORG ORG
 Of ORG ORG
 Agricultural ORG ORG
 Sciences ORG ORG
-( O O
-Uas ORG O
+( O ORG
+Uas ORG ORG
 ) O O
 when O O
 the O O
@@ -18455,7 +18455,7 @@ Sep O O
 12.20 O O
 AM O O
 IST O O
-Gandhinagar LOC LOC
+Gandhinagar LOC O
 : O O
 even O O
 as O O
@@ -18525,8 +18525,8 @@ convened O O
 by O O
 chief O O
 minister O O
-keshubhai O PER
-patel O PER
+keshubhai O O
+patel O O
 , O O
 minister O O
 of O O
@@ -18688,10 +18688,10 @@ rules O O
 . O O
 
 The ORG O
-Youth ORG O
-Wing ORG O
-Of ORG O
-The ORG O
+Youth ORG ORG
+Wing ORG ORG
+Of ORG ORG
+The ORG ORG
 Bjp ORG ORG
 and O O
 other O O
@@ -18735,7 +18735,7 @@ Sep O O
 11.06 O O
 PM O O
 IST O O
-Pathankot LOC O
+Pathankot LOC LOC
 : O O
 the O O
 september O O
@@ -18858,8 +18858,8 @@ teachers O O
 union O O
 general O O
 secretary O O
-subhash O PER
-sharma O PER
+subhash O O
+sharma O O
 , O O
 said O O
 , O O
@@ -19217,7 +19217,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/School-board-that-cant-count/articleshow/356631692.cms O O
 
-Ganesh O O
+Ganesh O PER
 idol O O
 immersion O O
 passes O O
@@ -19376,9 +19376,9 @@ gathered O O
 . O O
 
 A LOC O
-Minaret LOC O
-Of LOC O
-Mosque LOC O
+Minaret LOC MISC
+Of LOC MISC
+Mosque LOC MISC
 was O O
 also O O
 damaged O O
@@ -19514,10 +19514,10 @@ to O O
 heritage O O
 | O O
 THE O O
-TIMES O O
-OF O O
-INDIA O O
-NEWS O O
+TIMES O MISC
+OF O MISC
+INDIA O MISC
+NEWS O MISC
 SERVICE O O
 | O O
 Jul O O
@@ -19836,8 +19836,8 @@ Urban ORG ORG
 Art ORG ORG
 Commission ORG ORG
 ( O O
-Buac ORG O
-) O O
+Buac ORG MISC
+) O MISC
 which O O
 prides O O
 itself O O
@@ -19983,16 +19983,16 @@ Sep O O
 , O O
 11.46 O O
 PM O O
-IST O LOC
+IST O O
 Ahmedabad LOC LOC
 / O O
-Mehsana LOC O
+Mehsana LOC LOC
 : O O
 curfew O O
 was O O
 imposed O O
 on O O
-Vijapur LOC LOC
+Vijapur LOC PER
 town O O
 in O O
 Mehsana LOC LOC
@@ -20019,12 +20019,12 @@ three O O
 Shops LOC O
 , O O
 a O O
-Pipe LOC O
-Factory LOC O
+Pipe LOC ORG
+Factory LOC ORG
 and O O
 a O O
-Tobacco LOC O
-Godown LOC O
+Tobacco LOC LOC
+Godown LOC LOC
 were O O
 set O O
 afire O O
@@ -20131,8 +20131,8 @@ hospitalised O O
 this O O
 enraged O O
 the O O
-Bajrang ORG O
-Dal ORG O
+Bajrang ORG ORG
+Dal ORG ORG
 which O O
 organised O O
 a O O
@@ -20371,7 +20371,7 @@ Sep O O
 11.02 O O
 PM O O
 IST O O
-Mysore LOC O
+Mysore LOC LOC
 : O O
 students O O
 of O O
@@ -20421,9 +20421,9 @@ the O O
 Mysore ORG ORG
 University ORG ORG
 Campus ORG ORG
-to O ORG
-K.r. ORG ORG
-Circle ORG ORG
+to O O
+K.r. ORG O
+Circle ORG O
 where O O
 they O O
 formed O O
@@ -20493,9 +20493,9 @@ https://timesofindia.indiatimes.com/city/bengaluru/Job-reservation-Varsity-stude
 Doctors O O
 to O O
 stop O O
-OPD O O
+OPD O ORG
 service O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 5 O O
@@ -20752,8 +20752,8 @@ fill O O
 up O O
 potholes O O
 in O O
-Belgaum O ORG
-TNN O ORG
+Belgaum O LOC
+TNN O O
 | O O
 Aug O O
 14 O O
@@ -20763,7 +20763,7 @@ Aug O O
 11.08 O O
 PM O O
 IST O O
-Belgaum LOC O
+Belgaum LOC ORG
 : O O
 Belgaum LOC ORG
 divisional O O
@@ -20805,9 +20805,9 @@ agitation O O
 launched O O
 by O O
 the O O
-Nagarika ORG O
-Hitarakshana ORG O
-Vedike ORG O
+Nagarika ORG ORG
+Hitarakshana ORG ORG
+Vedike ORG ORG
 and O O
 other O O
 like-minded O O
@@ -21113,7 +21113,7 @@ forgery O O
 to O O
 be O O
 probed O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 12 O O
@@ -21296,7 +21296,7 @@ Agents O O
 want O O
 cases O O
 withdrawn O O
-TNN O ORG
+TNN O O
 | O O
 Oct O O
 3 O O
@@ -21306,7 +21306,7 @@ Oct O O
 02.08 O O
 AM O O
 IST O O
-Mansa LOC O
+Mansa LOC PER
 : O O
 while O O
 commission O O
@@ -21558,7 +21558,7 @@ MSU O ORG
 syndicate O O
 for O O
 rethink O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 7 O O
@@ -21567,7 +21567,7 @@ Aug O O
 , O O
 11.48 O O
 PM O O
-IST O LOC
+IST O O
 Vadodara LOC LOC
 : O O
 ms O O
@@ -21690,8 +21690,8 @@ tuesday O O
 senate O O
 meeting O O
 , O O
-narendra O PER
-tiwari O PER
+narendra O O
+tiwari O O
 said O O
 the O O
 scheme O O
@@ -21937,8 +21937,8 @@ the O O
 meeting O O
 Msu ORG ORG
 Students ORG ORG
-' ORG ORG
-Union ORG ORG
+' ORG O
+Union ORG O
 general O O
 secretary O O
 Bharat PER PER
@@ -22067,8 +22067,8 @@ including O O
 Saket ORG PER
 - ORG O
 The ORG O
-Friends ORG O
-Society ORG O
+Friends ORG ORG
+Society ORG ORG
 , O O
 demonstrated O O
 outside O O
@@ -22098,8 +22098,8 @@ commerce O O
 
 Msu ORG ORG
 Students ORG ORG
-' ORG ORG
-Union ORG ORG
+' ORG O
+Union ORG O
 vice-president O O
 Parth PER PER
 Joshi PER PER
@@ -22629,7 +22629,7 @@ Badal O PER
 in-laws O O
 ' O O
 village O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 9 O O
@@ -22639,7 +22639,7 @@ Aug O O
 10.34 O O
 PM O O
 IST O O
-Bathinda LOC O
+Bathinda LOC PER
 : O O
 about O O
 a O O
@@ -22657,12 +22657,12 @@ district O O
 held O O
 a O O
 demonstration O O
-In LOC O
-Front LOC O
-Of LOC O
-The LOC O
-Government LOC O
-School LOC O
+In LOC ORG
+Front LOC ORG
+Of LOC ORG
+The LOC ORG
+Government LOC ORG
+School LOC ORG
 in O O
 the O O
 village O O
@@ -22696,11 +22696,11 @@ on O O
 an O O
 indefinite O O
 dharna O O
-In LOC O
-Front LOC O
-Of LOC O
-The LOC O
-School LOC O
+In LOC ORG
+Front LOC ORG
+Of LOC ORG
+The LOC ORG
+School LOC ORG
 after O O
 locking O O
 it O O
@@ -22998,7 +22998,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/Protest-over-shifting-school-to-Badals-in-laws-village/articleshow/1785835521.cms O O
 
-Cong O O
+Cong O LOC
 protests O O
 VMC O ORG
 's O O
@@ -23018,7 +23018,7 @@ Jul O O
 , O O
 02.15 O O
 AM O O
-IST O LOC
+IST O O
 Vadodara LOC LOC
 : O O
 in O O
@@ -23040,8 +23040,8 @@ The ORG O
 Vadodara ORG ORG
 Municipal ORG ORG
 Corporation ORG ORG
-( O O
-Vmc ORG O
+( O ORG
+Vmc ORG ORG
 ) O O
 here O O
 on O O
@@ -23134,10 +23134,10 @@ of O O
 commotion O O
 in O O
 the O O
-Khanderao ORG O
-Market ORG O
-of O O
-The ORG O
+Khanderao ORG ORG
+Market ORG ORG
+of O ORG
+The ORG ORG
 Vmc ORG ORG
 when O O
 congressmen O O
@@ -23250,8 +23250,8 @@ The ORG O
 Stretch ORG O
 Of ORG O
 Proposed ORG O
-Hebbal ORG O
-Flyover ORG O
+Hebbal ORG PER
+Flyover ORG PER
 . O O
 
 bda O O
@@ -23337,8 +23337,8 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Banners-sprout-again/articleshow/333299733.cms O O
 
-Raichur O O
-Village LOC O
+Raichur LOC LOC
+Village LOC LOC
 observes O O
 bandh O O
 over O O
@@ -23346,7 +23346,7 @@ hostel O O
 inmate O O
 's O O
 death O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 29 O O
@@ -23359,11 +23359,11 @@ IST O O
 Raichur LOC O
 : O O
 the O O
-Dalit ORG O
-Sangharsh ORG O
-Samiti ORG O
-( O O
-Dss ORG O
+Dalit ORG ORG
+Sangharsh ORG ORG
+Samiti ORG ORG
+( O ORG
+Dss ORG ORG
 ) O O
 observed O O
 a O O
@@ -23593,13 +23593,13 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Raichur-village-observes-bandh-over-hostel-inmates-death/articleshow/963522210.cms O O
 
-Gujarat O O
-Govt O O
+Gujarat LOC LOC
+Govt O LOC
 fears O O
 violence O O
 could O O
 spread O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 1 O O
@@ -23608,8 +23608,8 @@ Sep O O
 , O O
 12.32 O O
 AM O O
-IST O LOC
-Ahmedabad LOC LOC
+IST O O
+Ahmedabad LOC O
 : O O
 there O O
 is O O
@@ -23753,7 +23753,7 @@ Dariapur LOC LOC
 last O O
 week O O
 and O O
-Shahpur LOC PER
+Shahpur LOC LOC
 on O O
 wednesday O O
 night O O
@@ -24127,9 +24127,9 @@ leaders O O
 ' O O
 url O O
 : O O
-https://timesofindia.indiatimes.com/city/ahmedabad/Gujarat-Govt-fears-violence-could-spread/articleshow/1616283730.cms O O
+https://timesofindia.indiatimes.com/city/ahmedabad/Gujarat-Govt-fears-violence-could-spread/articleshow/1616283730.cms O ORG
 
-Cong O O
+Cong O ORG
 men O O
 attacked O O
 by O O
@@ -24168,11 +24168,11 @@ Desam ORG ORG
 Party ORG ORG
 workers O O
 in O O
-Dumpalagattu LOC LOC
-Village LOC LOC
-of O LOC
-Khazipet LOC LOC
-Mandal LOC LOC
+Dumpalagattu LOC ORG
+Village LOC ORG
+of O ORG
+Khazipet LOC ORG
+Mandal LOC ORG
 in O O
 Cuddapah LOC LOC
 District LOC LOC
@@ -24190,7 +24190,7 @@ attack O O
 . O O
 
 the O O
-Tdp ORG O
+Tdp ORG MISC
 activists O O
 hurled O O
 about O O
@@ -24315,7 +24315,7 @@ supporters O O
 alleged O O
 that O O
 the O O
-Tdp ORG O
+Tdp ORG MISC
 activists O O
 ' O O
 attack O O
@@ -24371,7 +24371,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/hyderabad/Cong-men-attacked-by-TDP-in-Cuddapah/articleshow/844346651.cms O O
 
-Cong O O
+Cong ORG LOC
 workers O O
 attack O O
 sarpanch O O
@@ -24495,7 +24495,7 @@ the O O
 militants O O
 beheaded O O
 two O O
-Hindu O O
+Hindu O MISC
 priests O O
 after O O
 kidnapping O O
@@ -24510,7 +24510,7 @@ five O O
 members O O
 of O O
 a O O
-Muslim O O
+Muslim O MISC
 trader O O
 ’ O O
 s O O
@@ -24540,8 +24540,8 @@ Aug O O
 , O O
 03.39 O O
 AM O O
-IST O LOC
-Jammu LOC LOC
+IST O O
+Jammu LOC O
 : O O
 in O O
 a O O
@@ -24602,7 +24602,7 @@ curfew O O
 on O O
 Poonch LOC LOC
 and O O
-Surankot LOC LOC
+Surankot LOC PER
 to O O
 guard O O
 against O O
@@ -24634,8 +24634,8 @@ near O O
 Dhundhak ORG LOC
 Bridge ORG LOC
 on O O
-Surankot-poonch ORG O
-Road ORG O
+Surankot-poonch ORG MISC
+Road ORG MISC
 monday O O
 night O O
 and O O
@@ -24768,8 +24768,8 @@ was O O
 not O O
 present O O
 in O O
-The LOC O
-House LOC ORG
+The LOC LOC
+House LOC LOC
 at O O
 the O O
 time O O
@@ -24782,8 +24782,8 @@ in O O
 another O O
 strike O O
 in O O
-Surankot LOC LOC
-Tehsil LOC LOC
+Surankot LOC MISC
+Tehsil LOC MISC
 on O O
 monday O O
 night O O
@@ -25027,11 +25027,11 @@ bomb O O
 blast O O
 in O O
 the O O
-Posh ORG LOC
-South ORG LOC
-Delhi ORG LOC
-Market ORG LOC
-Area ORG LOC
+Posh ORG ORG
+South LOC ORG
+Delhi LOC ORG
+Market ORG ORG
+Area ORG ORG
 late O O
 on O O
 saturday O O
@@ -25046,9 +25046,9 @@ the O O
 Ring LOC LOC
 Road LOC LOC
 in O O
-Posh LOC O
-South LOC O
-Extension-ii LOC O
+Posh LOC MISC
+South LOC MISC
+Extension-ii LOC MISC
 despite O O
 high O O
 alert O O
@@ -25131,9 +25131,9 @@ reports O O
 , O O
 prime O O
 minister O O
-atal O PER
-bihari O PER
-vajpayee O PER
+atal O O
+bihari O O
+vajpayee O O
 , O O
 union O O
 home O O
@@ -25233,7 +25233,7 @@ acts O O
 of O O
 violence O O
 in O O
-india O LOC
+india O O
 , O O
 particularly O O
 close O O
@@ -25520,7 +25520,7 @@ Jul O O
 , O O
 12.00 O O
 AM O O
-IST O LOC
+IST O O
 Vadodara LOC LOC
 : O O
 baroda O O
@@ -25694,13 +25694,13 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/BUTA-announces-strike-on-July-25/articleshow/1670548881.cms O O
 
-SSLC O O
+SSLC O ORG
 student O O
 's O O
 body O O
 found O O
 buried O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 21 O O
@@ -25710,7 +25710,7 @@ Aug O O
 12.10 O O
 AM O O
 IST O O
-Haveri LOC O
+Haveri LOC PER
 : O O
 the O O
 body O O
@@ -25808,7 +25808,7 @@ spot O O
 suspended O O
 : O O
 the O O
-Haveri LOC O
+Haveri LOC ORG
 superintendent O O
 of O O
 police O O
@@ -25854,7 +25854,7 @@ a O O
 protest O O
 alleging O O
 the O O
-Cpi PER O
+Cpi PER MISC
 disturbed O O
 residents O O
 at O O
@@ -25867,7 +25867,7 @@ demanded O O
 the O O
 suspension O O
 of O O
-Cpi PER O
+Cpi PER MISC
 or O O
 transfer O O
 of O O
@@ -26042,7 +26042,7 @@ girl O O
 raped O O
 , O O
 murdered O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 24 O O
@@ -26421,8 +26421,8 @@ through O O
 reason O O
 , O O
 threats O O
-Shubhajit O LOC
-Roy O LOC
+Shubhajit O PER
+Roy O PER
 New LOC LOC
 Delhi LOC LOC
 : O O
@@ -26892,11 +26892,11 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/Strike-was-broken-through-reason-threats/articleshow/1397551946.cms O O
 
-Cable O O
-TV O O
+Cable O ORG
+TV O ORG
 stalemate O O
 continues O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 20 O O
@@ -26943,7 +26943,7 @@ the O O
 cable O O
 operators O O
 nor O O
-Star PER O
+Star PER ORG
 is O O
 willing O O
 to O O
@@ -27074,7 +27074,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Cable-TV-stalemate-continues/articleshow/174102039.cms O O
 
-UT O O
+UT O ORG
 staff O O
 demands O O
 bonus O O
@@ -27107,12 +27107,12 @@ and O O
 demonstration O O
 at O O
 the O O
-Museum ORG O
-Chowk ORG PER
+Museum ORG LOC
+Chowk ORG LOC
 on O O
 the O O
-Jan LOC LOC
-Marg LOC LOC
+Jan LOC ORG
+Marg LOC ORG
 , O O
 on O O
 wednesday O O
@@ -27126,9 +27126,9 @@ on O O
 the O O
 call O O
 of O O
-The ORG O
-Federation ORG ORG
-Of ORG ORG
+The ORG LOC
+Federation ORG LOC
+Of ORG O
 Ut ORG ORG
 Employees ORG ORG
 And ORG ORG
@@ -27229,20 +27229,20 @@ general O O
 secretary O O
 ) O O
 and O O
-Sat ORG O
-Pal ORG O
-Sharma ORG PER
-( O PER
+Sat ORG ORG
+Pal ORG ORG
+Sharma ORG ORG
+( O O
 president O O
 ) O O
 of O O
-The ORG O
-Federation ORG ORG
-Of ORG ORG
+The ORG LOC
+Federation ORG LOC
+Of ORG O
 Ut ORG ORG
-Employees ORG O
-And ORG O
-Workers ORG O
+Employees ORG ORG
+And ORG ORG
+Workers ORG ORG
 , O O
 Piara ORG PER
 Singh ORG PER
@@ -27340,7 +27340,7 @@ assembled O O
 in O O
 front O O
 of O O
-The LOC O
+The LOC ORG
 Office LOC ORG
 Of LOC ORG
 Labour LOC ORG
@@ -27392,8 +27392,8 @@ EDUCATION O O
 ? O O
 
 By O O
-Panchalee O O
-Thakur O O
+Panchalee O PER
+Thakur O PER
 | O O
 TNN O O
 | O O
@@ -27673,7 +27673,7 @@ no O O
 residency O O
 scheme O O
 in O O
-karnataka O LOC
+karnataka O O
 . O O
 
 the O O
@@ -28824,8 +28824,8 @@ resident O O
 doctors O O
 of O O
 The LOC O
-Premier LOC O
-Institute LOC PER
+Premier LOC ORG
+Institute LOC ORG
 had O O
 gone O O
 on O O
@@ -28857,13 +28857,13 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs/articleshow/1033994487.cms O O
 
-CITU O ORG
+Citu ORG ORG
 plans O O
 strike O O
 against O O
 Nda PER ORG
 policies O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 27 O O
@@ -28876,14 +28876,14 @@ IST O O
 Bangalore LOC O
 : O O
 The ORG O
-Centre ORG O
-Of ORG O
+Centre ORG ORG
+Of ORG ORG
 Indian ORG ORG
 Trade ORG ORG
 Unions ORG ORG
 ( O ORG
 Citu ORG ORG
-) O O
+) O ORG
 has O O
 announced O O
 its O O
@@ -28930,7 +28930,7 @@ Citu ORG ORG
 working O O
 committee O O
 in O O
-Bangalore LOC LOC
+Bangalore LOC O
 ended O O
 on O O
 sunday O O
@@ -29024,7 +29024,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/CITU-plans-strike-against-NDA-policies/articleshow/1770840852.cms O O
 
-Gujarat O O
+Gujarat LOC LOC
 teachers O O
 ' O O
 strike O O
@@ -29197,7 +29197,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Gujarat-teachers-strike-continues/articleshow/752718987.cms O O
 
-Schools O O
+Schools LOC O
 strike O O
 a O O
 success O O
@@ -29459,8 +29459,8 @@ the O O
 premier O O
 St ORG ORG
 Xavier ORG ORG
-'s ORG ORG
-School ORG ORG
+'s ORG O
+School ORG O
 at O O
 ghod O O
 dod O O
@@ -29496,9 +29496,9 @@ a O O
 lady O O
 teacher O O
 at O O
-Lourdes ORG ORG
-Convent ORG ORG
-School ORG ORG
+Lourdes ORG LOC
+Convent ORG O
+School ORG O
 near O O
 indoor O O
 stadium O O
@@ -29649,7 +29649,7 @@ open O O
 by O O
 monday O O
 , O O
-dave O PER
+dave O O
 added O O
 . O O
 
@@ -29664,7 +29664,7 @@ deferment O O
 due O O
 to O O
 strike O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 23 O O
@@ -29704,7 +29704,7 @@ to O O
 a O O
 halt O O
 at O O
-The ORG O
+The ORG ORG
 Delhi ORG ORG
 University ORG ORG
 to O O
@@ -29742,7 +29742,7 @@ on O O
 mess O O
 facilities O O
 in O O
-Hostels LOC O
+Hostels LOC LOC
 and O O
 the O O
 deserted O O
@@ -30155,9 +30155,9 @@ sabha O O
 union O O
 hrd O O
 minister O O
-murli O PER
-manohar O PER
-joshi O PER
+murli O O
+manohar O O
+joshi O O
 said O O
 university O O
 employees O O
@@ -30251,7 +30251,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/DU-students-union-seeks-poll-deferment-due-to-strike/articleshow/1820049741.cms O O
 
-BC O O
+BC O ORG
 hostelites O O
 demand O O
 better O O
@@ -30266,7 +30266,7 @@ Aug O O
 11.49 O O
 PM O O
 IST O O
-Chitradurga LOC O
+Chitradurga LOC LOC
 : O O
 tired O O
 of O O
@@ -30413,7 +30413,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/BC-hostelites-demand-better-food/articleshow/2052095661.cms O O
 
-PAUTA O O
+Pauta ORG LOC
 writ O O
 admitted O O
 TNN O O
@@ -30440,7 +30440,7 @@ Teachers ORG ORG
 Association ORG ORG
 ( O ORG
 Pauta ORG ORG
-) O ORG
+) O O
 , O O
 Ludhiana LOC LOC
 , O O
@@ -30520,8 +30520,8 @@ pau O O
 along O O
 with O O
 the O O
-punjab O ORG
-agriculture O ORG
+punjab O O
+agriculture O O
 secretary O O
 have O O
 been O O
@@ -30565,7 +30565,7 @@ of O O
 punjab O O
 , O O
 the O O
-Pauta ORG ORG
+Pauta ORG LOC
 petition O O
 pointed O O
 out O O
@@ -30589,7 +30589,7 @@ as O O
 earlier O O
 provided O O
 for. O O
-Pauta ORG ORG
+Pauta ORG PER
 has O O
 sought O O
 intervention O O
@@ -30634,7 +30634,7 @@ bare O O
 all O O
 for O O
 justice O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 14 O O
@@ -30644,7 +30644,7 @@ Aug O O
 11.07 O O
 PM O O
 IST O O
-Hubli LOC O
+Hubli LOC LOC
 : O O
 a O O
 ` O O
@@ -30694,18 +30694,18 @@ portrait O O
 of O O
 babasaheb O O
 ambedkar O O
-In ORG O
-Front ORG O
-Of ORG O
-The ORG O
-Nwkrtc ORG O
-Managing ORG O
-Director ORG O
-'s ORG O
-Office ORG O
+In ORG ORG
+Front ORG ORG
+Of ORG ORG
+The ORG ORG
+Nwkrtc ORG ORG
+Managing ORG ORG
+Director ORG ORG
+'s ORG ORG
+Office ORG ORG
 On ORG O
-Gokul ORG LOC
-Road ORG LOC
+Gokul ORG PER
+Road ORG PER
 . O O
 
 threatening O O
@@ -30846,7 +30846,7 @@ that O O
 he O O
 had O O
 petitioned O O
-karnataka O LOC
+karnataka O O
 governor O O
 and O O
 other O O
@@ -30854,7 +30854,7 @@ senior O O
 officials O O
 of O O
 The PER O
-Ksrtc PER O
+Ksrtc PER ORG
 . O O
 
 url O O
@@ -30932,8 +30932,8 @@ public O O
 works O O
 minister O O
 , O O
-durai O PER
-murugan O PER
+durai O O
+murugan O O
 , O O
 trooped O O
 out O O
@@ -31083,8 +31083,8 @@ dmk O O
 men O O
 . O O
 
-durai O PER
-murugan O PER
+durai O O
+murugan O O
 then O O
 led O O
 his O O
@@ -31096,7 +31096,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/hyderabad/DMK-stage-walkout-in-TN-Assembly/articleshow/401625889.cms O O
 
-HDMC O O
+Hdmc PER PER
 reverses O O
 order O O
 , O O
@@ -31117,7 +31117,7 @@ Aug O O
 10.57 O O
 PM O O
 IST O O
-Hubli LOC O
+Hubli LOC LOC
 : O O
 the O O
 residents O O
@@ -31132,8 +31132,8 @@ Hubli PER ORG
 Dharwad PER ORG
 Municipal PER ORG
 Corporation PER ORG
-( O O
-Hdmc PER O
+( O ORG
+Hdmc PER ORG
 ) O O
 reverse O O
 their O O
@@ -31470,11 +31470,11 @@ Jul O O
 02.17 O O
 PM O O
 IST O O
-New LOC O
-Delhi LOC O
+New LOC LOC
+Delhi LOC LOC
 : O O
-Stock LOC O
-Exchanges LOC O
+Stock LOC ORG
+Exchanges LOC ORG
 across O O
 the O O
 country O O
@@ -31515,8 +31515,8 @@ The ORG O
 Bombay ORG ORG
 Stock ORG ORG
 Exchange ORG ORG
-( O O
-Bse ORG O
+( O ORG
+Bse ORG ORG
 ) O O
 after O O
 a O O
@@ -31582,7 +31582,7 @@ Of PER ORG
 India PER ORG
 's O O
 ( O O
-Sebi PER O
+Sebi PER ORG
 ) O O
 move O O
 to O O
@@ -31847,7 +31847,7 @@ was O O
 total O O
 . O O
 " O O
-Sebi PER O
+Sebi PER ORG
 should O O
 re-introduce O O
 badla O O
@@ -31891,7 +31891,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/business/india-business/Stock-brokers-embark-on-nationwide-strike/articleshow/1672071826.cms O O
 
-SWC O O
+SWC O ORG
 management O O
 , O O
 employees O O
@@ -32088,7 +32088,7 @@ the O O
 head O O
 office O O
 to O O
-mumbai O LOC
+mumbai O O
 . O O
 
 the O O
@@ -32388,7 +32388,7 @@ Sep O O
 , O O
 12.53 O O
 AM O O
-IST O LOC
+IST O O
 Ahmedabad LOC LOC
 : O O
 looming O O
@@ -32603,8 +32603,8 @@ raised O O
 hell O O
 outside O O
 The ORG O
-Sarthak ORG LOC
-Bhavan ORG LOC
+Sarthak ORG ORG
+Bhavan ORG ORG
 , O O
 alleging O O
 that O O
@@ -32759,8 +32759,8 @@ lady O O
 teachers O O
 outside O O
 The ORG O
-Sarthak ORG LOC
-Bhavan ORG LOC
+Sarthak ORG ORG
+Bhavan ORG ORG
 . O O
 
 leaders O O
@@ -33006,8 +33006,8 @@ curiously O O
 , O O
 samiti O O
 president O O
-keshubhai O PER
-patel O PER
+keshubhai O O
+patel O O
 appealed O O
 to O O
 the O O
@@ -33088,15 +33088,15 @@ eleven O O
 activists O O
 of O O
 the O O
-Students ORG O
-' ORG O
-Islamic ORG ORG
-Movement ORG ORG
-Of ORG ORG
-India ORG ORG
-( O O
-Simi ORG O
-) O O
+Students ORG MISC
+' ORG MISC
+Islamic ORG MISC
+Movement ORG MISC
+Of ORG MISC
+India ORG MISC
+( O MISC
+Simi ORG MISC
+) O MISC
 , O O
 including O O
 Asif PER PER
@@ -33178,7 +33178,7 @@ and O O
 the O O
 ban O O
 on O O
-Simi ORG O
+Simi ORG LOC
 around O O
 noon O O
 at O O
@@ -33193,7 +33193,7 @@ also O O
 raising O O
 slogans O O
 celebrating O O
-Simi ORG O
+Simi ORG ORG
 , O O
 police O O
 sources O O
@@ -33334,7 +33334,7 @@ stations O O
 . O O
 
 besides O O
-Shaikh PER PER
+Shaikh PER O
 , O O
 the O O
 demonstrators O O
@@ -33342,7 +33342,7 @@ arrested O O
 include O O
 Javed PER PER
 Akhtar PER PER
-Shaikh PER PER
+Shaikh PER O
 ( O O
 surat O O
 ) O O
@@ -33370,8 +33370,8 @@ Ahmed PER PER
 Gulamnabi PER PER
 Shaikh PER PER
 , O O
-Imtiaz PER O
-Noormohammad PER O
+Imtiaz PER PER
+Noormohammad PER PER
 ( O O
 surat O O
 ) O O
@@ -33469,7 +33469,7 @@ lift O O
 the O O
 ban O O
 on O O
-Simi ORG O
+Simi ORG LOC
 . O O
 
 the O O
@@ -33696,7 +33696,7 @@ of O O
 WB O ORG
 scheme O O
 funds O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 2 O O
@@ -33713,8 +33713,8 @@ villagers O O
 of O O
 harnahalli O O
 in O O
-Shimoga LOC O
-Taluk LOC O
+Shimoga LOC LOC
+Taluk LOC LOC
 staged O O
 a O O
 dharna O O
@@ -33890,7 +33890,7 @@ Action O O
 against O O
 flooding O O
 urged O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 20 O O
@@ -34245,8 +34245,8 @@ international O O
 arena O O
 . O O
 
-k.b. O PER
-gopalakrishna O PER
+k.b. O O
+gopalakrishna O O
 , O O
 former O O
 senate O O
@@ -34368,7 +34368,7 @@ the O O
 attack O O
 . O O
 
-K.v. PER PER
+K.v. PER O
 Suresh PER PER
 Kumar PER PER
 , O O
@@ -34399,7 +34399,7 @@ to O O
 teachers O O
 ' O O
 unions O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 10 O O
@@ -34642,7 +34642,7 @@ Sep O O
 11.50 O O
 PM O O
 IST O O
-Vadodara LOC O
+Vadodara LOC LOC
 : O O
 supporters O O
 of O O
@@ -34683,8 +34683,8 @@ police O O
 station O O
 , O O
 one O O
-Chirag PER PER
-Parikh PER PER
+Chirag PER ORG
+Parikh PER ORG
 was O O
 bashed O O
 up O O
@@ -34711,8 +34711,8 @@ Patel PER PER
 Bhavesh PER PER
 Patel PER PER
 , O O
-Pinal PER ORG
-Patel PER ORG
+Pinal PER PER
+Patel PER PER
 , O O
 Vishal PER PER
 Alias PER PER
@@ -34875,9 +34875,9 @@ https://timesofindia.indiatimes.com/city/ahmedabad/Students-clash-on-campus/arti
 
 Furore O O
 in O O
-A ORG O
-' ORG O
-Bad ORG O
+A LOC O
+' LOC O
+Bad LOC O
 Co-op ORG O
 Bank ORG ORG
 over O O
@@ -34893,20 +34893,20 @@ Sep O O
 , O O
 12.27 O O
 AM O O
-IST O LOC
-Ahmedabad LOC LOC
+IST O O
+Ahmedabad LOC O
 : O O
 trouble O O
 is O O
 brewing O O
 at O O
 The PER O
-Ahmedabad PER ORG
+Ahmedabad LOC ORG
 District PER ORG
 Co-operative PER ORG
 Bank PER ORG
-( O O
-Adcb PER O
+( O ORG
+Adcb PER ORG
 ) O O
 over O O
 the O O
@@ -34950,9 +34950,9 @@ Bank LOC ORG
 Premises LOC ORG
 near O O
 The ORG O
-Income ORG O
-Tax ORG O
-Circle ORG O
+Income ORG ORG
+Tax ORG ORG
+Circle ORG ORG
 here O O
 . O O
 
@@ -35443,11 +35443,11 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Furore-in-Abad-co-op-bank-over-deposits-in-MMCB/articleshow/567368177.cms O O
 
-CPM O O
+Cpm ORG ORG
 activists O O
 held O O
 for O O
-FCI O O
+FCI O ORG
 raid O O
 TNN O O
 | O O
@@ -35477,15 +35477,15 @@ attempting O O
 to O O
 raid O O
 the O O
-Godowns LOC O
-of O O
-the O O
+Godowns LOC ORG
+of O ORG
+the O ORG
 Food PER ORG
 Corporation PER ORG
 Of PER ORG
 India PER ORG
-( O O
-Fci PER O
+( O ORG
+Fci PER ORG
 ) O O
 near O O
 the O O
@@ -35503,8 +35503,8 @@ women O O
 rallied O O
 to O O
 the O O
-Fci PER O
-Godowns LOC O
+Fci PER ORG
+Godowns LOC ORG
 to O O
 raid O O
 them O O
@@ -35526,7 +35526,7 @@ joins O O
 chorus O O
 for O O
 arrest O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 8 O O
@@ -35620,7 +35620,7 @@ protesters O O
 led O O
 by O O
 writer O O
-Ramdas ORG PER
+Ramdas ORG O
 and O O
 former O O
 mayor O O
@@ -35765,9 +35765,9 @@ various O O
 organisations O O
 led O O
 by O O
-Narayan ORG ORG
-and O ORG
-Ramdas ORG ORG
+Narayan ORG MISC
+and O O
+Ramdas ORG O
 took O O
 out O O
 a O O
@@ -35797,8 +35797,8 @@ members O O
 who O O
 started O O
 from O O
-Town LOC ORG
-Hall LOC ORG
+Town LOC LOC
+Hall LOC LOC
 raised O O
 slogans O O
 against O O
@@ -35845,7 +35845,7 @@ incident O O
 
 https://timesofindia.indiatimes.com/city/bengaluru/Girls-death-Siddaramaiah-joins-chorus-for-arrest/articleshow/1875414564.cms O O
 
-Bellary O ORG
+Bellary O LOC
 sees O O
 a O O
 spate O O
@@ -36057,10 +36057,10 @@ in O O
 front O O
 of O O
 the O O
-Deputy LOC ORG
-Commissioner LOC ORG
-'s LOC ORG
-Office LOC ORG
+Deputy LOC O
+Commissioner LOC O
+'s LOC O
+Office LOC O
 protesting O O
 government O O
 's O O
@@ -36292,10 +36292,10 @@ v O O
 S PER O
 . PER O
 
-Shivashankar PER O
-of O O
-Raitha ORG PER
-Sangha ORG PER
+Shivashankar PER ORG
+of O ORG
+Raitha ORG ORG
+Sangha ORG ORG
 and O O
 H.m. PER PER
 Viswanath PER PER
@@ -36403,7 +36403,7 @@ against O O
 bureaucrats O O
 ’ O O
 interference O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 15 O O
@@ -36415,8 +36415,8 @@ AM O O
 IST O O
 Hyderabad LOC LOC
 : O O
-Andhra ORG ORG
-Pradesh ORG ORG
+Andhra LOC ORG
+Pradesh LOC ORG
 Engineers ORG ORG
 Joint ORG ORG
 Action ORG ORG
@@ -36446,9 +36446,9 @@ a O O
 press O O
 conference O O
 , O O
-Apejac ORG PER
+Apejac ORG ORG
 chairman O O
-K ORG PER
+K ORG O
 Umakanth ORG PER
 said O O
 a O O
@@ -36529,7 +36529,7 @@ earlier O O
 . O O
 
 the O O
-Apejac ORG O
+Apejac ORG ORG
 , O O
 formed O O
 by O O
@@ -36614,11 +36614,11 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/hyderabad/Engineers-protest-against-bureaucrats-interference/articleshow/1121022842.cms O O
 
-Naxalite O O
+Naxalite O MISC
 explode O O
 landmine O O
 at O O
-Rudaram LOC O
+Rudaram LOC LOC
 Aug O O
 16 O O
 , O O
@@ -36637,12 +36637,12 @@ a O O
 landmine O O
 at O O
 village O O
-Rudaram LOC O
+Rudaram LOC PER
 under O O
 the O O
-Bijapur LOC LOC
-Police LOC LOC
-District LOC LOC
+Bijapur LOC ORG
+Police LOC ORG
+District LOC ORG
 where O O
 a O O
 police O O
@@ -36683,7 +36683,7 @@ six-member O O
 police O O
 party O O
 reached O O
-Rudaram LOC LOC
+Rudaram LOC PER
 on O O
 thursday O O
 , O O
@@ -36721,7 +36721,7 @@ Junior O O
 doctors O O
 strike O O
 continues O O
-TNN O ORG
+TNN O O
 | O O
 Aug O O
 4 O O
@@ -36760,8 +36760,8 @@ the O O
 functioning O O
 of O O
 the O O
-Government LOC O
-Hospitals LOC O
+Government LOC ORG
+Hospitals LOC ORG
 . O O
 
 a O O
@@ -36846,7 +36846,7 @@ action O O
 
 meanwhile O O
 , O O
-The ORG O
+The ORG ORG
 Junior ORG ORG
 Doctors ORG ORG
 Association ORG ORG
@@ -37289,7 +37289,7 @@ Sep O O
 11.35 O O
 PM O O
 IST O O
-Hubli LOC O
+Hubli LOC LOC
 : O O
 students O O
 of O O
@@ -37310,8 +37310,8 @@ front O O
 of O O
 the O O
 Tahsildar LOC ORG
-'s LOC ORG
-Office LOC ORG
+'s LOC O
+Office LOC O
 demanding O O
 better O O
 facilities O O
@@ -37423,10 +37423,10 @@ what O O
 
 | O O
 THE O O
-TIMES O O
-OF O O
-INDIA O O
-NEWS O O
+TIMES O MISC
+OF O MISC
+INDIA O MISC
+NEWS O MISC
 SERVICE O O
 | O O
 Jul O O
@@ -37436,8 +37436,8 @@ Jul O O
 , O O
 01.50 O O
 AM O O
-IST O LOC
-Ahmedabad LOC LOC
+IST O O
+Ahmedabad LOC O
 : O O
 has O O
 the O O
@@ -37782,7 +37782,7 @@ the O O
 record O O
 , O O
 the O O
-Nsui ORG O
+Nsui ORG MISC
 is O O
 student O O
 wing O O
@@ -38109,8 +38109,8 @@ Sep O O
 , O O
 01.27 O O
 AM O O
-IST O LOC
-Ahmedabad LOC LOC
+IST O MISC
+Ahmedabad LOC MISC
 : O O
 there O O
 was O O
@@ -38708,7 +38708,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Lesson-learnt-teachers-back-in-schools/articleshow/1596744434.cms O O
 
-Rana O O
+Rana O PER
 's O O
 brother O O
 remanded O O
@@ -38731,9 +38731,9 @@ IST O O
 New LOC LOC
 Delhi LOC LOC
 : O O
-Vijay PER O
-Alias PER O
-Raju PER O
+Vijay PER ORG
+Alias PER ORG
+Raju PER ORG
 , O O
 brother O O
 of O O
@@ -38751,8 +38751,8 @@ conspirator O O
 ' O O
 ' O O
 in O O
-Phoolan PER PER
-Devi PER PER
+Phoolan PER LOC
+Devi PER LOC
 murder O O
 case O O
 was O O
@@ -39171,7 +39171,7 @@ students O O
 protest O O
 against O O
 terrorism O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 19 O O
@@ -40133,7 +40133,7 @@ Baba ORG PER
 's O O
 men O O
 arrested O O
-TNN O ORG
+TNN O O
 | O O
 Oct O O
 3 O O
@@ -40142,11 +40142,11 @@ Oct O O
 , O O
 02.22 O O
 AM O O
-IST O O
-Sirhind LOC O
-( O O
-Fatehgarh LOC O
-Sahib LOC O
+IST O MISC
+Sirhind LOC MISC
+( O MISC
+Fatehgarh LOC MISC
+Sahib LOC MISC
 ): O O
 the O O
 police O O
@@ -40174,7 +40174,7 @@ sahib O O
 afire O O
 in O O
 a O O
-Gurdwara LOC O
+Gurdwara LOC LOC
 at O O
 Tarkhan LOC LOC
 Majra LOC LOC
@@ -40205,15 +40205,15 @@ Various LOC O
 Places LOC O
 In LOC O
 The LOC O
-District LOC LOC
+District LOC O
 and O O
 burnt O O
 effigies O O
 of O O
-Baba ORG PER
-Piara ORG PER
-Singh ORG PER
-Bhaniarewala ORG PER
+Baba ORG LOC
+Piara ORG LOC
+Singh ORG LOC
+Bhaniarewala ORG LOC
 . O O
 
 giving O O
@@ -40236,10 +40236,10 @@ had O O
 been O O
 identified O O
 as O O
-Balvir PER O
-Singh PER O
-Alias PER O
-Biru PER O
+Balvir PER ORG
+Singh PER ORG
+Alias PER ORG
+Biru PER ORG
 and O O
 Rampal PER PER
 Singh PER PER
@@ -40270,8 +40270,8 @@ of O O
 Bhaniarewala ORG LOC
 . O O
 
-Balvir PER PER
-Singh PER PER
+Balvir PER ORG
+Singh PER ORG
 is O O
 a O O
 vegetable O O
@@ -40518,8 +40518,8 @@ the O O
 industrial O O
 town O O
 of O O
-Mandi LOC PER
-Gobindgarh LOC PER
+Mandi LOC LOC
+Gobindgarh LOC LOC
 observed O O
 a O O
 complete O O
@@ -40589,8 +40589,8 @@ protest O O
 rally O O
 in O O
 the O O
-Main LOC O
-Bazaar LOC O
+Main LOC LOC
+Bazaar LOC LOC
 . O O
 
 people O O
@@ -40713,8 +40713,8 @@ Sep O O
 , O O
 12.08 O O
 AM O O
-IST O LOC
-Ahmedabad LOC LOC
+IST O O
+Ahmedabad LOC O
 : O O
 more O O
 than O O
@@ -40731,18 +40731,18 @@ The ORG ORG
 Ahmedabad ORG ORG
 Municipal ORG ORG
 Corporation ORG ORG
-( O O
-Amc ORG O
+( O ORG
+Amc ORG ORG
 ) O O
 stormed O O
 into O O
 The LOC O
-Civic LOC O
-Body LOC O
-'s LOC O
-Headquarters LOC O
-at O O
-Astodia LOC LOC
+Civic LOC MISC
+Body LOC MISC
+'s LOC MISC
+Headquarters LOC MISC
+at O MISC
+Astodia LOC MISC
 on O O
 monday O O
 . O O
@@ -40767,8 +40767,8 @@ Municipal ORG ORG
 Servants ORG ORG
 ' ORG ORG
 Association ORG ORG
-( O O
-Amsa ORG O
+( O ORG
+Amsa ORG ORG
 ) O O
 demanded O O
 that O O
@@ -40942,7 +40942,7 @@ to O O
 stop O O
 work O O
 at O O
-Corporation LOC ORG
+Corporation LOC O
 's O O
 north O O
 zonal O O
@@ -41065,9 +41065,9 @@ throwing O O
 them O O
 out O O
 of O O
-The LOC O
-Housing LOC O
-Complex LOC O
+The LOC ORG
+Housing LOC ORG
+Complex LOC ORG
 . O O
 
 a O O
@@ -41110,7 +41110,7 @@ here O O
 the O O
 victim-fitter O O
 , O O
-Chawda PER LOC
+Chawda PER PER
 , O O
 alleges O O
 that O O
@@ -41271,11 +41271,11 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/AMC-staff-seek-police-cover-for-risky-jobs/articleshow/1109275210.cms O O
 
-APBEF O O
+Apbef ORG LOC
 employees O O
 stage O O
 dharna O O
-TNN O ORG
+TNN O O
 | O O
 Sep O O
 28 O O
@@ -41341,7 +41341,7 @@ their O O
 stir O O
 . O O
 
-Aibea ORG PER
+Aibea ORG LOC
 central O O
 committee O O
 member O O
@@ -41354,18 +41354,18 @@ Reddy PER PER
 , O O
 secretary O O
 of O O
-Aituc ORG PER
-Potluri PER PER
-Nageswara PER PER
-Rao PER PER
+Aituc ORG MISC
+Potluri PER MISC
+Nageswara PER MISC
+Rao PER MISC
 and O O
-Apbef ORG O
+Apbef ORG PER
 general O O
 secretary O O
-B PER PER
-S PER PER
-Ram PER PER
-Baby PER PER
+B PER O
+S PER O
+Ram PER ORG
+Baby PER ORG
 addressed O O
 the O O
 gathering O O
@@ -41639,8 +41639,8 @@ issue O O
 
 bba O O
 president O O
-narendra O PER
-tiwari O PER
+narendra O O
+tiwari O O
 said O O
 that O O
 the O O
@@ -41680,7 +41680,7 @@ the O O
 city O O
 . O O
 
-tiwari O PER
+tiwari O O
 said O O
 that O O
 several O O
@@ -41741,7 +41741,7 @@ their O O
 demands O O
 . O O
 
-tiwari O PER
+tiwari O O
 said O O
 that O O
 they O O
@@ -41765,7 +41765,7 @@ Nadiad O O
 civic O O
 body O O
 owes O O
-GEB O O
+GEB O ORG
 Rs O O
 9 O O
 cr O O
@@ -42095,7 +42095,7 @@ cheap O O
 publicity O O
 . O O
 " O O
-chohan O PER
+chohan O O
 's O O
 counsel O O
 argued O O
@@ -42338,7 +42338,7 @@ committee O O
 chairman O O
 professor O O
 ks O O
-shastri O PER
+shastri O O
 told O O
 tnn O O
 . O O
@@ -42558,4 +42558,244 @@ the O O
 promises O O
 that O O
 this O O
+government O O
+has O O
+not O O
+kept O O
+, O O
+" O O
+one O O
+of O O
+their O O
+leaders O O
+and O O
+gujarat O O
+university O O
+official O O
+arvind O O
+shah O O
+said O O
+. O O
+
+gnu O O
+president O O
+narendra O O
+modi O O
+, O O
+on O O
+the O O
+other O O
+hand O O
+, O O
+said O O
+they O O
+had O O
+given O O
+the O O
+state O O
+government O O
+time O O
+till O O
+september O O
+16 O O
+to O O
+work O O
+out O O
+better O O
+wages O O
+and O O
+allowances O O
+for O O
+the O O
+nursing O O
+community O O
+. O O
+
+about O O
+10,000 O O
+nurses O O
+in O O
+government-run O O
+hospitals O O
+throughout O O
+the O O
+state O O
+have O O
+been O O
+demanding O O
+salaries O O
+equivalent O O
+to O O
+their O O
+central O O
+government O O
+counterparts O O
+and O O
+hike O O
+in O O
+other O O
+allowances O O
+as O O
+well O O
+. O O
+
+modi O O
+says O O
+the O O
+government O O
+already O O
+knows O O
+they O O
+are O O
+planning O O
+an O O
+agitation O O
+as O O
+they O O
+had O O
+informed O O
+the O O
+officials O O
+on O O
+august O O
+21 O O
+. O O
+
+from O O
+september O O
+1 O O
+, O O
+the O O
+nurses O O
+will O O
+start O O
+wearing O O
+black O O
+badges O O
+as O O
+a O O
+mark O O
+of O O
+protest O O
+and O O
+build O O
+up O O
+to O O
+further O O
+action O O
+if O O
+their O O
+demands O O
+are O O
+not O O
+met. O O
+" O O
+so O O
+far O O
+the O O
+state O O
+government O O
+has O O
+not O O
+shown O O
+any O O
+inclination O O
+to O O
+negotiate O O
+with O O
+us O O
+, O O
+" O O
+modi O O
+added O O
+. O O
+" O O
+if O O
+nothing O O
+concrete O O
+shows O O
+up O O
+, O O
+then O O
+we O O
+plan O O
+to O O
+work O O
+without O O
+white O O
+uniform O O
+from O O
+september O O
+10 O O
+to O O
+16 O O
+, O O
+when O O
+the O O
+decision O O
+to O O
+intensify O O
+the O O
+stir O O
+would O O
+be O O
+taken O O
+by O O
+the O O
+gnu O O
+'s O O
+executive O O
+council O O
+. O O
+" O O
+the O O
+state O O
+government O O
+may O O
+in O O
+fact O O
+have O O
+bit O O
+more O O
+than O O
+it O O
+can O O
+chew O O
+as O O
+esma O O
+has O O
+not O O
+scared O O
+the O O
+school O O
+teachers O O
+away O O
+. O O
+
+if O O
+other O O
+unions O O
+also O O
+come O O
+out O O
+on O O
+the O O
+street O O
+, O O
+it O O
+may O O
+create O O
+a O O
+major O O
+embarrassment O O
+for O O
+the O O
+keshubhai O O
+government O O
+. O O
+
+url O O
+: O O
+https://timesofindia.indiatimes.com/city/ahmedabad/Nurses-on-warpath-college-teachers-may-join-soon/articleshow/1428508939.cms O O
+
 

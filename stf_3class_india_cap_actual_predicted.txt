@@ -1638,7 +1638,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Curfew-to-be-lifted-in-Hubli-today/articleshow/1553037015.cms O O
 
-Phoolan O PER
+Phoolan PER PER
 murder O O
 condemned O O
 TNN O ORG
@@ -3393,7 +3393,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/STATESCAN/articleshow/708599418.cms O O
 
-Dikshit O PER
+Dikshit PER PER
 turns O O
 to O O
 God O O
@@ -7611,7 +7611,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/Safdarjung-takes-on-excess-load/articleshow/1530434774.cms O O
 
-Shimoga O O
+Shimoga LOC O
 limps O O
 back O O
 to O O
@@ -8248,7 +8248,7 @@ The ORG O
 Institute ORG ORG
 Rotary ORG ORG
 Cancer ORG ORG
-Hospital ORG ORG
+Hospital LOC ORG
 with O O
 a O O
 capacity O O
@@ -8993,7 +8993,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/chandigarh/Centres-decision-on-shehjdharis-upset-SGPC/articleshow/30365224.cms O O
 
-Valjibhai O PER
+Valjibhai PER PER
 Bagda PER PER
 does O O
 it O O
@@ -9225,7 +9225,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Valjibhai-Bagda-does-it-again/articleshow/1282209380.cms O O
 
-MSU O ORG
+Msu ORG ORG
 students O O
 leaders O O
 protest O O
@@ -9545,8 +9545,8 @@ Barot PER LOC
 Near ORG LOC
 Dn ORG LOC
 Hall ORG LOC
-Cricket ORG LOC
-Ground ORG LOC
+Cricket LOC LOC
+Ground LOC LOC
 On ORG LOC
 Ms ORG LOC
 University ORG LOC
@@ -12602,7 +12602,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Communal-tension-grips-Dabhoi-town/articleshow/641970013.cms O O
 
-CPI(M) O O
+Cpi(m) ORG O
 stages O O
 protest O O
 rally O O
@@ -16886,7 +16886,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Judicial-probe-into-clashes-likely-Kharge/articleshow/1368120601.cms O O
 
-Old O O
+Old LOC O
 Hubli LOC O
 tense O O
 after O O
@@ -23337,7 +23337,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Banners-sprout-again/articleshow/333299733.cms O O
 
-Raichur O O
+Raichur LOC O
 Village LOC O
 observes O O
 bandh O O
@@ -23593,7 +23593,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/Raichur-village-observes-bandh-over-hostel-inmates-death/articleshow/963522210.cms O O
 
-Gujarat O O
+Gujarat LOC O
 Govt O O
 fears O O
 violence O O
@@ -24371,7 +24371,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/hyderabad/Cong-men-attacked-by-TDP-in-Cuddapah/articleshow/844346651.cms O O
 
-Cong O O
+Cong ORG O
 workers O O
 attack O O
 sarpanch O O
@@ -25028,8 +25028,8 @@ blast O O
 in O O
 the O O
 Posh ORG LOC
-South ORG LOC
-Delhi ORG LOC
+South LOC LOC
+Delhi LOC LOC
 Market ORG LOC
 Area ORG LOC
 late O O
@@ -28857,7 +28857,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/delhi/Govt-asked-to-resolve-AIIMS-crisis-within-36-hrs/articleshow/1033994487.cms O O
 
-CITU O ORG
+Citu ORG ORG
 plans O O
 strike O O
 against O O
@@ -29024,7 +29024,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/CITU-plans-strike-against-NDA-policies/articleshow/1770840852.cms O O
 
-Gujarat O O
+Gujarat LOC O
 teachers O O
 ' O O
 strike O O
@@ -29197,7 +29197,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Gujarat-teachers-strike-continues/articleshow/752718987.cms O O
 
-Schools O O
+Schools LOC O
 strike O O
 a O O
 success O O
@@ -30413,7 +30413,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/bengaluru/BC-hostelites-demand-better-food/articleshow/2052095661.cms O O
 
-PAUTA O O
+Pauta ORG O
 writ O O
 admitted O O
 TNN O O
@@ -31096,7 +31096,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/hyderabad/DMK-stage-walkout-in-TN-Assembly/articleshow/401625889.cms O O
 
-HDMC O O
+Hdmc PER O
 reverses O O
 order O O
 , O O
@@ -34875,9 +34875,9 @@ https://timesofindia.indiatimes.com/city/ahmedabad/Students-clash-on-campus/arti
 
 Furore O O
 in O O
-A ORG O
-' ORG O
-Bad ORG O
+A LOC O
+' LOC O
+Bad LOC O
 Co-op ORG O
 Bank ORG ORG
 over O O
@@ -34901,7 +34901,7 @@ is O O
 brewing O O
 at O O
 The PER O
-Ahmedabad PER ORG
+Ahmedabad LOC ORG
 District PER ORG
 Co-operative PER ORG
 Bank PER ORG
@@ -35443,7 +35443,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/Furore-in-Abad-co-op-bank-over-deposits-in-MMCB/articleshow/567368177.cms O O
 
-CPM O O
+Cpm ORG O
 activists O O
 held O O
 for O O
@@ -36415,8 +36415,8 @@ AM O O
 IST O O
 Hyderabad LOC LOC
 : O O
-Andhra ORG ORG
-Pradesh ORG ORG
+Andhra LOC ORG
+Pradesh LOC ORG
 Engineers ORG ORG
 Joint ORG ORG
 Action ORG ORG
@@ -41271,7 +41271,7 @@ url O O
 : O O
 https://timesofindia.indiatimes.com/city/ahmedabad/AMC-staff-seek-police-cover-for-risky-jobs/articleshow/1109275210.cms O O
 
-APBEF O O
+Apbef ORG O
 employees O O
 stage O O
 dharna O O
@@ -42558,4 +42558,244 @@ the O O
 promises O O
 that O O
 this O O
+government O O
+has O O
+not O O
+kept O O
+, O O
+" O O
+one O O
+of O O
+their O O
+leaders O O
+and O O
+gujarat O O
+university O O
+official O O
+arvind O O
+shah O O
+said O O
+. O O
+
+gnu O O
+president O O
+narendra O PER
+modi O PER
+, O O
+on O O
+the O O
+other O O
+hand O O
+, O O
+said O O
+they O O
+had O O
+given O O
+the O O
+state O O
+government O O
+time O O
+till O O
+september O O
+16 O O
+to O O
+work O O
+out O O
+better O O
+wages O O
+and O O
+allowances O O
+for O O
+the O O
+nursing O O
+community O O
+. O O
+
+about O O
+10,000 O O
+nurses O O
+in O O
+government-run O O
+hospitals O O
+throughout O O
+the O O
+state O O
+have O O
+been O O
+demanding O O
+salaries O O
+equivalent O O
+to O O
+their O O
+central O O
+government O O
+counterparts O O
+and O O
+hike O O
+in O O
+other O O
+allowances O O
+as O O
+well O O
+. O O
+
+modi O O
+says O O
+the O O
+government O O
+already O O
+knows O O
+they O O
+are O O
+planning O O
+an O O
+agitation O O
+as O O
+they O O
+had O O
+informed O O
+the O O
+officials O O
+on O O
+august O O
+21 O O
+. O O
+
+from O O
+september O O
+1 O O
+, O O
+the O O
+nurses O O
+will O O
+start O O
+wearing O O
+black O O
+badges O O
+as O O
+a O O
+mark O O
+of O O
+protest O O
+and O O
+build O O
+up O O
+to O O
+further O O
+action O O
+if O O
+their O O
+demands O O
+are O O
+not O O
+met. O O
+" O O
+so O O
+far O O
+the O O
+state O O
+government O O
+has O O
+not O O
+shown O O
+any O O
+inclination O O
+to O O
+negotiate O O
+with O O
+us O O
+, O O
+" O O
+modi O O
+added O O
+. O O
+" O O
+if O O
+nothing O O
+concrete O O
+shows O O
+up O O
+, O O
+then O O
+we O O
+plan O O
+to O O
+work O O
+without O O
+white O O
+uniform O O
+from O O
+september O O
+10 O O
+to O O
+16 O O
+, O O
+when O O
+the O O
+decision O O
+to O O
+intensify O O
+the O O
+stir O O
+would O O
+be O O
+taken O O
+by O O
+the O O
+gnu O O
+'s O O
+executive O O
+council O O
+. O O
+" O O
+the O O
+state O O
+government O O
+may O O
+in O O
+fact O O
+have O O
+bit O O
+more O O
+than O O
+it O O
+can O O
+chew O O
+as O O
+esma O O
+has O O
+not O O
+scared O O
+the O O
+school O O
+teachers O O
+away O O
+. O O
+
+if O O
+other O O
+unions O O
+also O O
+come O O
+out O O
+on O O
+the O O
+street O O
+, O O
+it O O
+may O O
+create O O
+a O O
+major O O
+embarrassment O O
+for O O
+the O O
+keshubhai O O
+government O O
+. O O
+
+url O O
+: O O
+https://timesofindia.indiatimes.com/city/ahmedabad/Nurses-on-warpath-college-teachers-may-join-soon/articleshow/1428508939.cms O O
+
 

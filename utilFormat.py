@@ -51,9 +51,18 @@ def conll2sentences(testfile):
     actual_tags = [line[-1] for line in lines]
     return [sentences, all_tokens, actual_tags]
 
-# returns created file's name
-def createconllevalinputfile(sentences, actual_tags, pred_tags):
-    conlleval_inputfile_name = 'conlleval_input'
+# create error analysis file (token - folia tag - conll tag - predicted tag)
+def createerroranalysisfile(sentences, actual_tags, intermediate_tags,  pred_tags, erroranalysis_file_name='error_analysis_tokenperline.txt'):
+    result_file = open(erroranalysis_file_name, 'w')
+    idx = -1
+    for sentence in sentences:
+        for word in sentence:
+            idx = idx + 1
+            result_file.write(word + '\t\t' + actual_tags[idx] + '\t' + intermediate_tags[idx] + '\t'  + pred_tags[idx] + '\n')
+        result_file.write('\n')
+    result_file.close()
+
+def createconllevalinputfile(sentences, actual_tags, pred_tags, conlleval_inputfile_name='conlleval_input'):
     result_file = open(conlleval_inputfile_name, 'w')
     idx = -1
     for sentence in sentences:
@@ -62,7 +71,6 @@ def createconllevalinputfile(sentences, actual_tags, pred_tags):
             result_file.write(word + ' ' + actual_tags[idx] + ' ' + pred_tags[idx] + '\n')
         result_file.write('\n')
     result_file.close()
-    return conlleval_inputfile_name
 
 #################################################################################################
 # intermediate func
@@ -174,46 +182,69 @@ def tag(type, w_nu, prev_type):
                 else:
                     return 'B-' + type
 
+def getfoliatag(e):
+    cls = e.cls
+    if re.match('^.*Target.*$', e.set):
+        if cls == 'name':
+            return 'target_name'
+    elif re.match('^.*Organizer.*$', e.set):
+        if cls == 'name':
+            return 'organizer_name'
+    return cls
+
 # intermediate func
-def foliaclass2conlltag(e, w_nu, prev_type=None):
+def foliaclass2conlltag(e):
     per = 'PER'
     loc = 'LOC'
     org = 'ORG'
     cls = e.cls
     if re.match('^.*Target.*$', e.set):
         if cls == 'name':
-            return tag(per, w_nu, prev_type)
+            return per
     elif re.match('^.*Organizer.*$', e.set):
         if cls == 'name':
-            return tag(org, w_nu, prev_type)
+            return org
     if cls == 'loc' or cls == 'place' or cls == 'place_pub':
-        return tag(loc, w_nu, prev_type)
+        return loc
     if cls == 'pname':
-        return tag(per, w_nu, prev_type)
+        return per
     if cls == 'fname':
-        return tag(org, w_nu, prev_type)
+        return org
     return 'O'
 
+def hasEvent(sentence):
+    for layer in sentence.select(folia.EntitiesLayer):
+        for i, entity in enumerate(layer.select(folia.Entity)):
+            if entity.cls == 'etype':
+                return True
+
+    return False
+
 # intermediate func
-def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfile):
+def doc2conll(fp, sentences, ids, id2token, id2tag, id2ftag, idx, idx2id, id2idx, conllfile, folia_tokenperline_file, capitalize=True, onlysentenceswithevents=False):
 
     doc = folia.Document(file=fp)
     for h, sentence in enumerate(doc.sentences()):
+        if onlysentenceswithevents and not hasEvent(sentence):
+            continue
         sentence_tokenized = sentence.select(folia.Word)
         words_folia = list(sentence_tokenized)
         sentence_tokens = []  # sentence as token ids
+
+        # cumledeki butun kelimeleri oncelikle 'O' ile tagle.
+        # kelime zaten taglenmisse atla.
         for word in words_folia:
             w_id = word.id
             w_text = word.text()
             if w_id in ids:
                 continue
-            idx = idx + 1
             if w_text == '<P>':
-                idx = idx - 1
                 continue
+            idx = idx + 1
             sentence_tokens.append(w_id)
             id2token[w_id] = w_text
             id2tag[w_id] = 'O'
+            id2ftag[w_id] = 'O'
             ids.append(w_id)
             idx2id[idx] = w_id
             id2idx[w_id] = idx
@@ -223,42 +254,92 @@ def doc2conll(fp, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conllfi
             for entity in layer.select(folia.Entity):
                 for w_nu, word in enumerate(entity.wrefs()):
                     word_id = word.id
-                    if len(id2tag.keys()) == 0:
-                        conll_tag = foliaclass2conlltag(entity, w_nu)
-                    else:
-                        prev_w_idx = id2idx[word_id] - 1
-                        prev_w_id = idx2id[prev_w_idx]
-                        prev_type = id2tag[prev_w_id]
-                        conll_tag = foliaclass2conlltag(entity, w_nu, prev_type)
-                    id2tag[word_id] = conll_tag
+                    if word.id == 'https__timesofindia.indiatimes.com_city_chandigarh_STATESCAN_articleshow_708599418.p.1.s.19.w.29':
+                        print('here')
+                    pasttag = id2tag[word_id]
+                    if pasttag is not None:
+                        if pasttag not in ['LOC', 'PER', 'ORG']:
+                            conll_tag = foliaclass2conlltag(entity)
+                            id2tag[word_id] = conll_tag
+                            id2ftag[word_id] = getfoliatag(entity)
 
         for _id in sentence_tokens:
-            line = id2token[_id] + " " + id2tag[_id] + "\n"
+            if capitalize and id2tag[_id] != 'O':  # capitalize first letter of annotated token.
+                token = id2token[_id].capitalize()
+            else:
+                token = id2token[_id]
+            line = token + " " + id2tag[_id] + "\n"
             conllfile.write(line)
+            fline = token + " " + id2ftag[_id] + "\n"
+            folia_tokenperline_file.write(fline)
 
         conllfile.write("\n")
+        folia_tokenperline_file.write("\n")
 
-
-# returns nothing
-def folia2conll(flpath, opath):
+# creates folia-tokenperline AND folia_as_conll_tags files.
+def folia2conll(flpath, opath, fopath, capitalize=True, onlysentenceswithevents=False):
     sentences = []  # A sentence is a list of token ids.
     ids = []
     id2token = {}
-    id2tag = {}
+    id2tag = {} # Id to conll tag.
+    id2ftag = {} # Id to folia tag.
     idx2id = {}
     id2idx = {}
     conll_file = open(opath, 'w')
+    folia_tokenperline_file = open(fopath, 'w')
 
     idx = -1
     if os.path.isdir(flpath):
         for filename in os.listdir(flpath):
             fpath = flpath + '/' + filename
-            doc2conll(fpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
+            doc2conll(fpath, sentences, ids, id2token, id2tag, id2ftag, idx, idx2id, id2idx, conll_file, folia_tokenperline_file, capitalize, onlysentenceswithevents)
     else:
-        doc2conll(flpath, sentences, ids, id2token, id2tag, idx, idx2id, id2idx, conll_file)
+        doc2conll(flpath, sentences, ids, id2token, id2tag, id2ftag, idx, idx2id, id2idx, conll_file, folia_tokenperline_file, capitalize, onlysentenceswithevents)
 
     print('Folia docs are converted to conll format')
+    print('Folia docs are converted to token-per-line format')
     conll_file.close()
+    folia_tokenperline_file.close()
 
+# assumes files are of same number of lines.
+def merge2_tokenperline_files(f1,f2,of):
+    outfile = open(of, 'w')
+    in1 = open(f1, 'r')
+    in2 = open(f2, 'r')
+
+    lines2 = in2.readlines()
+    for idx,line1 in enumerate(in1):
+        line1stripped = line1.strip()
+        line2stripped = lines2[idx].strip()
+        if line1 != '\n':
+            ln1 = line1stripped.split(None, 1)
+            ln2 = line2stripped.split(None, 1)
+            token = ln1[0]
+            tag1 = ln1[1]
+            tag2 = ln2[1]
+            myline = token + ' ' + tag1 + ' ' + tag2
+            outfile.write(myline + '\n')
+        else:
+            outfile.write(myline + '\n')
+
+    outfile.close()
+    in1.close()
+    in2.close()
+
+'''m1 = 'india_tokenperline_cap.txt'
+m2 = 'india_conll_cap.txt'
+m1m2 = 'india_tokenperline_conll_cap.txt'
+merge2_tokenperline_files(m1, m2, m1m2)'''
+
+'''
+folia_folder = './foliadocs/alladjudicated'
+folia_file = './foliadocs/alladjudicated/' \
+             'https__timesofindia.indiatimes.com_business_india-business_BSNL-Employees-Union-protests-against-disinvestment_articleshow_972751.folia.xml'
+
+outfile = './india_conll_cap_evt.txt'
+foutfile = './india_tokenperline_cap_evt.txt'
+capitalize = True
+onlysentenceswithevents=True
+folia2conll(folia_folder, outfile, foutfile, capitalize, onlysentenceswithevents)'''
 
 
